@@ -2,4 +2,4 @@
 
 This is the repository for github pages intended to be used by the APLAC web pages hosted on github pages 
 
-<a href='index.html'? link</a>
+<a href='index.html'> link</a>
