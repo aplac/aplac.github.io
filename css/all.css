@@ -1,0 +1,42 @@
+:root { --main-color:#1467a9}
+
+h1,h2,h3 {
+  text-align:center;
+  color:white;
+  background-color:var(--main-color);
+  font-weight:bold;
+  margin:1em;
+  padding:3em}
+
+h1.inv {background-color:white;color:var(--main-color)}
+h2.inv {background-color:white;color:var(--main-color)}
+h3.inv {background-color:white;color:var(--main-color)}
+
+img { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+div.centered {
+  text-align: center;
+}
+
+
+p {padding:0.5%}
+a {text-decoration:none;color:var(--main-color);background-color:white}
+a:hover {background-color:var(--main-color);color:white}
+a.nohover:hover {background-color:white;color:black}
+div.inv {background-color:var(--main-color);color:white}
+div.a:hover {background-color:var(--main-color);color:white}
+div.ainv:hover {color:var(--main-color);background-color:white}
+a.inv:hover {color:var(--main-color);background-color:white}
+div.front {width:75%;min-width:700px;margin:top;text-aligh:top;margin:auto}
+a.inv {text-decoration:none;background-color:var(--main-color);color:white}
+a.inv:hover {color:var(--main-color);background-color:white}
+input {border-style:outset;color:var(--main-color);background-color:white}
+form {background-color:var(--main-color);color:white}
+input.text:hover {width:900px;font-size:300%;color:var(--main-color);background-color:white}
+h4,h5,h6 {color:white;background-color:var(--main-color);margin:0px}
+/inv
+

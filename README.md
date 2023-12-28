@@ -1,5 +1,2 @@
-# aplac.github.io
-
-This is the repository for github pages intended to be used by the APLAC web pages hosted on github pages 
-
-<a href='index.html'> link</a>
+# www.aplac.tw
+Static web pages of APLAC the Research Center for Asia Pacific Languages and Cultures
