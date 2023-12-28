@@ -1,0 +1,98 @@
+@InCollection{streiter2018springer,
+   author={Oliver Streiter},
+   title={Telling Stories Through {R}: {G}eo-Temporal Mappings of Epigraphic Practices on {P}enghu},
+   publisher={Springer},
+   booktitle={{Big Data in Computational Social Science and Humanities}},
+   editor={Shu-Heng Chen},
+   series={Computational Social Sciences},
+   pages={45--93},
+   year=2018}
+
+@InCollection{streiter2016penghu,
+   author={Oliver Streiter},
+   title={Bridging Eras, Waves and Memories: The Role of Armed Forces, Ferries and the Monsoon in Epigraphic Practices of the {P}enghu Islands},
+   publisher={--},
+   booktitle={--},
+   editor={--},
+   pages={--},
+   isbn={--},
+   year=2016}
+
+@InProceedings{streiter2016dadh,
+   author={Oliver Streiter},
+   title={Simultaneous Invention or Propagation of Cultural Practices? {U}sing Time-Distance Correlations for the Identification of Centers and Peripheries in the Transformation of Cultural Landscapes},
+   crossref={procdadh2016},
+   year=2016} @Proceedings{procdadh2016,
+   title={DADH 2016. Digital Scholars, An emerging profession{?}},
+   booktitle={DADH 2016. Digital Scholars, An emerging profession{?}},
+   month={Dec. 1--3},
+   address={Taibei, Taiwan},
+   year=2016}
+
+
+@InProceedings{streiter2016pingsep,
+author={Oliver Streiter},
+title={ThakBong: A Data Set on Burial Sites on {T}aiwan and {P}enghu},
+booktitle={數位人文產學論壇暨第一屆南區數位人文研討會},
+month={Sept. 23},
+address={Neipu, Taiwan},
+year=2016}
+
+@InProceedings{streiter2016pingnov,
+title={{Welcome to Paradise: T}aking the Linguist on a Tour through {Taiwan's} Graveyards},
+ author={Oliver Streiter},
+ booktitle={2016語言與語言教學研討會},
+ month={Nov. 4},
+ address={Neipu, Taiwan},
+ year=2016}
+
+
+@inProceedings{linda2009,
+   author={艾琳達},
+   title={隨之凋零的過去--談老人關懷與社會族群之歷史記憶},
+   booktitle={{老人醫學與老人照護新趨勢}},
+   month={October 25},
+   address={Taipei, Taiwan},
+   year=2009}
+
+
+@article{streiter2016ming,
+   author_ch={奧利華 and 林莉倫 and 陳乃瑜 and 莫詹姆 and 詹雅晴},
+   author_en={Oliver Streiter, Sandy Linlun Lin, Chen Naiyu, James X. Morris and Zhan Ya-Ching},
+   author_py={Ao4 Li4hua2, Lin2 Li4lun2, Chen2 Nai3yu2, Mo4 Zhan1mu3 and Zhan1 Ya4qing2},
+   journal_ch={台灣學誌},
+   journal_en={Monumenta Taiwanica},
+   journal_py={Tai2wan1 xue2 zhi4},
+   title_ch={論澎湖西嶼新發現之「皇明洪門楊氏」墓},
+   title_en={On the recently discovered "Huang Ming Hong Men Yang Shi" tomb in Xiyu, Penghu},
+   title_py={Lun4 Peng1hu2 Xi1yu3 xin1 fa1xian4 zhi1 `huang2ming2 hong2 men2 yang2 shi4' mu4},
+   pages={49-74},
+   volume={14期},
+   year=2016}
+
+@article{streiter2016mingch,
+   author={奧利華，林莉倫，陳乃瑜，莫詹姆，詹雅晴},
+   journal={台灣學誌},
+   title={論澎湖西嶼新發現之「皇明洪門楊氏」墓},
+   pages={49-74},
+   volume={14期},
+   year=2016}
+
+@article{streiter2016data,
+   author={Oliver Streiter},
+   title={Gravesites, Tombs and Epigraphic Inscriptions on {T}aiwan and {P}enghu},
+   journal={{--}},
+   publisher={--},
+   address={--, --},
+   pages={0--0},
+   volume=0,
+   number=0,
+   date={--},
+   year=2016}
+
+@InCollection{goudin2016book,
+   title={Pratiques funéraires en migration~:~la référence à l'origine au prisme de l'analyse quantitative},
+   author={Yoann Goudin and Oliver Streiter},
+   booktitle={{La Religion des Chinois en France}},
+   address={Paris, France},
+   year=2016}

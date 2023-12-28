@@ -17,7 +17,6 @@ div.inv {
   color:white;
   background-color:var(--main-color);
 }
-
 h1.inv {background-color:white;color:var(--main-color)}
 h2.inv {background-color:white;color:var(--main-color)}
 h3.inv {background-color:white;color:var(--main-color)}
@@ -31,7 +30,14 @@ img {
 div.centered {
   text-align: center;
 }
-
+code {
+  display: block;
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
 
 p {padding:0.5%}
 a {text-decoration:none;color:var(--main-color);background-color:white}
