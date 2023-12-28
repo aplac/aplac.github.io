@@ -6,7 +6,17 @@ h1,h2,h3 {
   background-color:var(--main-color);
   font-weight:bold;
   margin:1em;
-  padding:3em}
+  padding:1em}
+div {
+  color:var(--main-color);
+  background-color:white;
+  margin:1em;
+  padding:1em;
+}
+div.inv {
+  color:white;
+  background-color:var(--main-color);
+}
 
 h1.inv {background-color:white;color:var(--main-color)}
 h2.inv {background-color:white;color:var(--main-color)}
@@ -27,7 +37,6 @@ p {padding:0.5%}
 a {text-decoration:none;color:var(--main-color);background-color:white}
 a:hover {background-color:var(--main-color);color:white}
 a.nohover:hover {background-color:white;color:black}
-div.inv {background-color:var(--main-color);color:white}
 div.a:hover {background-color:var(--main-color);color:white}
 div.ainv:hover {color:var(--main-color);background-color:white}
 a.inv:hover {color:var(--main-color);background-color:white}
