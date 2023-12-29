@@ -26,4 +26,22 @@ document.addEventListener('touchend', e => {
   checkLeftRight();
 })
 
-
+document.onkeydown = function(event) {
+         switch (event.keyCode) {
+            case 37:
+              if (typeof lurl !== 'undefined') {
+                  window.location.href=lurl;
+              }
+            break;
+            case 38:
+              if (typeof uurl !== 'undefined') {
+                  window.location.href=uurl;
+              }
+            break;
+            case 39:
+              if (typeof rurl !== 'undefined') {
+                  window.location.href=rurl;
+              }
+            break;
+         }
+      };
