@@ -3,7 +3,7 @@ let touchendX = 0
 let touchstartY = 0
 let touchendY = 0
 
-function checkLeftRight(lurl,rurl) {
+function checkLeftRight() {
   if ((Math.abs(touchendX - touchstartX)) 
       > (Math.abs(touchendY - touchstartY))) {
       if (touchendX+65 
