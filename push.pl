@@ -1,6 +1,9 @@
 #!/usr/bin/perl -w
 use strict;
 
+`date > date.txt`;
+`cp index.html test.html`;
+
 system("git add .");
 
 print "Input comment on modifications made:\n";
