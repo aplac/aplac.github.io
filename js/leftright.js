@@ -7,9 +7,11 @@ function checkLeftRight(lurl,rurl) {
   if ((Math.abs(touchendX - touchstartX)) 
       > (Math.abs(touchendY - touchstartY))) {
       if (touchendX+65 
-          < touchstartX && '$lurl' !== '') {window.location.href=lurl }
+          < touchstartX && typeof lurl !== 'undefined') {
+              window.location.href=lurl }
       if (touchendX 
-          > touchstartX+65 && '$rurl' !== '') {window.location.href=rurl }
+          > touchstartX+65 && typeof rurl !== 'undefined') {
+              window.location.href=rurl }
   }
 }
 
