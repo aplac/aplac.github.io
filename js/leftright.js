@@ -4,10 +4,8 @@ let touchstartY = 0
 let touchendY = 0
 
 function checkLeftRight(lurl,rurl) {
-  document.write(touchendX);
   if ((Math.abs(touchendX - touchstartX)) 
       > (Math.abs(touchendY - touchstartY))) {
-      document.write(touchstartX);
       if (touchendX+65 
           < touchstartX && typeof lurl !== 'undefined') {
               window.location.href=lurl }

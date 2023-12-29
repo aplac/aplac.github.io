@@ -14,3 +14,6 @@ system("git commit -m \"$comment\"");
 
 system("git push origin main");
 
+my $date=`cat date.txt`;
+print "$date";
+
