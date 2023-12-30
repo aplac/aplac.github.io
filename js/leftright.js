@@ -37,10 +37,10 @@ function checkLeftRight() {
       > (Math.abs(touchendY - touchstartY))) {
       if (touchendX+65 
           < touchstartX && typeof lurl !== 'undefined') {
-              window.location.href=lurl }
+              window.location.href=rurl }
       if (touchendX 
           > touchstartX+65 && typeof rurl !== 'undefined') {
-              window.location.href=rurl }
+              window.location.href=lurl }
   }
 }
 
