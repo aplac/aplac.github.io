@@ -33,6 +33,21 @@ document.onkeydown = function(event) {
                   window.location.href=lurl;
               }
             break;
+            case 72:
+              if (typeof lurl !== 'undefined') {
+                  window.location.href=lurl;
+              }
+            break;
+            case 75:
+              if (typeof uurl !== 'undefined') {
+                  window.location.href=uurl;
+              }
+            break;
+            case 74:
+              if (typeof durl !== 'undefined') {
+                  window.location.href=durl;
+              }
+            break;
             case 38:
               if (typeof uurl !== 'undefined') {
                   window.location.href=uurl;
@@ -43,5 +58,20 @@ document.onkeydown = function(event) {
                   window.location.href=rurl;
               }
             break;
+            case 76:
+              if (typeof rurl !== 'undefined') {
+                  window.location.href=rurl;
+              }
+            break;
          }
       };
+
+if (typeof lurl !== 'undefined') {
+document.write("<div style='position:fixed;left:0;bottom:0;opacity:0.4;'>&lt;&lt; " + lurl.replace(/^.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/(^[a-z])/,(m,g)=>g.toUpperCase()) + "</div>");
+}
+if (typeof rurl !== 'undefined') {
+document.write("<div style='text-align:right;position:fixed;right:0;bottom:0;opacity:0.4;'>" + rurl.replace(/^.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/(^[a-z])/,(m,g)=>g.toUpperCase()) + "&gt;&gt;</div>");
+}
+
+
+
