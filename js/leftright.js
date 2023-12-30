@@ -3,7 +3,6 @@ let touchendX = 0
 let touchstartY = 0
 let touchendY = 0
 
-
 const pages = [];
 pages.push(
 "bibtex.html",
@@ -23,12 +22,20 @@ pages.push(
 "people/yoannGoudin.html");
 
 
+
 if (typeof pagenb === 'undefined') {
+
    pagenb=1;
    var myDiv = document.getElementById("menudiv");
-   url=pages[pagenb];
-   url=url.replace('index.html','Main Page');
-   myDiv.innerHTML = url + ' &crarr;' ;
+   var url=pages[pagenb];
+   var newurl = window.location.href;
+       newurl = newurl.replace(/github.io.*/,'github.io/'); 
+       newurl = newurl + url;
+   var label=url.replace('index.html','Main Page');
+       label=label.replace('bibtex.html','Bibliography');
+
+   myDiv.innerHTML ='<b><a href="' + newurl + '">' + label + ' &crarr;' + '</a></b>';
+
 }
 
 
@@ -68,16 +75,6 @@ document.onkeydown = function(event) {
                   window.location.href=lurl;
               }
             break;
-            case 75:
-              if (typeof uurl !== 'undefined') {
-                  window.location.href=uurl;
-              }
-            break;
-            case 74:
-              if (typeof durl !== 'undefined') {
-                  window.location.href=durl;
-              }
-            break;
             case 39:
               if (typeof rurl !== 'undefined') {
                   window.location.href=rurl;
@@ -85,15 +82,16 @@ document.onkeydown = function(event) {
             break;
             case 76:
               if (typeof rurl !== 'undefined') {
+                  var newurl = window.location.href;
+                  newurl = newurl.replace(/github.io.*/,'github.io/'); 
                   window.location.href=rurl;
               }
             break;
             case 13:
               if (typeof url !== 'undefined') {
                   var newurl = window.location.href;
-                      newurl = newurl.replace(/github.io.*/,'github.io/'); 
-                      newurl = newurl + url;
-                  window.location.href = newurl;
+                  newurl = newurl.replace(/github.io.*/,'github.io/'); 
+                  window.location.href = newurl + url;
               }
             break;
             case 38:
@@ -109,26 +107,51 @@ document.onkeydown = function(event) {
 
          }
          if (pagenb < 0) {
-             pagenb = pages.length;
+             pagenb = pages.length-1;
          }
-         if (pagenb > pages.length) {
+         if (pagenb === pages.length) {
              pagenb = 0;
          }
          url=pages[pagenb];
          if (typeof url !== 'undefined') {
               myDiv = document.getElementById("menudiv");
-              url=url.replace('index.html','Main Page');
-              url=url.replace('bibtex.html','Bibliography');
-              myDiv.innerHTML = url.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) + " &crarr;";
+              var url=pages[pagenb];
+              var prev=pagenb-1;
+              var next=pagenb+1;
+
+              if (prev < 0) { prev = pages.length -1; }
+              if (next === pages.length ) { next = 0; }
+
+              var labelprev=pages[prev];
+              var labelnext=pages[next];
+
+                  labelprev=labelprev.replace('index.html','Main Page');
+                  labelprev=labelprev.replace('bibtex.html','Bibliography');
+                  labelprev = labelprev.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
+                  labelnext=labelnext.replace('index.html','Main Page');
+                  labelnext=labelnext.replace('bibtex.html','Bibliography');
+                  labelnext = labelnext.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
+              var newurl = window.location.href;
+                  newurl = newurl.replace(/github.io.*/,'github.io/'); 
+                  newurl = newurl + url;
+              var label = url;
+                  label = label.replace('index.html','Main Page');
+                  label = label.replace('bibtex.html','Bibliography');
+                  label = label.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
+              myDiv.innerHTML = labelprev + '<br/><b><a href="' + newurl + '">' + label + ' &crarr;' + '</a></b><br/>' + labelnext;
+              //myDiv.innerHTML = '<br/><b><a href="' + newurl + '">' + pagenb + label + ' &crarr;' + '</a></b><br/>';
          }
 
       };
 
 if (typeof lurl !== 'undefined') {
-document.write("<div style='border: 2px dotted blue;position:fixed;left:0;bottom:0;opacity:0.4;'>&lt;&lt; " + lurl.replace(/^.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/(^[a-z])/,(m,g)=>g.toUpperCase()) + "</div>");
+    var label  = lurl;
+document.write("<div style='border: 2px dotted blue;position:fixed;left:0;bottom:0;opacity:0.4;'><b><a href='" + lurl + "'>&lt;&lt; " + label.replace(/^.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/(^[a-z])/,(m,g)=>g.toUpperCase()) + "</a></b></div>");
 }
+
 if (typeof rurl !== 'undefined') {
-document.write("<div style='border: 2px dotted blue;text-align:right;position:fixed;right:0;bottom:0;opacity:0.4;'>" + rurl.replace(/^.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/(^[a-z])/,(m,g)=>g.toUpperCase()) + " &gt;&gt;</div>");
+    var label  = rurl;
+document.write("<div style='border: 2px dotted blue;text-align:right;position:fixed;right:0;bottom:0;opacity:0.4;'><b><a href='" + rurl + "'>" + label.replace(/^.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/(^[a-z])/,(m,g)=>g.toUpperCase()) + " &gt;&gt;</a></b></div>");
 }
 
 
