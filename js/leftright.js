@@ -61,9 +61,11 @@ function checkTopDown() {
   if ((Math.abs(touchendX - touchstartX)) 
       < (Math.abs(touchendY - touchstartY))) {
       if (touchendY+10 < touchstartY && typeof pagenb !== 'undefined') {
-              menucenter(pageplus(pagenb)) }
+              pagenb=pageplus(pagenb);
+              menucenter(pagenb) }
       if (touchendY > touchstartY+10 && typeof pagenb !== 'undefined') {
-              menucenter(pageminus(pagenb)) }
+              pagenb=pageminus(pagenb);
+              menucenter(pagenb) }
   }
 }
 
