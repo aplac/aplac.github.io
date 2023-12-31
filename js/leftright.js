@@ -71,8 +71,9 @@ document.addEventListener('touchend', e => {
   checkLeftRight();
   pagenb=pagenb+1;
   if (pagenb === pages.length) { pagenb = 0 }
-  menucenter(pagenb);
 })
+
+  //menucenter(pagenb);
 
 document.onkeydown = function(event) {
          url=pages[pagenb];
@@ -110,11 +111,7 @@ document.onkeydown = function(event) {
          if (pagenb === pages.length) {
              pagenb = 0;
          }
-         url=pages[pagenb];
-         if (typeof url !== 'undefined') {
-              menucenter(pagenb);
-         }
-
+         menucenter(pagenb);
       };
 
 
