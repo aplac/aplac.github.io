@@ -32,9 +32,9 @@ document.write("<div id='menudiv' style='text-align:left; border: 2px dotted blu
 
 let thispage = window.location.href;
     thispage = thispage.replace(/.*github.io./,'');
-let thispagenb = pages.indexOf(thispage);
-    menucenter(thispagenb);
-var pagenb=thispagenb;
+const thispagenb = pages.indexOf(thispage);
+      menucenter(thispagenb);
+let pagenb=thispagenb;
 
 var prevpg=pageminus(thispagenb);
 var nextpg=pageplus(thispagenb);
@@ -103,13 +103,13 @@ document.onkeydown = function(event) {
             break;
             case 38:
               pagenb = pageminus(pagenb);
+              menucenter(pagenb);
             break;
             case 40:
               pagenb = pageplus(pagenb);
+              menucenter(pagenb);
             break;
-
          }
-         menucenter(pagenb);
       };
 
 
