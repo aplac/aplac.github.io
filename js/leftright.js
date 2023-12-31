@@ -69,11 +69,13 @@ document.addEventListener('touchend', e => {
   touchendX = e.changedTouches[0].screenX;
   touchendY = e.changedTouches[0].screenY;
   checkLeftRight();
-  pagenb=pagenb+1;
-  if (pagenb === pages.length) { pagenb = 0 }
+  if (typeof pagenb !== 'undefined') {
+     pagenb=pagenb+1;
+     if (pagenb === pages.length) { pagenb = 0 }
+     menucenter(pagenb);
+  }
 })
 
-  //menucenter(pagenb);
 
 document.onkeydown = function(event) {
          url=pages[pagenb];
