@@ -34,12 +34,10 @@ let thispage = window.location.href;
     thispage = thispage.replace(/.*github.io./,'');
 let thispagenb = pages.indexOf(thispage);
     menucenter(thispagenb);
-if (typeof pagenb === 'undefined') { pagenb=thispagenb }
+var pagenb=thispagenb;
 
-var prevpg=thispagenb-1;
-var nextpg=thispagenb+1;
-if (prevpg < 0) { prevpg = pages.length -1; }
-if (nextpg === pages.length ) { nextpg = 0; }
+var prevpg=pageminus(thispagenb);
+var nextpg=pageplus(thispagenb);
 
 var leftlabel  = nicelabel2(pages[prevpg]);
 var lurl  = pages[prevpg];
@@ -70,8 +68,7 @@ document.addEventListener('touchend', e => {
   touchendY = e.changedTouches[0].screenY;
   checkLeftRight();
   if (typeof pagenb !== 'undefined') {
-     pagenb=pagenb+1;
-     if (pagenb === pages.length) { pagenb = 0 }
+     pagenb=pageplus(pagenb);
      menucenter(pagenb);
   }
 })
@@ -96,22 +93,12 @@ document.onkeydown = function(event) {
               if (typeof url !== 'undefined') { openurl(url) }
             break;
             case 38:
-              if (typeof pagenb !== 'undefined') {
-                  pagenb = pagenb-1;
-              }
+              pagenb = pageminus(pagenb);
             break;
             case 40:
-              if (typeof pagenb !== 'undefined') {
-                  pagenb = pagenb+1;
-              }
+              pagenb = pageplus(pagenb);
             break;
 
-         }
-         if (pagenb < 0) {
-             pagenb = pages.length-1;
-         }
-         if (pagenb === pages.length) {
-             pagenb = 0;
          }
          menucenter(pagenb);
       };
@@ -166,6 +153,17 @@ function nicelabel(mylabel) {
 
 function openurl(myurl) {
      window.location.href = fullurl(myurl);
+}
+
+function pageplus(mypage) {
+   mypage=mypage+1;
+   if (mypage === pages.length) { mypage = 0 }
+   return mypage;
+}
+function pageminus(mypage) {
+   mypage=mypage-1;
+   if (mypage < 0) { mypage = pages.length-1 }
+   return mypage;
 }
 
 function fullurl(myurl) {
