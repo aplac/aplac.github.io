@@ -2,6 +2,7 @@
 use strict;
 
 `date > date.txt`;
+`rm .*swp`;
 #`cp index.html test.html`;
 
 system("git add .");
