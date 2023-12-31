@@ -1,3 +1,4 @@
+
 let touchstartX = 0
 let touchendX = 0
 let touchstartY = 0
@@ -27,6 +28,8 @@ pages.push(
 "people/yoannGoudin.html",
 "bibtex.html");
 
+document.write("<div id='menudiv' style='text-align:left; border: 2px dotted blue; position:fixed; left:42%; bottom:0; opacity:0.4;'></div>");
+
 let thispage = window.location.href;
     thispage = thispage.replace(/.*github.io./,'');
 let thispagenb = pages.indexOf(thispage);
@@ -43,6 +46,7 @@ var lurl  = pages[prevpg];
 rightlabel  = nicelabel2(pages[nextpg]);
 var rurl   = pages[nextpg];
 
+
 function checkLeftRight() {
   if ((Math.abs(touchendX - touchstartX)) 
       > (Math.abs(touchendY - touchstartY))) {
@@ -55,6 +59,7 @@ function checkLeftRight() {
   }
 }
 
+
 document.addEventListener('touchstart', e => {
   touchstartX = e.changedTouches[0].screenX;
   touchstartY = e.changedTouches[0].screenY;
@@ -64,6 +69,8 @@ document.addEventListener('touchend', e => {
   touchendX = e.changedTouches[0].screenX;
   touchendY = e.changedTouches[0].screenY;
   checkLeftRight();
+  pagenb=pagenb+1;
+  if (pagenb === pages.length) { pagenb = 0 }
 })
 
 document.onkeydown = function(event) {
@@ -110,9 +117,9 @@ document.onkeydown = function(event) {
       };
 
 
-document.write("<div style='border: 2px dotted blue;position:fixed;left:0;bottom:0;opacity:0.4;'><b><a href='" + fullurl(lurl) + "'>&lt;&lt; " + leftlabel + "</a></b></div>");
+document.write("<br/><br/><br/><br/><br/><br/><br/><div style='border: 2px dotted blue;position:fixed;left:0;bottom:0;opacity:0.4;'><b><a href='" + fullurl(lurl) + "'>&larr; " + leftlabel + "</a></b></div>");
 
-document.write("<div style='border: 2px dotted blue;text-align:right;position:fixed;right:0;bottom:0;opacity:0.4;'><b><a href='" + fullurl(rurl) + "'>" + rightlabel + " &gt;&gt;</a></b></div>");
+document.write("<div style='border: 2px dotted blue;text-align:right;position:fixed;right:0;bottom:0;opacity:0.4;'><b><a href='" + fullurl(rurl) + "'>" + rightlabel + " &rarr;</a></b></div>");
 
 
 function menucenter(pagenb) {
