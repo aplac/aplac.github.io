@@ -7,7 +7,9 @@ let touchendY = 0
 const pages = [];
 pages.push(
 "index.html",
+"bibtex.html",
 "thakbong.html",
+"archives.html",
 "confs/drgt2011.html",
 "confs/drgt2015.html",
 "confs/drgt2017.html",
@@ -25,8 +27,7 @@ pages.push(
 "people/sunnyChuang.html",
 "people/WangChingdong.html",
 "people/yaqingZhan.html",
-"people/yoannGoudin.html",
-"bibtex.html");
+"people/yoannGoudin.html");
 
 document.write("<div id='menudiv' style='text-align:left;border:2px dotted blue; position:fixed;left:33%;bottom:0;opacity:0.4;font-size:1.5em;padding:2px'></div>");
 
@@ -151,18 +152,20 @@ function menucenter(pagenb) {
 
 
 function nicelabel2(mylabel) {
-    mylabel=mylabel.replace('index.html','Main Page');
-    mylabel=mylabel.replace('thakbong.html','Thakbong Project');
-    mylabel=mylabel.replace('bibtex.html','Bibliography');
+    mylabel=mylabel.replace('thakbong.html','Thakbong:The Project');
     mylabel=mylabel.replace(/.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/^([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
+    mylabel=mylabel.replace('arachives','Thakbong: Archives');
+    mylabel=mylabel.replace('index','APLAC: Main Page');
+    mylabel=mylabel.replace('bibtex','APLAC: Bibliography');
     return mylabel;
 }
 
 function nicelabel(mylabel) {
-    mylabel=mylabel.replace('index.html','Main Page');
-    mylabel=mylabel.replace('thakbong.html','research: Thakbong Project');
-    mylabel=mylabel.replace('bibtex.html','Bibliography');
+    mylabel=mylabel.replace('thakbong.html','Thakbong:The Project');
     mylabel=mylabel.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
+    mylabel=mylabel.replace('index','APLAC: Main Page');
+    mylabel=mylabel.replace('bibtex','APLAC: Bibliography');
+    mylabel=mylabel.replace('archives','Thakbong: Archives');
     return mylabel;
 }
 

@@ -39,6 +39,10 @@ a.code,code {
   font-size: 105%;
 }
 
+code {
+  display: block;
+}
+
 p {padding:0.5%}
 a {text-decoration:none;color:var(--main-color);background-color:white}
 a:hover {background-color:var(--main-color);color:white}
