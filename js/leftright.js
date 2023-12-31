@@ -57,6 +57,16 @@ function checkLeftRight() {
   }
 }
 
+function checkTopDown() {
+  if ((Math.abs(touchendX - touchstartX)) 
+      < (Math.abs(touchendY - touchstartY))) {
+      if (touchendY+10 < touchstartY && typeof pagenb !== 'undefined') {
+              menucenter(pageplus(pagenb)) }
+      if (touchendY > touchstartY+10 && typeof pagenb !== 'undefined') {
+              menucenter(pageminus(pagenb)) }
+  }
+}
+
 
 document.addEventListener('touchstart', e => {
   touchstartX = e.changedTouches[0].screenX;
@@ -67,10 +77,7 @@ document.addEventListener('touchend', e => {
   touchendX = e.changedTouches[0].screenX;
   touchendY = e.changedTouches[0].screenY;
   checkLeftRight();
-  if (typeof pagenb !== 'undefined') {
-     pagenb=pageplus(pagenb);
-     menucenter(pagenb);
-  }
+  checkTopDown();
 })
 
 
