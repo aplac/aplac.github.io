@@ -5,9 +5,14 @@ let touchendY = 0
 
 const pages = [];
 pages.push(
-"bibtex.html",
 "index.html",
+"thakbong.html",
+"confs/drgt2011.html",
+"confs/drgt2015.html",
+"confs/drgt2017.html",
+"confs/drgpa2019.html",
 "confs/drgpa2021.html",
+"confs/drgpa2023.html",
 "people/davidBlundell.html",
 "people/FuYuwen.html",
 "people/jamesMorris.html",
@@ -19,35 +24,34 @@ pages.push(
 "people/sunnyChuang.html",
 "people/WangChingdong.html",
 "people/yaqingZhan.html",
-"people/yoannGoudin.html");
+"people/yoannGoudin.html",
+"bibtex.html");
 
+let thispage = window.location.href;
+    thispage = thispage.replace(/.*github.io./,'');
+let thispagenb = pages.indexOf(thispage);
+    menucenter(thispagenb);
+if (typeof pagenb === 'undefined') { pagenb=thispagenb }
 
+var prevpg=thispagenb-1;
+var nextpg=thispagenb+1;
+if (prevpg < 0) { prevpg = pages.length -1; }
+if (nextpg === pages.length ) { nextpg = 0; }
 
-if (typeof pagenb === 'undefined') {
-
-   pagenb=1;
-   var myDiv = document.getElementById("menudiv");
-   var url=pages[pagenb];
-   var newurl = window.location.href;
-       newurl = newurl.replace(/github.io.*/,'github.io/'); 
-       newurl = newurl + url;
-   var label=url.replace('index.html','Main Page');
-       label=label.replace('bibtex.html','Bibliography');
-
-   myDiv.innerHTML ='<b><a href="' + newurl + '">' + label + ' &crarr;' + '</a></b>';
-
-}
-
+var leftlabel  = nicelabel2(pages[prevpg]);
+var lurl  = pages[prevpg];
+rightlabel  = nicelabel2(pages[nextpg]);
+var rurl   = pages[nextpg];
 
 function checkLeftRight() {
   if ((Math.abs(touchendX - touchstartX)) 
       > (Math.abs(touchendY - touchstartY))) {
       if (touchendX+65 
           < touchstartX && typeof lurl !== 'undefined') {
-              window.location.href=rurl }
+              openurl(lurl) }
       if (touchendX 
           > touchstartX+65 && typeof rurl !== 'undefined') {
-              window.location.href=lurl }
+              openurl(rurl) }
   }
 }
 
@@ -66,33 +70,19 @@ document.onkeydown = function(event) {
          url=pages[pagenb];
          switch (event.keyCode) {
             case 37:
-              if (typeof lurl !== 'undefined') {
-                  window.location.href=lurl;
-              }
+              if (typeof lurl !== 'undefined') { openurl(lurl) }
             break;
             case 72:
-              if (typeof lurl !== 'undefined') {
-                  window.location.href=lurl;
-              }
+              if (typeof lurl !== 'undefined') { openurl(lurl) }
             break;
             case 39:
-              if (typeof rurl !== 'undefined') {
-                  window.location.href=rurl;
-              }
+              if (typeof rurl !== 'undefined') { openurl(rurl) }
             break;
             case 76:
-              if (typeof rurl !== 'undefined') {
-                  var newurl = window.location.href;
-                  newurl = newurl.replace(/github.io.*/,'github.io/'); 
-                  window.location.href=rurl;
-              }
+              if (typeof rurl !== 'undefined') { openurl(rurl) }
             break;
             case 13:
-              if (typeof url !== 'undefined') {
-                  var newurl = window.location.href;
-                  newurl = newurl.replace(/github.io.*/,'github.io/'); 
-                  window.location.href = newurl + url;
-              }
+              if (typeof url !== 'undefined') { openurl(url) }
             break;
             case 38:
               if (typeof pagenb !== 'undefined') {
@@ -114,45 +104,66 @@ document.onkeydown = function(event) {
          }
          url=pages[pagenb];
          if (typeof url !== 'undefined') {
-              myDiv = document.getElementById("menudiv");
-              var url=pages[pagenb];
-              var prev=pagenb-1;
-              var next=pagenb+1;
-
-              if (prev < 0) { prev = pages.length -1; }
-              if (next === pages.length ) { next = 0; }
-
-              var labelprev=pages[prev];
-              var labelnext=pages[next];
-
-                  labelprev=labelprev.replace('index.html','Main Page');
-                  labelprev=labelprev.replace('bibtex.html','Bibliography');
-                  labelprev = labelprev.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
-                  labelnext=labelnext.replace('index.html','Main Page');
-                  labelnext=labelnext.replace('bibtex.html','Bibliography');
-                  labelnext = labelnext.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
-              var newurl = window.location.href;
-                  newurl = newurl.replace(/github.io.*/,'github.io/'); 
-                  newurl = newurl + url;
-              var label = url;
-                  label = label.replace('index.html','Main Page');
-                  label = label.replace('bibtex.html','Bibliography');
-                  label = label.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
-              myDiv.innerHTML = labelprev + '<br/><b><a href="' + newurl + '">' + label + ' &crarr;' + '</a></b><br/>' + labelnext;
-              //myDiv.innerHTML = '<br/><b><a href="' + newurl + '">' + pagenb + label + ' &crarr;' + '</a></b><br/>';
+              menucenter(pagenb);
          }
 
       };
 
-if (typeof lurl !== 'undefined') {
-    var label  = lurl;
-document.write("<div style='border: 2px dotted blue;position:fixed;left:0;bottom:0;opacity:0.4;'><b><a href='" + lurl + "'>&lt;&lt; " + label.replace(/^.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/(^[a-z])/,(m,g)=>g.toUpperCase()) + "</a></b></div>");
+
+document.write("<div style='border: 2px dotted blue;position:fixed;left:0;bottom:0;opacity:0.4;'><b><a href='" + fullurl(lurl) + "'>&lt;&lt; " + leftlabel + "</a></b></div>");
+
+document.write("<div style='border: 2px dotted blue;text-align:right;position:fixed;right:0;bottom:0;opacity:0.4;'><b><a href='" + fullurl(rurl) + "'>" + rightlabel + " &gt;&gt;</a></b></div>");
+
+
+function menucenter(pagenb) {
+              myDiv = document.getElementById("menudiv");
+              var url=pages[pagenb];
+              var prev=pagenb-1;
+              var next=pagenb+1;
+              if (prev < 0) { prev = pages.length -1; }
+              if (next === pages.length ) { next = 0; }
+
+              var labelprev=nicelabel(pages[prev]);
+              var labelnext=nicelabel(pages[next]);
+
+              var newurl = window.location.href;
+                  newurl = newurl.replace(/github.io.*/,'github.io/'); 
+                  newurl = newurl + url;
+              var label = nicelabel(url);
+              myDiv.innerHTML = '&uarr; ' +
+                                labelprev + 
+                                '<br/><a class="inv" href="' + 
+                                newurl + 
+                                '">&crarr; ' + 
+                                label + 
+                                '</a><br/>&darr; ' + 
+                                labelnext;
+         }
+
+
+function nicelabel2(mylabel) {
+    mylabel=mylabel.replace('index.html','Main Page');
+    mylabel=mylabel.replace('thakbong.html','Thakbong Project');
+    mylabel=mylabel.replace('bibtex.html','Bibliography');
+    mylabel=mylabel.replace(/.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/^([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
+    return mylabel;
 }
 
-if (typeof rurl !== 'undefined') {
-    var label  = rurl;
-document.write("<div style='border: 2px dotted blue;text-align:right;position:fixed;right:0;bottom:0;opacity:0.4;'><b><a href='" + rurl + "'>" + label.replace(/^.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/(^[a-z])/,(m,g)=>g.toUpperCase()) + " &gt;&gt;</a></b></div>");
+function nicelabel(mylabel) {
+    mylabel=mylabel.replace('index.html','Main Page');
+    mylabel=mylabel.replace('thakbong.html','research: Thakbong Project');
+    mylabel=mylabel.replace('bibtex.html','Bibliography');
+    mylabel=mylabel.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
+    return mylabel;
 }
 
+function openurl(myurl) {
+     window.location.href = fullurl(myurl);
+}
 
+function fullurl(myurl) {
+     var base = window.location.href;
+         base = base.replace(/github.io.*/,'github.io/'); 
+         return base + myurl;
+}
 
