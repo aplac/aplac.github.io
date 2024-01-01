@@ -32,7 +32,7 @@ pages.push(
 document.write("<div id='menudiv' style='text-align:left;border:2px dotted blue; position:fixed;left:33%;bottom:0;opacity:0.4;font-size:1.5em;padding:2px'></div>");
 
 let thispage = window.location.href;
-    thispage = thispage.replace(/.*github.io./,'');
+    thispage = thispage.replace(/.*github.io.?/,'');
 let thispagenb = pages.indexOf(thispage);
       if ((typeof thispagenb < 0) || (thispage == '')) {
           thispagenb=0;
