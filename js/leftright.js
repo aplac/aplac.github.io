@@ -26,7 +26,7 @@ pages.push(
 "people/rogerLi.html",
 "people/sunnyChuang.html",
 "people/WangChingdong.html",
-"people/yaqingZhan.html",
+"people/Ya-QingZhan.html",
 "people/yoannGoudin.html");
 
 document.write("<div id='menudiv' style='text-align:left;border:2px dotted blue; position:fixed;left:33%;bottom:0;opacity:0.4;font-size:1.5em;padding:2px'></div>");
@@ -152,20 +152,22 @@ function menucenter(pagenb) {
 
 
 function nicelabel2(mylabel) {
-    mylabel=mylabel.replace('thakbong.html','Thakbong:The Project');
+    mylabel=mylabel.replace('thakbong.html','Thakbong');
     mylabel=mylabel.replace(/.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/^([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
     mylabel=mylabel.replace('arachives','Thakbong: Archives');
-    mylabel=mylabel.replace('index','APLAC: Main Page');
-    mylabel=mylabel.replace('bibtex','APLAC: Bibliography');
+    mylabel=mylabel.replace('Index','Main Page');
+    mylabel=mylabel.replace('bibtex','Bibliography');
+    mylabel=mylabel.replace('- ','-');
     return mylabel;
 }
 
 function nicelabel(mylabel) {
-    mylabel=mylabel.replace('thakbong.html','Thakbong:The Project');
+    mylabel=mylabel.replace('thakbong.html','Thakbong: The Project');
     mylabel=mylabel.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
     mylabel=mylabel.replace('index','APLAC: Main Page');
     mylabel=mylabel.replace('bibtex','APLAC: Bibliography');
     mylabel=mylabel.replace('archives','Thakbong: Archives');
+    mylabel=mylabel.replace('- ','-');
     return mylabel;
 }
 
