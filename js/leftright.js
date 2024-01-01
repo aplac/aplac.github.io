@@ -34,7 +34,7 @@ document.write("<div id='menudiv' style='text-align:left;border:2px dotted blue;
 let thispage = window.location.href;
     thispage = thispage.replace(/.*github.io./,'');
 let thispagenb = pages.indexOf(thispage);
-      if (typeof thispagenb === 'undefined') {
+      if ((typeof thispagenb < 0) || (thispage == '')) {
           thispagenb=0;
           thispage='index.html'
       }
