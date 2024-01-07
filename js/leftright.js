@@ -4,31 +4,6 @@ let touchendX = 0
 let touchstartY = 0
 let touchendY = 0
 
-const pages = [];
-pages.push(
-"index.html",
-"bibtex.html",
-"thakbong.html",
-"archives.html",
-"confs/drgt2011.html",
-"confs/drgt2015.html",
-"confs/drgt2017.html",
-"confs/drgpa2019.html",
-"confs/drgpa2021.html",
-"confs/drgpa2023.html",
-"people/davidBlundell.html",
-"people/FuYuwen.html",
-"people/jamesMorris.html",
-"people/leoChen.html",
-"people/lindaGArrigo.html",
-"people/mandyTo.html",
-"people/oliverStreiter.html",
-"people/rogerLi.html",
-"people/sunnyChuang.html",
-"people/WangChingdong.html",
-"people/Ya-QingZhan.html",
-"people/yoannGoudin.html");
-
 document.write("<div id='menudiv' style='text-align:left;border:2px dotted blue; position:fixed;left:33%;bottom:0;opacity:0.4;font-size:1.5em;padding:2px'></div>");
 
 let thispage = window.location.href;
@@ -156,7 +131,6 @@ function nicelabel2(mylabel) {
     mylabel=mylabel.replace(/.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/^([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
     mylabel=mylabel.replace('arachives','Thakbong: Archives');
     mylabel=mylabel.replace('Index','Main Page');
-    mylabel=mylabel.replace('bibtex','Bibliography');
     mylabel=mylabel.replace('- ','-');
     return mylabel;
 }
@@ -165,9 +139,10 @@ function nicelabel(mylabel) {
     mylabel=mylabel.replace('thakbong.html','Thakbong: The Project');
     mylabel=mylabel.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
     mylabel=mylabel.replace('index','APLAC: Main Page');
-    mylabel=mylabel.replace('bibtex','APLAC: Bibliography');
+    mylabel=mylabel.replace('bibliography','APLAC: Bibliography');
     mylabel=mylabel.replace('archives','Thakbong: Archives');
     mylabel=mylabel.replace('- ','-');
+    mylabel=mylabel.replace(/^([a-z])/,(m,g)=>' ' + g.toUpperCase());
     return mylabel;
 }
 

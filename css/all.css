@@ -43,6 +43,9 @@ code {
   display: block;
 }
 
+p.abstract {margin:4em;
+            font-weight:bold;
+            padding:0.5%;background-color:white;color:var(--main-color)}
 p {padding:0.5%}
 a {text-decoration:none;color:var(--main-color);background-color:white}
 a:hover {background-color:var(--main-color);color:white}
