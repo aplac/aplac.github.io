@@ -3,6 +3,9 @@ use strict;
 
 `date > date.txt`;
 `rm .*swp`;
+`rm */*swp`;
+`rm */*html.bkup`;
+
 #`cp index.html test.html`;
 
 system("git add .");
