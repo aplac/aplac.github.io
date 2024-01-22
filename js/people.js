@@ -11,6 +11,7 @@ pages.push(
 "people/mandyTo.html",
 "people/oliverStreiter.html",
 "people/rogerLi.html",
+"people/Syuan-FeiShih.html",
 "people/sunnyChuang.html",
 "people/WangChingdong.html",
 "people/Ya-QingZhan.html",
