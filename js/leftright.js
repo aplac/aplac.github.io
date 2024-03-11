@@ -127,7 +127,7 @@ function menucenter(pagenb) {
 
 
 function nicelabel2(mylabel) {
-    mylabel=mylabel.replace('thakbong.html','Thakbong');
+    mylabel=mylabel.replace('/tml/index.html','Thakbong');
     mylabel=mylabel.replace(/.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/^([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
     mylabel=mylabel.replace('arachives','Thakbong: Archives');
     mylabel=mylabel.replace('Index','Main Page');
