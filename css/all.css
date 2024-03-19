@@ -50,14 +50,14 @@ p.abstract {margin:4em;
             padding:0.5%;background-color:white;color:var(--main-color)}
 p {padding:0.5%}
 
-a {border-bottom: 1px dotted var(--main-color);text-decoration:none;color:var(--main-color);background-color:white}
+a {border-bottom: 1px dashed var(--main-color);text-decoration:none;color:var(--main-color);background-color:white}
 a:hover {background-color:var(--main-color);color:white}
 a.nohover:hover {background-color:white;color:black}
 div.a:hover {background-color:var(--main-color);color:white}
 div.ainv:hover {color:var(--main-color);background-color:white}
 a.inv:hover {color:var(--main-color);background-color:white}
 div.front {width:75%;min-width:700px;margin:top;text-aligh:top;margin:auto}
-a.inv {border-bottom:1px dotted white;text-decoration:none;background-color:var(--main-color);color:white}
+a.inv {border-bottom:1px dashed white;text-decoration:none;background-color:var(--main-color);color:white}
 a.inv:hover {color:var(--main-color);background-color:white}
 input {border-style:outset;color:var(--main-color);background-color:white}
 form {background-color:var(--main-color);color:white}
