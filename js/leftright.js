@@ -138,6 +138,8 @@ function nicelabel2(mylabel) {
 function nicelabel(mylabel) {
     mylabel=mylabel.replace('thakbong.html','Thakbong: The Project');
     mylabel=mylabel.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
+    mylabel=mylabel.replace('tml/index.html','Thakbong Web');
+    mylabel=mylabel.replace('tml','Thakbong');
     mylabel=mylabel.replace('index','APLAC: Main Page');
     mylabel=mylabel.replace('bibliography','APLAC: Bibliography');
     mylabel=mylabel.replace('archives','Thakbong: Archives');
