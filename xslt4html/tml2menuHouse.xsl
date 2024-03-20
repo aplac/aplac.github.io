@@ -18,7 +18,6 @@
             <div class='inv'>
                     <xsl:for-each select="subproject/searchmenu">
 			    <xsl:copy-of select="a"/>
-                        </xsl:copy-of>
                         <xsl:text>&#032;|&#032;</xsl:text>
                     </xsl:for-each>
             </div>
