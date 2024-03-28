@@ -52,6 +52,18 @@
 				  <xsl:text>&#032;</xsl:text>
                           </xsl:if>
                       </xsl:for-each>
+		      <xsl:element name="img">
+                         <xsl:attribute name="style">
+                             <xsl:text>width:20%</xsl:text>
+                         </xsl:attribute>
+                         <xsl:attribute name="src">
+                                 https://storage.googleapis.com/<xsl:value-of select="media/img/@url"/>
+                         </xsl:attribute>
+                      </xsl:element>
+                             <div>
+				     <xsl:value-of select="media/img/ocr/orig"/>
+                             </div>
+
                   </xsl:element>
 		</li>
         </xsl:when>
