@@ -66,7 +66,7 @@
                          </xsl:attribute>
                       </xsl:element>
                              <div>
-				     <xsl:value-of select="media/img/ocr/orig"/>
+				     <xsl:value-of select="media/img/ocr/corrected"/>
                              </div>
 
                   </xsl:element>
