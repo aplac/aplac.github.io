@@ -1,0 +1,15 @@
+<xsl:template match="/thakbong">
+	<xsl:for-each select="subprojects">
+		<xsl:for-each select="subproject">
+				 <xsl:value-of select="url"/>
+			<xsl:value-of select="name/@short"/>			 
+			<xsl:value-of select="name/@short"/>
+		<xsl:for-each select="subproject[@id='landforms']">
+			<h2><xsl:value-of select="name"/></h2>
+			<div>Responsible:<xsl:value-of select="responsible"/></div>
+			<xsl:copy-of select="description"/>
+	<xsl:for-each select="document">
+		<xsl:for-each select="ent">
+			<xsl:value-of select="srl"/>
+			<xsl:for-each select="names/name">
+			<xsl:value-of select="."/>

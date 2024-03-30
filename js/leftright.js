@@ -9,6 +9,7 @@ document.write("<div id='menudiv' style='text-align:left;border:2px dotted blue;
 let thispage = window.location.href;
     thispage = thispage.replace(/.*github.io.?/,'');
 let thispagenb = pages.indexOf(thispage);
+
       if ((typeof thispagenb < 0) || (thispage == '')) {
           thispagenb=0;
           thispage='index.html'
@@ -64,7 +65,6 @@ document.addEventListener('touchend', e => {
   checkLeftRight();
   checkTopDown();
 })
-
 
 document.onkeydown = function(event) {
          switch (event.keyCode) {
@@ -127,23 +127,21 @@ function menucenter(pagenb) {
 
 
 function nicelabel2(mylabel) {
-    mylabel=mylabel.replace('/tml/index.html','Thakbong');
+    mylabel=mylabel.replace('/tml/index.html','Thakbong: Web');
+    mylabel=mylabel.replace('archives',       'Thakbong: Archives');
+    mylabel=mylabel.replace('bibliography',   'APLAC: Bibliography');
     mylabel=mylabel.replace(/.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/^([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
-    mylabel=mylabel.replace('archives','Thakbong: Archives');
-    mylabel=mylabel.replace('tml','Thakbong');
     mylabel=mylabel.replace('Index','Main Page');
     mylabel=mylabel.replace('- ','-');
     return mylabel;
 }
 
 function nicelabel(mylabel) {
-    mylabel=mylabel.replace('thakbong.html','Thakbong: The Project');
-    mylabel=mylabel.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
-    mylabel=mylabel.replace('tml/index.html','Thakbong Web');
-    mylabel=mylabel.replace('tml','Thakbong');
-    mylabel=mylabel.replace('index','APLAC: Main Page');
-    mylabel=mylabel.replace('bibliography','APLAC: Bibliography');
+    mylabel=mylabel.replace('tml/index.html','Thakbong: Web');
     mylabel=mylabel.replace('archives','Thakbong: Archives');
+    mylabel=mylabel.replace('bibliography','APLAC: Bibliography');
+    mylabel=mylabel.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
+    mylabel=mylabel.replace('index','APLAC: Main Page');
     mylabel=mylabel.replace('- ','-');
     mylabel=mylabel.replace(/^([a-z])/,(m,g)=>' ' + g.toUpperCase());
     return mylabel;
