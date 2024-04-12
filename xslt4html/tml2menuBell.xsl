@@ -1,31 +1,23 @@
 <?xml version="1.0"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output method="html" encoding="utf-8" indent="yes" />
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xi="http://www.w3.org/2001/XInclude" version="1.0">
+<xsl:output method="html" encoding="utf-8" indent="yes"/>
 
 <xsl:template match="/thakbong">
 
-<xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
-<xsl:text>&#xa;</xsl:text>
+<xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
+<xsl:text>
+</xsl:text>
 
 	<html>
 		<head>
 			<meta charset="utf-8"/>
-			<link type='text/css' rel="stylesheet" href="https://aplac.github.io/css/all.css"/>
+			<link type="text/css" rel="stylesheet" href="https://aplac.github.io/css/all.css"/>
 		</head>
 	<body>
 
+		<div class="inv" xml:base="../../home/oliver/git/aplac.github.io/tml/menu.xml"><a class="inv" href="/tml/index.html">Thakbong</a>: 
+	<a href="/tml/menuLandform.html" class="inv">Landform</a> | <a href="/tml/menuSettlement.html" class="inv">Settlement</a> | <a href="/tml/menuHouse.html" class="inv">Houses</a> | <a href="/tml/menuGarden.html" class="inv">Gardens</a> | <a href="/tml/menuFranke.html" class="inv">Wolfgang Franke</a> | <a href="/tml/menuBell.html" class="inv">Bells</a> | <a href="/tml/menuBangkokHokkien.html" class="inv">Hokkien Cemetery</a> | </div>
 	<xsl:for-each select="subprojects">
-		<div class='inv'>
-		<xsl:for-each select="subproject">
-			<xsl:element name="a">
-			<xsl:attribute name="href">
-			<xsl:value-of select="url"/>
-			</xsl:attribute>
-			<xsl:value-of select="name/@short"/>			 
-			</xsl:element>
-			<xsl:text>&#032;|&#032;</xsl:text>
-		</xsl:for-each>
-		</div>
 
 		<xsl:for-each select="subproject[@id='bells']">
 
@@ -62,7 +54,7 @@
 				<xsl:sort select="language"/>
 				<xsl:value-of select="."/>
 				<xsl:if test="position() &lt; last()">,
-				<xsl:text>&#032;</xsl:text>
+				<xsl:text> </xsl:text>
 				</xsl:if>
 			</xsl:for-each>
 			<xsl:element name="img">
@@ -85,7 +77,7 @@
 	</xsl:for-each>
 	</ul>
 
-		<script type="text/javascript" src="https://aplac.github.io/js/leftright.js"></script>
+		<script type="text/javascript" src="https://aplac.github.io/js/leftright.js"/>
 
 
 	</body>

@@ -1,8 +1,5 @@
 <xsl:template match="/thakbong">
 	<xsl:for-each select="subprojects">
-		<xsl:for-each select="subproject">
-			<xsl:value-of select="url"/>
-			<xsl:value-of select="name/@short"/>			 
 		<xsl:for-each select="subproject[@id='bells']">
 			<xsl:value-of select="name"/>
 			<xsl:value-of select="responsible"/>
@@ -11,6 +8,5 @@
 		<xsl:for-each select="ent">
 			<xsl:value-of select="srl"/>
 			<xsl:for-each select="names/name">
-				<xsl:value-of select="."/>
 			https://storage.googleapis.com/<xsl:value-of select="media/img/@url"/>
 			<xsl:value-of select="media/img/ocr/corrected"/>

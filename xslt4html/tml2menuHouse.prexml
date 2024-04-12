@@ -1,8 +1,5 @@
 <xsl:template match="/thakbong">
 	<xsl:for-each select="subprojects">
-		<xsl:for-each select="subproject">
-				<xsl:value-of select="url"/>
-				<xsl:value-of select="name/@short"/>			 
 		<xsl:for-each select="subproject[@id='houses']">
 			<xsl:value-of select="name"/>
 			<xsl:value-of select="responsible"/>
@@ -19,10 +16,8 @@
 						<xsl:value-of select="update"/>
 						<xsl:value-of select="entities"/>
 						<xsl:for-each select="format">
-						<xsl:value-of select="."/>
 	<xsl:for-each select="document">
 		<xsl:for-each select="ent">
 			<xsl:value-of select="srl"/>
 			<xsl:for-each select="communities/community/communityname">
-				<xsl:value-of select="."/>
 			<xsl:value-of select="geography/pluscode"/>

@@ -1,11 +1,4 @@
 <thakbong>
-<subprojects>
-<subproject>
-<url>
-</url><name short='test'>
-</name>
-</subproject>
-</subprojects>
 <creator>
 </creator><initiator>
 </initiator><responsible>
@@ -17,9 +10,9 @@
 </collab>
 </collaborator>
 <description>
-</description><subprojects>
-<description>
-</description><subproject>
+</description>
+<subprojects>
+<subproject>
 <name>
 </name><responsible>
 </responsible><url>

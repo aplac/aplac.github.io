@@ -1,12 +1,5 @@
 <thakbong>
 <subprojects>
-<subproject>
-<url>
-</url>
-<name short='test'>
-</name><name short='test'>
-</name>
-</subproject>
 <subproject id='test'>
 <name>
 </name><responsible>
