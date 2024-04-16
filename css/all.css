@@ -12,7 +12,7 @@ div {
   color:var(--main-color);
   background-color:white;
   margin:0em;
-  padding:1em;
+  padding:0.5em;
 }
 
 div.inv {
