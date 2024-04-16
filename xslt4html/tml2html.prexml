@@ -39,11 +39,11 @@
 						<xsl:value-of select="technique/@tool"/>
 						<xsl:for-each select="agents">
 							<xsl:for-each select="agent">
-			        	<xsl:value-of select="."/>
+			        			<xsl:value-of select="."/>
 						<xsl:for-each select="description">
 				<xsl:for-each select="media">
 					<xsl:for-each select="img/@url">
-				 <xsl:value-of select="../srl"/>
+				<xsl:value-of select="../srl"/>
 			 <xsl:value-of select="../@id"/>
 				<xsl:for-each select="../names">
 					<xsl:for-each select="name">

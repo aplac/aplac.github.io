@@ -41,20 +41,21 @@
 				<xsl:attribute name="href">
 				<xsl:value-of select="srl"/>
 				</xsl:attribute>
-				Top-Entity (ID: <xsl:value-of select="$geosuperid"/>)
+
+				Top-Entity ID: <xsl:value-of select="$geosuperid"/>
+
 				<xsl:for-each select="names">
 					<xsl:for-each select="name">
 					<xsl:value-of select="."/>
-					<xsl:if test="position() &lt; last()">,
-					<xsl:text> </xsl:text>
-						</xsl:if>
+					<xsl:text>, </xsl:text>
 					</xsl:for-each>
 				</xsl:for-each>
+
 				<xsl:for-each select="types">
 					<xsl:for-each select="type">
 					<xsl:value-of select="."/>
-					<xsl:if test="position() &lt; last()">,
-					<xsl:text> </xsl:text>
+					<xsl:if test="position() &lt; last()">
+					<xsl:text>, </xsl:text>
 					</xsl:if>
 					</xsl:for-each>
 				</xsl:for-each>
@@ -69,7 +70,7 @@
 				<xsl:value-of select="@id"/>
 				</h2>
 				<div>
-				<xsl:text>Name:  </xsl:text>
+				<xsl:text>Name: </xsl:text>
 				<xsl:for-each select="names">
 					<xsl:for-each select="name">
 				<xsl:element name="span">
@@ -174,26 +175,28 @@
 
 				<xsl:for-each select="events">
 		<table>
-	        <th>
-			<td>Event</td>
-			<td>Start</td>
-			<td>End</td>
-			<td>Day</td>
-			<td>Lunar Day</td>
-			<td>Material</td>
-			<td>Technique</td>
-			<td>Agents</td>
-			<td>Description</td>
-		</th>
+	        <tr>
+			<th>Event</th>
+			<th>Start</th>
+			<th>End</th>
+			<th>Day</th>
+			<th>Lunar Day</th>
+			<th>Material</th>
+			<th>Technique</th>
+			<th>Agents</th>
+			<th>Description</th>
+		</tr>
 					<xsl:for-each select="event">
 	                <tr>
 			<td>
 					<xsl:value-of select="@type"/>
-				<xsl:text> </xsl:text>
-			</td><td>
+					<xsl:text> </xsl:text>
+			</td>
+			<td>
 					<xsl:value-of select="@timefrom"/>
 					<xsl:text> </xsl:text>
-			</td><td>
+			</td>
+			<td>
 					<xsl:value-of select="@timeto"/>
 					<xsl:text> </xsl:text>
 			</td><td>
@@ -204,25 +207,26 @@
 					<xsl:text> </xsl:text>
 			</td><td>
 						<xsl:value-of select="material"/>
-			<xsl:text> </xsl:text>
+						<xsl:text> </xsl:text>
 						<xsl:value-of select="material/@color"/>
-					<xsl:text> </xsl:text>
+						<xsl:text> </xsl:text>
 			</td><td>
 						<xsl:value-of select="technique"/>
-					<xsl:text> </xsl:text>
+						<xsl:text> </xsl:text>
 						<xsl:value-of select="technique/@tool"/>
 			</td><td>
 						<xsl:for-each select="agents">
 							<xsl:for-each select="agent">
-					<xsl:value-of select="@type"/>
-					<xsl:text>: </xsl:text>
-			        	<xsl:value-of select="."/>
-				</xsl:for-each>
-			</xsl:for-each>
-			</td><td>
+							<xsl:value-of select="@type"/>
+							<xsl:text>: </xsl:text>
+			        			<xsl:value-of select="."/>
+							</xsl:for-each>
+						</xsl:for-each>
+			</td>
+			<td>
 						<xsl:for-each select="description">
-				<xsl:copy-of select="*"/>
-			</xsl:for-each>
+							<xsl:copy-of select="*"/>
+						</xsl:for-each>
 			</td>
 			</tr>
 		</xsl:for-each>
@@ -232,10 +236,10 @@
 				<xsl:for-each select="media">
 					<xsl:for-each select="img/@url">
 					<xsl:element name="img">
-					 <xsl:attribute name="style">width:75%</xsl:attribute>
-					 <xsl:attribute name="src">
-						 <xsl:value-of select="concat('https://storage.googleapis.com/',.)"/>
-					 </xsl:attribute>
+					<xsl:attribute name="style">width:75%</xsl:attribute>
+					<xsl:attribute name="src">
+					<xsl:value-of select="concat('https://storage.googleapis.com/',.)"/>
+					</xsl:attribute>
 					</xsl:element>
 			i		</xsl:for-each>
 			 	</xsl:for-each>
@@ -245,10 +249,10 @@
 	 <xsl:for-each select="key('bysuperid',$entid)">
 	 <div>
 
-		 <xsl:element name="a">
-			 <xsl:attribute name="href">
-				 <xsl:value-of select="../srl"/>
-			</xsl:attribute>
+		<xsl:element name="a">
+		<xsl:attribute name="href">
+				<xsl:value-of select="../srl"/>
+		</xsl:attribute>
 
 			 <h3 class="inv">
 			 Sub-Entity ID:  
@@ -260,6 +264,7 @@
 
 				<div>
 				<xsl:text>Name: </xsl:text>
+
 				<xsl:for-each select="../names">
 					<xsl:for-each select="name">
 						<xsl:value-of select="."/>
@@ -270,6 +275,7 @@
 
 				<div>
 				<xsl:text>Type:  </xsl:text>
+
 				<xsl:for-each select="../types">
 					<xsl:for-each select="type">
 						<xsl:value-of select="."/>
@@ -283,7 +289,7 @@
 						<xsl:element name="img">
 						<xsl:attribute name="style">width:75%</xsl:attribute>
 						<xsl:attribute name="src">
-							<xsl:value-of select="concat('https://storage.googleapis.com/',.)"/>
+						<xsl:value-of select="concat('https://storage.googleapis.com/',.)"/>
 						</xsl:attribute>
 						</xsl:element>
 				 	</xsl:for-each>

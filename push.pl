@@ -2,8 +2,10 @@
 use strict;
 
 print "Input comment on modifications made:\n";
-my $comment=<STDIN>;
+open(M,'modifs.txt');
+my $comment=<M>;
 chomp($comment);
+close(M);
 
 `date > date.txt`;
 

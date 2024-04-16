@@ -1,1 +1,1 @@
-1) Description added to Entity and Event. 2) Mistakes in main xslt tml2html.xsl corrected. 
+1) xslt space introduced between name and type of Top-entity 2) Table header for events correctedd 3) checked missing images in Sub-Entities 
