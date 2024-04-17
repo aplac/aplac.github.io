@@ -9,28 +9,37 @@
 </xsl:text>
 
 	<html>
-		<head>
-			<meta charset="utf-8"/>
-			<link type="text/css" rel="stylesheet" href="https://aplac.github.io/css/all.css"/>
-		</head>
-	<body>
+	<xsl:for-each select="subprojects">
+		<xsl:for-each select="subproject[@id='BangkokHokkien']">
 
+		<head>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+			<link type="text/css" rel="stylesheet" href="https://aplac.github.io/css/all.css"/>
+			<title>
+			<xsl:value-of select="name"/>
+			</title>
+		</head>
+		</xsl:for-each>
+	</xsl:for-each>	
+	<body>
 	<div class="inv" xml:base="../../home/oliver/git/aplac.github.io/tml/menu.xml"><a class="inv" href="/tml/index.html">Thakbong</a>: 
 	<a href="/tml/menuLandform.html" class="inv">Landform</a> | <a href="/tml/menuSettlement.html" class="inv">Settlement</a> | <a href="/tml/menuHouse.html" class="inv">Houses</a> | <a href="/tml/menuGarden.html" class="inv">Gardens</a> | <a href="/tml/menuFranke.html" class="inv">Wolfgang Franke</a> | <a href="/tml/menuBell.html" class="inv">Bells</a> | <a href="/tml/menuBangkokHokkien.html" class="inv">Hokkien Cemetery</a> | </div>
 	<xsl:for-each select="subprojects">
-
 		<xsl:for-each select="subproject[@id='BangkokHokkien']">
-
 			<h2>
 			<xsl:value-of select="name"/>
 			</h2>
 			<div>Responsible:
 			<xsl:value-of select="responsible"/>
 			</div>
-			<xsl:copy-of select="description"/>
+			<xsl:for-each select="description">
+				<xsl:for-each select="*">
+				<xsl:copy-of select="."/>
+				</xsl:for-each>
+			</xsl:for-each>
+
 
 		</xsl:for-each>
-
 	</xsl:for-each>
 
 	<ul>
@@ -47,7 +56,7 @@
 
 			<xsl:choose>
 
-			<xsl:when test="types/type='tombstone'">
+			<xsl:when test="types/type='tombstone' and srl">
 			<li>
 				<xsl:element name="a">
 				<xsl:attribute name="href">
@@ -66,16 +75,23 @@
 		</xsl:for-each>
 					 <xsl:element name="img">
 						<xsl:attribute name="style">
-				<xsl:text>width:20%</xsl:text>
+						<xsl:text>width:20%</xsl:text>
 						</xsl:attribute>
 						<xsl:attribute name="src">
 			https://storage.googleapis.com/<xsl:value-of select="media/img/@url"/>
 						</xsl:attribute>
-					 </xsl:element>
-				<div>
+						<xsl:attribute name="alt">
+						<xsl:text>The image shows a</xsl:text>
+						</xsl:attribute>
+					</xsl:element>
+				</xsl:element>
+
+			<xsl:if test="media/img/ocr/corrected">
+			<div>
+			<xsl:text>OCR:</xsl:text>
 			<xsl:value-of select="media/img/ocr/corrected"/>
-				</div>
-				 </xsl:element>
+			</div>
+			</xsl:if>
 		</li>
 		</xsl:when>
 		</xsl:choose>

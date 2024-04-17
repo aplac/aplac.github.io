@@ -10,18 +10,20 @@
 
 	<html>
 		<head>
-			<meta charset="utf-8"/>
-		<link type="text/css" rel="stylesheet" href="/css/all.css"/>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+			<link type="text/css" rel="stylesheet" href="/css/all.css"/>
+			<title>Thakbong, A Research and Documentation Project at APLAC,
+                the Research Center for Asia Pacific Languages and Cultures</title>
 		</head>
 	<body>
 
 	<div class="inv" xml:base="../../home/oliver/git/aplac.github.io/tml/menu.xml"><a class="inv" href="/tml/index.html">Thakbong</a>: 
 	<a href="/tml/menuLandform.html" class="inv">Landform</a> | <a href="/tml/menuSettlement.html" class="inv">Settlement</a> | <a href="/tml/menuHouse.html" class="inv">Houses</a> | <a href="/tml/menuGarden.html" class="inv">Gardens</a> | <a href="/tml/menuFranke.html" class="inv">Wolfgang Franke</a> | <a href="/tml/menuBell.html" class="inv">Bells</a> | <a href="/tml/menuBangkokHokkien.html" class="inv">Hokkien Cemetery</a> | </div>
 
+	<div>
 	<h1>Thakbong</h1>
-	<h2>A Research and Documentation Project at APLAC, 
-		the Research Center for Asia Pacific Languages and Cultures</h2>
-	<div/>
+	<h2>A Research and Documentation Project at APLAC, the Research Center for Asia Pacific Languages and Cultures</h2>
+	</div>
 
 
 	<div>Creator:
@@ -50,7 +52,11 @@
 
 
 	<h3>Project Description</h3>
-		<xsl:copy-of select="description"/>
+		<xsl:for-each select="description">
+			<xsl:for-each select="*">
+			<xsl:copy-of select="."/>
+			</xsl:for-each>
+		</xsl:for-each>
 
 
 		<h3>Sub-Projects, Interests and Responsibilities</h3>
@@ -71,7 +77,11 @@
 			<xsl:attribute name="href">
 			<xsl:value-of select="url"/>
 			</xsl:attribute>
-	 		<xsl:copy-of select="description"/>
+			<xsl:for-each select="description">
+				<xsl:for-each select="*">
+				<xsl:copy-of select="."/>
+				</xsl:for-each>
+			</xsl:for-each>
 			</xsl:element>
 
 		</xsl:for-each>

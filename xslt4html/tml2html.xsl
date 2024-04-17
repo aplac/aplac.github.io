@@ -24,8 +24,26 @@
 
 			<html>
 				<head>
-					<meta charset="utf-8"/>
+					<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 					<link type="text/css" rel="stylesheet" href="https://aplac.github.io/css/all.css"/>
+					<title>
+						Entity <xsl:value-of select="@id"/>
+				<xsl:for-each select="names">
+					<xsl:for-each select="name">
+					<xsl:value-of select="."/>
+					<xsl:text>, </xsl:text>
+					</xsl:for-each>
+				</xsl:for-each>
+
+				<xsl:for-each select="types">
+					<xsl:for-each select="type">
+					<xsl:value-of select="."/>
+					<xsl:if test="position() &lt; last()">
+					<xsl:text>, </xsl:text>
+					</xsl:if>
+					</xsl:for-each>
+				</xsl:for-each>
+					</title>
 				</head>
 				<body>
 
@@ -83,26 +101,27 @@
 
 				<div>
 				<xsl:for-each select="types">
-			 Type: 
+				Type: 
 					 <xsl:for-each select="type">
 			<xsl:value-of select="."/>
 			<xsl:if test="position() &lt; last()">, </xsl:if>
-			 </xsl:for-each>
-			 </xsl:for-each>
+			</xsl:for-each>
+			</xsl:for-each>
 				</div>
 
 				<div>
 				ID:  
 				<xsl:value-of select="@id"/>
-		</div>
-
+				</div>
 				<xsl:for-each select="description">
-					<xsl:copy-of select="*"/>
+				<xsl:for-each select="*">
+						<xsl:copy-of select="."/>
+					</xsl:for-each>
 				</xsl:for-each>
 
 				<xsl:for-each select="geography">
 				<div>
-				 	Orientation:
+					Orientation:
 					<xsl:for-each select="orientations">
 						<xsl:for-each select="orientation">
 							<xsl:value-of select="."/>
@@ -111,33 +130,33 @@
 							<xsl:if test="position() &lt; last()">, </xsl:if>
 						</xsl:for-each>
 					</xsl:for-each>
-				 	</div>
-				 	<div>
+					</div>
+					<div>
 					Longitude: 
 					<xsl:value-of select="longitude"/>
-				 </div>
-				 <div>
+				</div>
+				<div>
 					Latitude: 
 					<xsl:value-of select="latitude"/>
-				 </div>
-				 <div>
+				</div>
+				<div>
 					Pluscode: 
 					<xsl:value-of select="pluscode"/>
-				 </div>
+				</div>
 
 				<xsl:if test="@concession">
 				<div>
 					Concession: <xsl:value-of select="@concession"/>
 				</div>
-			 	</xsl:if>
+				</xsl:if>
 
 	<div>
-		 <xsl:element name="a">
-			 <xsl:attribute name="href">
+		<xsl:element name="a">
+			<xsl:attribute name="href">
 				 <xsl:value-of select="concat('https://www.google.com/search?q=','N',latitude,'E',longitude)"/>
-			 </xsl:attribute>
-		 Location on Google Maps
-		 </xsl:element>
+			</xsl:attribute>
+		Location on Google Maps
+		</xsl:element>
 	</div>
 	<div>
 		<xsl:element name="a">
@@ -225,7 +244,9 @@
 			</td>
 			<td>
 						<xsl:for-each select="description">
-							<xsl:copy-of select="*"/>
+							<xsl:for-each select="*">
+								<xsl:copy-of select="."/>
+							</xsl:for-each>
 						</xsl:for-each>
 			</td>
 			</tr>
@@ -239,6 +260,9 @@
 					<xsl:attribute name="style">width:75%</xsl:attribute>
 					<xsl:attribute name="src">
 					<xsl:value-of select="concat('https://storage.googleapis.com/',.)"/>
+					</xsl:attribute>
+					<xsl:attribute name="alt">
+				        <xsl:text>The image shows a</xsl:text>
 					</xsl:attribute>
 					</xsl:element>
 			i		</xsl:for-each>
@@ -259,8 +283,8 @@
 			 <xsl:value-of select="../@id"/>
 			 </h3>
 
-	 <xsl:variable name="subid" select="../@id"/>
 	</xsl:element>
+	<xsl:variable name="subid" select="../@id"/>
 
 				<div>
 				<xsl:text>Name: </xsl:text>
@@ -284,16 +308,55 @@
 				</xsl:for-each>
 				</div>
 
+
+				<xsl:choose>
+
+				<xsl:when test="../media">
 				<xsl:for-each select="../media">
-					<xsl:for-each select="img/@url">
+					<xsl:for-each select="(img)[position() &lt; 6]">
 						<xsl:element name="img">
 						<xsl:attribute name="style">width:75%</xsl:attribute>
 						<xsl:attribute name="src">
-						<xsl:value-of select="concat('https://storage.googleapis.com/',.)"/>
+						<xsl:value-of select="concat('https://storage.googleapis.com/',@url)"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+				<xsl:text>This image shows an entity of type </xsl:text>
+				<xsl:value-of select="../../types/type"/>
+				<xsl:text>.</xsl:text>
+				<xsl:if test="../../names/name">
+				<xsl:text>Named:  </xsl:text>
+				<xsl:value-of select="../../names/name"/>
+				</xsl:if>
 						</xsl:attribute>
 						</xsl:element>
 				 	</xsl:for-each>
-				 </xsl:for-each>
+				</xsl:for-each>
+				</xsl:when>
+
+				<xsl:when test="not(../media)">
+				<xsl:for-each select="key('bysuperid',$subid)">
+				<xsl:for-each select="../media">
+					<xsl:for-each select="(img)[position() &lt; 2]">
+						<xsl:element name="img">
+						<xsl:attribute name="style">width:75%</xsl:attribute>
+						<xsl:attribute name="src">
+						<xsl:value-of select="concat('https://storage.googleapis.com/',@url)"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+				<xsl:text>This image shows an entity of type </xsl:text>
+				<xsl:value-of select="../../types/type"/>
+				<xsl:text>. </xsl:text>
+				<xsl:if test="../../names/name">
+				<xsl:text>Named:  </xsl:text>
+				<xsl:value-of select="../../names/name"/>
+				</xsl:if>
+						</xsl:attribute>
+						</xsl:element>
+				 	</xsl:for-each>
+			 	</xsl:for-each>
+			 	</xsl:for-each>
+				</xsl:when>
+				</xsl:choose>
 	
 		</div>
 		</xsl:for-each>

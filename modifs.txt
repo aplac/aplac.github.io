@@ -1,1 +1,1 @@
-1) xslt space introduced between name and type of Top-entity 2) Table header for events correctedd 3) checked missing images in Sub-Entities 
+1) alt element introduced for images. 2) Subsub photos introduced if no sub photos are available. 3) empty div removed 4) tombstones on Chaozhou graveyard in Bangkok otyped  
