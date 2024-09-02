@@ -113,9 +113,26 @@
 				ID:  
 				<xsl:value-of select="@id"/>
 				</div>
+
+				<xsl:if test="description">
+				<xsl:text>Description:  </xsl:text>
+				</xsl:if>
+
 				<xsl:for-each select="description">
 				<xsl:for-each select="*">
 						<xsl:copy-of select="."/>
+					</xsl:for-each>
+				</xsl:for-each>
+
+				<xsl:if test="description">
+				<xsl:text>Hypotheses:  </xsl:text>
+				</xsl:if>
+
+				<xsl:for-each select="hypotheses">
+					<xsl:for-each select="hypothesis">
+						<xsl:for-each select="div">
+							<xsl:copy-of select="."/>
+						</xsl:for-each>
 					</xsl:for-each>
 				</xsl:for-each>
 
@@ -126,7 +143,7 @@
 						<xsl:for-each select="orientation">
 							<xsl:value-of select="."/>
 							<xsl:text> </xsl:text>
-							<xsl:value-of select="@sys"/>
+							<xsl:value-of select="@system"/>
 							<xsl:if test="position() &lt; last()">, </xsl:if>
 						</xsl:for-each>
 					</xsl:for-each>
