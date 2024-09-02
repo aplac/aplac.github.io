@@ -3,17 +3,15 @@
 <xsl:output method="html" encoding="utf-8" indent="yes"/>
 
 <xsl:key name="byid" match="/thakbong/document/ent" use="@id"/>
-<xsl:key name="bysuperid" match="/thakbong/document/ent/geography" use="@superid"/>
+<xsl:key name="bysuperid" match="/thakbong/document/ent/geography" use="@geotop"/>
 
 <xsl:template match="/thakbong">
-
 		<xsl:for-each select="document">
-
 			<xsl:for-each select="ent">
 	
 				<xsl:value-of select="srl"/>
 
-				<xsl:variable name="geosuperid" select="geography/@superid"/>
+				<xsl:variable name="geotop" select="geography/@geotop"/>
 				<xsl:variable name="entid" select="@id"/>
 
 				<xsl:text>
@@ -43,7 +41,7 @@
 					</xsl:if>
 					</xsl:for-each>
 				</xsl:for-each>
-					</title>
+				</title>
 				</head>
 				<body>
 
@@ -52,7 +50,7 @@
 
 				<div class="inv">
 
-				<xsl:for-each select="key('byid',$geosuperid)">
+				<xsl:for-each select="key('byid',$geotop)">
 
 				<xsl:element name="a">
 				<xsl:attribute name="class">inv</xsl:attribute>
@@ -60,15 +58,25 @@
 				<xsl:value-of select="srl"/>
 				</xsl:attribute>
 
-				Top-Entity ID: <xsl:value-of select="$geosuperid"/>
+				<div class="inv">
+				Top-Entity ID: <xsl:value-of select="$geotop"/>
+			        </div>
 
+				<xsl:if test="names/name">
+				<div class="inv">
+				Name: 
 				<xsl:for-each select="names">
 					<xsl:for-each select="name">
 					<xsl:value-of select="."/>
 					<xsl:text>, </xsl:text>
 					</xsl:for-each>
 				</xsl:for-each>
+			        </div>
+				</xsl:if>
 
+				<xsl:if test="types/type">
+				<div class="inv">
+				Type: 
 				<xsl:for-each select="types">
 					<xsl:for-each select="type">
 					<xsl:value-of select="."/>
@@ -77,6 +85,8 @@
 					</xsl:if>
 					</xsl:for-each>
 				</xsl:for-each>
+			        </div>
+				</xsl:if>
 
 				</xsl:element>
 				</xsl:for-each>
@@ -116,18 +126,15 @@
 
 				<xsl:if test="description">
 				<xsl:text>Description:  </xsl:text>
-				</xsl:if>
-
 				<xsl:for-each select="description">
 				<xsl:for-each select="*">
 						<xsl:copy-of select="."/>
 					</xsl:for-each>
 				</xsl:for-each>
-
-				<xsl:if test="description">
-				<xsl:text>Hypotheses:  </xsl:text>
 				</xsl:if>
 
+				<xsl:if test="hypotheses">
+				<xsl:text>Hypotheses:  </xsl:text>
 				<xsl:for-each select="hypotheses">
 					<xsl:for-each select="hypothesis">
 						<xsl:for-each select="div">
@@ -135,10 +142,14 @@
 						</xsl:for-each>
 					</xsl:for-each>
 				</xsl:for-each>
+				</xsl:if>
 
 				<xsl:for-each select="geography">
+
+				<xsl:if test="orientation">
 				<div>
 					Orientation:
+					<xsl:text> </xsl:text>
 					<xsl:for-each select="orientations">
 						<xsl:for-each select="orientation">
 							<xsl:value-of select="."/>
@@ -147,34 +158,54 @@
 							<xsl:if test="position() &lt; last()">, </xsl:if>
 						</xsl:for-each>
 					</xsl:for-each>
-					</div>
-					<div>
-					Longitude: 
-					<xsl:value-of select="longitude"/>
-				</div>
-				<div>
-					Latitude: 
-					<xsl:value-of select="latitude"/>
-				</div>
-				<div>
-					Pluscode: 
-					<xsl:value-of select="pluscode"/>
-				</div>
-
-				<xsl:if test="@concession">
-				<div>
-					Concession: <xsl:value-of select="@concession"/>
 				</div>
 				</xsl:if>
 
-	<div>
-		<xsl:element name="a">
-			<xsl:attribute name="href">
-				 <xsl:value-of select="concat('https://www.google.com/search?q=','N',latitude,'E',longitude)"/>
-			</xsl:attribute>
+
+				<xsl:if test="longitude">
+				<div>
+					Longitude: 
+					<xsl:text> </xsl:text>
+					<xsl:value-of select="longitude"/>
+				</div>
+				</xsl:if>
+
+
+				<xsl:if test="latitude">
+				<div>
+					Latitude: 
+					<xsl:text> </xsl:text>
+					<xsl:value-of select="latitude"/>
+				</div>
+				</xsl:if>
+
+
+				<xsl:if test="pluscode">
+				<div>
+					Pluscode: 
+					<xsl:text> </xsl:text>
+					<xsl:value-of select="pluscode"/>
+				</div>
+				</xsl:if>
+
+				<xsl:if test="@concession">
+				<div>
+					Concession: 
+					<xsl:text> </xsl:text>
+					<xsl:value-of select="@concession"/>
+				</div>
+				</xsl:if>
+
+				<xsl:if test="latitude">
+	                        <div>
+		                <xsl:element name="a">
+					<xsl:attribute name="href">
+						<xsl:value-of select="concat('https://www.google.com/search?q=','N',latitude,'E',longitude)"/>
+					</xsl:attribute>
 		Location on Google Maps
 		</xsl:element>
 	</div>
+
 	<div>
 		<xsl:element name="a">
 			<xsl:attribute name="href">
@@ -182,7 +213,8 @@
 			</xsl:attribute>
 		Location on OpenStreetMap
 		</xsl:element>
-		</div>
+		                </div>
+				</xsl:if>
 					<xsl:for-each select="winds">
 						<xsl:for-each select="wind">
 						<div>
@@ -210,6 +242,7 @@
 					</xsl:for-each>
 
 				<xsl:for-each select="events">
+		<div>
 		<table>
 	        <tr>
 			<th>Event</th>
@@ -269,6 +302,7 @@
 			</tr>
 		</xsl:for-each>
 		</table>
+	        </div>
 	 </xsl:for-each>
 
 				<xsl:for-each select="media">
