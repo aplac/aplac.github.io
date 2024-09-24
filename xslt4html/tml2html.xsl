@@ -359,6 +359,15 @@
 				</xsl:for-each>
 				</div>
 
+				<xsl:if test="franke">
+				    <div>
+				    <xsl:text>Franke ID: </xsl:text>
+				    <xsl:value-of select="franke/@frankeid"/>
+			            </div>
+				</xsl:if>
+				<xsl:if test="franke/frankequite">
+				    <xsl:value-of select="franke/frankequote"/>
+				</xsl:if>
 
 				<xsl:choose>
 
