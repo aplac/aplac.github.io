@@ -50,8 +50,50 @@
 
 				<div>
 
-				<xsl:for-each select="key('byid',$geotop)">
+				<xsl:for-each select="admins/adminsys">
+					<xsl:variable name="admtop" select="./@admtop"/>
+						<xsl:if test="$admtop != $geotop">
+				<xsl:for-each select="key('byid',$admtop)">
+				<xsl:element name="a">
+				<xsl:attribute name="href">
+				<xsl:value-of select="srl"/>
+				</xsl:attribute>
 
+				<h3 class="inv">
+				Top-Entity ID: <xsl:value-of select="$geotop"/>
+				</h3>
+
+				<xsl:if test="names/name">
+				<div>
+				Name: 
+				<xsl:for-each select="names">
+					<xsl:for-each select="name">
+					<xsl:value-of select="."/>
+					<xsl:text>, </xsl:text>
+					</xsl:for-each>
+				</xsl:for-each>
+			        </div>
+				</xsl:if>
+
+				<xsl:if test="types/type">
+				<div>
+				Type: 
+				<xsl:for-each select="types">
+					<xsl:for-each select="type">
+					<xsl:value-of select="."/>
+					<xsl:if test="position() &lt; last()">
+					<xsl:text>, </xsl:text>
+					</xsl:if>
+					</xsl:for-each>
+				</xsl:for-each>
+			        		</div>
+						</xsl:if>
+						</xsl:element>
+						</xsl:for-each>
+					</xsl:if>
+				</xsl:for-each>
+
+				<xsl:for-each select="key('byid',$geotop)">
 				<xsl:element name="a">
 				<xsl:attribute name="href">
 				<xsl:value-of select="srl"/>
@@ -86,7 +128,6 @@
 				</xsl:for-each>
 			        </div>
 				</xsl:if>
-
 				</xsl:element>
 				</xsl:for-each>
 
