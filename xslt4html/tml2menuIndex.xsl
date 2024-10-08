@@ -125,13 +125,9 @@
 				</ul>
 			 	</xsl:if>
 			</div>
-	</xsl:for-each>
 
-
-	<h3>Sub-Projects, Interests and Responsibilities</h3>
-
+		<h3>Sub-Projects, Interests and Responsibilities</h3>
 		<xsl:for-each select="subprojects">
-
 			<xsl:for-each select="project">
 				<div xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xml:base="../../home/oliver/git/aplac.github.io/xslt4html/tml2project.xsl">
 
@@ -239,9 +235,8 @@
 			 	</xsl:if>
 			</div>
 			</xsl:for-each>
-
 		</xsl:for-each>
-
+	</xsl:for-each>
 	<script type="text/javascript" src="https://aplac.github.io/js/leftright.js"/>
 	</body>
 	</html>

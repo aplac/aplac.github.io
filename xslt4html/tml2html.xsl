@@ -48,22 +48,21 @@
 				<div class="inv" xml:base="../../home/oliver/git/aplac.github.io/tml/menu.xml"><a class="inv" href="/tml/index.html">Thakbong</a>: 
 	<a href="/tml/menuLandform.html" class="inv">Landform</a> | <a href="/tml/menuSettlement.html" class="inv">Settlement</a> | <a href="/tml/menuHouse.html" class="inv">Houses</a> | <a href="/tml/menuGarden.html" class="inv">Gardens</a> | <a href="/tml/menuFranke.html" class="inv">Wolfgang Franke</a> | <a href="/tml/menuBell.html" class="inv">Bells</a> | <a href="/tml/menuBangkokHokkien.html" class="inv">Hokkien Cemetery</a> | </div>
 
-				<div class="inv">
+				<div>
 
 				<xsl:for-each select="key('byid',$geotop)">
 
 				<xsl:element name="a">
-				<xsl:attribute name="class">inv</xsl:attribute>
 				<xsl:attribute name="href">
 				<xsl:value-of select="srl"/>
 				</xsl:attribute>
 
-				<div class="inv">
+				<h3 class="inv">
 				Top-Entity ID: <xsl:value-of select="$geotop"/>
-			        </div>
+				</h3>
 
 				<xsl:if test="names/name">
-				<div class="inv">
+				<div>
 				Name: 
 				<xsl:for-each select="names">
 					<xsl:for-each select="name">
@@ -75,7 +74,7 @@
 				</xsl:if>
 
 				<xsl:if test="types/type">
-				<div class="inv">
+				<div>
 				Type: 
 				<xsl:for-each select="types">
 					<xsl:for-each select="type">
@@ -90,14 +89,12 @@
 
 				</xsl:element>
 				</xsl:for-each>
-		</div>
 
 		<div>
 				<h2 class="inv">
 				Entity ID:  
 				<xsl:value-of select="@id"/>
 				</h2>
-				<div>
 				<xsl:text>Name: </xsl:text>
 				<xsl:for-each select="names">
 					<xsl:for-each select="name">
@@ -107,7 +104,6 @@
 			<xsl:if test="position() &lt; last()">, </xsl:if>
 				</xsl:for-each>
 				</xsl:for-each>
-				</div>
 
 				<div>
 				<xsl:for-each select="types">
@@ -321,7 +317,8 @@
 	 </div>
 
 
-	 <xsl:for-each select="key('bysuperid',$entid)">
+	<xsl:for-each select="key('bysuperid',$entid)">
+	<xsl:variable name="subid" select="../@id"/>
 	 <div>
 
 		<xsl:element name="a">
@@ -334,8 +331,6 @@
 			 <xsl:value-of select="../@id"/>
 			 </h3>
 
-	</xsl:element>
-	<xsl:variable name="subid" select="../@id"/>
 
 				<div>
 				<xsl:text>Name: </xsl:text>
@@ -369,6 +364,7 @@
 				    <xsl:value-of select="franke/frankequote"/>
 				</xsl:if>
 
+		</xsl:element>
 				<xsl:choose>
 
 				<xsl:when test="../media">
@@ -420,6 +416,7 @@
 	
 		</div>
 		</xsl:for-each>
+		</div>
 
 	<script type="text/javascript" src="https://aplac.github.io/js/leftright.js"/>
 
