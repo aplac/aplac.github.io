@@ -169,27 +169,27 @@
 			<xsl:if test="position() &lt; last()">,
 				 <xsl:text> </xsl:text>
 			</xsl:if>
-			
-		</xsl:for-each>
+		        </xsl:for-each>
+			<xsl:for-each select="media/img">
 					<xsl:element name="img">
 						<xsl:attribute name="style">
 						<xsl:text>width:20%</xsl:text>
 						</xsl:attribute>
 						<xsl:attribute name="src">
-			https://storage.googleapis.com/<xsl:value-of select="media/img/@url"/>
+			https://storage.googleapis.com/<xsl:value-of select="@url"/>
 						</xsl:attribute>
 						<xsl:attribute name="alt">
 						<xsl:text>The image shows a</xsl:text>
 						</xsl:attribute>
 					</xsl:element>
-				</xsl:element>
-
-			<xsl:if test="media/img/ocr/corrected">
-			<div>
-			<xsl:text>OCR:</xsl:text>
-			<xsl:value-of select="media/img/ocr/corrected"/>
-			</div>
-			</xsl:if>
+				<xsl:if test="ocr/corrected">
+				<div>
+				<xsl:text>OCR:</xsl:text>
+				<xsl:value-of select="ocr/corrected"/>
+				</div>
+				</xsl:if>
+			</xsl:for-each>
+			</xsl:element>
 		</li>
 		</xsl:when>
 		</xsl:choose>

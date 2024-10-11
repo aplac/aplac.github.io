@@ -26,7 +26,7 @@
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 				<link type="text/css" rel="stylesheet" href="https://aplac.github.io/css/all.css"/>
 				<title>
-					ThakBong Entity <xsl:value-of select="@id"/>
+					ThakBong Site <xsl:value-of select="@id"/>
 					<xsl:text>, </xsl:text>
 			<xsl:for-each select="names">
 				<xsl:for-each select="name">
@@ -53,9 +53,9 @@
 			<div>
 
 			<xsl:for-each select="admins/adminsys">
+
 				<xsl:variable name="admtop" select="./@admtop"/>
 				<xsl:if test="$admtop != $geotop">
-
 				<xsl:for-each select="key('byid',$admtop)">
 					<xsl:element name="a">
 					<xsl:attribute name="href">
@@ -458,7 +458,10 @@
 			</xsl:if>
 	 	</xsl:for-each>
 				<xsl:for-each select="key('bysiteid',$entid)">
-					<div>
+					<xsl:element name="div">
+						<xsl:attribute name="id">
+						<xsl:value-of select="../@id"/>
+					        </xsl:attribute>
 					<h2 class="inv">
 						Object ID:  
 						<xsl:value-of select="../@id"/>
@@ -466,6 +469,7 @@
 
 					<xsl:text>Name: </xsl:text>
 
+					<div>
 					<xsl:for-each select="../names">
 						<xsl:for-each select="name">
 						<xsl:element name="span">
@@ -474,6 +478,7 @@
 						<xsl:if test="position() &lt; last()">, </xsl:if>
 						</xsl:for-each>
 					</xsl:for-each>
+					</div>
 
 					<div>
 					<xsl:for-each select="../types">
@@ -603,9 +608,9 @@
 						</xsl:attribute>
 						</xsl:element>
 						</xsl:for-each>
-			 		</div>
+					</div>
 					</xsl:for-each>
-			 		</div>
+				</xsl:element>
 				</xsl:for-each>
 				</div>
 				</body>
