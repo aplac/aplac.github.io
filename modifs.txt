@@ -1,1 +1,1 @@
-The elaborate folder structure has been changed to a flatter structure. All objects are now show together with their sites. A much smaller number of folders is thus created and much space is saved. Files are longer, but probably, information that belongs together is shown in the same file. 
+Changes in the XML, admtop is no longer an attribute, but an element. Data annotation and data correction has been continued. 

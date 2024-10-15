@@ -54,7 +54,7 @@
 
 			<xsl:for-each select="admins/adminsys">
 
-				<xsl:variable name="admtop" select="./@admtop"/>
+				<xsl:variable name="admtop" select="admtop"/>
 				<xsl:if test="$admtop != $geotop">
 				<xsl:for-each select="key('byid',$admtop)">
 					<xsl:element name="a">
