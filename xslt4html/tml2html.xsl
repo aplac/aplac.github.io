@@ -133,8 +133,9 @@
 
 		<div>
 				<h2 class="inv">
-				Site ID:  
 				<xsl:value-of select="@id"/>
+  				<xsl:text>: </xsl:text>
+				<xsl:value-of select="names/name"/>
 				</h2>
 				<xsl:text>Name: </xsl:text>
 				<xsl:for-each select="names">
@@ -367,10 +368,11 @@
 				<xsl:value-of select="../srl"/>
 		</xsl:attribute>
 
-			 <h3 class="inv">
-			 Sub-Site ID:  
-			 <xsl:value-of select="../@id"/>
-			 </h3>
+			<h3 class="inv">
+			<xsl:value-of select="../@id"/>
+  			<xsl:text>: </xsl:text>
+			<xsl:value-of select="../names/name"/>
+			</h3>
 
 
 				<div>
@@ -463,8 +465,9 @@
 						<xsl:value-of select="../@id"/>
 					        </xsl:attribute>
 					<h2 class="inv">
-						Object ID:  
 						<xsl:value-of select="../@id"/>
+  						<xsl:text>: </xsl:text>
+						<xsl:value-of select="../names/name"/>
 					</h2>
 
 					<xsl:text>Name: </xsl:text>
