@@ -9,5 +9,6 @@ pages.push(
 "conferences/drgpa2019.html",
 "conferences/drgpa2021.html",
 "conferences/drgpa2023.html",
+"conferences/drgpa2025.html",
 "conferences/2024KoreanLiteratureAndAsiaKoreaCulturalStudyAssociation.html");
 
