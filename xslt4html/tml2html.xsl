@@ -279,6 +279,7 @@
 						</xsl:for-each>
 					</xsl:for-each>
 
+				<xsl:if test="events">
 				<xsl:for-each select="events">
 		<div>
 		<table>
@@ -341,7 +342,7 @@
 		</xsl:for-each>
 		</table>
 	        </div>
-	 </xsl:for-each>
+	 </xsl:for-each></xsl:if>
 
 				<xsl:for-each select="media">
 					<xsl:for-each select="img/@url">
