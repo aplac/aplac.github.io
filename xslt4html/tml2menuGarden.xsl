@@ -160,10 +160,12 @@
 			<xsl:attribute name="href">
 			<xsl:value-of select="srl"/>
 			</xsl:attribute>
+			<xsl:value-of select="admin/@code"/>
+			<xsl:text>: </xsl:text>
 
 			<xsl:for-each select="communities/community/communityname">
-				<xsl:sort select="script"/>
 				<xsl:sort select="language"/>
+				<xsl:sort select="script"/>
 				<xsl:value-of select="."/>
 			 	<xsl:if test="position() &lt; last()">,
 				<xsl:text> </xsl:text>

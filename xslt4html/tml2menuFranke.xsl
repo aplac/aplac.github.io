@@ -151,6 +151,8 @@
 		<xsl:for-each select="ent">
 			<xsl:sort select="admin/@code"/>
 			<xsl:sort select="geography/pluscode"/>
+			<xsl:sort select="names/name/@language"/>
+			<xsl:sort select="names/name/@script"/>
 			<xsl:sort select="names/name"/>
 
 			<xsl:if test="franke/@frankeid and srl">
@@ -159,13 +161,15 @@
 			<xsl:attribute name="href">
 			<xsl:value-of select="srl"/>
 			</xsl:attribute>
+			<xsl:value-of select="admin/@code"/>
+			<xsl:text>: </xsl:text>
 			<xsl:value-of select="franke/@vol"/>
 			<xsl:text> </xsl:text>
 			<xsl:value-of select="franke/@frankeid"/>
 			<xsl:text> </xsl:text>
 			<xsl:for-each select="names/name">
-				<xsl:sort select="script"/>
 				<xsl:sort select="language"/>
+				<xsl:sort select="script"/>
 				<xsl:value-of select="."/>
 				<xsl:if test="position() &lt; last()">
 					<xsl:text> </xsl:text>

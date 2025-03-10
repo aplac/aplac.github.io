@@ -150,6 +150,8 @@
 			<xsl:sort select="event/material/@color"/>
 			<xsl:sort select="admin/@code"/>
 			<xsl:sort select="geography/pluscode"/>
+			<xsl:sort select="names/name/@language"/>
+			<xsl:sort select="names/name/@script"/>
 			<xsl:sort select="names/name"/>
 
 			<xsl:choose>
@@ -161,9 +163,12 @@
 			<xsl:value-of select="srl"/>
 				</xsl:attribute>
 
+			<xsl:value-of select="admin/@code"/>
+			<xsl:text>: </xsl:text>
+
 			<xsl:for-each select="names/name">
-				<xsl:sort select="script"/>
 				<xsl:sort select="language"/>
+				<xsl:sort select="script"/>
 				<xsl:value-of select="."/>
 
 			<xsl:if test="position() &lt; last()">,
