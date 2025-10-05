@@ -4,7 +4,7 @@ let touchendX = 0
 let touchstartY = 0
 let touchendY = 0
 
-document.write("<div id='menudiv' style='text-align:left;border:2px dotted blue; position:fixed;left:33%;bottom:0;opacity:0.4;font-size:1.5em;padding:2px'></div>");
+document.write("<div id='menudiv' style='text-align:left;border:2px dotted blue; position:fixed;left:33%;bottom:0;opacity:0.4;font-size:1.6em;padding:2px'></div>");
 
 let thispage = window.location.href;
     thispage = thispage.replace(/.*github.io.?/,'');
@@ -95,9 +95,9 @@ document.onkeydown = function(event) {
       };
 
 
-document.write("<br/><br/><br/><br/><br/><br/><br/><div style='border:2px dotted blue;position:fixed;left:0;bottom:0;opacity:0.4;font-size:1.5em;padding:2px'><b><a href='" + fullurl(lurl) + "'>&larr; " + leftlabel + "</a></b></div>");
+document.write("<br/><br/><br/><br/><br/><br/><br/><div style='border:2px dotted blue;position:fixed;left:0;bottom:0;opacity:0.4;font-size:1.6em;padding:2px'><b><a href='" + fullurl(lurl) + "'>&larr; " + leftlabel + "</a></b></div>");
 
-document.write("<div style='border:2px dotted blue;text-align:right;position:fixed;right:0;bottom:0;opacity:0.4;font-size:1.5em;padding:2px'><b><a href='" + fullurl(rurl) + "'>" + rightlabel + " &rarr;</a></b></div>");
+document.write("<div style='border:2px dotted blue;text-align:right;position:fixed;right:0;bottom:0;opacity:0.4;font-size:1.6em;padding:2px'><b><a href='" + fullurl(rurl) + "'>" + rightlabel + " &rarr;</a></b></div>");
 
 
 function menucenter(pagenb) {
@@ -127,8 +127,7 @@ function menucenter(pagenb) {
 
 
 function nicelabel2(mylabel) {
-    mylabel=mylabel.replace('/tml/index.xml','Thakbong: Web');
-    mylabel=mylabel.replace('archives',       'Thakbong: Archives');
+    mylabel=mylabel.replace('tml/index.xml','Thakbong');
     mylabel=mylabel.replace('bibliography',   'APLAC: Bibliography');
     mylabel=mylabel.replace(/.*\//,'').replace('.html','').replace(/([A-Z])/g," $1").replace(/^([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
     mylabel=mylabel.replace('Index','Main Page');
@@ -137,8 +136,7 @@ function nicelabel2(mylabel) {
 }
 
 function nicelabel(mylabel) {
-    mylabel=mylabel.replace('tml/index.xml','Thakbong: Web');
-    mylabel=mylabel.replace('archives','Thakbong: Archives');
+    mylabel=mylabel.replace('tml/index.xml','Thakbong');
     mylabel=mylabel.replace('bibliography','APLAC: Bibliography');
     mylabel=mylabel.replace(/\//,': ').replace('.html','').replace(/([A-Z])/g," $1").replace(/ ([a-z])/,(m,g)=>' ' + g.toUpperCase()) ;
     mylabel=mylabel.replace('index','APLAC: Main Page');

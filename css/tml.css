@@ -55,6 +55,11 @@ name:not(:first-child):before { content: "/ "}
 name:empty + name:not(:empty):before { content : "" }
 name:not(:empty) ~ name:empty + name:not(:empty):before { content : "/ " }
 
+event:empty { display: none }
+event:not(:first-child):before { content: "/ "}
+event:empty + name:not(:empty):before { content : "" }
+event:not(:empty) ~ name:empty + name:not(:empty):before { content : "/ " }
+
 admtop:not(:empty):before { content : " of --> " }
 longitude:not(:empty):before { content : "E" }
 latitude:not(:empty):before { content : "N" }
@@ -146,7 +151,7 @@ ent:hover > ent > ent {
 }
 
 iframe,img {
-  width: 32%;
+  width: 98%;
   loading:lazy;
 }
 
