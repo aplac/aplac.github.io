@@ -1,0 +1,178 @@
+img {
+  width: 30%;
+}
+
+document,thakbong,definitions {
+  font-family: sans-serif;
+  padding: 2em;
+  background-color: white;
+}
+
+hr {
+      background-color: #ccc; /* Light gray line */
+      height: 2px; /* 2 pixels thick */
+    }
+
+ent {
+  margin-top: 2em;
+  padding: 1em;
+  background-color: transparent;
+  transition: display 5s;
+}
+
+name,type {
+  margin: 0em;  
+}
+
+name:not(:first-child) {
+  padding-left: -.3em;  
+}
+type:not(:first-child) {
+  padding-left: -.3em;  
+}
+type:first-child:empty ~ type:not(:empty) {
+  padding-left: 0;  
+}
+name:first-child:empty ~ name:not(:empty) {
+  padding-left: 0;  
+}
+type:first-child:empty ~ type:not(:empty) ~ type:not(:empty) {
+  padding-left: -.3em;  
+}
+name:first-child:empty ~ name:not(:empty) ~ name:not(:empty) {
+  padding-left: -.3em;  
+}
+
+/* comma separated items */
+
+type:empty { display: none }
+type:not(:first-child):before { content: "/ " }
+type:empty + type:not(:empty):before { content : "" }
+type:not(:empty) ~ type:empty + type:not(:empty):before { content : "/ " }
+
+name:empty { display: none }
+name:not(:first-child):before { content: "/ "}
+name:empty + name:not(:empty):before { content : "" }
+name:not(:empty) ~ name:empty + name:not(:empty):before { content : "/ " }
+
+admtop:not(:empty):before { content : " of --> " }
+longitude:not(:empty):before { content : "E" }
+latitude:not(:empty):before { content : "N" }
+affiliation:not(:empty):before { content : "affiliation: " }
+culturaldomain:not(:empty):before { content : "cultural practices: " }
+creator:not(:empty):before { content : "creator: " }
+initiator:not(:empty):before { content : "initiator: " }
+responsible:not(:empty):before { content : "responsible: " }
+examples:not(:empty):before { content : "examples: " }
+definiens:not(:empty):before { content : "definiens: " }
+definiendum:not(:empty):before { content :'definiendum: ' }
+arts:not(:empty):before { content : "arts: " }
+genres:not(:empty):before { content : "genres: " }
+deontics:not(:empty):before { content : "(deontics: " }
+deontics:not(:empty):after { content : ")" }
+epistemics:not(:empty):before { content : "(epistemics: " }
+epistemics:not(:empty):after { content : ")" }
+events:not(:empty):before { content : "events: " }
+
+ent > names,project > name,definitions > name {
+  font-style: italic;
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 2em;
+}
+
+def > definiendum {
+  font-style: italic;
+  display: block;
+  font-size: 1.1em;
+  font-weight: bold;
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+ent > types {
+  font-style: italic;
+  display: block;
+  font-size: 1.2em;
+  color: #333;
+  padding-bottom: 5px;
+}
+
+arts,genres,events,culturaldomain,geography,description,creator,admins,initiator,responsible,project,copyright,def,definiens,examples,affiliation,practice {
+  display: block;
+  padding: 0.5em;
+}
+
+div,admtop,adminname {
+  display: inline;
+  font-style: italic;
+  padding-bottom: 1em;
+}
+
+author {
+  display: none;
+  font-style: italic;
+  color: black;
+  padding-bottom: 1em;
+}
+
+html {
+  display:inline;
+}
+
+iframe {
+  border:none;
+  width:32%;
+  height:20em;
+  display:none;
+  padding:auto;
+  padding-left:2em;
+}
+
+ent > ent > ent{
+  display:none;
+  padding-left: 2em;
+}
+ent:focus > ent > ent {
+  display: block;
+}
+ent:active > ent > ent {
+  display: block;
+}
+ent:hover > ent > ent {
+  display: block;
+}
+
+iframe,img {
+  width: 32%;
+  loading:lazy;
+}
+
+ent > ent > html > iframe {
+  display: none;
+}
+ent:active > ent > html > iframe {
+  display: inline;
+}
+ent:focus > ent > html > iframe {
+  display: inline;
+}
+ent:hover > ent > html > iframe {
+  display: inline;
+}
+
+ent > ent > media > html > img {
+  display:none;
+}
+ent:active > ent > media > html > img {
+  display: inline;
+}
+ent:focus > ent > media > html > img {
+  display: inline;
+}
+ent:hover > ent > media > html > img {
+  display: inline;
+}
+

@@ -1,0 +1,67 @@
+:root { --main-color:#1467a9}
+
+h1,h2,h3,h4 {
+  text-align:center;
+  color:white;
+  background-color:var(--main-color);
+  font-weight:bold;
+  margin:0em;
+  padding:1em}
+
+div {
+  color:var(--main-color);
+  background-color:white;
+  margin:0em;
+  padding:0.5em;
+}
+
+div.inv {
+  color:white;
+  background-color:var(--main-color);
+}
+
+h1.inv,h2.inv,h3.inv,h4.inv {background-color:white;color:var(--main-color)}
+
+img { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+div.centered {
+  text-align: center;
+}
+
+a.code,code {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
+
+code {
+  display: block;
+}
+
+p.abstract {margin:4em;
+            font-weight:bold;
+            padding:0.5%;background-color:white;color:var(--main-color)}
+p {padding:0.5%}
+
+a {border-bottom: 1px dashed var(--main-color);text-decoration:none;color:var(--main-color);background-color:white}
+a:hover {background-color:var(--main-color);color:white}
+a.nohover:hover {background-color:white;color:black}
+div.a:hover {background-color:var(--main-color);color:white}
+div.ainv:hover {color:var(--main-color);background-color:white}
+a.inv:hover {color:var(--main-color);background-color:white}
+div.front {width:75%;min-width:700px;margin:top;text-aligh:top;margin:auto}
+a.inv {border-bottom:1px dashed white;text-decoration:none;background-color:var(--main-color);color:white}
+a.inv:hover {color:var(--main-color);background-color:white}
+input {border-style:outset;color:var(--main-color);background-color:white}
+form {background-color:var(--main-color);color:white}
+input.text:hover {width:900px;font-size:300%;color:var(--main-color);background-color:white}
+h4,h5,h6 {color:white;background-color:var(--main-color);margin:0px}
+/inv
+

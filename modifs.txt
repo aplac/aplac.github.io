@@ -1,0 +1,1 @@
+Changes in the XML, XML is now directly visualized through xslt and css
