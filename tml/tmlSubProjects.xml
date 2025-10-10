@@ -20,7 +20,7 @@
 	   <project id="generals">
 		   <name short="Landform" language="LGENG">Penghu Generals</name>
 		   <responsible>Oliver Streiter, Ya-Qing Zhan and Yoann Goudin</responsible>
-		   <xi:include href="tmlCollaborator.xml" parse="xml"/>
+		   <xi:include href="tmlProjectGeneral.xml" parse="xml"/>
 	   </project>
 	   <project id="landforms">
 		   <name short="Landform" language="LGENG">Geologies, Geographies and Cultures in Southeast Asia</name>
