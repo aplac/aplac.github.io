@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<?xml-stylesheet type="text/css" href="../css/all.css"?>
 <thakbong xmlns:xi="http://www.w3.org/2001/XInclude">
 	<project id="thakbong">
-	<name>Thakbong 讀墓, A Research and Documentation Project at APLAC, the Research Center for Asia Pacific Languages and Cultures</name>
+	<h1>Thakbong 讀墓, A Research and Documentation Project at APLAC, the Research Center for Asia Pacific Languages and Cultures</h1>
 	<creator>Oliver Streiter</creator>
 	<initiator>Oliver Streiter, Yoann Goudin</initiator>
 	<responsible>Oliver Streiter, Yoann Goudin, James X. Morris, Zhan Ya-Qing</responsible>
@@ -22,18 +23,17 @@
 
    </description>
 
-  	<url>https://aplac.github.io//tml/index.html</url>
-
 	<copyright index='CC BY-NC 4.0 Deed'>
 		<name language="LGENG">Attribution-NonCommercial 4.0 International</name>
 		<url>https://creativecommons.org/licenses/by-nc/4.0/</url>
 	</copyright>
 
+	<description><div>
         <xi:include href="tmlDefinitions.xml" parse="xml"/>
+	</div></description>
+   <description><div>
         <xi:include href="tmlSubProjects.xml" parse="xml"/>
-
-   </project>
-
+	</div></description>
 <description><div><xi:include href="tmlDocBelgium.xml" parse="xml"/></div></description>
 <description><div><xi:include href="tmlDocChinaFujian.xml" parse="xml"/></div></description>
 <description><div><xi:include href="tmlDocChina.xml" parse="xml"/></div></description>
@@ -155,7 +155,6 @@
 <description><div><xi:include href="tmlDocThailandBangkokSathon.xml" parse="xml"/></div></description>
 <description><div><xi:include href="tmlDocThailandBangkokThonburi.xml" parse="xml"/></div></description>
 <description><div><xi:include href="tmlDocThailandBangkok.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandChiangMai.xml" parse="xml"/></div></description>
 <description><div><xi:include href="tmlDocThailandChiangRai.xml" parse="xml"/></div></description>
 <description><div><xi:include href="tmlDocThailand.xml" parse="xml"/></div></description>
 <description><div><xi:include href="tmlDocUSAGuam.xml" parse="xml"/></div></description>
@@ -164,4 +163,5 @@
 <description><div><xi:include href="tmlDocUSA.xml" parse="xml"/></div></description>
 <description><div><xi:include href="tmlDocVietnam.xml" parse="xml"/></div></description>
 <description><div><xi:include href="tmlDocWorld.xml" parse="xml"/></div><div>Continents and international organizations.</div><div>各大洲和國際組織。</div></description>
+   </project>
 </thakbong>

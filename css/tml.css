@@ -1,4 +1,4 @@
-document,thakbong,definitions {
+document,thakbong,definitions,subprojects {
   font-family: sans-serif;
   background-color: white;
   padding:2%;
@@ -104,6 +104,7 @@ ent > types {
 community,names,person,arts,genres,events,culturaldomain,geography,description,creator,admins,initiator,responsible,project,copyright,def,definiens,examples,affiliation,practice {
   display: block;
   width: 95%;
+  padding-top: 0.5em;
   padding-bottom: 1em;
 }
 
@@ -125,10 +126,11 @@ iframe {
   padding-left:2%;
 }
 
-ent > ent > ent{
+ent > ent > ent[attr^="s"] {
   display: none;
   padding-left: 2em;
 }
+
 ent:focus > ent > ent {
   display: block;
   width:95%;

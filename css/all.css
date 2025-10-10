@@ -1,6 +1,7 @@
 :root { --main-color:#1467a9}
 
 h1,h2,h3,h4 {
+  display: block;
   text-align:center;
   color:white;
   background-color:var(--main-color);
@@ -14,7 +15,7 @@ div {
   margin:0em;
   background-color:transparent;
   width:95%;
-  padding-left:2%;}
+  padding:2%;}
 
 div.inv {
   color:white;
