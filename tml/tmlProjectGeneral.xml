@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../xslt/projectGenerals.xslt"?>
-<?xml-stylesheet type="text/css" href="../css/tml.css"?>
-<document xmlns:xi="http://www.w3.org/2001/XInclude">
-
-<description><div author="Oliver Streiter">Projects in this collection are virtual files, files that don't exist as such on the server. Instead the project files are views that collect and filter data from a thematic point of view out of a set of dedicated XML files that are organized according to a geographic point of view. This allows to keep the data consistent, with the data stored and modified only once in the geographically organized file. This arrangement has a number of consequences for the user. First, the loading of these files might take longer, as a set of geographical data files are sent to your browser and your browser has to filter theme, to compose a thematic view that ultimately describes the project. Second, in order to modify or enrich the data you find in the project view, you have to navigate to the data in the geographic file, the place where the piece of information actually resides. To facilitate this, we provide links pointing back to the original data.</div></description>
-
-<project>
-</project>
-
-</document>
-
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="../xslt/projectGenerals.xslt"?><?xml-stylesheet type="text/css" href="../css/tml.css"?><document xmlns:xi="http://www.w3.org/2001/XInclude"><description><div author="Oliver Streiter">Projects in this collection are virtual files, files that don't exist as such on the server. Instead the project files are views that collect and filter data from a thematic point of view out of a set of dedicated XML files that are organized according to a geographic point of view. This allows to keep the data consistent, with the data stored and modified only once in the geographically organized file. This arrangement has a number of consequences for the user. First, the loading of these files might take longer, as a set of geographical data files are sent to your browser and your browser has to filter theme, to compose a thematic view that ultimately describes the project. Second, in order to modify or enrich the data you find in the project view, you have to navigate to the data in the geographic file, the place where the piece of information actually resides. To facilitate this, we provide links pointing back to the original data.</div></description><ent></ent></document>
