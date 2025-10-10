@@ -11,10 +11,8 @@
 
   <xsl:template match="ent">
     <ent>
-    <hr style="color:silver"/>
     <html xmlns="http://www.w3.org/1999/xhtml">
-    <hr/>
-    <h2 style="color:silver;text-decoration-line:underline;margin-bottom:1em"> (id: <xsl:value-of select="@id"/>)</h2>
+    <h2> (id: <xsl:value-of select="@id"/>) </h2>
     </html>
     <xsl:copy>
 	    <xsl:apply-templates select="./@*|./node()"/>
@@ -47,7 +45,7 @@
   </xsl:template>
 
   <xsl:template match="xi:include">
-    <html style="display:block" xmlns="http://www.w3.org/1999/xhtml">
+    <html xmlns="http://www.w3.org/1999/xhtml">
        <xsl:element name="a">
            <xsl:attribute name="href">
                <xsl:value-of select="@href"/>
@@ -62,6 +60,9 @@
        <xsl:element name="img">
            <xsl:attribute name="src">
                <xsl:value-of select="concat('https://storage.googleapis.com/thakbong/fieldwork',@url)"/>
+           </xsl:attribute>
+           <xsl:attribute name="title">
+               <xsl:value-of select="@url"/>
            </xsl:attribute>
        </xsl:element>
     </html>

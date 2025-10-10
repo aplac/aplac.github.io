@@ -6,14 +6,15 @@ h1,h2,h3,h4 {
   background-color:var(--main-color);
   font-weight:bold;
   margin:0em;
-  padding:1em}
+  padding:2%;
+  width:95%;}
 
 div {
   color:var(--main-color);
-  background-color:white;
   margin:0em;
-  padding:0.5em;
-}
+  background-color:transparent;
+  width:95%;
+  padding-left:2%;}
 
 div.inv {
   color:white;
@@ -24,9 +25,9 @@ h1.inv,h2.inv,h3.inv,h4.inv {background-color:white;color:var(--main-color)}
 
 img { 
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  margin:0em;
+  width:95%;
+  padding-left:2%;}
 }
 
 div.centered {
@@ -37,11 +38,12 @@ a.code,code {
   font-family: Consolas,"courier new";
   color: crimson;
   background-color: #f1f1f1;
-  padding: 2px;
-  font-size: 105%;
+  padding: 2%;
+  font-size: 95%;
 }
 
 code {
+  margin:0em;
   display: block;
 }
 

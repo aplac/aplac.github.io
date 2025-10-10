@@ -1,22 +1,15 @@
-img {
-  width: 30%;
-}
-
 document,thakbong,definitions {
   font-family: sans-serif;
-  padding: 2em;
   background-color: white;
+  padding:2%;
+  width:95%;
 }
 
-hr {
-      background-color: #ccc; /* Light gray line */
-      height: 2px; /* 2 pixels thick */
-    }
-
 ent {
-  margin-top: 2em;
-  padding: 1em;
   background-color: transparent;
+  margin-left:2%;
+  padding:0em;
+  width:95%;
   transition: display 5s;
 }
 
@@ -74,53 +67,49 @@ definiens:not(:empty):before { content : "definiens: " }
 definiendum:not(:empty):before { content :'definiendum: ' }
 arts:not(:empty):before { content : "arts: " }
 genres:not(:empty):before { content : "genres: " }
-deontics:not(:empty):before { content : "(deontics: " }
+deontics:not(:empty):before { content : " (deontics/normative: " }
 deontics:not(:empty):after { content : ")" }
-epistemics:not(:empty):before { content : "(epistemics: " }
+epistemics:not(:empty):before { content : " (epistemics/descriptive: " }
 epistemics:not(:empty):after { content : ")" }
 events:not(:empty):before { content : "events: " }
 
 ent > names,project > name,definitions > name {
   font-style: italic;
   display: block;
+  width:95%;
   font-size: 1.2em;
   font-weight: bold;
   padding-top: 5px;
-  padding-bottom: 2em;
 }
 
 def > definiendum {
   font-style: italic;
   display: block;
+  padding: 2%;
+  width:95%;
   font-size: 1.1em;
   font-weight: bold;
-  padding-top: 2em;
-  padding-bottom: 1em;
 }
 
 ent > types {
   font-style: italic;
   display: block;
+  padding: 2%;
+  width:95%;
   font-size: 1.2em;
   color: #333;
   padding-bottom: 5px;
 }
 
-person,arts,genres,events,culturaldomain,geography,description,creator,admins,initiator,responsible,project,copyright,def,definiens,examples,affiliation,practice {
+community,names,person,arts,genres,events,culturaldomain,geography,description,creator,admins,initiator,responsible,project,copyright,def,definiens,examples,affiliation,practice {
   display: block;
-  padding: 0.5em;
-}
-
-div,admtop,adminname {
-  display: inline;
-  font-style: italic;
+  width: 95%;
   padding-bottom: 1em;
 }
 
-author {
-  display: none;
+admtop,adminname {
+  display: inline;
   font-style: italic;
-  color: black;
   padding-bottom: 1em;
 }
 
@@ -130,29 +119,35 @@ html {
 
 iframe {
   border:none;
-  width:32%;
+  width:95%;
   height:20em;
   display:none;
-  padding:auto;
-  padding-left:2em;
+  padding-left:2%;
 }
 
 ent > ent > ent{
-  display:none;
+  display: none;
   padding-left: 2em;
 }
 ent:focus > ent > ent {
   display: block;
+  width:95%;
+  padding-left: 2%;
 }
 ent:active > ent > ent {
   display: block;
+  width:95%;
+  padding-left: 2%;
 }
 ent:hover > ent > ent {
   display: block;
+  width:95%;
+  padding-left: 2em;
 }
 
 iframe,img {
-  width: 98%;
+  width:95%;
+  padding-left: 2em;
   loading:lazy;
 }
 
@@ -171,14 +166,18 @@ ent:hover > ent > html > iframe {
 
 ent > ent > media > html > img {
   display:none;
+  height: 10em;
 }
 ent:active > ent > media > html > img {
   display: inline;
+  height: 100%;
 }
 ent:focus > ent > media > html > img {
   display: inline;
+  height: 100%;
 }
 ent:hover > ent > media > html > img {
   display: inline;
+  height: 100%;
 }
 
