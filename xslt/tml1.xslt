@@ -22,6 +22,19 @@
     </ent>
   </xsl:template>
 
+  <xsl:template match="event">
+        <xsl:if test="@type">
+        <xsl:value-of select="@type"/>,
+        gregorian calendar: <xsl:value-of select="@day"/>
+        <xsl:if test="@lunar">
+        (lunar calendar: <xsl:value-of select="@lunar"/>)
+        </xsl:if>
+        <xsl:if test="@timefrom">
+        <xsl:value-of select="@timefrom"/> -- <xsl:value-of select="@timeto"/>
+        </xsl:if>;
+        </xsl:if>
+  </xsl:template>
+
   <xsl:template match="types">
     <xsl:element name="a">
        <xsl:attribute name="id">
@@ -59,7 +72,7 @@
       <html xmlns="http://www.w3.org/1999/xhtml">
       <xsl:element name="iframe">
         <xsl:attribute name="src">
-        <xsl:value-of select="concat('https://www.openstreetmap.org/export/embed.html?layer=mapnik&amp;marker=',latitude,'%2C',longitude,'&amp;bbox=')"/><xsl:value-of select="longitude - 0.3"/>%2C<xsl:value-of select="latitude - 0.3"/>%2C<xsl:value-of select="longitude + 0.3"/>%2C<xsl:value-of select="latitude + 0.3"/>
+        <xsl:value-of select="concat('https://www.openstreetmap.org/export/embed.html?layer=mapnik&amp;marker=',latitude,'%2C',longitude,'&amp;bbox=')"/><xsl:value-of select="longitude - 0.2"/>%2C<xsl:value-of select="latitude - 0.2"/>%2C<xsl:value-of select="longitude + 0.2"/>%2C<xsl:value-of select="latitude + 0.2"/>
         </xsl:attribute>
       </xsl:element>
       </html>
