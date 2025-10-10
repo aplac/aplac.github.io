@@ -106,7 +106,7 @@ ent > types {
   padding-bottom: 5px;
 }
 
-arts,genres,events,culturaldomain,geography,description,creator,admins,initiator,responsible,project,copyright,def,definiens,examples,affiliation,practice {
+person,arts,genres,events,culturaldomain,geography,description,creator,admins,initiator,responsible,project,copyright,def,definiens,examples,affiliation,practice {
   display: block;
   padding: 0.5em;
 }

@@ -3,7 +3,7 @@
 
   <xsl:include href="tml1.xslt"/>
 
-  <xsl:variable name="Vpenghu" select="document('../data/tmlDocBelgium.xml')"/>
+  <xsl:variable name="Vpenghu" select="document('../tml/tmlDocBelgium.xml')"/>
 
   <xsl:template match="document">
         <document>

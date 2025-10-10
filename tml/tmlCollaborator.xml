@@ -3,30 +3,30 @@
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
    <collaborator xmlns:xi="http://www.w3.org/2001/XInclude">
 
-      <person id="con10" alias="JamesX"><name>莫詹姆</name><name>James Xavier MORRIS</name></person>
-      <person id="con11" alias="Sara"><name>王雨庭</name><name>Sara Yuting WANG</name></person>
-      <person id="con12" alias="Jixiong"><name>劉吉雄</name><name>LIU Jixiong</name></person>
-      <person id="con13" alias="PierreV"><name>Pierre Vendassi</name></person>
-      <person id="con14" alias="Uibun"><name>蔣為文</name><name>Wi-Vun Taiffalo CHIUNG</name></person>
-      <person id="con15" alias="Ya-Qing"><name>詹雅晴</name><name>Ya-Qing ZHAN</name></person>
-      <person id="con16" alias="Ares"><name>湯淨</name><name>Ares Jing TANG</name></person>
-      <person id="con17" alias="Tammy"><name>劉依婷</name><name>Tammy Yiting LIU</name></person>
-      <person id="con18" alias="Mandy"><name></name><name>Mandy TO</name></person>
-      <person id="con19" alias="Marit"><name></name><name>Marit HAIGHTON</name></person>
-      <person id="con1"  alias="Oliver"><name>奧利華</name><name>Oliver STREITER</name></person>
-      <person id="con21" alias="Tammy"><name>劉依婷</name><name>Tammy Yiting LIU</name></person>
-      <person id="con2" alias="Yoann"><name>顧友友</name><name>Yoann GOUDIN</name></person>
-      <person id="con3" alias="Meifang"><name>林美芳</name><name>Ann Meifang LIN</name></person>
-      <person id="con4" alias="Linda"><name>艾琳達</name><name>Linda Gail ARRIGO</name></person>
-      <person id="con5" alias="Jimmy"><name>黃駿</name><name>Chun (Jimmy) HUANG</name></person>
-      <person id="con6" alias="Sandy"><name>嚴可芮</name><name>Sandy Ko-jui YAN</name></person>
-      <person id="con7" alias="Naiyu"><name>陳乃瑜</name><name>Nai-yu CHEN</name></person>
-      <person id="con8" alias="Lilun"><name>林莉倫</name><name>Sandy Li-lun LIN</name></person>
-      <person id="con9" alias="Leonhard"><name>獅心</name><name>Leonhard VOLTMER</name></person>
-      <person id="con20" alias="Fay"><name>施宣妃</name><name>Fay SHI</name></person>
-      <person id="con22" alias="WFranke"><name></name><name>Wolfgang FRANKE</name></person>
-      <person id="con24" alias="Lenno"><name>史樂暖</name><name>Lenno STREITER</name></person>
-      <person id="con23" alias="Lisa"><name>史郞素</name><name>Lisa STREITER</name></person>
-      <person id="con25" alias="KH"><name>高雄市政府</name><name>Kaohsiung City</name></person>
+      <person id="con10" alias="JamesX"><names><name>莫詹姆</name></names><name>James Xavier MORRIS</name></person>
+      <person id="con11" alias="Sara"><names><name>王雨庭</name></names><name>Sara Yuting WANG</name></person>
+      <person id="con12" alias="Jixiong"><names><name>劉吉雄</name></names><name>LIU Jixiong</name></person>
+      <person id="con13" alias="PierreV"><names><name>Pierre Vendassi</name></names></person>
+      <person id="con14" alias="Uibun"><names><name>蔣為文</name></names><name>Wi-Vun Taiffalo CHIUNG</name></person>
+      <person id="con15" alias="Ya-Qing"><names><name>詹雅晴</name></names><name>Ya-Qing ZHAN</name></person>
+      <person id="con16" alias="Ares"><names><name>湯淨</name></names><name>Ares Jing TANG</name></person>
+      <person id="con17" alias="Tammy"><names><name>劉依婷</name></names><name>Tammy Yiting LIU</name></person>
+      <person id="con18" alias="Mandy"><names><name></name></names><name>Mandy TO</name></person>
+      <person id="con19" alias="Marit"><names><name></name></names><name>Marit HAIGHTON</name></person>
+      <person id="con1"  alias="Oliver"><names><name>奧利華</name></names><name>Oliver STREITER</name></person>
+      <person id="con21" alias="Tammy"><names><name>劉依婷</name></names><name>Tammy Yiting LIU</name></person>
+      <person id="con2" alias="Yoann"><names><name>顧友友</name></names><name>Yoann GOUDIN</name></person>
+      <person id="con3" alias="Meifang"><names><name>林美芳</name></names><name>Ann Meifang LIN</name></person>
+      <person id="con4" alias="Linda"><names><name>艾琳達</name></names><name>Linda Gail ARRIGO</name></person>
+      <person id="con5" alias="Jimmy"><names><name>黃駿</name></names><name>Chun (Jimmy) HUANG</name></person>
+      <person id="con6" alias="Sandy"><names><name>嚴可芮</name></names><name>Sandy Ko-jui YAN</name></person>
+      <person id="con7" alias="Naiyu"><names><name>陳乃瑜</name></names><name>Nai-yu CHEN</name></person>
+      <person id="con8" alias="Lilun"><names><name>林莉倫</name></names><name>Sandy Li-lun LIN</name></person>
+      <person id="con9" alias="Leonhard"><names><name>獅心</name></names><name>Leonhard VOLTMER</name></person>
+      <person id="con20" alias="Fay"><names><name>施宣妃</name></names><name>Fay SHI</name></person>
+      <person id="con22" alias="WFranke"><names><name></name></names><name>Wolfgang FRANKE</name></person>
+      <person id="con24" alias="Lenno"><names><name>史樂暖</name></names><name>Lenno STREITER</name></person>
+      <person id="con23" alias="Lisa"><names><name>史郞素</name></names><name>Lisa STREITER</name></person>
+      <person id="con25" alias="KH"><names><name>高雄市政府</name></names><name>Kaohsiung City</name></person>
 
    </collaborator>
