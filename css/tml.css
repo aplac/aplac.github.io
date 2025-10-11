@@ -126,7 +126,7 @@ iframe {
   padding-left:2%;
 }
 
-ent > ent > ent[attr^="s"] {
+ent > ent > ent {
   display: none;
   padding-left: 2em;
 }
