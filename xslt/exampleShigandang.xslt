@@ -10,7 +10,7 @@
 
   <xsl:template match="document/project">
         <project>
-		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Bangkok</h2><hr/><a href="../tml/tmlDocThailandBangkok.xml.xml" parse="xml">tmlDocThailandBangkok.xml.xml</a></html><xsl:apply-templates select="$V1//ent[starts-with(@id,'o') and types/type='shigandang']"/>
+		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Bangkok</h2><hr/><a href="../tml/tmlDocThailandBangkok.xml" parse="xml">tmlDocThailandBangkok.xml</a></html><xsl:apply-templates select="$V1//ent[starts-with(@id,'o') and types/type='shigandang']"/>
 
 		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Okinawa</h2><hr/><a href="../tml/tmlDocJapanOkinawa.xml" parse="xml">tmlDocJapanOkinawa.xml</a></html><xsl:apply-templates select="$V2//ent[starts-with(@id,'o') and types/type='shigandang']"/>
 

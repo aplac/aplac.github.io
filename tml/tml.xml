@@ -4,11 +4,16 @@
 <?xml-stylesheet type="text/css" href="../css/all.css"?>
 <thakbong xmlns:xi="http://www.w3.org/2001/XInclude">
 	<project id="thakbong">
-	<h1>Thakbong 讀墓, A Research and Documentation Project at APLAC, the Research Center for Asia Pacific Languages and Cultures</h1>
+	<name>Thakbong 讀墓, A Research and Documentation Project at APLAC, the Research Center for Asia Pacific Languages and Cultures</name>
 	<creator>Oliver Streiter</creator>
 	<initiator>Oliver Streiter, Yoann Goudin</initiator>
 	<responsible>Oliver Streiter, Yoann Goudin, James X. Morris, Zhan Ya-Qing</responsible>
+	<description>
 	<xi:include href="tmlCollaborator.xml" parse="xml"/>
+        </description>
+	<description>
+	<xi:include href="tmlContributor.xml" parse="xml"/>
+        </description>
 	<description>
 		<h2>Thakbong, Defining the Undefinable</h2>
 		<div author="Oliver">The Thakbong project is an open-ended project, which in its current stage can best be described as a digital endeavor to document, archive and research epigraphy in the Taiwan Strait and beyond. The documentation consist of primary data, mostly photos, and secondary data, which are derived through the annotation of the photos. This data set contains the secondary data. The primary data, the photos, are linked from this file to their current repository in the cloud.
@@ -23,145 +28,22 @@
 
    </description>
 
+	<description><div>
+        <xi:include href="tmlDefinitions.xml" parse="xml"/>
+	Attempts to clarify what you find in the dataset.
+	</div></description>
+   <description><div>
+        <xi:include href="tmlSubProjects.xml" parse="xml"/>
+	Virtual sub-divisions of the Thakbong data set for research and rapid overviews.
+	</div></description>
+   <description><div>
+        <xi:include href="tmlSiteMap.xml" parse="xml"/>
+	Access all XML-files of the Thakbong project.
+	</div></description>
 	<copyright index='CC BY-NC 4.0 Deed'>
 		<name language="LGENG">Attribution-NonCommercial 4.0 International</name>
 		<url>https://creativecommons.org/licenses/by-nc/4.0/</url>
 	</copyright>
 
-	<description><div>
-        <xi:include href="tmlDefinitions.xml" parse="xml"/>
-	</div></description>
-   <description><div>
-        <xi:include href="tmlSubProjects.xml" parse="xml"/>
-	</div></description>
-<description><div><xi:include href="tmlDocBelgium.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocChinaFujian.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocChina.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocCzechia.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocEngland.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocFrance.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocGermany.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocHongKongMuslim.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocHongKong.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocIndia.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocIndonesia.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocItaly.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocJapanKagoshima.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocJapanOkinawaIshigaki.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocJapanOkinawa.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocJapan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocKazakstan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocKorea.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocLaos.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocLuxemburg.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocMacao.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocMalaysia.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocNetherlands.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocPhilippines.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocQingDynasty.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocSingapore.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocSriLanka.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanChiayi.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanHualian.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanJilong.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanJinmen.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiungEALiao.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiungFudingjinMuslimSection1.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiungFudingjinMuslimSection2.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiungFudingjinSectionA.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiungFudingjinSectionB.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiungFudingjinSectionC.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiungFudingjinSectionD.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiungFudingjin.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiungNiaosong.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanKaohsiung.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanMazu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanMiaoli.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanNantou.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuBaisha.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuChutou.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuDachang.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuDongji.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuGulangyu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuGupoyu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuHuayu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuHujin.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuJiangjunao.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuJibei.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuMudou.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuNiaoyu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuQimei.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuTongpan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuWangan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuXiaomen.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuXiji.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuXiyupingyu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuXiyu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPenghuYuanbei.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanPingdong.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTaibeiFudeMuslim.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTaibeiFude.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTaibeiNingboTongxianghui.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTaibei.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTaibeiZhongshanFirstCemetery.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTaidong.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanAnding.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanAnnan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanAnping.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanCatholicNanning.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanCityMuseum.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanDanei.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanDongqu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanFahua.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanGuanmiao.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanGuanziling.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanGuidan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanMamiao.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanNanshanBeyondBridge.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanNanshanCenter.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanNanshanEast.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanNanshanNorthwest.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanNanshanNorth.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanNanshanSouthwest.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanNanshanSouth.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanNanshanWest.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanNanshan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanProtestant.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanShanshang.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanXinhua.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanYanshui.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanYongkang.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTainanYujin.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTaizhong.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTaoyuan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanTemplate.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanXinbei.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanXindian.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanXinzhu.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanYilan.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanYunlin.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocTaiwanZhanghua.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandAyutthaya.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkokBangRakChristianCemetery.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkokBangRakHakkaCemetery.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkokBangRakHokkienCemetery.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkokBangRak.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkokPomPrapSattruPhai.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkokSamphanthawong.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkokSathonChaozhouCemetery.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkokSathon.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkokThonburi.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandBangkok.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailandChiangRai.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocThailand.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocUSAGuam.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocUSAHawaii.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocUSAPuertoRico.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocUSA.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocVietnam.xml" parse="xml"/></div></description>
-<description><div><xi:include href="tmlDocWorld.xml" parse="xml"/></div><div>Continents and international organizations.</div><div>各大洲和國際組織。</div></description>
    </project>
 </thakbong>

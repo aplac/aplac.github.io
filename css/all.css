@@ -56,6 +56,10 @@ p {padding:0.5%}
 a {border-bottom: 1px dashed var(--main-color);text-decoration:none;color:var(--main-color);background-color:white}
 a:hover {background-color:var(--main-color);color:white}
 a.nohover:hover {background-color:white;color:black}
+
+h1 > a,h2 > a,h3 > a,h4 > a,h5 > a,h6 > a {border-bottom: 1px dashed white;text-decoration:none;color:white;background-color:var(--main-color)}
+h1 > a:hover,h2 > a:hover,h3 > a:hover,h4 > a:hover,h5 > a:hover,h6 > a:hover {border-bottom: 1px dashed var(--main-color);text-decoration:none;color:var(--main-color);background-color:white}
+
 div.a:hover {background-color:var(--main-color);color:white}
 div.ainv:hover {color:var(--main-color);background-color:white}
 a.inv:hover {color:var(--main-color);background-color:white}

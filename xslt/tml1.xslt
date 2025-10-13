@@ -9,16 +9,40 @@
     </xsl:copy>
   </xsl:template>
 
+<xsl:template match="thakbong/project/name">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <h1><a href="tml.xml">Thakbong 讀墓, A Research and Documentation Project at APLAC, the Research Center for Asia Pacific Languages and Culture</a></h1>
+    </html>
+</xsl:template>
+
+
+<xsl:template match="definitions/name">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <h1><a href="tml.xml">Thakbong 讀墓, A Research and Documentation Project at APLAC, the Research Center for Asia Pacific Languages and Culture</a></h1>
+    <h2><xsl:value-of select="."/></h2>
+    </html>
+  </xsl:template>
+
+
+<xsl:template match="sitemap/name">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <h1><a href="tml.xml">Thakbong 讀墓, A Research and Documentation Project at APLAC, the Research Center for Asia Pacific Languages and Culture</a></h1>
+    <h2><xsl:value-of select="."/></h2>
+    </html>
+  </xsl:template>
+
+
   <xsl:template match="ent">
     <ent>
     <html xmlns="http://www.w3.org/1999/xhtml">
-    <h2> (id: <xsl:value-of select="@id"/>) </h2>
+    <h3> (id: <xsl:value-of select="@id"/>) </h3>
     </html>
     <xsl:copy>
 	    <xsl:apply-templates select="./@*|./node()"/>
     </xsl:copy>
     </ent>
   </xsl:template>
+
 
   <xsl:template match="event">
         <xsl:if test="@type">

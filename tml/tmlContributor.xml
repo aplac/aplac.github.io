@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
+<?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<?xml-stylesheet type="text/css" href="../css/all.css"?>
+   <collaborator xmlns:xi="http://www.w3.org/2001/XInclude">
+
+      <person id="con12" alias="Jixiong"><names><name>劉吉雄</name></names><name>LIU Jixiong</name></person>
+      <person id="con13" alias="PierreV"><names><name>Pierre Vendassi</name></names></person>
+      <person id="con14" alias="Uibun"><names><name>蔣為文</name></names><name>Wi-Vun Taiffalo CHIUNG</name></person>
+      <person id="con19" alias="Marit"><names><name></name></names><name>Marit HAIGHTON</name></person>
+      <person id="con22" alias="WFranke"><names><name></name></names><name>Wolfgang FRANKE</name></person>
+      <person id="con25" alias="KH"><names><name>高雄市政府</name></names><name>Kaohsiung City</name></person>
+
+   </collaborator>
