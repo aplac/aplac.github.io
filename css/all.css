@@ -25,10 +25,9 @@ div.inv {
 h1.inv,h2.inv,h3.inv,h4.inv {background-color:white;color:var(--main-color)}
 
 img { 
-  display: block;
+  border:1px dashed var(--main-color);
   margin:0em;
-  width:95%;
-  padding-left:2%;}
+  }
 }
 
 div.centered {

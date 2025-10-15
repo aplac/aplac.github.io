@@ -11,7 +11,7 @@
 
 		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Belgium</h2><hr/><a href="../tml/tmlDocBelgium.xml" parse="xml">tmlDocBelgium.xml</a></html><xsl:apply-templates select="$V1//ent/media[starts-with(../@id,'o') and ../sem/fig/motifs/motif='broken column']"/>
 
-		<html xmlns="http://www.w3.org/1999/xhtml"><h2>HongKong</h2><hr/><a href="../tml/tmlDocHongKong.xml" parse="xml">tmlDocHongKong.xml</a></html><xsl:apply-templates select="$V2//ent[starts-with(@id,'o') and sem/fig/motifs/motif='broken column']"/>
+		<html xmlns="http://www.w3.org/1999/xhtml"><h2>HongKong</h2><hr/><a href="../tml/tmlDocHongKong.xml" parse="xml">tmlDocHongKong.xml</a></html><xsl:apply-templates select="$V2//ent/media[starts-with(../@id,'o') and ../sem/fig/motifs/motif='broken column']"/>
 
         </project>
   </xsl:template>

@@ -148,8 +148,9 @@ ent:hover > ent > ent {
 }
 
 iframe,img {
-  width:95%;
-  padding-left: 2em;
+  height:200px;
+  width:200px;
+  display:inline;
   loading:lazy;
 }
 
@@ -164,22 +165,5 @@ ent:focus > ent > html > iframe {
 }
 ent:hover > ent > html > iframe {
   display: inline;
-}
-
-ent > ent > media > html > img {
-  display:none;
-  height: 10em;
-}
-ent:active > ent > media > html > img {
-  display: inline;
-  height: 100%;
-}
-ent:focus > ent > media > html > img {
-  display: inline;
-  height: 100%;
-}
-ent:hover > ent > media > html > img {
-  display: inline;
-  height: 100%;
 }
 
