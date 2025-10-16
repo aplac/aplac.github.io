@@ -5,7 +5,7 @@
 
   <xsl:template match="@*|node()">
     <xsl:copy>
-      <xsl:apply-templates select="@*|node()"/>
+	<xsl:apply-templates select="@*|node()[not(self::normalization)]"/>
     </xsl:copy>
   </xsl:template>
 
@@ -35,10 +35,20 @@
   <xsl:template match="ent">
     <ent>
     <html xmlns="http://www.w3.org/1999/xhtml">
-    <h3> (id: <xsl:value-of select="@id"/>) </h3>
+    <h3> 
+         <xsl:attribute name="title">
+             <xsl:value-of select="@id"/>
+         </xsl:attribute>
+         <xsl:copy>
+	 <xsl:apply-templates select="names"/>
+         </xsl:copy>
+         <xsl:copy>
+	 <xsl:apply-templates select="types"/>
+         </xsl:copy>
+    </h3>
     </html>
     <xsl:copy>
-	    <xsl:apply-templates select="./@*|./node()"/>
+	 <xsl:apply-templates select="./@*|./node()[not(self::names) and not(self::types) and not(self::communities)]"/>
     </xsl:copy>
     </ent>
   </xsl:template>
