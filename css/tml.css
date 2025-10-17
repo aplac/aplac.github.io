@@ -3,8 +3,8 @@
 document,thakbong,definitions,subprojects {
   font-family: sans-serif;
   background-color: white;
-  padding:2%;
-  width:95%;
+  width:100%;
+  display:flex;
 }
 
 ent,sitemap {
@@ -12,7 +12,7 @@ ent,sitemap {
   background-color: transparent;
   margin-left:2%;
   padding:0em;
-  width:95%;
+  flex-grow:1;
   transition: display 5s;
 }
 
@@ -84,7 +84,7 @@ events:not(:empty):before { content : "events: " }
 project > name,definitions > name {
   font-style: italic;
   display: block;
-  width:95%;
+  flex-grow:1;
   font-size: 1.2em;
   font-weight: bold;
   padding-top: 5px;
@@ -94,14 +94,13 @@ def > definiendum {
   font-style: italic;
   display: block;
   padding: 2%;
-  width:95%;
+  flex-grow:1;
   font-size: 1.1em;
   font-weight: bold;
 }
 
 types,names,keywords,text,person,arts,genres,events,culturaldomain,geography,description,creator,admins,initiator,responsible,project,copyright,def,definiens,examples,affiliation,practice {
-  display: block;
-  width: 95%;
+  flex-grow:1;
   padding-bottom: 0.5em;
 }
 
@@ -122,19 +121,19 @@ ent > ent > ent {
 }
 
 ent:focus > ent > ent {
-  display: block;
-  width:95%;
+  flex-grow:1;
   padding-left: 2%;
+  display:block;
 }
 ent:active > ent > ent {
-  display: block;
-  width:95%;
+  flex-grow:1;
   padding-left: 2%;
+  display:block;
 }
 ent:hover > ent > ent {
-  display: block;
-  width:95%;
+  flex-grow:1;
   padding-left: 2em;
+  display:block;
 }
 
 iframe,img {
