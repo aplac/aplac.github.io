@@ -99,10 +99,18 @@ def > definiendum {
   font-weight: bold;
 }
 
-types,names,keywords,text,person,arts,genres,events,culturaldomain,geography,description,creator,admins,initiator,responsible,project,copyright,def,definiens,examples,affiliation,practice {
-  flex-grow:1;
+types,names,keywords,text,person,arts,genres,events,culturaldomain,geography,creator,admins,initiator,responsible,project,def,definiens,examples,affiliation,practice {
+  display: block;
   padding-bottom: 0.5em;
+  color:var(--main-color);
 }
+
+copyright{
+  display: block;
+  padding-bottom: 1.5em;
+  color:var(--main-color);
+}
+
 
 admtop,adminname,transcription,keyword {
   display: inline;
@@ -120,11 +128,24 @@ ent > ent > ent {
   padding-left: 2em;
 }
 
+description {
+  flex-grow:1;
+  display:block;
+  padding-left: 1em;
+}
+
+description > div {
+  flex-grow:1;
+  display:block;
+  padding-left: 1em;
+}
+
 ent:focus > ent > ent {
   flex-grow:1;
   padding-left: 2%;
   display:block;
 }
+
 ent:active > ent > ent {
   flex-grow:1;
   padding-left: 2%;

@@ -1,5 +1,9 @@
 :root { --main-color:#1467a9}
 
+body {
+  width:100%;
+}
+
 h1,h2,h3,h4 {
   display: block;
   text-align:center;
