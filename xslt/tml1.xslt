@@ -56,23 +56,39 @@
 
   <xsl:template match="event">
         <xsl:if test="@type">
+	<event>
         <xsl:value-of select="@type"/>,
-        gregorian calendar: <xsl:value-of select="@day"/>
+        gregorian: <xsl:value-of select="@day"/>
         <xsl:if test="@lunar">
-        (lunar calendar: <xsl:value-of select="@lunar"/>)
+        (lunar: <xsl:value-of select="@lunar"/>)
         </xsl:if>
         <xsl:if test="@timefrom">
         <xsl:value-of select="@timefrom"/> -- <xsl:value-of select="@timeto"/>
         </xsl:if>;
+        </event>
         </xsl:if>
   </xsl:template>
 
-  <xsl:template match="types">
+  <xsl:template match="motif[text()='broken column']">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <xsl:element name="a">
+       <xsl:attribute name="href">
+	       <xsl:value-of select="concat('tmlDefinitions.xml','#brokenColumn')"/>
+         </xsl:attribute>
+	     <xsl:value-of select="."/>
+    </xsl:element>
+    </html>
+  </xsl:template>
+
+
+  <xsl:template match="types|definiendum">
+    <html xmlns="http://www.w3.org/1999/xhtml">
     <xsl:element name="a">
        <xsl:attribute name="id">
           <xsl:value-of select="../@id"/>
        </xsl:attribute>
     </xsl:element>
+    </html>
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>

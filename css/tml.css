@@ -1,13 +1,13 @@
 :root { --main-color:#1467a9}
 
-document,thakbong,definitions,subprojects {
+document,thakbong,subprojects,project {
   font-family: sans-serif;
   background-color: white;
   width:100%;
   display:flex;
 }
 
-ent,sitemap {
+ent,sitemap,definitions {
   border-left:1px dashed var(--main-color);
   background-color: transparent;
   margin-left:2%;
@@ -57,11 +57,6 @@ name:not(:first-child):before { content: "/ "}
 name:empty + name:not(:empty):before { content : "" }
 name:not(:empty) ~ name:empty + name:not(:empty):before { content : "/ " }
 
-event:empty { display: none }
-event:not(:first-child):before { content: "/ "}
-event:empty + name:not(:empty):before { content : "" }
-event:not(:empty) ~ name:empty + name:not(:empty):before { content : "/ " }
-
 admtop:not(:empty):before { content : " of --> " }
 longitude:not(:empty):before { content : "E" }
 latitude:not(:empty):before { content : "N" }
@@ -79,7 +74,13 @@ deontics:not(:empty):before { content : " (deontics/normative: " }
 deontics:not(:empty):after { content : ")" }
 epistemics:not(:empty):before { content : " (epistemics/descriptive: " }
 epistemics:not(:empty):after { content : ")" }
-events:not(:empty):before { content : "events: " }
+
+events:not(:empty):before { 
+  border-left:1px dashed white;
+  content:"events: ";
+  color:var(--main-color);
+  background-color:white;
+}
 
 project > name,definitions > name {
   font-style: italic;
@@ -99,10 +100,10 @@ def > definiendum {
   font-weight: bold;
 }
 
-types,names,keywords,text,person,arts,genres,events,culturaldomain,geography,creator,admins,initiator,responsible,project,def,definiens,examples,affiliation,practice {
+types,names,keywords,text,person,arts,genres,event,culturaldomain,geography,creator,admins,initiator,responsible,project,def,definiens,examples,affiliation,practice {
   display: block;
+  padding-left: 2em;
   padding-bottom: 0.5em;
-  color:var(--main-color);
 }
 
 copyright{
