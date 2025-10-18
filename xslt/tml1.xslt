@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xi="http://www.w3.org/2001/XInclude">
 
 <xsl:output method="xml" indent="yes"/>
@@ -39,12 +40,14 @@
          <xsl:attribute name="title">
              <xsl:value-of select="@id"/>
          </xsl:attribute>
-         <xsl:copy>
-	 <xsl:apply-templates select="names"/>
-         </xsl:copy>
+        <xsl:if test="names">
+         <xsl:copy> <xsl:apply-templates select="names"/> </xsl:copy>
+        </xsl:if>
+        <xsl:if test="types">
          <xsl:copy>
 	 <xsl:apply-templates select="types"/>
          </xsl:copy>
+        </xsl:if>
     </h3>
     </html>
     <xsl:copy>

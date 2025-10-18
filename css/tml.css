@@ -3,17 +3,7 @@
 document,thakbong,subprojects,project {
   font-family: sans-serif;
   background-color: white;
-  width:100%;
   display:flex;
-}
-
-ent,sitemap,definitions {
-  border-left:1px dashed var(--main-color);
-  background-color: transparent;
-  margin-left:2%;
-  padding:0em;
-  flex-grow:1;
-  transition: display 5s;
 }
 
 name,type {
@@ -76,7 +66,6 @@ epistemics:not(:empty):before { content : " (epistemics/descriptive: " }
 epistemics:not(:empty):after { content : ")" }
 
 events:not(:empty):before { 
-  border-left:1px dashed white;
   content:"events: ";
   color:var(--main-color);
   background-color:white;
@@ -100,19 +89,6 @@ def > definiendum {
   font-weight: bold;
 }
 
-types,names,keywords,text,person,arts,genres,event,culturaldomain,geography,creator,admins,initiator,responsible,project,def,definiens,examples,affiliation,practice {
-  display: block;
-  padding-left: 2em;
-  padding-bottom: 0.5em;
-}
-
-copyright{
-  display: block;
-  padding-bottom: 1.5em;
-  color:var(--main-color);
-}
-
-
 admtop,adminname,transcription,keyword {
   display: inline;
   font-style: italic;
@@ -124,38 +100,17 @@ html {
   display:inline;
 }
 
-ent > ent > ent {
-  display: none;
-  padding-left: 2em;
-}
-
-description {
+ent,copyright,description,sitemap,definitions,transliteration,transcritpion,keywords,div,types,names,texts,person,arts,genres,event,culturaldomain,geography,creator,admins,initiator,responsible,project,def,definiens,examples,affiliation,practice {
+  display: block;
+  padding:0em;
   flex-grow:1;
-  display:block;
+  background-color: transparent;
   padding-left: 1em;
 }
 
-description > div {
-  flex-grow:1;
-  display:block;
-  padding-left: 1em;
-}
-
-ent:focus > ent > ent {
-  flex-grow:1;
-  padding-left: 2%;
-  display:block;
-}
-
-ent:active > ent > ent {
-  flex-grow:1;
-  padding-left: 2%;
-  display:block;
-}
-ent:hover > ent > ent {
-  flex-grow:1;
+ent[id^='s'] {
+  border-left:1px dashed var(--main-color);
   padding-left: 2em;
-  display:block;
 }
 
 iframe,img {
