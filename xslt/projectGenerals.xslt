@@ -11,13 +11,13 @@
   <xsl:template match="document/project">
         <project>
 
-		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Penghu</h2><hr/><a href="../tml/tmlDocTaiwanPenghu.xml" parse="xml">tmlDocTaiwanPenghu.xml</a></html><xsl:apply-templates select="$Vpenghu//ent[starts-with(@id,'s') and types/type='general system']"/>
+		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Penghu</h2><hr/><a href="../tml/tmlDocTaiwanPenghu.xml" parse="xml">tmlDocTaiwanPenghu.xml</a></html><xsl:apply-templates select="$Vpenghu//ent[starts-with(@id,'s') and types/type='general']"/>
 
-		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Penghu, Wang'an</h2><hr/><a href="../tml/tmlDocTaiwanPenghuWangan.xml" parse="xml">tmlDocTaiwanPenghuWangan.xml</a></html><xsl:apply-templates select="$VpenghuWangan//ent[starts-with(@id,'s') and types/type='general system']"/>
+		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Penghu, Wang'an</h2><hr/><a href="../tml/tmlDocTaiwanPenghuWangan.xml" parse="xml">tmlDocTaiwanPenghuWangan.xml</a></html><xsl:apply-templates select="$VpenghuWangan//ent[starts-with(@id,'s') and types/type='general']"/>
 
-		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Penghu, Huayu</h2><hr/><a href="../tml/tmlDocTaiwanPenghuHuayu.xml" parse="xml">tmlDocTaiwanPenghuHuayu.xml</a></html><xsl:apply-templates select="$VpenghuHuayu//ent[starts-with(@id,'s') and types/type='general system']"/>
+		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Penghu, Huayu</h2><hr/><a href="../tml/tmlDocTaiwanPenghuHuayu.xml" parse="xml">tmlDocTaiwanPenghuHuayu.xml</a></html><xsl:apply-templates select="$VpenghuHuayu//ent[starts-with(@id,'s') and types/type='general']"/>
 
-		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Penghu, Qimei</h2><hr/><a href="../tml/tmlDocTaiwanPenghuQimei.xml" parse="xml">tmlDocTaiwanPenghuQimei.xml</a></html><xsl:apply-templates select="$VpenghuQimei//ent[starts-with(@id,'s') and types/type='general system']"/>
+		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Penghu, Qimei</h2><hr/><a href="../tml/tmlDocTaiwanPenghuQimei.xml" parse="xml">tmlDocTaiwanPenghuQimei.xml</a></html><xsl:apply-templates select="$VpenghuQimei//ent[starts-with(@id,'s') and types/type='general']"/>
         </project>
   </xsl:template>
 
