@@ -61,9 +61,12 @@
         <xsl:if test="@type">
 	<event>
         <xsl:value-of select="@type"/>,
-        gregorian: <xsl:value-of select="@day"/>
-        <xsl:if test="@lunar">
-        (lunar: <xsl:value-of select="@lunar"/>)
+        <xsl:if test="@day">
+            <xsl:value-of select="@day"/> (gregorian
+            <xsl:if test="@lunar">
+            , lunar: <xsl:value-of select="@lunar"/>
+            </xsl:if>
+	    )
         </xsl:if>
         <xsl:if test="@timefrom">
         <xsl:value-of select="@timefrom"/> -- <xsl:value-of select="@timeto"/>

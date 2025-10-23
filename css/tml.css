@@ -6,52 +6,14 @@ document,thakbong,subprojects,project {
   display:flex;
 }
 
-name,type {
-  display: inline;
-  margin: 0em;  
-}
-
-name:not(:first-child) {
-  padding-left: -.3em;  
-}
-type:not(:first-child) {
-  padding-left: -.3em;  
-}
-type:first-child:empty ~ type:not(:empty) {
-  padding-left: 0;  
-}
-name:first-child:empty ~ name:not(:empty) {
-  padding-left: 0;  
-}
-type:first-child:empty ~ type:not(:empty) ~ type:not(:empty) {
-  padding-left: -.3em;  
-}
-name:first-child:empty ~ name:not(:empty) ~ name:not(:empty) {
-  padding-left: -.3em;  
-}
-
-/* comma separated items */
-
-type:empty { display: none }
-type:not(:first-child):before { content: "/ " }
-type:empty + type:not(:empty):before { content : "" }
-type:not(:empty) ~ type:empty + type:not(:empty):before { content : "/ " }
-
-transcription:not(:empty):before { content: ' "' }
+transcription:not(:empty):before { content: 'transcription: "' }
 transcription:not(:empty):after { content: '" ' }
-
 keyword:not(:empty):before { content: " #" }
-
-name:empty { display: none }
-name:not(:first-child):before { content: "/ "}
-name:empty + name:not(:empty):before { content : "" }
-name:not(:empty) ~ name:empty + name:not(:empty):before { content : "/ " }
-
 admtop:not(:empty):before { content : " of --> " }
 longitude:not(:empty):before { content : "E" }
 latitude:not(:empty):before { content : "N" }
 affiliation:not(:empty):before { content : "affiliation: " }
-culturaldomain:not(:empty):before { content : "cultural practices: " }
+practice:not(:empty):before { content : "cultural practice: " }
 creator:not(:empty):before { content : "creator: " }
 initiator:not(:empty):before { content : "initiator: " }
 responsible:not(:empty):before { content : "responsible: " }
@@ -64,12 +26,9 @@ deontics:not(:empty):before { content : " (deontics/normative: " }
 deontics:not(:empty):after { content : ")" }
 epistemics:not(:empty):before { content : " (epistemics/descriptive: " }
 epistemics:not(:empty):after { content : ")" }
+events:not(:empty):before { content : "events: " }
+ref:not(:empty):before { content : "references: " }
 
-events:not(:empty):before { 
-  content:"events: ";
-  color:var(--main-color);
-  background-color:white;
-}
 
 project > name,definitions > name {
   font-style: italic;
@@ -89,28 +48,22 @@ def > definiendum {
   font-weight: bold;
 }
 
-admtop,adminname,transcription,keyword {
-  display: inline;
-  font-style: italic;
-  padding-bottom: 1em;
-  color:var(--main-color);
-}
-
 html {
   display:inline;
 }
 
-ent,copyright,description,sitemap,definitions,transliteration,transcritpion,keywords,div,types,names,texts,person,arts,genres,event,culturaldomain,geography,creator,admins,initiator,responsible,project,def,definiens,examples,affiliation,practice {
-  display: block;
+ent,copyright,description,sitemap,definitions,transliteration,transcritpion,keywords,div,texts,person,arts,genres,event,geography,creator,admins,initiator,responsible,project,def,definiens,examples,affiliation,admtop,adminname,transcription,keyword,practice,epistemics,events,ref {
+  display:block;
   padding:0em;
   flex-grow:1;
-  background-color: transparent;
-  padding-left: 1em;
+  padding-left:1em;
+  background-color:transparent;
 }
+
 
 ent[id^='s'] {
   border-left:1px dashed var(--main-color);
-  padding-left: 2em;
+  padding-left:1.5em;
 }
 
 iframe,img {
