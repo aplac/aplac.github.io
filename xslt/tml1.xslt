@@ -37,9 +37,6 @@
     <ent>
     <html xmlns="http://www.w3.org/1999/xhtml">
     <h3> 
-         <xsl:attribute name="title">
-             <xsl:value-of select="@id"/>
-         </xsl:attribute>
         <xsl:if test="names">
          <xsl:copy> <xsl:apply-templates select="names"/> </xsl:copy>
         </xsl:if>
@@ -48,6 +45,7 @@
 	 <xsl:apply-templates select="types"/>
          </xsl:copy>
         </xsl:if>
+        (<xsl:value-of select="@id"/>)
     </h3>
     </html>
     <xsl:copy>
