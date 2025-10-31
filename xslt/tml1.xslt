@@ -41,9 +41,11 @@
          <xsl:copy> <xsl:apply-templates select="names"/> </xsl:copy>
         </xsl:if>
         <xsl:if test="types">
+         <xsl:text> [</xsl:text>
          <xsl:copy>
 	 <xsl:apply-templates select="types"/>
          </xsl:copy>
+         <xsl:text>]</xsl:text>
         </xsl:if>
         (<xsl:value-of select="@id"/>)
     </h3>
