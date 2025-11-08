@@ -8,6 +8,8 @@ document,thakbong,subprojects,project {
 
 transcription:not(:empty):before { content: 'transcription: "' }
 transcription:not(:empty):after { content: '" ' }
+name ~ name:not(:empty):before { content: ', ' }
+type ~ type:not(:empty):before { content: ', ' }
 keyword:not(:empty):before { content: " #" }
 admtop:not(:empty):before { content : " of --> " }
 longitude:not(:empty):before { content : "E" }
