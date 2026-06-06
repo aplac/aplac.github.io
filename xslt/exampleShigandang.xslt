@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-  <xsl:include href="tml1.xslt"/>
-
   <xsl:variable name="V1" select="document('../tml/tmlDocThailandBangkok.xml')"/>
   <xsl:variable name="V2" select="document('../tml/tmlDocJapanOkinawa.xml')"/>
 
@@ -10,8 +8,9 @@
   <xsl:variable name="V4" select="document('../tml/tmlDocTaiwanJinmen.xml')"/>
   <xsl:variable name="V5" select="document('../tml/tmlDocTaiwanPenghuHuayu.xml')"/>
 
-  <xsl:template match="document/project">
-        <project>
+  <xsl:include href="tmlExample.xslt"/>
+  <xsl:template match="examples">
+        <examples>
 		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Bangkok</h2><hr/><a href="../tml/tmlDocThailandBangkok.xml" parse="xml">tmlDocThailandBangkok.xml</a></html><xsl:apply-templates select="$V1//ent/media[starts-with(../@id,'o') and ../types/type='shigandang']"/>
 
 		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Okinawa</h2><hr/><a href="../tml/tmlDocJapanOkinawa.xml" parse="xml">tmlDocJapanOkinawa.xml</a></html><xsl:apply-templates select="$V2//ent/media[starts-with(../@id,'o') and ../types/type='shigandang']"/>
@@ -22,7 +21,7 @@
 
 		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Penghu Huayu</h2><hr/><a href="../tml/tmlDocTaiwanPenghuHuayu.xml" parse="xml">tmlDocTaiwanPenghuHuayu.xml</a></html><xsl:apply-templates select="$V5//ent/media[starts-with(../@id,'o') and ../types/type='shigandang']"/>
 
-        </project>
+        </examples>
   </xsl:template>
 
   <xsl:template match="description">

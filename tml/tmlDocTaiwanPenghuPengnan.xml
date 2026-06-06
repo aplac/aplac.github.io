@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
+<?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<?xml-stylesheet type="text/css" href="../css/all.css"?>
+<document latitude="N(23)" longitude="E(119)">
+<ent id="sPenghuPengnan">
+<types>
+<type language="English" script="Latin" ucd="LATIN">peninsular</type></types>
+<admins>
+<adminsys>
+<adminlevel admintype="3">
+<adminname>county administered city</adminname></adminlevel>
+<admtop>sPenghuCounty</admtop></adminsys>
+</admins>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Pengnan</name><name script="Chinese-traditional" ucd="CJK">澎南</name><name script="Chinese-traditional" ucd="CJK">圓頂半島</name></names>
+<geography geotop="s113826" siteid="s113826">
+<archipelago>
+<names>
+<name script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Latin" ucd="LATIN">Penghu Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.588787</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.557551</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<description>
+<div>Pengnan, litteraly the south (nan) of Penghu (peng) is a peninsular and part of the Penghu island. Shaped like a V, or a bowl, it is located to the south of Magong and protects Magong from winds of waves coming from south or southeast. Similarly to Xiyu it has been of military importance for the protection of Magong. It is here where the Dutch built their fort and thus irritated to Qing government. Later KMT soldiers were stationed in the same spot, eventually destroying a site that should have been marked and reserved as a heritage and potential archeological site. Fortunately for the inhabitants of Pengnan, winds and waves coming from the south represent a real problem in combination with taiphoons. However places like Shili are extremely exposed to environmental threats and one might wonder, why people settled there and how they managed to cope.</div><include href="tmlDocTaiwanPenghuFenggui.xml" parse="xml"/><include href="tmlDocTaiwanPenghuJingan.xml" parse="xml"/><include href="tmlDocTaiwanPenghuTiexian.xml" parse="xml"><stats><stat type="cemetery" direct="1" indirect="1" cross="0">2</stat><stat type="earthgod" indirect="11" direct="0" cross="0">11</stat><stat type="photo" indirect="2" direct="0" cross="0">2</stat><stat type="tomb" indirect="56" direct="0" cross="0">56</stat><stat type="tombstone" indirect="54" direct="0" cross="0">54</stat></stats></include><include href="tmlDocTaiwanPenghuShanshui.xml" parse="xml"><stats><stat type="cemetery" direct="2" indirect="1" cross="0">3</stat><stat type="earthgod" indirect="81" direct="0" cross="0">81</stat><stat type="grave" indirect="4" direct="0" cross="0">4</stat><stat type="house" direct="1" indirect="0" cross="0">1</stat><stat type="memorial" direct="2" indirect="0" cross="0">2</stat><stat type="photo" indirect="4" direct="0" cross="0">4</stat><stat type="shigandang" direct="1" indirect="0" cross="0">1</stat><stat type="tomb" indirect="181" direct="0" cross="0">181</stat><stat type="tombstone" indirect="279" direct="0" cross="0">279</stat></stats></include><include href="tmlDocTaiwanPenghuShili.xml" parse="xml"><stats><stat type="cemetery" direct="1" indirect="0" cross="0">1</stat><stat type="earthgod" indirect="8" direct="0" cross="0">8</stat><stat type="memorial" indirect="1" direct="0" cross="0">1</stat><stat type="photo" indirect="3" direct="0" cross="0">3</stat><stat type="tomb" indirect="37" direct="0" cross="0">37</stat><stat type="tombstone" indirect="29" direct="0" cross="0">29</stat></stats></include><include href="tmlDocTaiwanPenghuSuogang.xml" parse="xml"/><include href="tmlDocTaiwanPenghuWukan.xml" parse="xml"/></description>
+</ent>
+</document>

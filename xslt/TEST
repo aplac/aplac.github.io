@@ -1,0 +1,3 @@
+
+xsltproc tml2html.xsl test.xml > test.html
+firefox test.html

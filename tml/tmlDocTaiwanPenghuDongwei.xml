@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
+<?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<?xml-stylesheet type="text/css" href="../css/all.css"?>
+<document latitude="N(22|23)" longitude="E(119|120)">
+<ent id="sMagongDongwei">
+<names>
+<name language="English" script="Latin" ucd="LATIN">Dongwei</name><name language="English" script="Latin" ucd="LATIN">Dongwei Village</name><name script="Chinese-traditional" ucd="CJK">東衛</name><name script="Chinese-traditional" ucd="CJK">東衛村</name></names>
+<types>
+<type language="English" script="Latin" ucd="LATIN">settlement</type></types>
+<admins>
+<adminsys>
+<admtop>sMagongCity</admtop></adminsys>
+</admins>
+<ent id="o164013">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="sMagongDongwei" siteid="sMagongDongwei">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.57048</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.604015</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.570480" longitude="119.604015" measurement="no" public="yes" time="08:42:49" url="/2020/07/03/DATE20200703TIME084249GEOBOOLyesLONGE119604015LATN23570480DIR345ALT0SIZE11472THUMB4742ORIGOliverDSCN5109.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1050962">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="sMagongDongwei" siteid="sMagongDongwei">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.572513</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.599905</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-10-02" flash="no" latitude="23.572513" longitude="119.599905" measurement="no" public="yes" time="09:44:47" url="/2020/10/02/DATE20201002TIME094447GEOBOOLyesLONGE119599905LATN23572513DIR333ALT0SIZE11472THUMB4664ORIGHannaDSCN0145.jpg" zoom="no"/></media>
+</ent>
+<ent id="o164015">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="sMagongDongwei" siteid="sMagongDongwei">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.570062</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.599103</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.570062" longitude="119.599103" measurement="no" public="yes" time="08:53:25" url="/2020/07/03/DATE20200703TIME085325GEOBOOLyesLONGE119599103LATN23570062DIR229ALT0SIZE11472THUMB4010ORIGOliverDSCN5111.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1050963">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="sMagongDongwei" siteid="sMagongDongwei">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.57244</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600057</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-10-02" flash="no" latitude="23.572440" longitude="119.600057" measurement="no" public="yes" time="09:44:53" url="/2020/10/02/DATE20201002TIME094453GEOBOOLyesLONGE119600057LATN23572440DIR255ALT0SIZE11472THUMB5280ORIGHannaDSCN0146.jpg" zoom="no">
+<labels>
+<label topical="0.0062" score="0.77" engine="Google Vision API">Concrete</label></labels>
+<objects>
+<object engine="Google Vision API"/></objects>
+</img>
+</media>
+</ent>
+<ent id="o164014">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="sMagongDongwei" siteid="sMagongDongwei">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.570472</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.604017</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.570472" longitude="119.604017" measurement="no" public="yes" time="08:43:03" url="/2020/07/03/DATE20200703TIME084303GEOBOOLyesLONGE119604017LATN23570472DIR50ALT0SIZE11472THUMB4543ORIGOliverDSCN5110.jpg" zoom="no">
+<labels>
+<label topical="0.0333" score="0.91" engine="Google Vision API">Chinese architecture</label><label topical="0.0027" score="0.86" engine="Google Vision API">Japanese architecture</label><label topical="0.1633" score="0.77" engine="Google Vision API">Pagoda</label><label topical="0.2029" score="0.67" engine="Google Vision API">Temple</label><label topical="0.0024" score="0.55" engine="Google Vision API">Palm trees</label></labels>
+<objects>
+<object score="0.7100631594657898" engine="Google Vision API">
+<vertex x="0.6015625" y="0.671875"/><vertex x="0.69921875" y="0.671875"/><vertex x="0.69921875" y="0.84765625"/><vertex x="0.6015625" y="0.84765625"/></object>
+<object score="0.6322754621505737" engine="Google Vision API">
+<vertex x="0.6015625" y="0.671875"/><vertex x="0.69921875" y="0.671875"/><vertex x="0.69921875" y="0.84765625"/><vertex x="0.6015625" y="0.84765625"/></object>
+</objects>
+</img>
+</media>
+</ent>
+<ent id="sDongweiVillageShigandangNextToTianhouGong">
+<names>
+<name script="Latin" ucd="LATIN">Dongwei Village Shigandang Next To Tianhou Gong</name></names>
+<types>
+<type script="Latin" ucd="LATIN">Dongwei</type><type script="Latin" ucd="LATIN">Shigandang</type></types>
+<geography geotop="sMagongDongwei" siteid="sMagongDongwei">
+<archipelago>
+<names>
+<name script="Latin" ucd="LATIN">Penghu Islands</name><name script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+</ent>
+<ent id="s112563">
+<types>
+<type language="English" script="Latin" ucd="LATIN">shigandang</type><type language="English" script="Latin" ucd="LATIN">apotropaic object</type><type script="Chinese-traditional" ucd="CJK">石敢當</type><type script="Latin" ucd="LATIN">object</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Dongwei</name><name script="Chinese-traditional" ucd="CJK">東衛</name></community>
+</communities>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Dongwei lost Shigandang</name><name script="Chinese-traditional" ucd="CJK">東衛石敢當</name></names>
+<geography geotop="sMagongDongwei" siteid="sMagongDongwei">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.602285</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.572343</latitude><archipelago>
+<names>
+<name script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Latin" ucd="LATIN">Penghu Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<events>
+<event day="2020-07-03" lunar="2020-05-13" timefrom="08:19:36" timeto="08:23:22" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+<event type="veneration"/></events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>implied</epistemics></practice>
+<practice>
+<names>
+<name script="Latin" ucd="LATIN">shigandang as apotropaic practice</name></names>
+<epistemics>implied</epistemics></practice>
+</practices>
+</culturaldomain>
+<ent id="o163782">
+<types>
+<type language="English" script="Latin" ucd="LATIN">shigandang</type><type language="English" script="Latin" ucd="LATIN">apotropaic object</type><type script="Chinese-traditional" ucd="CJK">石敢當</type><type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112563" siteid="s112563">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.572343</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.602285</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.572333" longitude="119.602282" measurement="no" public="yes" time="08:21:37" url="/2020/07/03/DATE20200703TIME082137GEOBOOLyesLONGE119602282LATN23572333DIR318ALT0SIZE11472THUMB4600ORIGOliverDSCN5099.jpg" zoom="no">
+<labels>
+<label topical="0.0034" score="0.62" engine="Google Vision API">Measuring instrument</label><label topical="0.0024" score="0.54" engine="Google Vision API">Tape measure</label></labels>
+</img>
+<img date="2020-07-03" flash="no" latitude="23.572350" longitude="119.602265" measurement="no" public="yes" time="08:23:22" url="/2020/07/03/DATE20200703TIME082322GEOBOOLyesLONGE119602265LATN23572350DIR343ALT0SIZE11472THUMB4132ORIGOliverDSCN5101.jpg" zoom="no">
+<labels>
+<label topical="0.0072" score="0.82" engine="Google Vision API">Cylinder</label><label topical="0.0130" score="0.81" engine="Google Vision API">Iron</label><label topical="0.0204" score="0.79" engine="Google Vision API">Brick</label><label topical="0.0308" score="0.78" engine="Google Vision API">Concrete</label><label topical="0.0026" score="0.75" engine="Google Vision API">Brickwork</label><label topical="0.0038" score="0.71" engine="Google Vision API">Building material</label><label topical="0.1424" score="0.57" engine="Google Vision API">Chimney</label></labels>
+</img>
+<img date="2020-07-03" flash="no" latitude="23.572330" longitude="119.602307" measurement="no" public="yes" time="08:20:42" url="/2020/07/03/DATE20200703TIME082042GEOBOOLyesLONGE119602307LATN23572330DIR334ALT0SIZE11472THUMB4228ORIGOliverDSCN5095.jpg" zoom="no">
+<labels>
+<label topical="0.0011" score="0.88" engine="Google Vision API">Composite material</label><label topical="0.2280" score="0.77" engine="Google Vision API">Concrete</label><label topical="0.0178" score="0.68" engine="Google Vision API">Building material</label><label topical="0.1383" score="0.52" engine="Google Vision API">Cement</label></labels>
+</img>
+<img date="2020-07-03" flash="no" latitude="23.572342" longitude="119.602287" measurement="no" public="yes" time="08:20:54" url="/2020/07/03/DATE20200703TIME082054GEOBOOLyesLONGE119602287LATN23572342DIR245ALT0SIZE11472THUMB1038ORIGOliverDSCN5096.jpg" zoom="no">
+<labels>
+<label topical="0.5522" score="0.98" engine="Google Vision API">White</label><label topical="0.0037" score="0.60" engine="Google Vision API">Plastic</label></labels>
+</img>
+<img date="2020-07-03" flash="no" latitude="23.572345" longitude="119.602295" measurement="no" public="yes" time="08:21:56" url="/2020/07/03/DATE20200703TIME082156GEOBOOLyesLONGE119602295LATN23572345DIR256ALT0SIZE11472THUMB4166ORIGOliverDSCN5100.jpg" zoom="no">
+<labels>
+<label topical="0.0047" score="0.83" engine="Google Vision API">Grey</label><label topical="0.0602" score="0.81" engine="Google Vision API">Concrete</label><label topical="0.0001" score="0.77" engine="Google Vision API">Silver</label><label topical="0.0579" score="0.51" engine="Google Vision API">Cement</label></labels>
+</img>
+<img date="2020-07-03" flash="no" latitude="23.572348" longitude="119.602243" measurement="no" public="yes" time="08:21:23" url="/2020/07/03/DATE20200703TIME082123GEOBOOLyesLONGE119602243LATN23572348DIR334ALT0SIZE11472THUMB4470ORIGOliverDSCN5098.jpg" zoom="no">
+<labels>
+<label topical="0.0318" score="0.89" engine="Google Vision API">Tape measure</label><label topical="0.0789" score="0.73" engine="Google Vision API">Concrete</label><label topical="0.0001" score="0.72" engine="Google Vision API">Silver</label><label topical="0.0025" score="0.71" engine="Google Vision API">Measuring instrument</label><label topical="0.0269" score="0.61" engine="Google Vision API">Ruler</label><label topical="0.0104" score="0.60" engine="Google Vision API">Stain</label><label topical="0.0002" score="0.57" engine="Google Vision API">Office Ruler</label></labels>
+</img>
+<img date="2020-07-03" flash="no" latitude="23.572348" longitude="119.602283" measurement="no" public="yes" time="08:20:58" url="/2020/07/03/DATE20200703TIME082058GEOBOOLyesLONGE119602283LATN23572348DIR246ALT0SIZE11472THUMB4469ORIGOliverDSCN5097.jpg" zoom="no">
+<labels>
+<label topical="0.0589" score="0.95" engine="Google Vision API">Tape measure</label><label topical="0.0026" score="0.75" engine="Google Vision API">Measuring instrument</label><label topical="0.0005" score="0.57" engine="Google Vision API">Office Ruler</label><label topical="0.0099" score="0.55" engine="Google Vision API">Ruler</label></labels>
+</img>
+<img date="2020-07-03" flash="no" latitude="23.572322" longitude="119.602288" measurement="no" public="yes" time="08:19:36" url="/2020/07/03/DATE20200703TIME081936GEOBOOLyesLONGE119602288LATN23572322DIR37ALT0SIZE11472THUMB4641ORIGOliverDSCN5091.jpg" zoom="no">
+<labels>
+<label topical="0.0032" score="0.79" engine="Google Vision API">Cylinder</label><label topical="0.0293" score="0.79" engine="Google Vision API">Iron</label><label topical="0.0012" score="0.55" engine="Google Vision API">Cookware and bakeware</label></labels>
+</img>
+</media>
+<sem writing="inscribed">
+<texts>
+<text characters="7" id="t1" role="epigraph" script="Chinese-traditional" side="f" ucd="CJK" writingDirection="t2br2l">
+<transcription completed="yes">泰山石敢當(止/煞)</transcription><normalization>
+<div ucd="CJK" script="Chinese-traditional" id="1">泰山石敢當止</div><div ucd="CJK" script="Chinese-traditional" id="2">泰山石敢當煞</div></normalization>
+<transliterations>
+<transliteration system="peh-oe-ji">Thài-san tsio̍h-kám-tong tsí sannh</transliteration><transliteration system="cantonese">taai3 saan1 daam3/sek6 gam2 dong1/dong3 zi2 saat3</transliteration><transliteration system="Hanyu pinyin">tài shān shí gǎn dāng zhǐ shā</transliteration></transliterations>
+<translations><trans transDate="2026-06-04 14:11:16" engine="GoogleTranslate" api="deep_translator"><div ucd="LATIN" script="Latin" language="English" id="1">Taishan stone dares to be used as evil spirit</div><div ucd="LATIN" script="Latin" language="English" id="2">Taishan stone dares to stop</div></trans></translations></text>
+</texts>
+</sem>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name script="Latin" ucd="LATIN">shigandang as apotropaic practice</name></names>
+<epistemics>implied</epistemics></practice>
+<practice>
+<names>
+<name script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>implied</epistemics></practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<material language="English" script="Latin"/></event>
+<event type="erection"/><event type="veneration"/></events>
+</ent>
+<stats><stat type="shigandang" direct="1" indirect="0" cross="0">1</stat></stats></ent>
+<ent id="s112562">
+<types>
+<type language="English" script="Latin" ucd="LATIN">shigandang</type><type language="English" script="Latin" ucd="LATIN">apotropaic object</type><type script="Chinese-traditional" ucd="CJK">石敢當</type><type script="Latin" ucd="LATIN">object</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Dongwei</name><name script="Chinese-traditional" ucd="CJK">東衛</name></community>
+</communities>
+<geography geotop="sMagongDongwei" siteid="sMagongDongwei">
+<latitude crs="WGS84" deg="decimal" src="percol-down">23.5696624363021</latitude><archipelago>
+<names>
+<name script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Latin" ucd="LATIN">Penghu Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600057</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>implied</epistemics></practice>
+<practice>
+<names>
+<name script="Latin" ucd="LATIN">shigandang as apotropaic practice</name></names>
+<epistemics>implied</epistemics></practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="veneration"/></events>
+<names>
+<name language="English" script="Latin"/></names>
+</ent>
+<ent id="s112568">
+<types>
+<type language="English" script="Latin" ucd="LATIN">Taoist temple</type><type script="Chinese-traditional" ucd="CJK">天后宮</type><type script="Chinese-traditional" ucd="CJK">廟</type><type script="Latin" ucd="LATIN">temple</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Dongwei</name><name script="Chinese-traditional" ucd="CJK">東衛</name></community>
+</communities>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Dongwei Tianhou Gong</name><name script="Chinese-traditional" ucd="CJK">東衛天后宮</name></names>
+<geography geotop="sMagongDongwei" siteid="sMagongDongwei">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.567978500000002</latitude><archipelago>
+<names>
+<name script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Latin" ucd="LATIN">Penghu Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<events>
+<event day="2018-11-29" lunar="2018-10-22" timefrom="15:06:52" timeto="15:20:24" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/><agent refid="con18" role="researcher">
+<names>
+<name language="English" ucd="LATIN" script="Latin">Mandy TO</name></names>
+</agent>
+</agents>
+</event>
+<event day="2020-07-03" lunar="2020-05-13" timefrom="09:25:29" timeto="09:29:35" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">divination</name></names>
+</practice>
+<practice>
+<names>
+<name script="Chinese-traditional" ucd="CJK">占卜</name></names>
+</practice>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">seeking protection</name></names>
+</practice>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">offering</name></names>
+</practice>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Mazu worship</name></names>
+</practice>
+</practices>
+</culturaldomain>
+<ent id="o1502737">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568046</latitude><longitude crs="WGS84" deg="decimal">119.600586</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568046" longitude="119.600586" measurement="no" public="yes" time="12:23:38" url="/2025/07/01/DATE20250701TIME122338GEOBOOLyesLONGE119600586LATN23568046DIRnoALT1SIZE30704THUMB6217UPLOAD072825UPID8112SITEyamalORIGDSC09253.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502714">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568010</latitude><longitude crs="WGS84" deg="decimal">119.600608</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568010" longitude="119.600608" measurement="no" public="yes" time="12:19:12" url="/2025/07/01/DATE20250701TIME121912GEOBOOLyesLONGE119600608LATN23568010DIRnoALT20SIZE30704THUMB11631UPLOAD072825UPID3518SITEyamalORIGDSC09230.jpg" zoom="no"/></media>
+</ent>
+<ent id="o163924">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.568006</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600616</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.568006" longitude="119.600616" measurement="no" public="yes" time="09:29:12" url="/2020/07/03/DATE20200703TIME092912GEOBOOLyesLONGE119600616LATN23568006DIRnoALT21SIZE30704THUMB13809ORIGOliverDSC04260.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502725">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568175</latitude><longitude crs="WGS84" deg="decimal">119.600668</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568175" longitude="119.600668" measurement="no" public="yes" time="12:21:09" url="/2025/07/01/DATE20250701TIME122109GEOBOOLyesLONGE119600668LATN23568175DIRnoALT20SIZE30704THUMB9277UPLOAD072825UPID8333SITEyamalORIGDSC09241.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502772">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568166</latitude><longitude crs="WGS84" deg="decimal">119.600443</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568166" longitude="119.600443" measurement="no" public="yes" time="12:30:48" url="/2025/07/01/DATE20250701TIME123048GEOBOOLyesLONGE119600443LATN23568166DIRnoALT33SIZE30704THUMB11851UPLOAD072825UPID1593SITEyamalORIGDSC09288.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076016">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.568197</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600973</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.568197" longitude="119.600973" measurement="no" public="yes" time="15:14:16" url="/2018/11/29/DATE20181129TIME151416GEOBOOLyesLONGE119600973LATN23568197DIR16ALT0SIZE11472THUMB6055ORIGOliverDSCN1201.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502742">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568050</latitude><longitude crs="WGS84" deg="decimal">119.600583</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568050" longitude="119.600583" measurement="no" public="yes" time="12:24:41" url="/2025/07/01/DATE20250701TIME122441GEOBOOLyesLONGE119600583LATN23568050DIRnoALT1SIZE30704THUMB6607UPLOAD072825UPID8407SITEyamalORIGDSC09258.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502766">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:29:55" url="/2025/07/01/DATE20250701TIME122955GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB11556UPLOAD072825UPID2195SITEyamalORIGDSC09282.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076023">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:16:51" url="/2018/11/29/DATE20181129TIME151651GEOBOOLnoLONGE0000000LATN0000000DIR25ALTnoSIZE11472THUMB6194ORIGOliverDSCN1208.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502759">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:28:44" url="/2025/07/01/DATE20250701TIME122844GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB12376UPLOAD072825UPID2586SITEyamalORIGDSC09275.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076029">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:18:38" url="/2018/11/29/DATE20181129TIME151838GEOBOOLnoLONGE0000000LATN0000000DIR354ALTnoSIZE11472THUMB6276ORIGOliverDSCN1214.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502735">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568036</latitude><longitude crs="WGS84" deg="decimal">119.600581</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568036" longitude="119.600581" measurement="no" public="yes" time="12:23:15" url="/2025/07/01/DATE20250701TIME122315GEOBOOLyesLONGE119600581LATN23568036DIRnoALT1SIZE30704THUMB9074UPLOAD072825UPID7861SITEyamalORIGDSC09251.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502727">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:21:40" url="/2025/07/01/DATE20250701TIME122140GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10751UPLOAD072825UPID1252SITEyamalORIGDSC09243.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502701">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568121</latitude><longitude crs="WGS84" deg="decimal">119.600618</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568121" longitude="119.600618" measurement="no" public="yes" time="12:12:51" url="/2025/07/01/DATE20250701TIME121251GEOBOOLyesLONGE119600618LATN23568121DIRnoALT13SIZE30704THUMB6602UPLOAD072825UPID3225SITEyamalORIGDSC09217.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502753">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568145</latitude><longitude crs="WGS84" deg="decimal">119.600593</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568145" longitude="119.600593" measurement="no" public="yes" time="12:27:37" url="/2025/07/01/DATE20250701TIME122737GEOBOOLyesLONGE119600593LATN23568145DIRnoALTnoSIZE30704THUMB13595UPLOAD072825UPID3589SITEyamalORIGDSC09269.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076027">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:18:30" url="/2018/11/29/DATE20181129TIME151830GEOBOOLnoLONGE0000000LATN0000000DIR39ALTnoSIZE11472THUMB5591ORIGOliverDSCN1212.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502764">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:29:31" url="/2025/07/01/DATE20250701TIME122931GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB13482UPLOAD072825UPID3738SITEyamalORIGDSC09280.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502700">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568008</latitude><longitude crs="WGS84" deg="decimal">119.600656</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568008" longitude="119.600656" measurement="no" public="yes" time="12:12:36" url="/2025/07/01/DATE20250701TIME121236GEOBOOLyesLONGE119600656LATN23568008DIRnoALT13SIZE30704THUMB8062UPLOAD072825UPID4247SITEyamalORIGDSC09216.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502729">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567975</latitude><longitude crs="WGS84" deg="decimal">119.600570</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567975" longitude="119.600570" measurement="no" public="yes" time="12:22:07" url="/2025/07/01/DATE20250701TIME122207GEOBOOLyesLONGE119600570LATN23567975DIRnoALT35SIZE30704THUMB7619UPLOAD072825UPID4250SITEyamalORIGDSC09245.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502698">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568013</latitude><longitude crs="WGS84" deg="decimal">119.600781</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568013" longitude="119.600781" measurement="no" public="yes" time="12:12:18" url="/2025/07/01/DATE20250701TIME121218GEOBOOLyesLONGE119600781LATN23568013DIRnoALT13SIZE30704THUMB9814UPLOAD072825UPID5335SITEyamalORIGDSC09214.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502723">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568175</latitude><longitude crs="WGS84" deg="decimal">119.600668</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568175" longitude="119.600668" measurement="no" public="yes" time="12:20:46" url="/2025/07/01/DATE20250701TIME122046GEOBOOLyesLONGE119600668LATN23568175DIRnoALT20SIZE30704THUMB9839UPLOAD072825UPID7659SITEyamalORIGDSC09239.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502757">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:28:19" url="/2025/07/01/DATE20250701TIME122819GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB12373UPLOAD072825UPID5849SITEyamalORIGDSC09273.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502716">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568063</latitude><longitude crs="WGS84" deg="decimal">119.600676</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568063" longitude="119.600676" measurement="no" public="yes" time="12:19:32" url="/2025/07/01/DATE20250701TIME121932GEOBOOLyesLONGE119600676LATN23568063DIRnoALT20SIZE30704THUMB13635UPLOAD072825UPID3997SITEyamalORIGDSC09232.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502733">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567958</latitude><longitude crs="WGS84" deg="decimal">119.600621</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567958" longitude="119.600621" measurement="no" public="yes" time="12:22:47" url="/2025/07/01/DATE20250701TIME122247GEOBOOLyesLONGE119600621LATN23567958DIRnoALT1SIZE30704THUMB5386UPLOAD072825UPID7481SITEyamalORIGDSC09249.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1068254">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.567327</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600277</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.567327" longitude="119.600277" measurement="no" public="yes" time="15:12:04" url="/2018/11/29/DATE20181129TIME151204GEOBOOLyesLONGE119600277LATN23567327DIR284ALT0SIZE11472THUMB3179ORIGOliverDSCN1194.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502755">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:27:54" url="/2025/07/01/DATE20250701TIME122754GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB6993UPLOAD072825UPID1891SITEyamalORIGDSC09271.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502739">
+<types>
+<type>object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568020</latitude><longitude crs="WGS84" deg="decimal">119.600568</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568020" longitude="119.600568" measurement="no" public="yes" time="12:23:56" url="/2025/07/01/DATE20250701TIME122356GEOBOOLyesLONGE119600568LATN23568020DIRnoALT1SIZE30704THUMB3947UPLOAD072825UPID6524SITEyamalORIGDSC09255.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076025">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:17:45" url="/2018/11/29/DATE20181129TIME151745GEOBOOLnoLONGE0000000LATN0000000DIR292ALTnoSIZE11472THUMB6104ORIGOliverDSCN1210.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502748">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568203</latitude><longitude crs="WGS84" deg="decimal">119.600501</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568203" longitude="119.600501" measurement="no" public="yes" time="12:26:03" url="/2025/07/01/DATE20250701TIME122603GEOBOOLyesLONGE119600501LATN23568203DIRnoALT1SIZE30704THUMB6856UPLOAD072825UPID2157SITEyamalORIGDSC09264.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502711">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567911</latitude><longitude crs="WGS84" deg="decimal">119.600628</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567911" longitude="119.600628" measurement="no" public="yes" time="12:18:50" url="/2025/07/01/DATE20250701TIME121850GEOBOOLyesLONGE119600628LATN23567911DIRnoALT20SIZE30704THUMB11254UPLOAD072825UPID6492SITEyamalORIGDSC09227.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076022">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:16:05" url="/2018/11/29/DATE20181129TIME151605GEOBOOLnoLONGE0000000LATN0000000DIR132ALTnoSIZE11472THUMB5958ORIGOliverDSCN1207.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502743">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568041</latitude><longitude crs="WGS84" deg="decimal">119.600586</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568041" longitude="119.600586" measurement="no" public="yes" time="12:24:50" url="/2025/07/01/DATE20250701TIME122450GEOBOOLyesLONGE119600586LATN23568041DIRnoALT1SIZE30704THUMB10153UPLOAD072825UPID1728SITEyamalORIGDSC09259.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502738">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568035</latitude><longitude crs="WGS84" deg="decimal">119.600578</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568035" longitude="119.600578" measurement="no" public="yes" time="12:23:48" url="/2025/07/01/DATE20250701TIME122348GEOBOOLyesLONGE119600578LATN23568035DIRnoALT1SIZE30704THUMB3794UPLOAD072825UPID2085SITEyamalORIGDSC09254.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502752">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568145</latitude><longitude crs="WGS84" deg="decimal">119.600593</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568145" longitude="119.600593" measurement="no" public="yes" time="12:27:01" url="/2025/07/01/DATE20250701TIME122701GEOBOOLyesLONGE119600593LATN23568145DIRnoALTnoSIZE30704THUMB6244UPLOAD072825UPID4351SITEyamalORIGDSC09268.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1068250">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.567853</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600355</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.567853" longitude="119.600355" measurement="no" public="yes" time="15:11:45" url="/2018/11/29/DATE20181129TIME151145GEOBOOLyesLONGE119600355LATN23567853DIR297ALT0SIZE11472THUMB3911ORIGOliverDSCN1190.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502749">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568151</latitude><longitude crs="WGS84" deg="decimal">119.600596</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568151" longitude="119.600596" measurement="no" public="yes" time="12:26:30" url="/2025/07/01/DATE20250701TIME122630GEOBOOLyesLONGE119600596LATN23568151DIRnoALT1SIZE30704THUMB13378UPLOAD072825UPID8313SITEyamalORIGDSC09265.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502773">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568240</latitude><longitude crs="WGS84" deg="decimal">119.600371</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568240" longitude="119.600371" measurement="no" public="yes" time="12:30:54" url="/2025/07/01/DATE20250701TIME123054GEOBOOLyesLONGE119600371LATN23568240DIRnoALT33SIZE30704THUMB10444UPLOAD072825UPID2415SITEyamalORIGDSC09289.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502728">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:21:44" url="/2025/07/01/DATE20250701TIME122144GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB8033UPLOAD072825UPID3146SITEyamalORIGDSC09244.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502699">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568000</latitude><longitude crs="WGS84" deg="decimal">119.600698</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568000" longitude="119.600698" measurement="no" public="yes" time="12:12:30" url="/2025/07/01/DATE20250701TIME121230GEOBOOLyesLONGE119600698LATN23568000DIRnoALT13SIZE30704THUMB7451UPLOAD072825UPID6389SITEyamalORIGDSC09215.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502760">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:28:53" url="/2025/07/01/DATE20250701TIME122853GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB12423UPLOAD072825UPID5507SITEyamalORIGDSC09276.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502704">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567901</latitude><longitude crs="WGS84" deg="decimal">119.600433</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567901" longitude="119.600433" measurement="no" public="yes" time="12:14:04" url="/2025/07/01/DATE20250701TIME121404GEOBOOLyesLONGE119600433LATN23567901DIRnoALT15SIZE30704THUMB10105UPLOAD072825UPID3384SITEyamalORIGDSC09220.jpg" zoom="no"/></media>
+</ent>
+<ent id="o163925">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.568</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600478</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.568000" longitude="119.600478" measurement="no" public="yes" time="09:29:35" url="/2020/07/03/DATE20200703TIME092935GEOBOOLyesLONGE119600478LATN23568000DIRnoALT22SIZE30704THUMB14254ORIGOliverDSC04261.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1068246">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.568035</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600266</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.568057" longitude="119.600220" measurement="no" public="yes" time="15:11:02" url="/2018/11/29/DATE20181129TIME151102GEOBOOLyesLONGE119600220LATN23568057DIR87ALT0SIZE11472THUMB4575ORIGOliverDSCN1186.jpg" zoom="no"/><img date="2018-11-29" flash="no" latitude="23.567880" longitude="119.600348" measurement="no" public="yes" time="15:11:21" url="/2018/11/29/DATE20181129TIME151121GEOBOOLyesLONGE119600348LATN23567880DIR89ALT0SIZE11472THUMB4704ORIGOliverDSCN1189.jpg" zoom="no"/><img date="2018-11-29" flash="no" latitude="23.568013" longitude="119.600273" measurement="no" public="yes" time="15:11:15" url="/2018/11/29/DATE20181129TIME151115GEOBOOLyesLONGE119600273LATN23568013DIR76ALT0SIZE11472THUMB4695ORIGOliverDSCN1188.jpg" zoom="no"/><img date="2018-11-29" flash="no" latitude="23.568062" longitude="119.600258" measurement="no" public="yes" time="15:11:08" url="/2018/11/29/DATE20181129TIME151108GEOBOOLyesLONGE119600258LATN23568062DIR78ALT0SIZE11472THUMB4881ORIGOliverDSCN1187.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076032">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.568193</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.601155</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.568193" longitude="119.601155" measurement="no" public="yes" time="15:20:24" url="/2018/11/29/DATE20181129TIME152024GEOBOOLyesLONGE119601155LATN23568193DIR345ALT0SIZE11472THUMB5290ORIGOliverDSCN1217.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502732">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567930</latitude><longitude crs="WGS84" deg="decimal">119.600586</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567930" longitude="119.600586" measurement="no" public="yes" time="12:22:38" url="/2025/07/01/DATE20250701TIME122238GEOBOOLyesLONGE119600586LATN23567930DIRnoALT1SIZE30704THUMB4874UPLOAD072825UPID7870SITEyamalORIGDSC09248.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502758">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:28:28" url="/2025/07/01/DATE20250701TIME122828GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10513UPLOAD072825UPID2135SITEyamalORIGDSC09274.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502761">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:29:03" url="/2025/07/01/DATE20250701TIME122903GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10288UPLOAD072825UPID1981SITEyamalORIGDSC09277.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076028">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:18:35" url="/2018/11/29/DATE20181129TIME151835GEOBOOLnoLONGE0000000LATN0000000DIR5ALTnoSIZE11472THUMB5522ORIGOliverDSCN1213.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502706">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567960</latitude><longitude crs="WGS84" deg="decimal">119.600445</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567960" longitude="119.600445" measurement="no" public="yes" time="12:14:18" url="/2025/07/01/DATE20250701TIME121418GEOBOOLyesLONGE119600445LATN23567960DIRnoALT15SIZE30704THUMB9162UPLOAD072825UPID4132SITEyamalORIGDSC09222.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502745">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568030</latitude><longitude crs="WGS84" deg="decimal">119.600585</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568030" longitude="119.600585" measurement="no" public="yes" time="12:25:09" url="/2025/07/01/DATE20250701TIME122509GEOBOOLyesLONGE119600585LATN23568030DIRnoALT1SIZE30704THUMB5795UPLOAD072825UPID6727SITEyamalORIGDSC09261.jpg" zoom="no"/></media>
+</ent>
+<ent id="o163922">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.567957</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.60064</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.567957" longitude="119.600640" measurement="no" public="yes" time="09:27:23" url="/2020/07/03/DATE20200703TIME092723GEOBOOLyesLONGE119600640LATN23567957DIR97ALT0SIZE11472THUMB3840ORIGOliverDSCN5149.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502697">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567811</latitude><longitude crs="WGS84" deg="decimal">119.600645</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567811" longitude="119.600645" measurement="no" public="yes" time="12:11:38" url="/2025/07/01/DATE20250701TIME121138GEOBOOLyesLONGE119600645LATN23567811DIRnoALT14SIZE30704THUMB10578UPLOAD072825UPID3126SITEyamalORIGDSC09213.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1068251">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.567327</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600277</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.567327" longitude="119.600277" measurement="no" public="yes" time="15:11:56" url="/2018/11/29/DATE20181129TIME151156GEOBOOLyesLONGE119600277LATN23567327DIR282ALT0SIZE11472THUMB3302ORIGOliverDSCN1192.jpg" zoom="no"/><img date="2018-11-29" flash="no" latitude="23.567327" longitude="119.600277" measurement="no" public="yes" time="15:11:59" url="/2018/11/29/DATE20181129TIME151159GEOBOOLyesLONGE119600277LATN23567327DIR281ALT0SIZE11472THUMB3037ORIGOliverDSCN1193.jpg" zoom="no"/><img date="2018-11-29" flash="no" latitude="23.567322" longitude="119.600285" measurement="no" public="yes" time="15:11:52" url="/2018/11/29/DATE20181129TIME151152GEOBOOLyesLONGE119600285LATN23567322DIR282ALT0SIZE11472THUMB3563ORIGOliverDSCN1191.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502747">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568031</latitude><longitude crs="WGS84" deg="decimal">119.600411</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568031" longitude="119.600411" measurement="no" public="yes" time="12:25:40" url="/2025/07/01/DATE20250701TIME122540GEOBOOLyesLONGE119600411LATN23568031DIRnoALT1SIZE30704THUMB4723UPLOAD072825UPID6846SITEyamalORIGDSC09263.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502695">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567551</latitude><longitude crs="WGS84" deg="decimal">119.600655</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567551" longitude="119.600655" measurement="no" public="yes" time="12:10:27" url="/2025/07/01/DATE20250701TIME121027GEOBOOLyesLONGE119600655LATN23567551DIRnoALT16SIZE30704THUMB8190UPLOAD072825UPID545SITEyamalORIGDSC09211.jpg" zoom="no"/></media>
+</ent>
+<ent id="o163923">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.567933</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600715</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.567933" longitude="119.600715" measurement="no" public="yes" time="09:27:40" url="/2020/07/03/DATE20200703TIME092740GEOBOOLyesLONGE119600715LATN23567933DIR85ALT0SIZE11472THUMB5466ORIGOliverDSCN5150.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502710">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568208</latitude><longitude crs="WGS84" deg="decimal">119.600350</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568208" longitude="119.600350" measurement="no" public="yes" time="12:16:55" url="/2025/07/01/DATE20250701TIME121655GEOBOOLyesLONGE119600350LATN23568208DIRnoALT20SIZE30704THUMB10220UPLOAD072825UPID6314SITEyamalORIGDSC09226.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502775">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568268</latitude><longitude crs="WGS84" deg="decimal">119.600233</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568268" longitude="119.600233" measurement="no" public="yes" time="12:31:39" url="/2025/07/01/DATE20250701TIME123139GEOBOOLyesLONGE119600233LATN23568268DIRnoALT31SIZE30704THUMB12855UPLOAD072825UPID1573SITEyamalORIGDSC09291.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1116240">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.567493</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600685</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.567493" longitude="119.600685" measurement="no" public="yes" time="09:25:29" url="/2020/07/03/DATE20200703TIME092529GEOBOOLyesLONGE119600685LATN23567493DIR358ALT0SIZE11472THUMB3717ORIGOliverDSCN5148.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/><ent id="o163682">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure front side</type></types>
+<geography geotop="o1116240" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.567493</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600685</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2020-07-03" flash="no" latitude="23.567493" longitude="119.600685" measurement="no" public="yes" time="09:25:29" url="/2020/07/03/DATE20200703TIME092529GEOBOOLyesLONGE119600685LATN23567493DIR358ALT0SIZE11472THUMB3717ORIGOliverDSCN5148.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/></ent>
+</ent>
+<ent id="o1502722">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568150</latitude><longitude crs="WGS84" deg="decimal">119.600668</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568150" longitude="119.600668" measurement="no" public="yes" time="12:20:33" url="/2025/07/01/DATE20250701TIME122033GEOBOOLyesLONGE119600668LATN23568150DIRnoALT20SIZE30704THUMB11036UPLOAD072825UPID3037SITEyamalORIGDSC09238.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076024">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:16:56" url="/2018/11/29/DATE20181129TIME151656GEOBOOLnoLONGE0000000LATN0000000DIR14ALTnoSIZE11472THUMB5376ORIGOliverDSCN1209.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502767">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568080</latitude><longitude crs="WGS84" deg="decimal">119.600506</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568080" longitude="119.600506" measurement="no" public="yes" time="12:30:22" url="/2025/07/01/DATE20250701TIME123022GEOBOOLyesLONGE119600506LATN23568080DIRnoALT38SIZE30704THUMB7627UPLOAD072825UPID5448SITEyamalORIGDSC09283.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076015">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.568197</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600973</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.568197" longitude="119.600973" measurement="no" public="yes" time="15:13:57" url="/2018/11/29/DATE20181129TIME151357GEOBOOLyesLONGE119600973LATN23568197DIR31ALT0SIZE11472THUMB5355ORIGOliverDSCN1200.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502771">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568103</latitude><longitude crs="WGS84" deg="decimal">119.600500</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568103" longitude="119.600500" measurement="no" public="yes" time="12:30:38" url="/2025/07/01/DATE20250701TIME123038GEOBOOLyesLONGE119600500LATN23568103DIRnoALT38SIZE30704THUMB9218UPLOAD072825UPID5720SITEyamalORIGDSC09287.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502726">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568175</latitude><longitude crs="WGS84" deg="decimal">119.600668</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568175" longitude="119.600668" measurement="no" public="yes" time="12:21:31" url="/2025/07/01/DATE20250701TIME122131GEOBOOLyesLONGE119600668LATN23568175DIRnoALT20SIZE30704THUMB11771UPLOAD072825UPID4181SITEyamalORIGDSC09242.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502754">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:27:46" url="/2025/07/01/DATE20250701TIME122746GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10180UPLOAD072825UPID2336SITEyamalORIGDSC09270.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1068255">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.567327</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600277</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+</ent>
+<ent id="o1502736">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568040</latitude><longitude crs="WGS84" deg="decimal">119.600583</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568040" longitude="119.600583" measurement="no" public="yes" time="12:23:25" url="/2025/07/01/DATE20250701TIME122325GEOBOOLyesLONGE119600583LATN23568040DIRnoALT1SIZE30704THUMB9594UPLOAD072825UPID4386SITEyamalORIGDSC09252.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502741">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567993</latitude><longitude crs="WGS84" deg="decimal">119.600560</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567993" longitude="119.600560" measurement="no" public="yes" time="12:24:12" url="/2025/07/01/DATE20250701TIME122412GEOBOOLyesLONGE119600560LATN23567993DIRnoALT1SIZE30704THUMB5500UPLOAD072825UPID5405SITEyamalORIGDSC09257.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502713">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567960</latitude><longitude crs="WGS84" deg="decimal">119.600613</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567960" longitude="119.600613" measurement="no" public="yes" time="12:19:05" url="/2025/07/01/DATE20250701TIME121905GEOBOOLyesLONGE119600613LATN23567960DIRnoALT20SIZE30704THUMB13311UPLOAD072825UPID2506SITEyamalORIGDSC09229.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502719">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568086</latitude><longitude crs="WGS84" deg="decimal">119.600641</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568086" longitude="119.600641" measurement="no" public="yes" time="12:20:13" url="/2025/07/01/DATE20250701TIME122013GEOBOOLyesLONGE119600641LATN23568086DIRnoALT20SIZE30704THUMB15320UPLOAD072825UPID3994SITEyamalORIGDSC09235.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076017">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:14:51" url="/2018/11/29/DATE20181129TIME151451GEOBOOLnoLONGE0000000LATN0000000DIR78ALTnoSIZE11472THUMB5991ORIGOliverDSCN1202.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502765">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:29:39" url="/2025/07/01/DATE20250701TIME122939GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB13013UPLOAD072825UPID2908SITEyamalORIGDSC09281.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502702">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568158</latitude><longitude crs="WGS84" deg="decimal">119.600598</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568158" longitude="119.600598" measurement="no" public="yes" time="12:12:58" url="/2025/07/01/DATE20250701TIME121258GEOBOOLyesLONGE119600598LATN23568158DIRnoALT13SIZE30704THUMB8079UPLOAD072825UPID1039SITEyamalORIGDSC09218.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502717">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568068</latitude><longitude crs="WGS84" deg="decimal">119.600681</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568068" longitude="119.600681" measurement="no" public="yes" time="12:19:42" url="/2025/07/01/DATE20250701TIME121942GEOBOOLyesLONGE119600681LATN23568068DIRnoALT20SIZE30704THUMB14657UPLOAD072825UPID3820SITEyamalORIGDSC09233.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502734">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568040</latitude><longitude crs="WGS84" deg="decimal">119.600593</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568040" longitude="119.600593" measurement="no" public="yes" time="12:23:08" url="/2025/07/01/DATE20250701TIME122308GEOBOOLyesLONGE119600593LATN23568040DIRnoALT1SIZE30704THUMB6800UPLOAD072825UPID3499SITEyamalORIGDSC09250.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076019">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:15:18" url="/2018/11/29/DATE20181129TIME151518GEOBOOLnoLONGE0000000LATN0000000DIR76ALTnoSIZE11472THUMB6330ORIGOliverDSCN1204.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502740">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568006</latitude><longitude crs="WGS84" deg="decimal">119.600561</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568006" longitude="119.600561" measurement="no" public="yes" time="12:24:03" url="/2025/07/01/DATE20250701TIME122403GEOBOOLyesLONGE119600561LATN23568006DIRnoALT1SIZE30704THUMB6393UPLOAD072825UPID4556SITEyamalORIGDSC09256.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1068259">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.568197</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.600973</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.568197" longitude="119.600973" measurement="no" public="yes" time="15:13:50" url="/2018/11/29/DATE20181129TIME151350GEOBOOLyesLONGE119600973LATN23568197DIR98ALT0SIZE11472THUMB5596ORIGOliverDSCN1199.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076026">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:18:16" url="/2018/11/29/DATE20181129TIME151816GEOBOOLnoLONGE0000000LATN0000000DIR329ALTnoSIZE11472THUMB6554ORIGOliverDSCN1211.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502763">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:29:12" url="/2025/07/01/DATE20250701TIME122912GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB5106UPLOAD072825UPID6166SITEyamalORIGDSC09279.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502708">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568125</latitude><longitude crs="WGS84" deg="decimal">119.600450</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568125" longitude="119.600450" measurement="no" public="yes" time="12:14:42" url="/2025/07/01/DATE20250701TIME121442GEOBOOLyesLONGE119600450LATN23568125DIRnoALT16SIZE30704THUMB8595UPLOAD072825UPID5863SITEyamalORIGDSC09224.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502724">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568175</latitude><longitude crs="WGS84" deg="decimal">119.600668</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568175" longitude="119.600668" measurement="no" public="yes" time="12:21:03" url="/2025/07/01/DATE20250701TIME122103GEOBOOLyesLONGE119600668LATN23568175DIRnoALT20SIZE30704THUMB6796UPLOAD072825UPID3226SITEyamalORIGDSC09240.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502715">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568065</latitude><longitude crs="WGS84" deg="decimal">119.600673</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568065" longitude="119.600673" measurement="no" public="yes" time="12:19:23" url="/2025/07/01/DATE20250701TIME121923GEOBOOLyesLONGE119600673LATN23568065DIRnoALT20SIZE30704THUMB14919UPLOAD072825UPID7196SITEyamalORIGDSC09231.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502770">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568081</latitude><longitude crs="WGS84" deg="decimal">119.600515</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568081" longitude="119.600515" measurement="no" public="yes" time="12:30:30" url="/2025/07/01/DATE20250701TIME123030GEOBOOLyesLONGE119600515LATN23568081DIRnoALT38SIZE30704THUMB6962UPLOAD072825UPID1621SITEyamalORIGDSC09286.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502769">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568081</latitude><longitude crs="WGS84" deg="decimal">119.600513</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568081" longitude="119.600513" measurement="no" public="yes" time="12:30:29" url="/2025/07/01/DATE20250701TIME123029GEOBOOLyesLONGE119600513LATN23568081DIRnoALT38SIZE30704THUMB5786UPLOAD072825UPID7958SITEyamalORIGDSC09285.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502756">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:28:02" url="/2025/07/01/DATE20250701TIME122802GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB7104UPLOAD072825UPID8141SITEyamalORIGDSC09272.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502720">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568091</latitude><longitude crs="WGS84" deg="decimal">119.600645</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568091" longitude="119.600645" measurement="no" public="yes" time="12:20:19" url="/2025/07/01/DATE20250701TIME122019GEOBOOLyesLONGE119600645LATN23568091DIRnoALT20SIZE30704THUMB9978UPLOAD072825UPID1377SITEyamalORIGDSC09236.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502774">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568255</latitude><longitude crs="WGS84" deg="decimal">119.600231</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568255" longitude="119.600231" measurement="no" public="yes" time="12:31:31" url="/2025/07/01/DATE20250701TIME123131GEOBOOLyesLONGE119600231LATN23568255DIRnoALT31SIZE30704THUMB15262UPLOAD072825UPID6932SITEyamalORIGDSC09290.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502709">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568146</latitude><longitude crs="WGS84" deg="decimal">119.600378</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568146" longitude="119.600378" measurement="no" public="yes" time="12:15:07" url="/2025/07/01/DATE20250701TIME121507GEOBOOLyesLONGE119600378LATN23568146DIRnoALT17SIZE30704THUMB8334UPLOAD072825UPID2932SITEyamalORIGDSC09225.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076021">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:15:48" url="/2018/11/29/DATE20181129TIME151548GEOBOOLnoLONGE0000000LATN0000000DIR341ALTnoSIZE11472THUMB5840ORIGOliverDSCN1206.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502712">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567916</latitude><longitude crs="WGS84" deg="decimal">119.600633</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567916" longitude="119.600633" measurement="no" public="yes" time="12:18:57" url="/2025/07/01/DATE20250701TIME121857GEOBOOLyesLONGE119600633LATN23567916DIRnoALT20SIZE30704THUMB13936UPLOAD072825UPID1406SITEyamalORIGDSC09228.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502751">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568145</latitude><longitude crs="WGS84" deg="decimal">119.600593</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568145" longitude="119.600593" measurement="no" public="yes" time="12:26:55" url="/2025/07/01/DATE20250701TIME122655GEOBOOLyesLONGE119600593LATN23568145DIRnoALTnoSIZE30704THUMB6378UPLOAD072825UPID3555SITEyamalORIGDSC09267.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502703">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568178</latitude><longitude crs="WGS84" deg="decimal">119.600593</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568178" longitude="119.600593" measurement="no" public="yes" time="12:13:12" url="/2025/07/01/DATE20250701TIME121312GEOBOOLyesLONGE119600593LATN23568178DIRnoALT13SIZE30704THUMB7331UPLOAD072825UPID476SITEyamalORIGDSC09219.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502768">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568080</latitude><longitude crs="WGS84" deg="decimal">119.600510</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568080" longitude="119.600510" measurement="no" public="yes" time="12:30:27" url="/2025/07/01/DATE20250701TIME123027GEOBOOLyesLONGE119600510LATN23568080DIRnoALT38SIZE30704THUMB5412UPLOAD072825UPID8109SITEyamalORIGDSC09284.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076018">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:14:57" url="/2018/11/29/DATE20181129TIME151457GEOBOOLnoLONGE0000000LATN0000000DIR338ALTnoSIZE11472THUMB6263ORIGOliverDSCN1203.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1068245">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.568078</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.60056</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.568078" longitude="119.600560" measurement="no" public="yes" time="15:09:51" url="/2018/11/29/DATE20181129TIME150951GEOBOOLyesLONGE119600560LATN23568078DIR0ALT0SIZE11472THUMB5594ORIGOliverDSCN1185.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502744">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568030</latitude><longitude crs="WGS84" deg="decimal">119.600585</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568030" longitude="119.600585" measurement="no" public="yes" time="12:25:01" url="/2025/07/01/DATE20250701TIME122501GEOBOOLyesLONGE119600585LATN23568030DIRnoALT1SIZE30704THUMB5293UPLOAD072825UPID8326SITEyamalORIGDSC09260.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502730">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567928</latitude><longitude crs="WGS84" deg="decimal">119.600570</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567928" longitude="119.600570" measurement="no" public="yes" time="12:22:19" url="/2025/07/01/DATE20250701TIME122219GEOBOOLyesLONGE119600570LATN23567928DIRnoALT1SIZE30704THUMB8309UPLOAD072825UPID7568SITEyamalORIGDSC09246.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076031">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:18:53" url="/2018/11/29/DATE20181129TIME151853GEOBOOLnoLONGE0000000LATN0000000DIR356ALTnoSIZE11472THUMB5224ORIGOliverDSCN1216.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076030">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:18:42" url="/2018/11/29/DATE20181129TIME151842GEOBOOLnoLONGE0000000LATN0000000DIR355ALTnoSIZE11472THUMB6236ORIGOliverDSCN1215.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502705">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567948</latitude><longitude crs="WGS84" deg="decimal">119.600435</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567948" longitude="119.600435" measurement="no" public="yes" time="12:14:13" url="/2025/07/01/DATE20250701TIME121413GEOBOOLyesLONGE119600435LATN23567948DIRnoALT15SIZE30704THUMB7666UPLOAD072825UPID4694SITEyamalORIGDSC09221.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502731">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567933</latitude><longitude crs="WGS84" deg="decimal">119.600573</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567933" longitude="119.600573" measurement="no" public="yes" time="12:22:30" url="/2025/07/01/DATE20250701TIME122230GEOBOOLyesLONGE119600573LATN23567933DIRnoALT1SIZE30704THUMB7090UPLOAD072825UPID6534SITEyamalORIGDSC09247.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502746">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568030</latitude><longitude crs="WGS84" deg="decimal">119.600585</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568030" longitude="119.600585" measurement="no" public="yes" time="12:25:16" url="/2025/07/01/DATE20250701TIME122516GEOBOOLyesLONGE119600585LATN23568030DIRnoALT1SIZE30704THUMB5871UPLOAD072825UPID7715SITEyamalORIGDSC09262.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502762">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568"/><media>
+<img date="2025-07-01" flash="no" measurement="no" public="yes" time="12:29:07" url="/2025/07/01/DATE20250701TIME122907GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10576UPLOAD072825UPID2991SITEyamalORIGDSC09278.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502718">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568055</latitude><longitude crs="WGS84" deg="decimal">119.600683</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568055" longitude="119.600683" measurement="no" public="yes" time="12:19:50" url="/2025/07/01/DATE20250701TIME121950GEOBOOLyesLONGE119600683LATN23568055DIRnoALT20SIZE30704THUMB15008UPLOAD072825UPID4740SITEyamalORIGDSC09234.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502776">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568150</latitude><longitude crs="WGS84" deg="decimal">119.600336</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568150" longitude="119.600336" measurement="no" public="yes" time="12:33:14" url="/2025/07/01/DATE20250701TIME123314GEOBOOLyesLONGE119600336LATN23568150DIRnoALT27SIZE30704THUMB9935UPLOAD072825UPID5835SITEyamalORIGDSC09292.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502750">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568145</latitude><longitude crs="WGS84" deg="decimal">119.600593</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568145" longitude="119.600593" measurement="no" public="yes" time="12:26:44" url="/2025/07/01/DATE20250701TIME122644GEOBOOLyesLONGE119600593LATN23568145DIRnoALTnoSIZE30704THUMB8240UPLOAD072825UPID8531SITEyamalORIGDSC09266.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1076020">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.600628</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.567978500000002</latitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" measurement="no" public="yes" time="15:15:34" url="/2018/11/29/DATE20181129TIME151534GEOBOOLnoLONGE0000000LATN0000000DIR338ALTnoSIZE11472THUMB6156ORIGOliverDSCN1205.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502707">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568086</latitude><longitude crs="WGS84" deg="decimal">119.600418</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568086" longitude="119.600418" measurement="no" public="yes" time="12:14:30" url="/2025/07/01/DATE20250701TIME121430GEOBOOLyesLONGE119600418LATN23568086DIRnoALT16SIZE30704THUMB9133UPLOAD072825UPID3876SITEyamalORIGDSC09223.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1068243">
+<types>
+<type language="English" script="Latin">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.567562</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.60065</longitude><island>
+<names>
+<name script="Chinese-traditional" ucd="CJK">澎湖島</name><name language="English" script="Latin" ucd="LATIN">Penghu Island</name></names>
+</island>
+</geography>
+<media>
+<img date="2018-11-29" flash="no" latitude="23.567562" longitude="119.600650" measurement="no" public="yes" time="15:06:52" url="/2018/11/29/DATE20181129TIME150652GEOBOOLyesLONGE119600650LATN23567562DIR20ALT0SIZE11472THUMB4550ORIGOliverDSCN1183.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502721">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.568135</latitude><longitude crs="WGS84" deg="decimal">119.600661</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.568135" longitude="119.600661" measurement="no" public="yes" time="12:20:29" url="/2025/07/01/DATE20250701TIME122029GEOBOOLyesLONGE119600661LATN23568135DIRnoALT20SIZE30704THUMB8934UPLOAD072825UPID5928SITEyamalORIGDSC09237.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502696">
+<types>
+<type script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s112568" siteid="s112568">
+<latitude crs="WGS84" deg="decimal">23.567550</latitude><longitude crs="WGS84" deg="decimal">119.600643</longitude></geography>
+<media>
+<img date="2025-07-01" flash="no" latitude="23.567550" longitude="119.600643" measurement="no" public="yes" time="12:10:33" url="/2025/07/01/DATE20250701TIME121033GEOBOOLyesLONGE119600643LATN23567550DIRnoALT16SIZE30704THUMB8683UPLOAD072825UPID1633SITEyamalORIGDSC09212.jpg" zoom="no"/></media>
+</ent>
+</ent>
+<stats><stat type="shigandang" direct="2" indirect="1" cross="0">3</stat></stats></ent>
+</document>

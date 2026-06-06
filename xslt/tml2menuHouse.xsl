@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0" 
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	xmlns:xi="http://www.w3.org/2001/XInclude">
+<xsl:output method="html" encoding="utf-8" indent="yes" />
+
+<xsl:template match="/thakbong">
+
+<xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
+<xsl:text>&#xa;</xsl:text>
+
+	<html>
+	<xsl:for-each select="project">
+		<xsl:for-each select="subprojects">
+			<xsl:for-each select="project[@id='houses']">
+			<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+				<link type='text/css' rel="stylesheet" href="https://aplac.github.io/css/all.css"/>
+				<title>
+				<xsl:value-of select="name"/>
+				</title>
+			</head>
+			</xsl:for-each>
+		</xsl:for-each>
+	</xsl:for-each>
+
+	<body>
+
+	<xi:include href="/home/oliver/git/aplac.github.io/tml/menu.xml" parse="xml"/>
+
+	<xsl:for-each select="project">
+		<xsl:for-each select="subprojects">
+			<xsl:for-each select="project[@id='houses']">
+				<xi:include href="/home/oliver/git/aplac.github.io/xslt4html/tml2project.xsl" parse="xml"/>
+			</xsl:for-each>
+		</xsl:for-each>
+	</xsl:for-each>
+
+
+	<h2>Thakbong House Search</h2>
+
+	<div>
+	<ul>
+	<xsl:for-each select="document">
+		<xsl:for-each select="ent">
+			<xsl:sort select="admin/@code"/>
+			<xsl:sort select="geography/pluscode"/>
+			<xsl:sort select="communities/community/communityname"/>
+
+                        <xsl:variable name="is_house" select="types[type='house']/type/text()" />
+                        <xsl:choose>
+                        <xsl:when test="$is_house !='' and srl">
+			<li>
+
+			<xsl:element name="a">
+			<xsl:attribute name="href">
+			<xsl:value-of select="srl"/>
+			</xsl:attribute>
+			<xsl:value-of select="admin/@code"/>
+			<xsl:text>:&#032;</xsl:text>
+
+			<xsl:for-each select="communities/community/communityname">
+				<xsl:sort select="language"/>
+				<xsl:sort select="script"/>
+				<xsl:value-of select="."/>
+
+			<xsl:if test="position() &lt; last()">,
+				<xsl:text>&#032;</xsl:text>
+			</xsl:if>
+			</xsl:for-each>
+			</xsl:element>
+
+			Pluscode:
+			<xsl:value-of select="geography/pluscode"/>
+			</li>
+			</xsl:when>
+			</xsl:choose>
+
+		</xsl:for-each>
+	</xsl:for-each>
+	</ul>
+	</div>
+
+	<script type="text/javascript" src="https://aplac.github.io/js/leftright.js"/>
+
+
+	</body>
+	</html>
+
+</xsl:template>		
+</xsl:stylesheet>

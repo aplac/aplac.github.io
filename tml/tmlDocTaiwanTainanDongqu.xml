@@ -1,1 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?><?xml-stylesheet type="text/css" href="../css/tml.css"?><?xml-stylesheet type="text/css" href="../css/all.css"?><document longitude="E(120)" latitude="N(22)"><ent id="s33689"><communities><community><name>Huwei</name></community></communities><geography geotop="s368" siteid="s368"><address>台灣台南東區</address><address>Tainanshi, Yuyonglu</address><pluscode>7QJ2X6VQ+2X</pluscode><longitude src="percol-up">120.2399975</longitude><latitude src="percol-up">22.9925375</latitude><orientations><orientation system="geographic north" src="ground measurement">95</orientation></orientations></geography><names><name>Yuyonglu</name><name>裕永路</name></names><types><type>individual burial</type><type>tomb</type></types><f><f60>131</f60><f63>1</f63><f73>0</f73><f74>34</f74><f81>tw</f81><f82>塋</f82><f84>under</f84><f88>2</f88><f95>n</f95><f102>368</f102><f103>10</f103><f105>2</f105><f108>han:holo</f108><f109>20</f109><f110>t</f110><f113>t</f113><f126>t</f126><f130>291</f130><f131>127</f131><f133>368</f133><f134>242</f134><f135>113909</f135><f140>t</f140><f148>1</f148><f150>t</f150><f152>2</f152><f153>t</f153><f154>10</f154><f155>6</f155><f162>33690</f162><f163>33687</f163><f168>1</f168><f169>0</f169></f><ref><event></event></ref><culturaldomain><practices><practice><names><name>the container of the body of the deceased is lowered into the ground and covered by soil</name></names><epistemics>observed</epistemics></practice></practices></culturaldomain><events><event type="fieldwork" date="2021-10-19"><agents><agent role="researcher" refid="con1"/></agents></event></events><ent id="o235822"><types><type script="Latin" language="English"/></types><geography geotop="s33689" siteid="s33689"><latitude src="percol-up" crs="WGS84" deg="decimal">22.99255</latitude><longitude src="percol-up" crs="WGS84" deg="decimal">120.240003</longitude></geography><media><img public="yes" date="2011-04-02" time="09:00:11" latitude="22.992550" url="/2011/04/02/DATE20110402TIME090011GEOBOOLyesLONGE120240003LATN22992550DIR65ALT34SIZE21482THUMB5664ORIGRIMG0137.jpg"/></media><sem><texts><text id="t1" textColor="" writingDirection="" side="f"><normalization></normalization></text></texts></sem><ref><event></event></ref><pi writing="yes"/></ent><ent id="o194893"><types><type script="Latin" language="English"/></types><geography geotop="s33689" siteid="s33689"><latitude src="percol-up" crs="WGS84" deg="decimal">22.992517</latitude><longitude src="percol-up" crs="WGS84" deg="decimal">120.240008</longitude></geography><media><img public="yes" date="2011-04-02" time="08:59:28" latitude="22.992517" url="/2011/04/02/DATE20110402TIME085928GEOBOOLyesLONGE120240008LATN22992517DIR338ALT33SIZE17494THUMB4999ORIGRIMG0132.jpg"/></media><sem><texts><text id="t1" textColor="" writingDirection="" side="f"><normalization></normalization></text></texts></sem><ref><event></event></ref><pi writing="yes"/></ent><ent id="o201963"><types><type script="Latin" language="English"/></types><geography geotop="s33689" siteid="s33689"><latitude src="percol-up" crs="WGS84" deg="decimal">22.992539</latitude><longitude src="percol-up" crs="WGS84" deg="decimal">120.239992</longitude></geography><media><img public="yes" date="2011-04-02" time="09:00:14" latitude="22.992539" url="/2011/04/02/DATE20110402TIME090014GEOBOOLyesLONGE120239992LATN22992539DIR190ALT34SIZE17194THUMB4827ORIGRIMG0138.jpg"/></media><sem><texts><text id="t1" textColor="" writingDirection="" side="f"><normalization></normalization></text></texts></sem><ref><event></event></ref><pi writing="yes"/></ent></ent></document>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
+<?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<?xml-stylesheet type="text/css" href="../css/all.css"?>
+<document latitude="N(22)" longitude="E(120)">
+<ent id="s33689">
+<communities>
+<community>
+<name script="Latin" ucd="LATIN">Huwei</name></community>
+</communities>
+<geography geotop="s368" siteid="s368">
+<address ucd="CJK" script="Chinese-traditional">台灣台南東區</address><address ucd="LATIN" script="Latin">Tainanshi, Yuyonglu</address><pluscode>7QJ2X6VQ+2X</pluscode><longitude crs="WGS84" deg="decimal" src="percol-up">120.2399975</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">22.9925375</latitude><orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation></orientations>
+<island>
+<names>
+<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
+</island>
+</geography>
+<names>
+<name script="Latin" ucd="LATIN">Yuyonglu</name><name script="Chinese-traditional" ucd="CJK">裕永路</name></names>
+<types>
+<type script="Latin" ucd="LATIN">individual burial</type><type script="Latin" ucd="LATIN">tomb</type></types>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name script="Latin" ucd="LATIN">the container of the body of the deceased is lowered into the ground and covered by soil</name></names>
+<epistemics>observed</epistemics></practice>
+</practices>
+</culturaldomain>
+<events>
+<event date="2021-10-19" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<ent id="o201963">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s33689" siteid="s33689">
+<latitude crs="WGS84" deg="decimal" src="percol-up">22.992539</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.239992</longitude><island>
+<names>
+<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
+</island>
+</geography>
+<media>
+<img date="2011-04-02" flash="no" latitude="22.992539" longitude="120.239992" measurement="no" public="yes" time="09:00:14" url="/2011/04/02/DATE20110402TIME090014GEOBOOLyesLONGE120239992LATN22992539DIR190ALT34SIZE17194THUMB4827ORIGRIMG0138.jpg" zoom="no"/></media>
+<sem writing="inscribed">
+<texts>
+<text id="t1" side="f" textColor="" writingDirection=""><normalization><div/></normalization></text></texts>
+</sem>
+</ent>
+<ent id="o188414">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s33689" siteid="s33689">
+<latitude crs="WGS84" deg="decimal" src="percol-up">22.992536</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.239972</longitude><island>
+<names>
+<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
+</island>
+</geography>
+<media>
+<img date="2011-04-02" flash="no" latitude="22.992536" longitude="120.239972" measurement="no" public="yes" time="09:00:19" url="/2011/04/02/DATE20110402TIME090019GEOBOOLyesLONGE120239972LATN22992536DIR325ALT34SIZE17566THUMB5660ORIGRIMG0139.jpg" zoom="no"/></media>
+<sem writing="inscribed"/></ent>
+<ent id="o194893">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s33689" siteid="s33689">
+<latitude crs="WGS84" deg="decimal" src="percol-up">22.992517</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.240008</longitude><island>
+<names>
+<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
+</island>
+</geography>
+<media>
+<img date="2011-04-02" flash="no" latitude="22.992517" longitude="120.240008" measurement="no" public="yes" time="08:59:28" url="/2011/04/02/DATE20110402TIME085928GEOBOOLyesLONGE120240008LATN22992517DIR338ALT33SIZE17494THUMB4999ORIGRIMG0132.jpg" zoom="no">
+<labels>
+<label topical="0.0389" score="0.97" engine="Google Vision API">Plants</label><label topical="0.5372" score="0.93" engine="Google Vision API">Grave</label><label topical="0.0004" score="0.90" engine="Google Vision API">Plant community</label><label topical="0.3387" score="0.89" engine="Google Vision API">Headstone</label><label topical="0.7570" score="0.89" engine="Google Vision API">Cemetery</label><label topical="0.0013" score="0.88" engine="Google Vision API">Groundcover</label><label topical="0.0003" score="0.87" engine="Google Vision API">Grasses</label><label topical="0.0228" score="0.80" engine="Google Vision API">Memorial</label><label topical="0.0003" score="0.72" engine="Google Vision API">List of nonbuilding structure types</label><label topical="0.0076" score="0.66" engine="Google Vision API">Yard</label></labels>
+</img>
+</media>
+<sem writing="inscribed">
+<texts>
+<text id="t1" side="f" textColor="" writingDirection=""><normalization><div/></normalization></text></texts>
+</sem>
+</ent>
+<ent id="o235822">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s33689" siteid="s33689">
+<latitude crs="WGS84" deg="decimal" src="percol-up">22.99255</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.240003</longitude><island>
+<names>
+<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
+</island>
+</geography>
+<media>
+<img date="2011-04-02" flash="no" latitude="22.992550" longitude="120.240003" measurement="no" public="yes" time="09:00:11" url="/2011/04/02/DATE20110402TIME090011GEOBOOLyesLONGE120240003LATN22992550DIR65ALT34SIZE21482THUMB5664ORIGRIMG0137.jpg" zoom="no">
+<labels>
+<label topical="0.0694" score="0.82" engine="Google Vision API">Stone carving</label><label topical="0.0433" score="0.79" engine="Google Vision API">Carving</label><label topical="0.0699" score="0.74" engine="Google Vision API">Headstone</label><label topical="0.3997" score="0.72" engine="Google Vision API">Cemetery</label><label topical="0.0016" score="0.58" engine="Google Vision API">Lawn ornament</label><label topical="0.0206" score="0.57" engine="Google Vision API">Relief</label></labels>
+<objects>
+<object score="0.8435402512550354" engine="Google Vision API">
+<vertex x="0.3515625" y="0.328125"/><vertex x="0.625" y="0.328125"/><vertex x="0.625" y="0.609375"/><vertex x="0.3515625" y="0.609375"/></object>
+<object score="0.5315298438072205" engine="Google Vision API">
+<vertex x="0.330078125" y="0.322265625"/><vertex x="0.63671875" y="0.322265625"/><vertex x="0.63671875" y="0.96484375"/><vertex x="0.330078125" y="0.96484375"/></object>
+</objects>
+</img>
+</media>
+<sem writing="inscribed">
+<texts>
+<text id="t1" side="f" textColor="" writingDirection=""><normalization><div/></normalization></text></texts>
+</sem>
+</ent>
+</ent>
+</document>

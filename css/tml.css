@@ -1,29 +1,102 @@
 :root { --main-color:#1467a9}
 
-document,thakbong,subprojects,project {
+document,thakbong,subprojects,project,definitions {
   font-family: sans-serif;
+  color:var(--main-color);
   background-color: white;
   display:flex;
+  --node-padding: 0.5ex;
+  padding: var(--node-padding);
 }
 
-transcription:not(:empty):before { content: 'transcription: "' }
-transcription:not(:empty):after { content: '" ' }
-name ~ name:not(:empty):before { content: ', ' }
-type ~ type:not(:empty):before { content: ', ' }
+h1,h2,h3,h4 {
+    display: block;
+    color:white;
+    background-color:var(--main-color);
+    font-weight:bold;
+    text-indent:0%;
+    border-bottom:1px white;
+    width:95%;
+}
+
+h1 > a:hover,h2 > a:hover,h3 > a:hover,h4 > a:hover,h5 > a:hover,h6 > a:hover {
+    border-bottom:1px dashed var(--main-color);
+    text-decoration:none;
+    color:var(--main-color);
+    background-color:white;
+}
+
+a.inv:hover {color:var(--main-color);background-color:white}
+div.front {width:75%;min-width:700px;margin:top;text-aligh:top;margin:auto}
+a.inv {border-bottom:1px dashed white;text-decoration:none;background-color:var(--main-color);color:white}
+a.inv:hover {color:var(--main-color);background-color:white}
+
+
+div,def {
+  display: block;
+  margin:0em;
+  background-color:transparent;
+  width:95%;
+  padding: var(--node-padding);}
+
+affilid:not(:empty):before { color:grey;content: ' affiliated with: ' }
+affilid:not(:empty):after { color:grey;content : ' ' }
+refid:not(:empty):before { color:grey;content: ' refid: ' }
+refid:not(:empty):after { color:grey;content : ' ' }
+system:not(:empty):before { color:grey;content: ' system: ' }
+system:not(:empty):after { color:grey;content : ' ' }
+role:not(:empty):before { color:grey;content: ' role: ' }
+role:not(:empty):after { color:grey;content : ' ' }
+deg:not(:empty):before { color:grey;content: ' degrees: ' }
+deg:not(:empty):after { color:grey;content : ' ' }
+crs:not(:empty):before { color:grey;content: ' conceptual reference system: ' }
+crs:not(:empty):after { color:grey;content : ' ' }
+url:not(:empty):before { color:grey;content: ' url: ' }
+url:not(:empty):after { color:grey;content : ' ' }
+time:not(:empty):before { color:grey;content: ' time: ' }
+time:not(:empty):after { color:grey;content : ' ' }
+public:not(:empty):before { color:grey;content: ' public: ' }
+public:not(:empty):after { color:grey;content : ' ' }
+date:not(:empty):before { color:grey;content: ' date: ' }
+date:not(:empty):after { color:grey;content : ' ' }
+src:not(:empty):before { color:grey;content: ' source: ' }
+src:not(:empty):after { color:grey;content : ' ' }
+author:not(:empty):before { color:grey;content: ' author: ' }
+author:not(:empty):after { color:grey;content : ' ' }
+admintype:not(:empty):before { color:grey;content: ' administrative type: ' }
+admintype:not(:empty):after { color:grey;content : ' ' }
+code:not(:empty):before { color:grey;content: ' code: ' }
+code:not(:empty):after { color:grey;content : ' ' }
+language:not(:empty):before { color:grey;content: ' language: ' }
+language:not(:empty):after { color:grey;content : ' ' }
+script:not(:empty):before { color:grey;content: ' script: ' }
+script:not(:empty):after { color:grey;content : ' ' }
+writingDirection:not(:empty):before { color:grey;content: ' writing direction: ' }
+writingDirection:not(:empty):after { color:grey;content : ' ' }
+textColor:not(:empty):before { color:grey;content: ' textColor: ' }
+textColor:not(:empty):after { color:grey;content : ' ' }
+backgroundColor:not(:empty):before { color:grey;content: ' background color: ' }
+backgroundColor:not(:empty):after { color:grey;content : ' ' }
+side:not(:empty):before { color:grey;content: ' side: ' }
+side:not(:empty):after { color:grey;content : ' ' }
 keyword:not(:empty):before { content: " #" }
 admtop:not(:empty):before { content : " of --> " }
-longitude:not(:empty):before { content : "E" }
-latitude:not(:empty):before { content : "N" }
+community:not(:empty):before { content : " community:" }
+material:not(:empty):before { content : " material:" }
+technique:not(:empty):before { content : " technique:" }
+tool:not(:empty):before { content : " tool:" }
+transliteration:not(:empty):before { content : "transliteration: " }
+translation:not(:empty):before { content : "translation: " }
 affiliation:not(:empty):before { content : "affiliation: " }
+orientation:not(:empty):before { content : "orientation: " }
+address:not(:empty):before { content : "address: " }
+street:not(:empty):before { content : " street: " }
+housenumber:not(:empty):before { content : " Nb: " }
 practice:not(:empty):before { content : "cultural practice: " }
 creator:not(:empty):before { content : "creator: " }
 initiator:not(:empty):before { content : "initiator: " }
 responsible:not(:empty):before { content : "responsible: " }
-examples:not(:empty):before { content : "examples: " }
-definiens:not(:empty):before { content : "definiens: " }
-definiendum:not(:empty):before { content :'definiendum: ' }
-arts:not(:empty):before { content : "arts: " }
-genres:not(:empty):before { content : "genres: " }
+motif:not(:empty):before { content : "motif: " }
 deontics:not(:empty):before { content : " (deontics/normative: " }
 deontics:not(:empty):after { content : ")" }
 epistemics:not(:empty):before { content : " (epistemics/descriptive: " }
@@ -38,13 +111,14 @@ project > name,definitions > name {
   flex-grow:1;
   font-size: 1.2em;
   font-weight: bold;
+  padding: var(--node-padding); 
   padding-top: 7px;
 }
 
 def > definiendum {
   font-style: italic;
   display: block;
-  padding: 2%;
+  padding: var(--node-padding); 
   flex-grow:1;
   font-size: 1.1em;
   font-weight: bold;
@@ -54,27 +128,29 @@ html {
   display:inline;
 }
 
-ent,copyright,description,sitemap,definitions,transliteration,transcritpion,keywords,div,texts,person,arts,genres,event,geography,creator,admins,initiator,responsible,project,def,definiens,examples,affiliation,admtop,adminname,transcription,keyword,practice,epistemics,events,ref {
+ent,copyright,description,sitemap,definitions,transliteration,transcritpion,keywords,div,texts,person,arts,genres,geography,creator,admins,initiator,responsible,project,def,definiens,examples,affiliation,admtop,adminname,transcription,keyword,practices,epistemics,ref,events,event,names,types,motifs,communities,longitude,latitude,name,type {
   display:block;
-  padding:0em;
   flex-grow:1;
-  padding-left:1em;
+  padding: var(--node-padding); 
   background-color:transparent;
 }
 
 
 ent[id^='s'] {
+  padding: var(--node-padding); 
   border-left:1px dashed var(--main-color);
   padding-left:1.5em;
 }
 
 iframe,img {
+  padding: var(--node-padding); 
   height:200px;
   width:200px;
   display:inline;
 }
 
 img {
+  padding: var(--node-padding); 
   loading:lazy;
 }
 

@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
+<?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<?xml-stylesheet type="text/css" href="../css/all.css"?>
+<document latitude="N(22|23)" longitude="E(119|120)">
+<ent id="s126844">
+<types>
+<type language="English" script="Latin" ucd="LATIN">settlement</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園村</name><name language="English" script="Latin" ucd="LATIN">Caiyuan Village</name></names>
+<geography geotop="sPenghuArchipelago" siteid="sPenghuArchipelago">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.59642500000001</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.551206</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-08" lunar="2021-02-27" timefrom="16:54:05" timeto="17:00:39" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+<event day="2021-04-10" lunar="2021-02-29" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<ent id="s114412">
+<types>
+<type language="English" script="Latin" ucd="LATIN">temple</type><type script="Chinese-traditional" ucd="CJK">宮</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園東安宮</name><name language="English" script="Latin" ucd="LATIN">Caiyuan Dongan Gong</name></names>
+<geography geotop="s126844" siteid="s126844">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.595628</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.551203</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-08" lunar="2021-02-27" timefrom="17:00:39" timeto="17:00:39" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<ent id="o1502961">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551431</latitude><longitude crs="WGS84" deg="decimal">119.595495</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551431" longitude="119.595495" measurement="no" public="yes" time="11:19:39" url="/2025/06/24/DATE20250624TIME111939GEOBOOLyesLONGE119595495LATN23551431DIRnoALT15SIZE30704THUMB7624UPLOAD072825UPID1148SITEyamalORIGDSC07562.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502938">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:10:20" url="/2025/06/24/DATE20250624TIME111020GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10404UPLOAD072825UPID6031SITEyamalORIGDSC07539.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502945">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:13:11" url="/2025/06/24/DATE20250624TIME111311GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB12251UPLOAD072825UPID2134SITEyamalORIGDSC07546.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502929">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:08:27" url="/2025/06/24/DATE20250624TIME110827GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10716UPLOAD072825UPID8366SITEyamalORIGDSC07530.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502943">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:12:59" url="/2025/06/24/DATE20250624TIME111259GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB11337UPLOAD072825UPID530SITEyamalORIGDSC07544.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502920">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551623</latitude><longitude crs="WGS84" deg="decimal">119.595575</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551623" longitude="119.595575" measurement="no" public="yes" time="11:06:19" url="/2025/06/24/DATE20250624TIME110619GEOBOOLyesLONGE119595575LATN23551623DIRnoALTnoSIZE30704THUMB11327UPLOAD072825UPID3900SITEyamalORIGDSC07521.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502930">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:08:39" url="/2025/06/24/DATE20250624TIME110839GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10535UPLOAD072825UPID4506SITEyamalORIGDSC07531.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502942">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:12:53" url="/2025/06/24/DATE20250624TIME111253GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB11984UPLOAD072825UPID2399SITEyamalORIGDSC07543.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502951">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:14:17" url="/2025/06/24/DATE20250624TIME111417GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB9951UPLOAD072825UPID1245SITEyamalORIGDSC07552.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502944">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:13:05" url="/2025/06/24/DATE20250624TIME111305GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10696UPLOAD072825UPID7553SITEyamalORIGDSC07545.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502956">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551346</latitude><longitude crs="WGS84" deg="decimal">119.595586</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551346" longitude="119.595586" measurement="no" public="yes" time="11:18:47" url="/2025/06/24/DATE20250624TIME111847GEOBOOLyesLONGE119595586LATN23551346DIRnoALT14SIZE30704THUMB8616UPLOAD072825UPID3493SITEyamalORIGDSC07557.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502939">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:12:16" url="/2025/06/24/DATE20250624TIME111216GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB13990UPLOAD072825UPID6924SITEyamalORIGDSC07540.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502917">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551135</latitude><longitude crs="WGS84" deg="decimal">119.595620</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551135" longitude="119.595620" measurement="no" public="yes" time="11:05:11" url="/2025/06/24/DATE20250624TIME110511GEOBOOLyesLONGE119595620LATN23551135DIRnoALT6SIZE30704THUMB8317UPLOAD072825UPID5131SITEyamalORIGDSC07518.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502928">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:08:20" url="/2025/06/24/DATE20250624TIME110820GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB9408UPLOAD072825UPID721SITEyamalORIGDSC07529.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502958">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551363</latitude><longitude crs="WGS84" deg="decimal">119.595570</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551363" longitude="119.595570" measurement="no" public="yes" time="11:19:15" url="/2025/06/24/DATE20250624TIME111915GEOBOOLyesLONGE119595570LATN23551363DIRnoALT14SIZE30704THUMB9692UPLOAD072825UPID819SITEyamalORIGDSC07559.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502926">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:08:07" url="/2025/06/24/DATE20250624TIME110807GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB6488UPLOAD072825UPID6965SITEyamalORIGDSC07527.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502960">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551426</latitude><longitude crs="WGS84" deg="decimal">119.595498</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551426" longitude="119.595498" measurement="no" public="yes" time="11:19:35" url="/2025/06/24/DATE20250624TIME111935GEOBOOLyesLONGE119595498LATN23551426DIRnoALT15SIZE30704THUMB9126UPLOAD072825UPID3834SITEyamalORIGDSC07561.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502921">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551640</latitude><longitude crs="WGS84" deg="decimal">119.595556</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551640" longitude="119.595556" measurement="no" public="yes" time="11:06:29" url="/2025/06/24/DATE20250624TIME110629GEOBOOLyesLONGE119595556LATN23551640DIRnoALTnoSIZE30704THUMB9586UPLOAD072825UPID2526SITEyamalORIGDSC07522.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502931">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:09:22" url="/2025/06/24/DATE20250624TIME110922GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10849UPLOAD072825UPID2921SITEyamalORIGDSC07532.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502947">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:13:22" url="/2025/06/24/DATE20250624TIME111322GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB12114UPLOAD072825UPID2186SITEyamalORIGDSC07548.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502950">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:13:42" url="/2025/06/24/DATE20250624TIME111342GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB12715UPLOAD072825UPID2839SITEyamalORIGDSC07551.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502959">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551365</latitude><longitude crs="WGS84" deg="decimal">119.595553</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551365" longitude="119.595553" measurement="no" public="yes" time="11:19:21" url="/2025/06/24/DATE20250624TIME111921GEOBOOLyesLONGE119595553LATN23551365DIRnoALT15SIZE30704THUMB8321UPLOAD072825UPID8185SITEyamalORIGDSC07560.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502936">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:10:09" url="/2025/06/24/DATE20250624TIME111009GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10609UPLOAD072825UPID4432SITEyamalORIGDSC07537.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502937">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:10:16" url="/2025/06/24/DATE20250624TIME111016GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB11457UPLOAD072825UPID6557SITEyamalORIGDSC07538.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502952">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551393</latitude><longitude crs="WGS84" deg="decimal">119.595666</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551393" longitude="119.595666" measurement="no" public="yes" time="11:15:19" url="/2025/06/24/DATE20250624TIME111519GEOBOOLyesLONGE119595666LATN23551393DIRnoALT42SIZE30704THUMB9744UPLOAD072825UPID1359SITEyamalORIGDSC07553.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502941">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:12:35" url="/2025/06/24/DATE20250624TIME111235GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB8264UPLOAD072825UPID3748SITEyamalORIGDSC07542.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502919">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551343</latitude><longitude crs="WGS84" deg="decimal">119.595600</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551343" longitude="119.595600" measurement="no" public="yes" time="11:05:36" url="/2025/06/24/DATE20250624TIME110536GEOBOOLyesLONGE119595600LATN23551343DIRnoALT3SIZE30704THUMB10157UPLOAD072825UPID446SITEyamalORIGDSC07520.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1219079">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551203</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595628</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551203" longitude="119.595628" measurement="no" public="yes" time="17:00:39" url="/2021/04/08/DATE20210408TIME170039GEOBOOLyesLONGE119595628LATN23551203DIR337ALT0SIZE11472THUMB3865ORIGOliverDSCN0477.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/><ent id="o943228">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure front side</type></types>
+<geography geotop="o1219079" siteid="s114412">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551203</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595628</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551203" longitude="119.595628" measurement="no" public="yes" time="17:00:39" url="/2021/04/08/DATE20210408TIME170039GEOBOOLyesLONGE119595628LATN23551203DIR337ALT0SIZE11472THUMB3865ORIGOliverDSCN0477.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/></ent>
+</ent>
+<ent id="o1502954">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551521</latitude><longitude crs="WGS84" deg="decimal">119.595606</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551521" longitude="119.595606" measurement="no" public="yes" time="11:15:56" url="/2025/06/24/DATE20250624TIME111556GEOBOOLyesLONGE119595606LATN23551521DIRnoALT19SIZE30704THUMB9198UPLOAD072825UPID515SITEyamalORIGDSC07555.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502946">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:13:14" url="/2025/06/24/DATE20250624TIME111314GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB11450UPLOAD072825UPID4688SITEyamalORIGDSC07547.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502962">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551476</latitude><longitude crs="WGS84" deg="decimal">119.595491</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551476" longitude="119.595491" measurement="no" public="yes" time="11:19:55" url="/2025/06/24/DATE20250624TIME111955GEOBOOLyesLONGE119595491LATN23551476DIRnoALT15SIZE30704THUMB6922UPLOAD072825UPID5588SITEyamalORIGDSC07563.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502955">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551491</latitude><longitude crs="WGS84" deg="decimal">119.595545</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551491" longitude="119.595545" measurement="no" public="yes" time="11:16:19" url="/2025/06/24/DATE20250624TIME111619GEOBOOLyesLONGE119595545LATN23551491DIRnoALT19SIZE30704THUMB8731UPLOAD072825UPID758SITEyamalORIGDSC07556.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502953">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551428</latitude><longitude crs="WGS84" deg="decimal">119.595640</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551428" longitude="119.595640" measurement="no" public="yes" time="11:15:30" url="/2025/06/24/DATE20250624TIME111530GEOBOOLyesLONGE119595640LATN23551428DIRnoALT28SIZE30704THUMB9031UPLOAD072825UPID4041SITEyamalORIGDSC07554.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502918">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551286</latitude><longitude crs="WGS84" deg="decimal">119.595608</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551286" longitude="119.595608" measurement="no" public="yes" time="11:05:26" url="/2025/06/24/DATE20250624TIME110526GEOBOOLyesLONGE119595608LATN23551286DIRnoALT5SIZE30704THUMB10960UPLOAD072825UPID6555SITEyamalORIGDSC07519.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502927">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:08:16" url="/2025/06/24/DATE20250624TIME110816GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB11483UPLOAD072825UPID5741SITEyamalORIGDSC07528.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502934">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:09:55" url="/2025/06/24/DATE20250624TIME110955GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB6018UPLOAD072825UPID811SITEyamalORIGDSC07535.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502916">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551068</latitude><longitude crs="WGS84" deg="decimal">119.595636</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551068" longitude="119.595636" measurement="no" public="yes" time="11:05:00" url="/2025/06/24/DATE20250624TIME110500GEOBOOLyesLONGE119595636LATN23551068DIRnoALT5SIZE30704THUMB6746UPLOAD072825UPID4342SITEyamalORIGDSC07517.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502923">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551640</latitude><longitude crs="WGS84" deg="decimal">119.595556</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551640" longitude="119.595556" measurement="no" public="yes" time="11:07:19" url="/2025/06/24/DATE20250624TIME110719GEOBOOLyesLONGE119595556LATN23551640DIRnoALTnoSIZE30704THUMB11552UPLOAD072825UPID5801SITEyamalORIGDSC07524.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502932">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:09:37" url="/2025/06/24/DATE20250624TIME110937GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB6882UPLOAD072825UPID5734SITEyamalORIGDSC07533.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502940">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:12:22" url="/2025/06/24/DATE20250624TIME111222GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB9049UPLOAD072825UPID4619SITEyamalORIGDSC07541.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502957">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551358</latitude><longitude crs="WGS84" deg="decimal">119.595601</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551358" longitude="119.595601" measurement="no" public="yes" time="11:18:54" url="/2025/06/24/DATE20250624TIME111854GEOBOOLyesLONGE119595601LATN23551358DIRnoALT14SIZE30704THUMB6906UPLOAD072825UPID7500SITEyamalORIGDSC07558.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502949">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:13:33" url="/2025/06/24/DATE20250624TIME111333GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB10422UPLOAD072825UPID5892SITEyamalORIGDSC07550.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502925">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:08:02" url="/2025/06/24/DATE20250624TIME110802GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB6832UPLOAD072825UPID4690SITEyamalORIGDSC07526.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502935">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:10:04" url="/2025/06/24/DATE20250624TIME111004GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB11787UPLOAD072825UPID479SITEyamalORIGDSC07536.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502948">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:13:28" url="/2025/06/24/DATE20250624TIME111328GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB12352UPLOAD072825UPID2333SITEyamalORIGDSC07549.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502924">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551640</latitude><longitude crs="WGS84" deg="decimal">119.595556</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551640" longitude="119.595556" measurement="no" public="yes" time="11:07:29" url="/2025/06/24/DATE20250624TIME110729GEOBOOLyesLONGE119595556LATN23551640DIRnoALTnoSIZE30704THUMB6162UPLOAD072825UPID1174SITEyamalORIGDSC07525.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502933">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412"/><media>
+<img date="2025-06-24" flash="no" measurement="no" public="yes" time="11:09:51" url="/2025/06/24/DATE20250624TIME110951GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB7082UPLOAD072825UPID7963SITEyamalORIGDSC07534.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1502922">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114412" siteid="s114412">
+<latitude crs="WGS84" deg="decimal">23.551640</latitude><longitude crs="WGS84" deg="decimal">119.595556</longitude></geography>
+<media>
+<img date="2025-06-24" flash="no" latitude="23.551640" longitude="119.595556" measurement="no" public="yes" time="11:07:16" url="/2025/06/24/DATE20250624TIME110716GEOBOOLyesLONGE119595556LATN23551640DIRnoALTnoSIZE30704THUMB9797UPLOAD072825UPID5840SITEyamalORIGDSC07523.jpg" zoom="no"/></media>
+</ent>
+</ent>
+<ent id="s114409">
+<types>
+<type language="English" script="Latin" ucd="LATIN">Taoist temple</type><type language="English" script="Latin" ucd="LATIN">site</type><type script="Chinese-traditional" ucd="CJK">廟</type><type language="English" script="Latin" ucd="LATIN">temple</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園將軍廟</name><name language="English" script="Latin" ucd="LATIN">Caiyuan Jiangjun Miao</name></names>
+<geography geotop="s126844" siteid="s126844">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.597235</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.55381</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-08" lunar="2021-02-27" timefrom="16:54:05" timeto="16:57:21" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">divination</name></names>
+</practice>
+<practice>
+<names>
+<name script="Chinese-traditional" ucd="CJK">占卜</name></names>
+</practice>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">seeking protection</name></names>
+</practice>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">offering</name></names>
+</practice>
+</practices>
+</culturaldomain>
+<ent id="o943224">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553823</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59722</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553823" longitude="119.597220" measurement="no" public="yes" time="16:54:35" url="/2021/04/08/DATE20210408TIME165435GEOBOOLyesLONGE119597220LATN23553823DIR187ALT0SIZE11472THUMB5115ORIGOliverDSCN0453.jpg" zoom="no">
+<labels>
+<label topical="0.0007" score="0.88" engine="Google Vision API">Visual arts</label><label topical="0.0000" score="0.74" engine="Google Vision API">Creative arts</label><label topical="0.0520" score="0.62" engine="Google Vision API">Chinese architecture</label><label topical="0.0236" score="0.61" engine="Google Vision API">Shrine</label></labels>
+<objects>
+<object engine="Google Vision API"/></objects>
+</img>
+</media>
+</ent>
+<ent id="o943334">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553737</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597265</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553737" longitude="119.597265" measurement="no" public="yes" time="16:55:26" url="/2021/04/08/DATE20210408TIME165526GEOBOOLyesLONGE119597265LATN23553737DIR128ALT0SIZE11472THUMB5971ORIGOliverDSCN0459.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943328">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553732</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597273</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553732" longitude="119.597273" measurement="no" public="yes" time="16:56:34" url="/2021/04/08/DATE20210408TIME165634GEOBOOLyesLONGE119597273LATN23553732DIR186ALT0SIZE11472THUMB6241ORIGOliverDSCN0468.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943324">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55384</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597168</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553840" longitude="119.597168" measurement="no" public="yes" time="16:57:04" url="/2021/04/08/DATE20210408TIME165704GEOBOOLyesLONGE119597168LATN23553840DIR214ALT0SIZE11472THUMB4391ORIGOliverDSCN0472.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943331">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553795</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597285</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553795" longitude="119.597285" measurement="no" public="yes" time="16:56:09" url="/2021/04/08/DATE20210408TIME165609GEOBOOLyesLONGE119597285LATN23553795DIR103ALT0SIZE11472THUMB6165ORIGOliverDSCN0465.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943317">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553817</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59725</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553817" longitude="119.597250" measurement="no" public="yes" time="16:55:53" url="/2021/04/08/DATE20210408TIME165553GEOBOOLyesLONGE119597250LATN23553817DIR293ALT0SIZE11472THUMB6410ORIGOliverDSCN0462.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943321">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55385</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597162</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553850" longitude="119.597162" measurement="no" public="yes" time="16:57:18" url="/2021/04/08/DATE20210408TIME165718GEOBOOLyesLONGE119597162LATN23553850DIR7ALT0SIZE11472THUMB2786ORIGOliverDSCN0475.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943329">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553768</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597273</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553768" longitude="119.597273" measurement="no" public="yes" time="16:56:22" url="/2021/04/08/DATE20210408TIME165622GEOBOOLyesLONGE119597273LATN23553768DIR184ALT0SIZE11472THUMB5576ORIGOliverDSCN0467.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943226">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553712</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59722</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553712" longitude="119.597220" measurement="no" public="yes" time="16:55:01" url="/2021/04/08/DATE20210408TIME165501GEOBOOLyesLONGE119597220LATN23553712DIR183ALT0SIZE11472THUMB5257ORIGOliverDSCN0455.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943319">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55383</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597257</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553830" longitude="119.597257" measurement="no" public="yes" time="16:55:57" url="/2021/04/08/DATE20210408TIME165557GEOBOOLyesLONGE119597257LATN23553830DIR293ALT0SIZE11472THUMB6139ORIGOliverDSCN0463.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943220">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.554017</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597332</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.554017" longitude="119.597332" measurement="no" public="yes" time="16:54:05" url="/2021/04/08/DATE20210408TIME165405GEOBOOLyesLONGE119597332LATN23554017DIR184ALT0SIZE11472THUMB3992ORIGOliverDSCN0449.jpg" zoom="no">
+<labels>
+<label engine="Google Vision API"/></labels>
+<objects>
+<object score="0.512469470500946" engine="Google Vision API">
+<vertex x="0.671875" y="0.267578125"/><vertex x="0.83984375" y="0.267578125"/><vertex x="0.83984375" y="0.515625"/><vertex x="0.671875" y="0.515625"/></object>
+<object score="0.5089603662490845" engine="Google Vision API">
+<vertex x="0.88671875" y="0.39453125"/><vertex x="0.984375" y="0.39453125"/><vertex x="0.984375" y="0.5078125"/><vertex x="0.88671875" y="0.5078125"/></object>
+</objects>
+</img>
+</media>
+</ent>
+<ent id="o943327">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553725</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597272</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553725" longitude="119.597272" measurement="no" public="yes" time="16:56:37" url="/2021/04/08/DATE20210408TIME165637GEOBOOLyesLONGE119597272LATN23553725DIR176ALT0SIZE11472THUMB6506ORIGOliverDSCN0469.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943330">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553782</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597278</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553782" longitude="119.597278" measurement="no" public="yes" time="16:56:17" url="/2021/04/08/DATE20210408TIME165617GEOBOOLyesLONGE119597278LATN23553782DIR180ALT0SIZE11472THUMB4594ORIGOliverDSCN0466.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943325">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55381</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597188</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553810" longitude="119.597188" measurement="no" public="yes" time="16:56:51" url="/2021/04/08/DATE20210408TIME165651GEOBOOLyesLONGE119597188LATN23553810DIR170ALT0SIZE11472THUMB6481ORIGOliverDSCN0471.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943225">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553803</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597218</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553803" longitude="119.597218" measurement="no" public="yes" time="16:54:39" url="/2021/04/08/DATE20210408TIME165439GEOBOOLyesLONGE119597218LATN23553803DIR197ALT0SIZE11472THUMB4987ORIGOliverDSCN0454.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943227">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553705</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59722</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553705" longitude="119.597220" measurement="no" public="yes" time="16:55:04" url="/2021/04/08/DATE20210408TIME165504GEOBOOLyesLONGE119597220LATN23553705DIR186ALT0SIZE11472THUMB5057ORIGOliverDSCN0456.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943335">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553694</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597234</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553700" longitude="119.597223" measurement="no" public="yes" time="16:55:12" url="/2021/04/08/DATE20210408TIME165512GEOBOOLyesLONGE119597223LATN23553700DIR242ALT0SIZE11472THUMB5807ORIGOliverDSCN0457.jpg" zoom="no"/><img date="2021-04-08" flash="no" latitude="23.553687" longitude="119.597245" measurement="no" public="yes" time="16:55:16" url="/2021/04/08/DATE20210408TIME165516GEOBOOLyesLONGE119597245LATN23553687DIR241ALT0SIZE11472THUMB5901ORIGOliverDSCN0458.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943320">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55385</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597163</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553850" longitude="119.597163" measurement="no" public="yes" time="16:57:21" url="/2021/04/08/DATE20210408TIME165721GEOBOOLyesLONGE119597163LATN23553850DIR296ALT0SIZE11472THUMB3191ORIGOliverDSCN0476.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943326">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553782</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597235</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553782" longitude="119.597235" measurement="no" public="yes" time="16:56:45" url="/2021/04/08/DATE20210408TIME165645GEOBOOLyesLONGE119597235LATN23553782DIR180ALT0SIZE11472THUMB5650ORIGOliverDSCN0470.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943332">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553808</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59726</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553808" longitude="119.597260" measurement="no" public="yes" time="16:55:47" url="/2021/04/08/DATE20210408TIME165547GEOBOOLyesLONGE119597260LATN23553808DIR55ALT0SIZE11472THUMB5439ORIGOliverDSCN0461.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943323">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553838</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597173</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553838" longitude="119.597173" measurement="no" public="yes" time="16:57:07" url="/2021/04/08/DATE20210408TIME165707GEOBOOLyesLONGE119597173LATN23553838DIR121ALT0SIZE11472THUMB4976ORIGOliverDSCN0473.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943318">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553818</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597238</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553818" longitude="119.597238" measurement="no" public="yes" time="16:56:04" url="/2021/04/08/DATE20210408TIME165604GEOBOOLyesLONGE119597238LATN23553818DIR89ALT0SIZE11472THUMB6190ORIGOliverDSCN0464.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943222">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553893</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597233</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553893" longitude="119.597233" measurement="no" public="yes" time="16:54:20" url="/2021/04/08/DATE20210408TIME165420GEOBOOLyesLONGE119597233LATN23553893DIR119ALT0SIZE11472THUMB4111ORIGOliverDSCN0451.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943322">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553838</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597165</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553838" longitude="119.597165" measurement="no" public="yes" time="16:57:14" url="/2021/04/08/DATE20210408TIME165714GEOBOOLyesLONGE119597165LATN23553838DIR96ALT0SIZE11472THUMB2683ORIGOliverDSCN0474.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943223">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553842</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597225</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553842" longitude="119.597225" measurement="no" public="yes" time="16:54:31" url="/2021/04/08/DATE20210408TIME165431GEOBOOLyesLONGE119597225LATN23553842DIR191ALT0SIZE11472THUMB4353ORIGOliverDSCN0452.jpg" zoom="no">
+<labels>
+<label topical="0.0006" score="0.79" engine="Google Vision API">Ceiling</label><label topical="0.0005" score="0.75" engine="Google Vision API">Molding</label><label topical="0.0028" score="0.70" engine="Google Vision API">Carving</label><label topical="0.0054" score="0.66" engine="Google Vision API">Ancient history</label><label topical="0.0670" score="0.59" engine="Google Vision API">Chinese architecture</label><label topical="0.0092" score="0.55" engine="Google Vision API">Shrine</label><label topical="0.1528" score="0.53" engine="Google Vision API">Relief</label></labels>
+<objects>
+<object engine="Google Vision API"/></objects>
+</img>
+</media>
+</ent>
+<ent id="o943333">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553802</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597237</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553802" longitude="119.597237" measurement="no" public="yes" time="16:55:39" url="/2021/04/08/DATE20210408TIME165539GEOBOOLyesLONGE119597237LATN23553802DIR294ALT0SIZE11472THUMB5293ORIGOliverDSCN0460.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1216500">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure</type></types>
+<geography geotop="s114409" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553963</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597295</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553963" longitude="119.597295" measurement="no" public="yes" time="16:54:10" url="/2021/04/08/DATE20210408TIME165410GEOBOOLyesLONGE119597295LATN23553963DIR175ALT0SIZE11472THUMB4618ORIGOliverDSCN0450.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/><ent id="o943221">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure front side</type></types>
+<geography geotop="o1216500" siteid="s114409">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553963</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597295</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553963" longitude="119.597295" measurement="no" public="yes" time="16:54:10" url="/2021/04/08/DATE20210408TIME165410GEOBOOLyesLONGE119597295LATN23553963DIR175ALT0SIZE11472THUMB4618ORIGOliverDSCN0450.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/></ent>
+</ent>
+</ent>
+<ent id="s114420">
+<types>
+<type language="English" script="Latin" ucd="LATIN">general</type><type language="English" script="Chinese-traditional" ucd="CJK">五營</type><type language="English" script="Latin" ucd="LATIN">site</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園營頭</name><name language="English" script="Latin" ucd="LATIN">Caiyuan Generals</name></names>
+<geography geotop="s126844" siteid="s126844">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.59642500000001</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.551206</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-08" lunar="2021-02-27" timefrom="16:39:46" timeto="17:13:04" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+<event day="2021-04-10" lunar="2021-02-29" timefrom="16:49:13" timeto="16:49:13" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>observed</epistemics></practice>
+</practices>
+</culturaldomain>
+<ent id="o1081418">
+<types>
+<type language="English" script="Latin" ucd="LATIN">inner space</type></types>
+<geography geotop="s114420" siteid="s114420">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551577</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59837</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551577" longitude="119.598370" measurement="no" public="yes" time="17:10:14" url="/2021/04/08/DATE20210408TIME171014GEOBOOLyesLONGE119598370LATN23551577DIR232ALT0SIZE11472THUMB4203ORIGOliverDSCN0516.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="o1081416">
+<types>
+<type language="English" script="Latin" ucd="LATIN">inner space</type></types>
+<geography geotop="s114420" siteid="s114420">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550517</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59581</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550517" longitude="119.595810" measurement="no" public="yes" time="17:01:52" url="/2021/04/08/DATE20210408TIME170152GEOBOOLyesLONGE119595810LATN23550517DIR351ALT0SIZE11472THUMB4236ORIGOliverDSCN0478.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="o1218512">
+<types>
+<type language="English" script="Latin" ucd="LATIN">inner space</type></types>
+<geography geotop="s114420" siteid="s114420">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550835</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594405</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550835" longitude="119.594405" measurement="no" public="yes" time="16:49:13" url="/2021/04/10/DATE20210410TIME164913GEOBOOLyesLONGE119594405LATN23550835DIR49ALT0SIZE11472THUMB4450ORIGOliverDSCN2001.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="o1081417">
+<types>
+<type language="English" script="Latin" ucd="LATIN">inner space</type></types>
+<geography geotop="s114420" siteid="s114420">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550537</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596547</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550537" longitude="119.596547" measurement="no" public="yes" time="17:05:40" url="/2021/04/08/DATE20210408TIME170540GEOBOOLyesLONGE119596547LATN23550537DIR44ALT0SIZE11472THUMB4565ORIGOliverDSCN0496.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="o1081415">
+<types>
+<type language="English" script="Latin" ucd="LATIN">inner space</type></types>
+<geography geotop="s114420" siteid="s114420">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553957</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597432</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553957" longitude="119.597432" measurement="no" public="yes" time="16:51:42" url="/2021/04/08/DATE20210408TIME165142GEOBOOLyesLONGE119597432LATN23553957DIR187ALT0SIZE11472THUMB4445ORIGOliverDSCN0433.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="o1081414">
+<types>
+<type language="English" script="Latin" ucd="LATIN">inner space</type></types>
+<geography geotop="s114420" siteid="s114420">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555523</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596303</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555523" longitude="119.596303" measurement="no" public="yes" time="16:39:46" url="/2021/04/08/DATE20210408TIME163946GEOBOOLyesLONGE119596303LATN23555523DIR173ALT0SIZE11472THUMB4080ORIGOliverDSCN0391.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="s114413">
+<types>
+<type language="English" script="Latin" ucd="LATIN">central general</type><type language="English" script="Latin" ucd="LATIN">general</type><type language="English" script="Chinese-traditional" ucd="CJK">五營</type><type language="English" script="Latin" ucd="LATIN">site</type><type script="Chinese-traditional" ucd="CJK">中營</type><type language="English" script="Latin" ucd="LATIN">general Li</type><type script="Chinese-traditional" ucd="CJK">李元帥</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園李元帥中營</name><name language="English" script="Latin" ucd="LATIN">Caiyuan Central General Li</name></names>
+<geography geotop="s114420" siteid="s114420">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.595822</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.550562</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-08" lunar="2021-02-27" timefrom="17:01:52" timeto="17:03:52" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>observed</epistemics></practice>
+</practices>
+</culturaldomain>
+<ent id="o943242">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550708</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595757</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550708" longitude="119.595757" measurement="no" public="yes" time="17:03:19" url="/2021/04/08/DATE20210408TIME170319GEOBOOLyesLONGE119595757LATN23550708DIR325ALT0SIZE11472THUMB3898ORIGOliverDSCN0491.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943234">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550562</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59584</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550562" longitude="119.595840" measurement="no" public="yes" time="17:02:13" url="/2021/04/08/DATE20210408TIME170213GEOBOOLyesLONGE119595840LATN23550562DIR239ALT0SIZE11472THUMB2816ORIGOliverDSCN0483.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943238">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550558</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595835</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550558" longitude="119.595835" measurement="no" public="yes" time="17:02:30" url="/2021/04/08/DATE20210408TIME170230GEOBOOLyesLONGE119595835LATN23550558DIR327ALT0SIZE11472THUMB4368ORIGOliverDSCN0487.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943243">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55072</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595808</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550720" longitude="119.595808" measurement="no" public="yes" time="17:03:25" url="/2021/04/08/DATE20210408TIME170325GEOBOOLyesLONGE119595808LATN23550720DIR5ALT0SIZE11472THUMB3293ORIGOliverDSCN0492.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943240">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550595</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595822</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550595" longitude="119.595822" measurement="no" public="yes" time="17:02:53" url="/2021/04/08/DATE20210408TIME170253GEOBOOLyesLONGE119595822LATN23550595DIR301ALT0SIZE11472THUMB3884ORIGOliverDSCN0489.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943239">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55056</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595835</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550560" longitude="119.595835" measurement="no" public="yes" time="17:02:32" url="/2021/04/08/DATE20210408TIME170232GEOBOOLyesLONGE119595835LATN23550560DIR309ALT0SIZE11472THUMB3826ORIGOliverDSCN0488.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943245">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550587</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595895</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550587" longitude="119.595895" measurement="no" public="yes" time="17:03:52" url="/2021/04/08/DATE20210408TIME170352GEOBOOLyesLONGE119595895LATN23550587DIR328ALT0SIZE11472THUMB3878ORIGOliverDSCN0494.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943231">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550553</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595812</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550553" longitude="119.595812" measurement="no" public="yes" time="17:02:00" url="/2021/04/08/DATE20210408TIME170200GEOBOOLyesLONGE119595812LATN23550553DIR24ALT0SIZE11472THUMB3877ORIGOliverDSCN0480.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943241">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550618</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595818</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550618" longitude="119.595818" measurement="no" public="yes" time="17:02:59" url="/2021/04/08/DATE20210408TIME170259GEOBOOLyesLONGE119595818LATN23550618DIR348ALT0SIZE11472THUMB3390ORIGOliverDSCN0490.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943237">
+<types>
+<type language="English" script="Latin" ucd="LATIN">zhufu</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550558</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595835</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550558" longitude="119.595835" measurement="no" public="yes" time="17:02:28" url="/2021/04/08/DATE20210408TIME170228GEOBOOLyesLONGE119595835LATN23550558DIR330ALT0SIZE11472THUMB4103ORIGOliverDSCN0486.jpg" zoom="no"/></media>
+<events>
+<event type="production">
+<material language="English" script="Latin" ucd="LATIN">bamboo</material></event>
+<event type="production">
+<material language="English" script="Latin" ucd="LATIN">paint</material><technique language="English" script="Latin" tool="brush" ucd="LATIN">painted</technique></event>
+</events>
+<sem writing="inscribed">
+<arts>
+<art ucd="LATIN" script="Latin" language="English">calligraphy</art></arts>
+</sem>
+</ent>
+<ent id="o943235">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550562</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595845</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550562" longitude="119.595845" measurement="no" public="yes" time="17:02:15" url="/2021/04/08/DATE20210408TIME170215GEOBOOLyesLONGE119595845LATN23550562DIR250ALT0SIZE11472THUMB3321ORIGOliverDSCN0484.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943230">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550542</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59581</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550542" longitude="119.595810" measurement="no" public="yes" time="17:01:57" url="/2021/04/08/DATE20210408TIME170157GEOBOOLyesLONGE119595810LATN23550542DIR352ALT0SIZE11472THUMB4453ORIGOliverDSCN0479.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943236">
+<types>
+<type language="English" script="Latin" ucd="LATIN">altar</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550548</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595843</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550548" longitude="119.595843" measurement="no" public="yes" time="17:02:22" url="/2021/04/08/DATE20210408TIME170222GEOBOOLyesLONGE119595843LATN23550548DIR356ALT0SIZE11472THUMB3636ORIGOliverDSCN0485.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="o943233">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55056</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595813</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550560" longitude="119.595813" measurement="no" public="yes" time="17:02:06" url="/2021/04/08/DATE20210408TIME170206GEOBOOLyesLONGE119595813LATN23550560DIR55ALT0SIZE11472THUMB3979ORIGOliverDSCN0482.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943244">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550685</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595825</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550685" longitude="119.595825" measurement="no" public="yes" time="17:03:43" url="/2021/04/08/DATE20210408TIME170343GEOBOOLyesLONGE119595825LATN23550685DIR341ALT0SIZE11472THUMB3687ORIGOliverDSCN0493.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1116757">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550517</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59581</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550517" longitude="119.595810" measurement="no" public="yes" time="17:01:52" url="/2021/04/08/DATE20210408TIME170152GEOBOOLyesLONGE119595810LATN23550517DIR351ALT0SIZE11472THUMB4236ORIGOliverDSCN0478.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/><ent id="o943229">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure front side</type></types>
+<geography geotop="o1116757" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550517</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59581</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550517" longitude="119.595810" measurement="no" public="yes" time="17:01:52" url="/2021/04/08/DATE20210408TIME170152GEOBOOLyesLONGE119595810LATN23550517DIR351ALT0SIZE11472THUMB4236ORIGOliverDSCN0478.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/></ent>
+</ent>
+<ent id="o943232">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114413" siteid="s114413">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550562</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.595812</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550562" longitude="119.595812" measurement="no" public="yes" time="17:02:04" url="/2021/04/08/DATE20210408TIME170204GEOBOOLyesLONGE119595812LATN23550562DIR338ALT0SIZE11472THUMB3759ORIGOliverDSCN0481.jpg" zoom="no"/></media>
+</ent>
+</ent>
+<ent id="s128475">
+<types>
+<type language="English" script="Latin" ucd="LATIN">general</type><type language="English" script="Chinese-traditional" ucd="CJK">五營</type><type language="English" script="Latin" ucd="LATIN">site</type><type language="English" script="Latin" ucd="LATIN">west general</type><type script="Chinese-traditional" ucd="CJK">西營</type><type language="English" script="Latin" ucd="LATIN">general Liu</type><type script="Chinese-traditional" ucd="CJK">劉元帥</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園劉元帥西營</name><name language="English" script="Latin" ucd="LATIN">Caiyuan West General Liu</name></names>
+<geography geotop="s114420" siteid="s114420">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.5944715</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.550894</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-10" lunar="2021-02-29" timefrom="16:49:13" timeto="16:51:20" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>observed</epistemics></practice>
+</practices>
+</culturaldomain>
+<ent id="o472852">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550857</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594417</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550857" longitude="119.594417" measurement="no" public="yes" time="16:49:21" url="/2021/04/10/DATE20210410TIME164921GEOBOOLyesLONGE119594417LATN23550857DIR61ALT0SIZE11472THUMB4072ORIGOliverDSCN2002.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472860">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550922</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594513</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550922" longitude="119.594513" measurement="no" public="yes" time="16:50:03" url="/2021/04/10/DATE20210410TIME165003GEOBOOLyesLONGE119594513LATN23550922DIR26ALT0SIZE11472THUMB4016ORIGOliverDSCN2010.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472866">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.5944715</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.550894</latitude></geography>
+<media>
+<img date="2021-04-10" flash="no" measurement="no" public="yes" time="16:51:04" url="/2021/04/10/DATE20210410TIME165104GEOBOOLnoLONGE0000000LATN0000000DIR30ALTnoSIZE11472THUMB3872ORIGOliverDSCN2016.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472867">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.5944715</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.550894</latitude></geography>
+<media>
+<img date="2021-04-10" flash="no" measurement="no" public="yes" time="16:51:20" url="/2021/04/10/DATE20210410TIME165120GEOBOOLnoLONGE0000000LATN0000000DIR293ALTnoSIZE11472THUMB4043ORIGOliverDSCN2017.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472865">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.5944715</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.550894</latitude></geography>
+<media>
+<img date="2021-04-10" flash="no" measurement="no" public="yes" time="16:51:01" url="/2021/04/10/DATE20210410TIME165101GEOBOOLnoLONGE0000000LATN0000000DIR48ALTnoSIZE11472THUMB3666ORIGOliverDSCN2015.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472853">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550865</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594415</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550865" longitude="119.594415" measurement="no" public="yes" time="16:49:24" url="/2021/04/10/DATE20210410TIME164924GEOBOOLyesLONGE119594415LATN23550865DIR3ALT0SIZE11472THUMB3974ORIGOliverDSCN2003.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472862">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550922</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594513</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550922" longitude="119.594513" measurement="no" public="yes" time="16:50:30" url="/2021/04/10/DATE20210410TIME165030GEOBOOLyesLONGE119594513LATN23550922DIR28ALT0SIZE11472THUMB4126ORIGOliverDSCN2012.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472856">
+<types>
+<type language="English" script="Latin" ucd="LATIN">zhufu</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550895</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594432</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550895" longitude="119.594432" measurement="no" public="yes" time="16:49:34" url="/2021/04/10/DATE20210410TIME164934GEOBOOLyesLONGE119594432LATN23550895DIR64ALT0SIZE11472THUMB3910ORIGOliverDSCN2006.jpg" zoom="no"/></media>
+<events>
+<event type="production">
+<material language="English" script="Latin" ucd="LATIN">bamboo</material></event>
+<event type="production">
+<material language="English" script="Latin" ucd="LATIN">paint</material><technique language="English" script="Latin" tool="brush" ucd="LATIN">painted</technique></event>
+</events>
+<sem writing="inscribed">
+<arts>
+<art ucd="LATIN" script="Latin" language="English">calligraphy</art></arts>
+</sem>
+</ent>
+<ent id="o472863">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550922</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594513</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550922" longitude="119.594513" measurement="no" public="yes" time="16:50:38" url="/2021/04/10/DATE20210410TIME165038GEOBOOLyesLONGE119594513LATN23550922DIR57ALT0SIZE11472THUMB3749ORIGOliverDSCN2013.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472857">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550883</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594468</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550883" longitude="119.594468" measurement="no" public="yes" time="16:49:49" url="/2021/04/10/DATE20210410TIME164949GEOBOOLyesLONGE119594468LATN23550883DIR19ALT0SIZE11472THUMB4628ORIGOliverDSCN2007.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472855">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55089</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594427</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550890" longitude="119.594427" measurement="no" public="yes" time="16:49:31" url="/2021/04/10/DATE20210410TIME164931GEOBOOLyesLONGE119594427LATN23550890DIR40ALT0SIZE11472THUMB3211ORIGOliverDSCN2005.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472864">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550922</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594513</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550922" longitude="119.594513" measurement="no" public="yes" time="16:50:53" url="/2021/04/10/DATE20210410TIME165053GEOBOOLyesLONGE119594513LATN23550922DIR25ALT0SIZE11472THUMB3974ORIGOliverDSCN2014.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472859">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550897</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594475</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550897" longitude="119.594475" measurement="no" public="yes" time="16:49:53" url="/2021/04/10/DATE20210410TIME164953GEOBOOLyesLONGE119594475LATN23550897DIR18ALT0SIZE11472THUMB4042ORIGOliverDSCN2009.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472858">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550893</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594477</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550893" longitude="119.594477" measurement="no" public="yes" time="16:49:51" url="/2021/04/10/DATE20210410TIME164951GEOBOOLyesLONGE119594477LATN23550893DIR30ALT0SIZE11472THUMB4061ORIGOliverDSCN2008.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472854">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55089</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594417</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550890" longitude="119.594417" measurement="no" public="yes" time="16:49:27" url="/2021/04/10/DATE20210410TIME164927GEOBOOLyesLONGE119594417LATN23550890DIR20ALT0SIZE11472THUMB4481ORIGOliverDSCN2004.jpg" zoom="no"/></media>
+</ent>
+<ent id="o472861">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550922</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594513</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550922" longitude="119.594513" measurement="no" public="yes" time="16:50:11" url="/2021/04/10/DATE20210410TIME165011GEOBOOLyesLONGE119594513LATN23550922DIR49ALT0SIZE11472THUMB3732ORIGOliverDSCN2011.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1116698">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure</type></types>
+<geography geotop="s128475" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550835</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594405</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550835" longitude="119.594405" measurement="no" public="yes" time="16:49:13" url="/2021/04/10/DATE20210410TIME164913GEOBOOLyesLONGE119594405LATN23550835DIR49ALT0SIZE11472THUMB4450ORIGOliverDSCN2001.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/><ent id="o472851">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure front side</type></types>
+<geography geotop="o1116698" siteid="s128475">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550835</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.594405</longitude></geography>
+<media>
+<img date="2021-04-10" flash="no" latitude="23.550835" longitude="119.594405" measurement="no" public="yes" time="16:49:13" url="/2021/04/10/DATE20210410TIME164913GEOBOOLyesLONGE119594405LATN23550835DIR49ALT0SIZE11472THUMB4450ORIGOliverDSCN2001.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/></ent>
+</ent>
+</ent>
+<ent id="s114415">
+<types>
+<type language="English" script="Latin" ucd="LATIN">general</type><type language="English" script="Chinese-traditional" ucd="CJK">五營</type><type language="English" script="Latin" ucd="LATIN">site</type><type language="English" script="Latin" ucd="LATIN">east general</type><type script="Chinese-traditional" ucd="CJK">東營</type><type language="English" script="Latin" ucd="LATIN">general Zhang</type><type script="Chinese-traditional" ucd="CJK">張元帥</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園張元帥東營</name><name language="English" script="Latin" ucd="LATIN">Caiyuan East General Zhang</name></names>
+<geography geotop="s114420" siteid="s114420">
+<orientations>
+<orientation system="geographic north">50</orientation></orientations>
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.59839249999999</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.5518435</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-08" lunar="2021-02-27" timefrom="17:10:14" timeto="17:13:04" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>observed</epistemics></practice>
+</practices>
+</culturaldomain>
+<ent id="o943270">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551845</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598395</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551845" longitude="119.598395" measurement="no" public="yes" time="17:10:40" url="/2021/04/08/DATE20210408TIME171040GEOBOOLyesLONGE119598395LATN23551845DIR328ALT0SIZE11472THUMB4421ORIGOliverDSCN0523.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943276">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551905</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598355</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551905" longitude="119.598355" measurement="no" public="yes" time="17:11:27" url="/2021/04/08/DATE20210408TIME171127GEOBOOLyesLONGE119598355LATN23551905DIR154ALT0SIZE11472THUMB3834ORIGOliverDSCN0529.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943277">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.552093</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59851</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.552093" longitude="119.598510" measurement="no" public="yes" time="17:11:41" url="/2021/04/08/DATE20210408TIME171141GEOBOOLyesLONGE119598510LATN23552093DIR235ALT0SIZE11472THUMB4410ORIGOliverDSCN0530.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943275">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551893</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59838</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551893" longitude="119.598380" measurement="no" public="yes" time="17:11:09" url="/2021/04/08/DATE20210408TIME171109GEOBOOLyesLONGE119598380LATN23551893DIR243ALT0SIZE11472THUMB4186ORIGOliverDSCN0528.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943281">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551807</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59838</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551807" longitude="119.598380" measurement="no" public="yes" time="17:12:36" url="/2021/04/08/DATE20210408TIME171236GEOBOOLyesLONGE119598380LATN23551807DIR250ALT0SIZE11472THUMB4956ORIGOliverDSCN0534.jpg" zoom="no"/><img date="2021-04-08" flash="no" latitude="23.551807" longitude="119.598380" measurement="no" public="yes" time="17:12:42" url="/2021/04/08/DATE20210408TIME171242GEOBOOLyesLONGE119598380LATN23551807DIR247ALT0SIZE11472THUMB4223ORIGOliverDSCN0535.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943266">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551842</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598427</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551842" longitude="119.598427" measurement="no" public="yes" time="17:10:26" url="/2021/04/08/DATE20210408TIME171026GEOBOOLyesLONGE119598427LATN23551842DIR240ALT0SIZE11472THUMB3784ORIGOliverDSCN0519.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943273">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551872</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598397</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551872" longitude="119.598397" measurement="no" public="yes" time="17:11:04" url="/2021/04/08/DATE20210408TIME171104GEOBOOLyesLONGE119598397LATN23551872DIR243ALT0SIZE11472THUMB4652ORIGOliverDSCN0526.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943267">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551862</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598418</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551862" longitude="119.598418" measurement="no" public="yes" time="17:10:28" url="/2021/04/08/DATE20210408TIME171028GEOBOOLyesLONGE119598418LATN23551862DIR239ALT0SIZE11472THUMB5228ORIGOliverDSCN0520.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943265">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551832</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598427</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551832" longitude="119.598427" measurement="no" public="yes" time="17:10:23" url="/2021/04/08/DATE20210408TIME171023GEOBOOLyesLONGE119598427LATN23551832DIR234ALT0SIZE11472THUMB3917ORIGOliverDSCN0518.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943284">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551807</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59838</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551807" longitude="119.598380" measurement="no" public="yes" time="17:13:04" url="/2021/04/08/DATE20210408TIME171304GEOBOOLyesLONGE119598380LATN23551807DIR257ALT0SIZE11472THUMB3972ORIGOliverDSCN0537.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943274">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551882</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59839</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551882" longitude="119.598390" measurement="no" public="yes" time="17:11:06" url="/2021/04/08/DATE20210408TIME171106GEOBOOLyesLONGE119598390LATN23551882DIR242ALT0SIZE11472THUMB5082ORIGOliverDSCN0527.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943283">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551807</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59838</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551807" longitude="119.598380" measurement="no" public="yes" time="17:12:50" url="/2021/04/08/DATE20210408TIME171250GEOBOOLyesLONGE119598380LATN23551807DIR177ALT0SIZE11472THUMB4216ORIGOliverDSCN0536.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943269">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551857</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598402</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551857" longitude="119.598402" measurement="no" public="yes" time="17:10:35" url="/2021/04/08/DATE20210408TIME171035GEOBOOLyesLONGE119598402LATN23551857DIR327ALT0SIZE11472THUMB4032ORIGOliverDSCN0522.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943278">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551833</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598352</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551833" longitude="119.598352" measurement="no" public="yes" time="17:11:57" url="/2021/04/08/DATE20210408TIME171157GEOBOOLyesLONGE119598352LATN23551833DIR264ALT0SIZE11472THUMB4596ORIGOliverDSCN0531.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1116405">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551577</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59837</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551577" longitude="119.598370" measurement="no" public="yes" time="17:10:14" url="/2021/04/08/DATE20210408TIME171014GEOBOOLyesLONGE119598370LATN23551577DIR232ALT0SIZE11472THUMB4203ORIGOliverDSCN0516.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/><ent id="o943263">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure front side</type></types>
+<geography geotop="o1116405" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551577</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59837</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551577" longitude="119.598370" measurement="no" public="yes" time="17:10:14" url="/2021/04/08/DATE20210408TIME171014GEOBOOLyesLONGE119598370LATN23551577DIR232ALT0SIZE11472THUMB4203ORIGOliverDSCN0516.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/></ent>
+</ent>
+<ent id="o943279">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551728</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598235</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551728" longitude="119.598235" measurement="no" public="yes" time="17:12:16" url="/2021/04/08/DATE20210408TIME171216GEOBOOLyesLONGE119598235LATN23551728DIR245ALT0SIZE11472THUMB4013ORIGOliverDSCN0532.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943268">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551865</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598412</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551865" longitude="119.598412" measurement="no" public="yes" time="17:10:32" url="/2021/04/08/DATE20210408TIME171032GEOBOOLyesLONGE119598412LATN23551865DIR241ALT0SIZE11472THUMB4019ORIGOliverDSCN0521.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943271">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551849</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598407</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551848" longitude="119.598402" measurement="no" public="yes" time="17:10:48" url="/2021/04/08/DATE20210408TIME171048GEOBOOLyesLONGE119598402LATN23551848DIR241ALT0SIZE11472THUMB4027ORIGOliverDSCN0524.jpg" zoom="no"/><img date="2021-04-08" flash="no" latitude="23.551850" longitude="119.598412" measurement="no" public="yes" time="17:10:55" url="/2021/04/08/DATE20210408TIME171055GEOBOOLyesLONGE119598412LATN23551850DIR214ALT0SIZE11472THUMB4718ORIGOliverDSCN0525.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943264">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55181</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598452</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551810" longitude="119.598452" measurement="no" public="yes" time="17:10:19" url="/2021/04/08/DATE20210408TIME171019GEOBOOLyesLONGE119598452LATN23551810DIR230ALT0SIZE11472THUMB4459ORIGOliverDSCN0517.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943280">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114415" siteid="s114415">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.551797</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.598358</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.551797" longitude="119.598358" measurement="no" public="yes" time="17:12:29" url="/2021/04/08/DATE20210408TIME171229GEOBOOLyesLONGE119598358LATN23551797DIR259ALT0SIZE11472THUMB4150ORIGOliverDSCN0533.jpg" zoom="no"/></media>
+</ent>
+</ent>
+<ent id="s114411">
+<types>
+<type language="English" script="Latin" ucd="LATIN">general</type><type language="English" script="Chinese-traditional" ucd="CJK">五營</type><type language="English" script="Latin" ucd="LATIN">site</type><type language="English" script="Latin" ucd="LATIN">north general</type><type script="Chinese-traditional" ucd="CJK">北營</type><type language="English" script="Latin" ucd="LATIN">general Lian</type><type script="Chinese-traditional" ucd="CJK">連元帥</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園連元帥北營</name><name language="English" script="Latin" ucd="LATIN">Caiyuan North General Lian</name></names>
+<geography geotop="s114420" siteid="s114420">
+<orientations>
+<orientation system="geographic north">355</orientation></orientations>
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.596275</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.55549</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-08" lunar="2021-02-27" timefrom="16:39:46" timeto="16:42:35" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>observed</epistemics></practice>
+</practices>
+</culturaldomain>
+<ent id="o943203">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.596275</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.55549</latitude></geography>
+<media>
+<img date="2021-04-08" flash="no" measurement="no" public="yes" time="16:42:35" url="/2021/04/08/DATE20210408TIME164235GEOBOOLnoLONGE0000000LATN0000000DIR190ALTnoSIZE11472THUMB3974ORIGOliverDSCN0408.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943196">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555418</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596268</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555418" longitude="119.596268" measurement="no" public="yes" time="16:40:57" url="/2021/04/08/DATE20210408TIME164057GEOBOOLyesLONGE119596268LATN23555418DIR175ALT0SIZE11472THUMB4500ORIGOliverDSCN0401.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943190">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555488</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596277</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555488" longitude="119.596277" measurement="no" public="yes" time="16:40:06" url="/2021/04/08/DATE20210408TIME164006GEOBOOLyesLONGE119596277LATN23555488DIR183ALT0SIZE11472THUMB3436ORIGOliverDSCN0395.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943189">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555492</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596283</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555492" longitude="119.596283" measurement="no" public="yes" time="16:40:00" url="/2021/04/08/DATE20210408TIME164000GEOBOOLyesLONGE119596283LATN23555492DIR111ALT0SIZE11472THUMB2653ORIGOliverDSCN0394.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943202">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<longitude crs="WGS84" deg="decimal" src="percol-down">119.596275</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.55549</latitude></geography>
+<media>
+<img date="2021-04-08" flash="no" measurement="no" public="yes" time="16:42:30" url="/2021/04/08/DATE20210408TIME164230GEOBOOLnoLONGE0000000LATN0000000DIR126ALTnoSIZE11472THUMB4231ORIGOliverDSCN0407.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943195">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555418</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596268</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555418" longitude="119.596268" measurement="no" public="yes" time="16:40:41" url="/2021/04/08/DATE20210408TIME164041GEOBOOLyesLONGE119596268LATN23555418DIR188ALT0SIZE11472THUMB4010ORIGOliverDSCN0400.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943197">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55532</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596292</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555320" longitude="119.596292" measurement="no" public="yes" time="16:41:23" url="/2021/04/08/DATE20210408TIME164123GEOBOOLyesLONGE119596292LATN23555320DIR171ALT0SIZE11472THUMB4257ORIGOliverDSCN0402.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943188">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555515</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596285</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555515" longitude="119.596285" measurement="no" public="yes" time="16:39:56" url="/2021/04/08/DATE20210408TIME163956GEOBOOLyesLONGE119596285LATN23555515DIR174ALT0SIZE11472THUMB3499ORIGOliverDSCN0393.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943192">
+<types>
+<type language="English" script="Latin" ucd="LATIN">zhufu</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555462</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596275</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555462" longitude="119.596275" measurement="no" public="yes" time="16:40:22" url="/2021/04/08/DATE20210408TIME164022GEOBOOLyesLONGE119596275LATN23555462DIR179ALT0SIZE11472THUMB4458ORIGOliverDSCN0397.jpg" zoom="no"/></media>
+<events>
+<event type="production">
+<material language="English" script="Latin" ucd="LATIN">bamboo</material></event>
+<event type="production">
+<material language="English" script="Latin" ucd="LATIN">paint</material><technique language="English" script="Latin" tool="brush" ucd="LATIN">painted</technique></event>
+</events>
+<sem writing="inscribed">
+<arts>
+<art ucd="LATIN" script="Latin" language="English">calligraphy</art></arts>
+</sem>
+</ent>
+<ent id="o943200">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555515</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59611</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555515" longitude="119.596110" measurement="no" public="yes" time="16:42:05" url="/2021/04/08/DATE20210408TIME164205GEOBOOLyesLONGE119596110LATN23555515DIR189ALT0SIZE11472THUMB4766ORIGOliverDSCN0405.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943193">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555455</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596275</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555455" longitude="119.596275" measurement="no" public="yes" time="16:40:25" url="/2021/04/08/DATE20210408TIME164025GEOBOOLyesLONGE119596275LATN23555455DIR176ALT0SIZE11472THUMB5216ORIGOliverDSCN0398.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943198">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555515</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59611</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555515" longitude="119.596110" measurement="no" public="yes" time="16:41:45" url="/2021/04/08/DATE20210408TIME164145GEOBOOLyesLONGE119596110LATN23555515DIR186ALT0SIZE11472THUMB3938ORIGOliverDSCN0403.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943194">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555452</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596277</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555452" longitude="119.596277" measurement="no" public="yes" time="16:40:28" url="/2021/04/08/DATE20210408TIME164028GEOBOOLyesLONGE119596277LATN23555452DIR190ALT0SIZE11472THUMB4435ORIGOliverDSCN0399.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943201">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555515</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59611</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555515" longitude="119.596110" measurement="no" public="yes" time="16:42:12" url="/2021/04/08/DATE20210408TIME164212GEOBOOLyesLONGE119596110LATN23555515DIR176ALT0SIZE11472THUMB4049ORIGOliverDSCN0406.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943191">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555488</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596273</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555488" longitude="119.596273" measurement="no" public="yes" time="16:40:09" url="/2021/04/08/DATE20210408TIME164009GEOBOOLyesLONGE119596273LATN23555488DIR178ALT0SIZE11472THUMB3626ORIGOliverDSCN0396.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943199">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555515</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59611</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555515" longitude="119.596110" measurement="no" public="yes" time="16:41:57" url="/2021/04/08/DATE20210408TIME164157GEOBOOLyesLONGE119596110LATN23555515DIR186ALT0SIZE11472THUMB3455ORIGOliverDSCN0404.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943187">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555517</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596295</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555517" longitude="119.596295" measurement="no" public="yes" time="16:39:51" url="/2021/04/08/DATE20210408TIME163951GEOBOOLyesLONGE119596295LATN23555517DIR175ALT0SIZE11472THUMB4785ORIGOliverDSCN0392.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1116614">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure</type></types>
+<geography geotop="s114411" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555523</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596303</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555523" longitude="119.596303" measurement="no" public="yes" time="16:39:46" url="/2021/04/08/DATE20210408TIME163946GEOBOOLyesLONGE119596303LATN23555523DIR173ALT0SIZE11472THUMB4080ORIGOliverDSCN0391.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/><ent id="o943186">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure front side</type></types>
+<geography geotop="o1116614" siteid="s114411">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.555523</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596303</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.555523" longitude="119.596303" measurement="no" public="yes" time="16:39:46" url="/2021/04/08/DATE20210408TIME163946GEOBOOLyesLONGE119596303LATN23555523DIR173ALT0SIZE11472THUMB4080ORIGOliverDSCN0391.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/></ent>
+</ent>
+</ent>
+<ent id="s114408">
+<types>
+<type language="English" script="Latin" ucd="LATIN">central general</type><type language="English" script="Latin" ucd="LATIN">general</type><type language="English" script="Chinese-traditional" ucd="CJK">五營</type><type language="English" script="Latin" ucd="LATIN">site</type><type script="Chinese-traditional" ucd="CJK">中營</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園中營</name><name language="English" script="Latin" ucd="LATIN">Caiyuan Central General</name></names>
+<geography geotop="s114420" siteid="s114420">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.597447</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.553982</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-08" lunar="2021-02-27" timefrom="16:51:42" timeto="16:53:39" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>observed</epistemics></practice>
+</practices>
+</culturaldomain>
+<ent id="o943213">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553982</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597468</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553982" longitude="119.597468" measurement="no" public="yes" time="16:52:28" url="/2021/04/08/DATE20210408TIME165228GEOBOOLyesLONGE119597468LATN23553982DIR206ALT0SIZE11472THUMB4239ORIGOliverDSCN0442.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943212">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553982</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597452</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553982" longitude="119.597452" measurement="no" public="yes" time="16:52:24" url="/2021/04/08/DATE20210408TIME165224GEOBOOLyesLONGE119597452LATN23553982DIR192ALT0SIZE11472THUMB5065ORIGOliverDSCN0441.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943215">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553982</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597485</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553982" longitude="119.597485" measurement="no" public="yes" time="16:52:51" url="/2021/04/08/DATE20210408TIME165251GEOBOOLyesLONGE119597485LATN23553982DIR202ALT0SIZE11472THUMB3841ORIGOliverDSCN0444.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943207">
+<types>
+<type language="English" script="Latin" ucd="LATIN">altar</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553967</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597433</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553967" longitude="119.597433" measurement="no" public="yes" time="16:51:56" url="/2021/04/08/DATE20210408TIME165156GEOBOOLyesLONGE119597433LATN23553967DIR186ALT0SIZE11472THUMB4243ORIGOliverDSCN0436.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="o943217">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553982</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597485</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553982" longitude="119.597485" measurement="no" public="yes" time="16:53:09" url="/2021/04/08/DATE20210408TIME165309GEOBOOLyesLONGE119597485LATN23553982DIR187ALT0SIZE11472THUMB3748ORIGOliverDSCN0446.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943205">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.554003</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597437</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.554003" longitude="119.597437" measurement="no" public="yes" time="16:51:49" url="/2021/04/08/DATE20210408TIME165149GEOBOOLyesLONGE119597437LATN23554003DIR183ALT0SIZE11472THUMB3891ORIGOliverDSCN0434.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943216">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553982</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597485</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553982" longitude="119.597485" measurement="no" public="yes" time="16:53:04" url="/2021/04/08/DATE20210408TIME165304GEOBOOLyesLONGE119597485LATN23553982DIR198ALT0SIZE11472THUMB4660ORIGOliverDSCN0445.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943206">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553998</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597442</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553998" longitude="119.597442" measurement="no" public="yes" time="16:51:52" url="/2021/04/08/DATE20210408TIME165152GEOBOOLyesLONGE119597442LATN23553998DIR192ALT0SIZE11472THUMB3915ORIGOliverDSCN0435.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943210">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553983</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59743</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553983" longitude="119.597430" measurement="no" public="yes" time="16:52:15" url="/2021/04/08/DATE20210408TIME165215GEOBOOLyesLONGE119597430LATN23553983DIR189ALT0SIZE11472THUMB3793ORIGOliverDSCN0439.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943211">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553982</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597447</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553982" longitude="119.597447" measurement="no" public="yes" time="16:52:22" url="/2021/04/08/DATE20210408TIME165222GEOBOOLyesLONGE119597447LATN23553982DIR193ALT0SIZE11472THUMB4776ORIGOliverDSCN0440.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943209">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553958</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597428</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553958" longitude="119.597428" measurement="no" public="yes" time="16:52:06" url="/2021/04/08/DATE20210408TIME165206GEOBOOLyesLONGE119597428LATN23553958DIR120ALT0SIZE11472THUMB2982ORIGOliverDSCN0438.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943218">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553982</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597485</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553982" longitude="119.597485" measurement="no" public="yes" time="16:53:29" url="/2021/04/08/DATE20210408TIME165329GEOBOOLyesLONGE119597485LATN23553982DIR200ALT0SIZE11472THUMB4131ORIGOliverDSCN0447.jpg" zoom="no"/><img date="2021-04-08" flash="no" measurement="no" public="yes" time="16:53:39" url="/2021/04/08/DATE20210408TIME165339GEOBOOLnoLONGE0000000LATN0000000DIR202ALTnoSIZE11472THUMB3779ORIGOliverDSCN0448.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943208">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553963</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59743</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553963" longitude="119.597430" measurement="no" public="yes" time="16:52:00" url="/2021/04/08/DATE20210408TIME165200GEOBOOLyesLONGE119597430LATN23553963DIR204ALT0SIZE11472THUMB3836ORIGOliverDSCN0437.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943214">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553982</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597485</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553982" longitude="119.597485" measurement="no" public="yes" time="16:52:42" url="/2021/04/08/DATE20210408TIME165242GEOBOOLyesLONGE119597485LATN23553982DIR204ALT0SIZE11472THUMB4387ORIGOliverDSCN0443.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1116649">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure</type></types>
+<geography geotop="s114408" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553957</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597432</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553957" longitude="119.597432" measurement="no" public="yes" time="16:51:42" url="/2021/04/08/DATE20210408TIME165142GEOBOOLyesLONGE119597432LATN23553957DIR187ALT0SIZE11472THUMB4445ORIGOliverDSCN0433.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/><ent id="o943204">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure front side</type></types>
+<geography geotop="o1116649" siteid="s114408">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.553957</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.597432</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.553957" longitude="119.597432" measurement="no" public="yes" time="16:51:42" url="/2021/04/08/DATE20210408TIME165142GEOBOOLyesLONGE119597432LATN23553957DIR187ALT0SIZE11472THUMB4445ORIGOliverDSCN0433.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/></ent>
+</ent>
+</ent>
+<ent id="s114414">
+<types>
+<type language="English" script="Latin" ucd="LATIN">general</type><type language="English" script="Chinese-traditional" ucd="CJK">五營</type><type language="English" script="Latin" ucd="LATIN">site</type><type language="English" script="Latin" ucd="LATIN">south general</type><type script="Chinese-traditional" ucd="CJK">南營</type><type language="English" script="Latin" ucd="LATIN">general Xiao</type><type script="Chinese-traditional" ucd="CJK">蕭元帥</type></types>
+<communities>
+<community>
+<name language="English" script="Latin" ucd="LATIN">Caiyuan</name><name script="Chinese-traditional" ucd="CJK">菜園</name></community>
+</communities>
+<names>
+<name script="Chinese-traditional" ucd="CJK">菜園蕭元帥南營</name><name language="English" script="Latin" ucd="LATIN">Caiyuan South General Xiao</name></names>
+<geography geotop="s114420" siteid="s114420">
+<longitude crs="WGS84" deg="decimal" src="percol-up">119.596553</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.550597</latitude><archipelago>
+<names>
+<name language="English" script="Latin" ucd="LATIN">Penghu Islands</name><name language="English" script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
+</archipelago>
+</geography>
+<events>
+<event day="2021-04-08" lunar="2021-02-27" timefrom="17:07:22" timeto="17:07:28" type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English" script="Latin" ucd="LATIN">apotropaic practice</name></names>
+<epistemics>observed</epistemics></practice>
+</practices>
+</culturaldomain>
+<ent id="o943262">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55096</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596682</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550960" longitude="119.596682" measurement="no" public="yes" time="17:07:12" url="/2021/04/08/DATE20210408TIME170712GEOBOOLyesLONGE119596682LATN23550960DIR48ALT0SIZE11472THUMB3681ORIGOliverDSCN0512.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943256">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550592</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596562</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550592" longitude="119.596562" measurement="no" public="yes" time="17:06:18" url="/2021/04/08/DATE20210408TIME170618GEOBOOLyesLONGE119596562LATN23550592DIR343ALT0SIZE11472THUMB4316ORIGOliverDSCN0506.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943257">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550657</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596553</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550657" longitude="119.596553" measurement="no" public="yes" time="17:06:29" url="/2021/04/08/DATE20210408TIME170629GEOBOOLyesLONGE119596553LATN23550657DIR71ALT0SIZE11472THUMB4034ORIGOliverDSCN0507.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943313">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55096</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596682</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550960" longitude="119.596682" measurement="no" public="yes" time="17:07:28" url="/2021/04/08/DATE20210408TIME170728GEOBOOLyesLONGE119596682LATN23550960DIR49ALT0SIZE11472THUMB4373ORIGOliverDSCN0514.jpg" zoom="no"/><img date="2021-04-08" flash="no" latitude="23.550960" longitude="119.596682" measurement="no" public="yes" time="17:07:22" url="/2021/04/08/DATE20210408TIME170722GEOBOOLyesLONGE119596682LATN23550960DIR68ALT0SIZE11472THUMB4502ORIGOliverDSCN0513.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943255">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550587</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59656</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550587" longitude="119.596560" measurement="no" public="yes" time="17:06:15" url="/2021/04/08/DATE20210408TIME170615GEOBOOLyesLONGE119596560LATN23550587DIR51ALT0SIZE11472THUMB4599ORIGOliverDSCN0505.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943316">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55052</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596537</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550520" longitude="119.596537" measurement="no" public="yes" time="17:05:34" url="/2021/04/08/DATE20210408TIME170534GEOBOOLyesLONGE119596537LATN23550520DIR46ALT0SIZE11472THUMB4167ORIGOliverDSCN0495.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943260">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55089</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596515</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550890" longitude="119.596515" measurement="no" public="yes" time="17:06:53" url="/2021/04/08/DATE20210408TIME170653GEOBOOLyesLONGE119596515LATN23550890DIR59ALT0SIZE11472THUMB3386ORIGOliverDSCN0510.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1115208">
+<types>
+<type language="English" script="Latin" ucd="LATIN">couplet</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550547</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59655</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550547" longitude="119.596550" measurement="no" public="yes" time="17:05:43" url="/2021/04/08/DATE20210408TIME170543GEOBOOLyesLONGE119596550LATN23550547DIR63ALT0SIZE11472THUMB3736ORIGOliverDSCN0497.jpg" zoom="no"/></media>
+<sem writing="inscribed"/></ent>
+<ent id="o943253">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550597</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596557</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550597" longitude="119.596557" measurement="no" public="yes" time="17:06:08" url="/2021/04/08/DATE20210408TIME170608GEOBOOLyesLONGE119596557LATN23550597DIR63ALT0SIZE11472THUMB3038ORIGOliverDSCN0503.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943315">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.55096</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596682</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550960" longitude="119.596682" measurement="no" public="yes" time="17:07:34" url="/2021/04/08/DATE20210408TIME170734GEOBOOLyesLONGE119596682LATN23550960DIR309ALT0SIZE11472THUMB3669ORIGOliverDSCN0515.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943261">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550963</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596653</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550963" longitude="119.596653" measurement="no" public="yes" time="17:07:05" url="/2021/04/08/DATE20210408TIME170705GEOBOOLyesLONGE119596653LATN23550963DIR88ALT0SIZE11472THUMB4053ORIGOliverDSCN0511.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1333203">
+<types>
+<type language="English" script="Latin" ucd="LATIN">inner space</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550577</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596547</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550577" longitude="119.596547" measurement="no" public="yes" time="17:05:52" url="/2021/04/08/DATE20210408TIME170552GEOBOOLyesLONGE119596547LATN23550577DIR14ALT0SIZE11472THUMB4197ORIGOliverDSCN0500.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/><ent id="o943250">
+<types>
+<type language="English" script="Latin" ucd="LATIN">kimlo</type></types>
+<geography geotop="o1333203" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550577</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596547</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550577" longitude="119.596547" measurement="no" public="yes" time="17:05:52" url="/2021/04/08/DATE20210408TIME170552GEOBOOLyesLONGE119596547LATN23550577DIR14ALT0SIZE11472THUMB4197ORIGOliverDSCN0500.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="o943252">
+<types>
+<type language="English" script="Latin" ucd="LATIN">altar</type></types>
+<geography geotop="o1333203" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550597</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59655</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550597" longitude="119.596550" measurement="no" public="yes" time="17:06:04" url="/2021/04/08/DATE20210408TIME170604GEOBOOLyesLONGE119596550LATN23550597DIR42ALT0SIZE11472THUMB3637ORIGOliverDSCN0502.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+</ent>
+<ent id="o943254">
+<types>
+<type language="English" script="Latin" ucd="LATIN">zhufu</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550587</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596558</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550587" longitude="119.596558" measurement="no" public="yes" time="17:06:14" url="/2021/04/08/DATE20210408TIME170614GEOBOOLyesLONGE119596558LATN23550587DIR57ALT0SIZE11472THUMB4508ORIGOliverDSCN0504.jpg" zoom="no"/></media>
+<events>
+<event type="production">
+<material language="English" script="Latin" ucd="LATIN">bamboo</material></event>
+<event type="production">
+<material language="English" script="Latin" ucd="LATIN">paint</material><technique language="English" script="Latin" tool="brush" ucd="LATIN">painted</technique></event>
+</events>
+<sem writing="inscribed">
+<arts>
+<art ucd="LATIN" script="Latin" language="English">calligraphy</art></arts>
+</sem>
+</ent>
+<ent id="o943258">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550767</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596525</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550767" longitude="119.596525" measurement="no" public="yes" time="17:06:37" url="/2021/04/08/DATE20210408TIME170637GEOBOOLyesLONGE119596525LATN23550767DIR43ALT0SIZE11472THUMB3250ORIGOliverDSCN0508.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943249">
+<types>
+<type language="English" script="Latin" ucd="LATIN">roof</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550558</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596558</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550558" longitude="119.596558" measurement="no" public="yes" time="17:05:48" url="/2021/04/08/DATE20210408TIME170548GEOBOOLyesLONGE119596558LATN23550558DIR82ALT0SIZE11472THUMB3950ORIGOliverDSCN0499.jpg" zoom="no"/></media>
+<sem writing="uninscribed"/></ent>
+<ent id="o1115159">
+<types>
+<type language="English" script="Latin" ucd="LATIN">couplet</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550551</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596551</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550555" longitude="119.596552" measurement="no" public="yes" time="17:05:46" url="/2021/04/08/DATE20210408TIME170546GEOBOOLyesLONGE119596552LATN23550555DIR9ALT0SIZE11472THUMB3848ORIGOliverDSCN0498.jpg" zoom="no"/><img date="2021-04-08" flash="no" latitude="23.550547" longitude="119.596550" measurement="no" public="yes" time="17:05:43" url="/2021/04/08/DATE20210408TIME170543GEOBOOLyesLONGE119596550LATN23550547DIR63ALT0SIZE11472THUMB3736ORIGOliverDSCN0497.jpg" zoom="no"/></media>
+<sem writing="inscribed"/></ent>
+<ent id="o943259">
+<types>
+<type language="English" script="Latin" ucd="LATIN">object</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550875</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59643</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550875" longitude="119.596430" measurement="no" public="yes" time="17:06:46" url="/2021/04/08/DATE20210408TIME170646GEOBOOLyesLONGE119596430LATN23550875DIR67ALT0SIZE11472THUMB3908ORIGOliverDSCN0509.jpg" zoom="no"/></media>
+</ent>
+<ent id="o943251">
+<types>
+<type language="English" script="Latin" ucd="LATIN">gable</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550598</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596545</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550598" longitude="119.596545" measurement="no" public="yes" time="17:05:57" url="/2021/04/08/DATE20210408TIME170557GEOBOOLyesLONGE119596545LATN23550598DIR137ALT0SIZE11472THUMB2998ORIGOliverDSCN0501.jpg" zoom="no"/></media>
+</ent>
+<ent id="o1116409">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550537</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596547</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550537" longitude="119.596547" measurement="no" public="yes" time="17:05:40" url="/2021/04/08/DATE20210408TIME170540GEOBOOLyesLONGE119596547LATN23550537DIR44ALT0SIZE11472THUMB4565ORIGOliverDSCN0496.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/><ent id="o943246">
+<types>
+<type language="English" script="Latin" ucd="LATIN">structure front side</type></types>
+<geography geotop="o1116409" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550537</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596547</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550537" longitude="119.596547" measurement="no" public="yes" time="17:05:40" url="/2021/04/08/DATE20210408TIME170540GEOBOOLyesLONGE119596547LATN23550537DIR44ALT0SIZE11472THUMB4565ORIGOliverDSCN0496.jpg" zoom="no"/></media>
+<sem writing="uninscribed" figurative="no"/></ent>
+</ent>
+<ent id="o1115053">
+<types>
+<type language="English" script="Latin" ucd="LATIN">couplet</type></types>
+<geography geotop="s114414" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550551</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596551</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550555" longitude="119.596552" measurement="no" public="yes" time="17:05:46" url="/2021/04/08/DATE20210408TIME170546GEOBOOLyesLONGE119596552LATN23550555DIR9ALT0SIZE11472THUMB3848ORIGOliverDSCN0498.jpg" zoom="no"/><img date="2021-04-08" flash="no" latitude="23.550547" longitude="119.596550" measurement="no" public="yes" time="17:05:43" url="/2021/04/08/DATE20210408TIME170543GEOBOOLyesLONGE119596550LATN23550547DIR63ALT0SIZE11472THUMB3736ORIGOliverDSCN0497.jpg" zoom="no"/></media>
+<sem writing="inscribed"/><ent id="o943247">
+<types>
+<type language="English" script="Latin" ucd="LATIN">couplet-right</type></types>
+<geography geotop="o1115053" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550547</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.59655</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550547" longitude="119.596550" measurement="no" public="yes" time="17:05:43" url="/2021/04/08/DATE20210408TIME170543GEOBOOLyesLONGE119596550LATN23550547DIR63ALT0SIZE11472THUMB3736ORIGOliverDSCN0497.jpg" zoom="no"/></media>
+<sem writing="inscribed">
+<arts>
+<art ucd="LATIN" script="Latin" language="English">epigraphy</art></arts>
+<genres>
+<genre ucd="LATIN" script="Latin" language="English">coupletRight</genre></genres>
+</sem>
+</ent>
+<ent id="o943248">
+<types>
+<type language="English" script="Latin" ucd="LATIN">couplet-left</type></types>
+<geography geotop="o1115053" siteid="s114414">
+<latitude crs="WGS84" deg="decimal" src="percol-up">23.550555</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">119.596552</longitude></geography>
+<media>
+<img date="2021-04-08" flash="no" latitude="23.550555" longitude="119.596552" measurement="no" public="yes" time="17:05:46" url="/2021/04/08/DATE20210408TIME170546GEOBOOLyesLONGE119596552LATN23550555DIR9ALT0SIZE11472THUMB3848ORIGOliverDSCN0498.jpg" zoom="no"/></media>
+<sem writing="inscribed">
+<arts>
+<art ucd="LATIN" script="Latin" language="English">epigraphy</art></arts>
+<genres>
+<genre ucd="LATIN" script="Latin" language="English">coupletLeft</genre></genres>
+</sem>
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
+</document>

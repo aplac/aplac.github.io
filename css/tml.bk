@@ -1,0 +1,123 @@
+:root { --main-color:#1467a9}
+
+document,thakbong,definitions,subprojects {
+  font-family: sans-serif;
+  background-color: white;
+  padding:2%;
+  width:100%;
+  display:flex;
+}
+
+ent,sitemap {
+  border-left:1px dashed var(--main-color);
+  background-color: transparent;
+  margin-left:2%;
+  padding:0em;
+  flex-grow:1;
+  transition: display 5s;
+  display:flex;
+}
+
+/* comma separated items */
+
+type:empty { display: none }
+type:not(:first-child):before { content: "/ " }
+type:empty + type:not(:empty):before { content : "" }
+type:not(:empty) ~ type:empty + type:not(:empty):before { content : "/ " }
+
+transcription:not(:empty):before { content: ' "' }
+transcription:not(:empty):after { content: '" ' }
+
+keyword:not(:empty):before { content: " #" }
+
+event:empty { display: none }
+event:not(:first-child):before { content: "/ "}
+event:empty + name:not(:empty):before { content : "" }
+event:not(:empty) ~ name:empty + name:not(:empty):before { content : "/ " }
+
+admtop:not(:empty):before { content : " of --> " }
+longitude:not(:empty):before { content : "E" }
+latitude:not(:empty):before { content : "N" }
+affiliation:not(:empty):before { content : "affiliation: " }
+culturaldomain:not(:empty):before { content : "cultural practices: " }
+creator:not(:empty):before { content : "creator: " }
+initiator:not(:empty):before { content : "initiator: " }
+responsible:not(:empty):before { content : "responsible: " }
+examples:not(:empty):before { content : "examples: " }
+definiens:not(:empty):before { content : "definiens: " }
+definiendum:not(:empty):before { content :'definiendum: ' }
+arts:not(:empty):before { content : "arts: " }
+genres:not(:empty):before { content : "genres: " }
+deontics:not(:empty):before { content : " (deontics/normative: " }
+deontics:not(:empty):after { content : ")" }
+epistemics:not(:empty):before { content : " (epistemics/descriptive: " }
+epistemics:not(:empty):after { content : ")" }
+events:not(:empty):before { content : "events: " }
+
+project > name,definitions > name,description > name {
+  font-style: italic;
+  display: block;
+  width:95%;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding-top: 5px;
+  color:var(--main-color);
+}
+
+def > definiendum {
+  font-style: italic;
+  display: block;
+  padding: 2%;
+  width:95%;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+types,names,keywords,text,person,arts,genres,events,culturaldomain,geography,description,creator,admins,initiator,responsible,project,copyright,def,definiens,examples,affiliation,practice,type,name {
+  display: block;
+  width: 95%;
+  padding-bottom: 0.5em;
+}
+
+admtop,adminname,transcription,keyword {
+  display: inline;
+  font-style: italic;
+  padding-bottom: 1em;
+  color:var(--main-color);
+}
+
+html {
+  display:inline;
+}
+
+ent > ent > ent {
+  display: none;
+  padding-left: 2em;
+}
+
+ent:focus > ent > ent {
+  display: block;
+  width:95%;
+  padding-left: 2%;
+}
+ent:active > ent > ent {
+  display: block;
+  width:95%;
+  padding-left: 2%;
+}
+ent:hover > ent > ent {
+  display: block;
+  width:95%;
+  padding-left: 2em;
+}
+
+iframe,img {
+  height:200px;
+  width:200px;
+  display:inline;
+}
+
+img {
+  loading:lazy;
+}
+
