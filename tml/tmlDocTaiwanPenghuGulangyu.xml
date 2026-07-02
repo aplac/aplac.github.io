@@ -1,78 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
-<?xml-stylesheet type="text/css" href="../css/all.css"?>
 <document latitude="N(22|23)" longitude="E(119|120)">
+<ent id="s113954">
+<types>
+<type language="English">water body</type></types>
+<communities>
+<community>
+<name language="English">Magong</name></community>
+</communities>
+<names>
+<name language="English">Gulangyu Coastal Waters</name></names>
+<geography geotop="s113807" siteid="s113807"><latitude src="percol-down">23.217523</latitude><archipelago><names><name script="Latin">Penghu Islands</name><name script="Latin">Pescadores Islands</name><name script="Chinese-traditional">澎湖群島</name></names></archipelago><longitude src="percol-down">119.5414785</longitude><island><names><name language="English">Gulangyu</name></names></island></geography><description>
+<div author="Oliver Streiter" language="English">Gulangyu Coastal Waters</div></description>
+<admins/><sem figurative="no" writing="uninscribed"/></ent>
+<ent id="s113892">
+<types>
+<type language="English">coastline</type></types>
+<communities>
+<community>
+<name language="English">Magong</name></community>
+</communities>
+<names>
+<name language="English">Gulangyu Coastline</name></names>
+<geography geotop="s113807" siteid="s113807"><latitude src="percol-down">23.217523</latitude><archipelago><names><name script="Latin">Penghu Islands</name><name script="Latin">Pescadores Islands</name><name script="Chinese-traditional">澎湖群島</name></names></archipelago><longitude src="percol-down">119.5414785</longitude><island><names><name language="English">Gulangyu</name></names></island></geography><description>
+<div author="Oliver Streiter" language="English">Gulangyu Coastline</div></description>
+<admins/><sem figurative="no" writing="uninscribed"/></ent>
 <ent id="s113807">
 <types>
-<type language="English" script="Latin" ucd="LATIN">island</type></types>
+<type language="English">island</type></types>
 <names>
-<name language="English" script="Latin" ucd="LATIN">Gulangyu</name><name language="English" script="Latin" ucd="LATIN">Gulang Island</name></names>
-<geography geotop="sPenghuArchipelago" siteid="sPenghuArchipelago">
-<rocks>
-<rock language="English" script="Latin">basalt</rock></rocks>
-<archipelago>
-<names>
-<name script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Latin" ucd="LATIN">Penghu Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
-</archipelago>
-<island>
-<names>
-<name language="English" script="Latin" ucd="LATIN">Gulangyu</name></names>
-</island>
-<longitude crs="WGS84" deg="decimal" src="percol-down">119.5414785</longitude><latitude crs="WGS84" deg="decimal" src="percol-down">23.56</latitude></geography>
-<description>
-<div author="Oliver Streiter" language="English" script="Latin" ucd="LATIN">Gulangyu</div></description>
+<name language="English">Gulangyu</name><name language="English">Gulang Island</name></names>
+<geography geotop="sPenghuArchipelago" siteid="sPenghuArchipelago"><rocks><rock language="English" script="Latin">basalt</rock></rocks><archipelago><names><name script="Latin">Pescadores Islands</name><name script="Latin">Penghu Islands</name><name script="Chinese-traditional">澎湖群島</name></names></archipelago><island><names><name language="English">Gulangyu</name></names></island><longitude src="percol-down">119.5414785</longitude><latitude src="percol-down">23.56</latitude></geography><description>
+<div author="Oliver Streiter" language="English">Gulangyu</div></description>
 <admins/><culturaldomain>
 <practices>
 <practice>
 <names>
-<name language="English" script="Latin" ucd="LATIN">fishing</name><name script="Chinese-traditional" ucd="CJK">捕魚</name></names>
+<name language="English">fishing</name><name script="Chinese-traditional">捕魚</name></names>
 </practice>
 </practices>
 </culturaldomain>
-<sem writing="uninscribed" figurative="no"/><ent id="s113954">
-<types>
-<type language="English" script="Latin" ucd="LATIN">water body</type></types>
-<communities>
-<community>
-<name language="English" script="Latin" ucd="LATIN">Magong</name></community>
-</communities>
-<names>
-<name language="English" script="Latin" ucd="LATIN">Gulangyu Coastal Waters</name></names>
-<geography geotop="s113807" siteid="s113807">
-<latitude crs="WGS84" deg="decimal" src="percol-down">23.217523</latitude><archipelago>
-<names>
-<name script="Latin" ucd="LATIN">Penghu Islands</name><name script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
-</archipelago>
-<longitude crs="WGS84" deg="decimal" src="percol-down">119.5414785</longitude><island>
-<names>
-<name language="English" script="Latin" ucd="LATIN">Gulangyu</name></names>
-</island>
-</geography>
-<description>
-<div author="Oliver Streiter" language="English" script="Latin" ucd="LATIN">Gulangyu Coastal Waters</div></description>
-<admins/><sem writing="uninscribed" figurative="no"/></ent>
-<ent id="s113892">
-<types>
-<type language="English" script="Latin" ucd="LATIN">coastline</type></types>
-<communities>
-<community>
-<name language="English" script="Latin" ucd="LATIN">Magong</name></community>
-</communities>
-<names>
-<name language="English" script="Latin" ucd="LATIN">Gulangyu Coastline</name></names>
-<geography geotop="s113807" siteid="s113807">
-<latitude crs="WGS84" deg="decimal" src="percol-down">23.217523</latitude><archipelago>
-<names>
-<name script="Latin" ucd="LATIN">Penghu Islands</name><name script="Latin" ucd="LATIN">Pescadores Islands</name><name script="Chinese-traditional" ucd="CJK">澎湖群島</name></names>
-</archipelago>
-<longitude crs="WGS84" deg="decimal" src="percol-down">119.5414785</longitude><island>
-<names>
-<name language="English" script="Latin" ucd="LATIN">Gulangyu</name></names>
-</island>
-</geography>
-<description>
-<div author="Oliver Streiter" language="English" script="Latin" ucd="LATIN">Gulangyu Coastline</div></description>
-<admins/><sem writing="uninscribed" figurative="no"/></ent>
-</ent>
+<sem figurative="no" writing="uninscribed"/></ent>
 </document>

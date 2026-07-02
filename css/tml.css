@@ -71,6 +71,8 @@ language:not(:empty):before { color:grey;content: ' language: ' }
 language:not(:empty):after { color:grey;content : ' ' }
 script:not(:empty):before { color:grey;content: ' script: ' }
 script:not(:empty):after { color:grey;content : ' ' }
+ucd:not(:empty):before { color:grey;content: ' Unicode Set: ' }
+ucd:not(:empty):after { color:grey;content : ' ' }
 writingDirection:not(:empty):before { color:grey;content: ' writing direction: ' }
 writingDirection:not(:empty):after { color:grey;content : ' ' }
 textColor:not(:empty):before { color:grey;content: ' textColor: ' }
@@ -136,10 +138,9 @@ ent,copyright,description,sitemap,definitions,transliteration,transcritpion,keyw
 }
 
 
-ent[id^='s'] {
-  padding: var(--node-padding); 
+ent {
   border-left:1px dashed var(--main-color);
-  padding-left:1.5em;
+  padding-left:1.6em
 }
 
 iframe,img {

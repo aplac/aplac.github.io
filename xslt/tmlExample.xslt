@@ -11,18 +11,25 @@
 	                     and not(self::stat)
 	                     and not(self::hmtl)
 	                     and not(self::table)
+	                     and not(self::island)
 	                     and not(self::stats)
 	                     and not(self::geography)
 	                     and not(self::include)
 	                     and not(self::events)
 	                     and not(self::culturaldomain)
 	                     and not(self::examples)]">
-    <xsl:copy>
-        <xsl:if test="node()">
-        <xsl:value-of select="local-name(.)"/>:
-        <xsl:apply-templates select="node()"/>
+	  <xsl:if test="normalize-space(.) and not(*)">
+            <xsl:value-of select="local-name(.)"/>:
+            <xsl:value-of select="."/>
+            <xsl:if test="@*">
+                [<xsl:apply-templates select="@*"/>]
+            </xsl:if>
         </xsl:if>
-    </xsl:copy>
+        <xsl:if test="*">
+            <xsl:copy>
+            <xsl:apply-templates select="*"/>
+            </xsl:copy>
+        </xsl:if>
   </xsl:template>
 
 </xsl:stylesheet>

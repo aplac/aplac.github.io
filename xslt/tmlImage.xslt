@@ -6,7 +6,7 @@
 
 
   <xsl:template match="img[not(measurement)]">
-    <html xmlns="http://www.w3.org/1999/xhtml">
+       <html xmlns="http://www.w3.org/1999/xhtml">
        <xsl:element name="a">
            <xsl:attribute name="href">
                <xsl:value-of select="concat('https://storage.googleapis.com/thakbong/fieldwork',@url)"/>

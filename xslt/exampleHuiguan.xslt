@@ -5,9 +5,9 @@
   <xsl:variable name="V2" select="document('../tml/tmlDocThailand.xml')"/>
   <xsl:variable name="V3" select="document('../tml/tmlDocTaiwanPenghu.xml')"/>
 
-  <xsl:include href="tmlExample.xslt"/>
+  <xsl:include href="tml1.xslt"/>
 
-  <xsl:template match="examples">
+  <xsl:template match="project/examples">
         <examples>
 		<html xmlns="http://www.w3.org/1999/xhtml">
 		<h2>Malaysia</h2><hr/>

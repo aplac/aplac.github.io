@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
+<?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<document>
+    <ent id="sDictionary">
+        <types>
+            <type language="English">structure</type>
+        </types>
+        <geography geotop="sGEOTOP" siteid="sSITEID">
+            <island ID="GuamUSA">
+                <names>
+                    <name language="CHamoru">Guåhan</name>
+                    <name language="English">Guam</name>
+                    <name language="Spanish" script="Latin">Guam</name>
+                    <name language="German" script="Latin">Guam</name>
+                </names>
+            </island>
+            <island ID='HAWAII'>
+                <names>
+                    <name language="Hawaiian" script="Latin">Hawaiʻi</name>
+                    <name language="English">Hawaii</name>
+                </names>
+            </island>
+            <island ID="QimeiPenghu">
+                <names>
+                    <name script="Chinese-traditional">七美島嶼</name>
+                    <name language="English">Qimei Island</name>
+                </names>
+            </island>
+            <island ID="PuertoRico">
+                <names>
+                    <name language="English">Puerto Rico</name>
+                    <name language="Spanish">Puerto Rico</name>
+                    <name language="German">Puerto Rico</name>
+                    <name language="Mandarin" script="Chinese-traditional">波多黎各</name>
+                    <name language="Mandarin" script="Latin" system="Hanyu pinyin">Bōduōlígè</name>
+                </names>
+                <archipelago ID="PuertoRico">
+                    <names>
+                        <name language="English">Puerto Rico</name>
+                        <name language="Spanish">Puerto Rico</name>
+                        <name language="German">Puerto Rico</name>
+                        <name language="Mandarin" script="Chinese-traditional">波多黎各</name>
+                        <name language="Mandarin" script="Latin" system="Hanyu pinyin">Bōduōlígè</name>
+                    </names>
+                </archipelago>
+            </island>
+            <island ID="Xiaoliuqiu">
+                <names>
+                    <name language="English">Xiaoliuqiu Island</name>
+                    <name script="Chinese-traditional">小琉球</name>
+                    <name language="English">Little Liuqiu</name>
+                    <name language="English">Lambai Island</name>
+                    <name language="English">Lamay Island</name>
+                    <name language="Spanish">Islote Lamay</name>
+                    <name language="Spanish">Islote Liuqiu</name>
+                    <name language="Spanish">Pequeño Liuqiu</name>
+                </names>
+            </island>
+            <island ID="Taiwan">
+                <names>
+                    <name language="English">Taiwan Island</name>
+                    <name script="Chinese-traditional">臺灣本島</name>
+                </names>
+            </island>
+            <island ID="Norderney">
+                <names>
+                    <name language="English">Norderney</name>
+                    <name language="German">Norderney</name>
+                    <name language="Low German">Nördernee</name>
+                    <name language="Mandarin" script="Chinese-simplified">诺德奈</name>
+                    <name language="Mandarin" script="Chinese-traditional">諾德奈</name>
+                    <name language="Mandarin" script="Latin" system="Hanyu pinyin">Nuòdénài</name>
+                </names>
+                <archipelago ID="EastFrisianIslands">
+                    <names>
+                        <name language="English">East Frisian Islands</name>
+                        <name language="Dutch">Oost-Friese Waddeneilanden</name>
+                        <name language="German">Ostfriesische Inselm</name>
+                        <name language="West Frisian">Eastfryske eilannen</name>
+                        <name language="Saterland Frisian">Aastefräiske Ailounds</name>
+                        <name language="Mandarin" script="Chinese-simplified">东弗里西亚群岛</name>
+                        <name language="Mandarin" script="Chinese-traditional">東弗里西亞群島</name>
+                        <name language="Mandarin" script="Latin" system="Hanyu pinyin">Dōngfúlǐxīyà qúndǎo</name>
+                    </names>
+                </archipelago>
+            </island>
+            <island ID="HongKong">
+                <names>
+                    <name language="English">Hong Kong Island</name>
+                    <name script="Chinese-traditional">香港島</name>
+                    <name script="Chinese-simplified">香港島</name>
+                    <name language="Cantonese" script="Latin" standard="Cantonese Yale">Hēunggóng dóu</name>
+                    <name language="Cantonese" script="Latin" standard="Jyutping">Hoeng1 gong2 dou2</name>
+                </names>
+            </island>
+        </geography>
+        <culturaldomain>
+            <practices>
+                <practice ID="TombstoneSide">
+                    <epistemics src="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">tombstone beside the interment</name>
+                        <name language="German">Grabstein neben dem Grab</name>
+                    </names>
+                </practice>
+                <practice ID="TombstoneFront">
+                    <epistemics src="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">tombstone in front of the interment</name>
+                        <name language="German">Grabstein vor dem Grab</name>
+                    </names>
+                </practice>
+                <practice ID="InhumationImplied">
+                    <epistemics src="opus operatum">implied</epistemics>
+                    <names>
+                        <name language="English">burial</name>
+                        <name language="English">inhumation</name>
+                        <name language="English">interment</name>
+                        <name language="German">Beerdigung</name>
+                        <name language="German">Erdbestattung</name>
+                        <name language="Dutch">teraardebestelling</name>
+                        <name language="Dutch">graflegging</name>
+                        <name language="Dutch">inhumatie</name>
+                    </names>
+                </practice>
+                <practice ID="Inhumation">
+                    <epistemics mode="modus operandi">observed</epistemics>
+                    <names>
+                        <name language="English">burial</name>
+                        <name language="English">inhumation</name>
+                        <name language="English">interment</name>
+                        <name language="German">Beerdigung</name>
+                        <name language="German">Erdbestattung</name>
+                        <name language="Dutch">teraardebestelling</name>
+                        <name language="Dutch">graflegging</name>
+                        <name language="Dutch">inhumatie</name>
+                    </names>
+                </practice>
+                <practice ID="OfferingMoney">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">offering money</name>
+                        <name language="Mandarin" script="Chinese-traditional">獻錢</name>
+                        <name language="Mandarin" script="Latin">xiàn qián</name>
+                    </names>
+                </practice>
+                <practice ID="OfferingMoneyAffordance">
+                    <epistemics mode="modus operandi" src="affordance">implied</epistemics>
+                    <names>
+                        <name language="English">offering money</name>
+                        <name language="Mandarin" script="Chinese-traditional">獻錢</name>
+                        <name language="Mandarin" script="Latin">xiàn qián</name>
+                    </names>
+                </practice>
+                <practice ID="OfferingMoney">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">offering money</name>
+                        <name language="Mandarin" script="Chinese-traditional">獻錢</name>
+                        <name language="Mandarin" script="Latin">xiàn qián</name>
+                    </names>
+                </practice>
+                <practice ID="BringingOfferings">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">bringing offerings</name>
+                        <name language="Mandarin" script="Chinese-traditional">尋求保護</name>
+                        <name language="Mandarin" script="Latin">Xúnqiú bǎohù</name>
+                    </names>
+                </practice>
+                <practice ID="SeekFertility">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">seeking fertility</name>
+                        <name language="Mandarin" script="Chinese-traditional">尋求保護</name>
+                        <name language="Mandarin" script="Latin">Xúnqiú bǎohù</name>
+                    </names>
+                </practice>
+                <practice ID="BaptismImplied">
+                    <epistemics modus="modus operandi" src="symbolism">implied</epistemics>
+                    <names>
+                        <name language="English">baptism</name>
+                        <name language="German">Taufe</name>
+                    </names>
+                </practice>
+                <practice ID="SeekFertilityImplied">
+                    <epistemics modus="modus operandi" src="symbolism">implied</epistemics>
+                    <names>
+                        <name language="English">seeking fertility</name>
+                        <name language="Mandarin" script="Chinese-traditional">尋求保護</name>
+                        <name language="Mandarin" script="Latin">Xúnqiú bǎohù</name>
+                    </names>
+                </practice>
+                <practice ID="SeekLongevity">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">seeking longevity</name>
+                        <name language="Mandarin" script="Chinese-traditional">尋求保護</name>
+                        <name language="Mandarin" script="Latin">Xúnqiú bǎohù</name>
+                    </names>
+                </practice>
+                <practice ID="SeekLongevityImplied">
+                    <epistemics modus="modus operandi" src="symbolism">implied</epistemics>
+                    <names>
+                        <name language="English">seeking longevity</name>
+                        <name language="Mandarin" script="Chinese-traditional">尋求保護</name>
+                        <name language="Mandarin" script="Latin">Xúnqiú bǎohù</name>
+                    </names>
+                </practice>
+                <practice ID="SeekEnlightenmentImplied">
+                    <epistemics modus="modus operandi">implied</epistemics>
+                    <names>
+                        <name language="English">seeking enlightenmnt</name>
+                        <name language="Mandarin" script="Chinese-traditional">尋求保護</name>
+                        <name language="Mandarin" script="Latin">Xúnqiú bǎohù</name>
+                    </names>
+                </practice>
+                <practice ID="SeekProtectionImplied">
+                    <epistemics modus="modus operandi">implied</epistemics>
+                    <names>
+                        <name language="English">seeking protection</name>
+                        <name language="Mandarin" script="Chinese-traditional">尋求保護</name>
+                        <name language="Mandarin" script="Latin">Xúnqiú bǎohù</name>
+                    </names>
+                </practice>
+                <practice ID="CarvJiguan">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">carving a jiguan</name>
+                        <name language="Mandarin" script="Chinese-traditional">雕刻籍貫</name>
+                    </names>
+                    <practice REF="CarvPlaceName" />
+                </practice>
+                <practice ID="CarvPlaceName">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">carving a placename</name>
+                        <name language="Mandarin" script="Chinese-traditional">雕刻地名</name>
+                    </names>
+                    <practice ID="CarvPlaceName" />
+                </practice>
+                <practice ID="CarvTanghao">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">carving a tanghao</name>
+                        <name language="Mandarin" script="Chinese-traditional">雕刻堂號</name>
+                    </names>
+                </practice>
+                <practice ID="CarvRelig">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">carving a religious expression</name>
+                    </names>
+                </practice>
+                <practice ID="RememberDead">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">remembering the dead</name>
+                    </names>
+                </practice>
+                <practice ID="RememberDeadAffordance">
+                    <epistemics modus="modus operandi" src="affordance">implied</epistemics>
+                    <names>
+                        <name language="English">remembering the dead</name>
+                    </names>
+                </practice>
+                <practice ID="Divination">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">divination</name>
+                        <name language="Mandarin" script="Chinese-traditional">占卜</name>
+                    </names>
+                </practice>
+                <practice ID="DivinationImplied">
+                    <epistemics modus="modus operandi">implied</epistemics>
+                    <names>
+                        <name language="English">divination</name>
+                        <name language="Mandarin" script="Chinese-traditional">占卜</name>
+                    </names>
+                </practice>
+                <practice ID="AncestralWorship">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">ancestor veneration</name>
+                        <name language="English">ancestral worship</name>
+                        <name language="Mandarin" script="Chinese-traditional">祖先崇拜</name>
+                        <name language="Mandarin" script="Latin">Zǔxiān chóngbài</name>
+                    </names>
+                    <function>
+                        <practice REF="SeekLongevityImplied" />
+                        <practice REF="SeekFertilityImplied" />
+                        <practice REF="SeekProtectionImplied" />
+                    </function>
+                </practice>
+                <practice ID="WorshipMazu">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">Mazu worship</name>
+                        <name language="Mandarin" script="Chinese-traditional">崇拜媽祖</name>
+                    </names>
+                    <function>
+                        <practice REF="SeekProtectionImplied" />
+                    </function>
+                </practice>
+                <practice ID="WorshipEarthgodImplied">
+                    <epistemics modus="modus operandi">implied</epistemics>
+                    <names>
+                        <name language="English">Earthgod worship</name>
+                        <name language="Mandarin" script="Chinese-traditional">崇拜土地公</name>
+                    </names>
+                    <function>
+                        <practice REF="SeekProtectionImplied" />
+                    </function>
+                </practice>
+                <practice ID="WorshipEarthgod">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">Earthgod worship</name>
+                        <name language="Mandarin" script="Chinese-traditional">崇拜土地公</name>
+                    </names>
+                    <function>
+                        <practice REF="SeekProtectionImplied" />
+                    </function>
+                </practice>
+                <practice ID="WorshipEarthgodImplied">
+                    <epistemics modus="modus operandi">implied</epistemics>
+                    <names>
+                        <name language="English">Earthgod worship</name>
+                        <name language="Mandarin" script="Chinese-traditional">崇拜土地公</name>
+                    </names>
+                    <function>
+                        <practice REF="SeekProtectionImplied" />
+                    </function>
+                </practice>
+                <practice ID="WorshipEarthgodWithOfferings">
+                    <epistemics mode="opus operatum">observed</epistemics>
+                    <names>
+                        <name language="English">Earthgod worship</name>
+                        <name language="Mandarin" script="Chinese-traditional">崇拜土地公</name>
+                    </names>
+                    <includes>
+                        <practice REF="BringingOfferings" />
+                    </includes>
+                    <function>
+                        <practice REF="SeekProtectionImplied" />
+                    </function>
+                </practice>
+                <practice ID="DeceasedFaceQiblah">
+                    <explanation>
+                        <div>Turning the deceased to face the Qiblah is good, but if this is not done it does not matter. There is no text (nass) which indicates that the deceased should be turned to face the Qiblah. The deceased should be placed in his grave on his right side, with his face towards the Qiblah and his head and legs to the right and left. This is the practice of the Muslims from the time of the Messenger of Allah (peace and blessings of Allah be upon him) until the present day, and this is how all the graveyards of the Muslims are throughout the world. (al-Mahallaa, 5/173).</div>
+                    </explanation>
+                    <names>
+                        <name language="English">Turning the deceased to face the Qiblah</name>
+                    </names>
+                    <deontics>suggested</deontics>
+                </practice>
+                <practice ID="NotSteppingOnGraves">
+                    <explanation>
+                        <div>In Islam, stepping, walking, or sitting on graves is forbidden out of deep respect for the deceased. A Muslim retains sanctity and dignity after death just as they did in life. Walking or sitting on their resting place is viewed as a severe form of disrespect and harm. Islamic teachings detail several specific reasons for this rule: 1) Respect for the Dead: The Prophet Muhammad stated that stepping on a grave is highly offensive. He strongly warned against it, saying that sitting on a burning hot coal is better than sitting on a grave. 2) Avoiding Harm: According to hadith (recorded sayings of the Prophet), the deceased can feel and be affected by disrespect. Therefore, walking on the soil of the dead causes them unnecessary discomfort. 3) Preventing Damage: Walking or sitting on a grave can cause the soil to sink or damage the grave's marker. 4) Maintaining Sacred Boundaries: Cemeteries are meant to be places of quiet reflection, prayer for the deceased, and remembering one's own mortality. Strict guidelines prevent people from turning graves into areas for casual socializing, walking, or idol worship. In practice, if a visitor needs to reach the other side of a cemetery, they must walk in the paths between the graves rather than directly over them.</div>
+                    </explanation>
+                    <names>
+                        <name language="English">Step, walk or sit on a grave</name>
+                    </names>
+                    <deontics>forbidden</deontics>
+                </practice>
+                <practice ID="ShroudingTheDeceased">
+                    <explanation>
+                        <div>What is required for the deceased in all cases, whether young or old, male or female, is a single sheet that will cover the entire body of the deceased.</div>
+                    </explanation>
+                    <names>
+                        <name language="English">Shrouding the deceased in a piece of cloth</name>
+                    </names>
+                    <deontics>required</deontics>
+                </practice>
+            </practices>
+            <practice ID="ShroudingTheDeceasedAccordingToGender">
+                <explanation>
+                    <div>In Islam, it is best to shroud men in three pieces of cloth and women in five pieces of cloth. The minimum in which the deceased may be shrouded, which fulfills the obligatory duty, is a single piece of cloth that covers the entire body.</div>
+                </explanation>
+                <names>
+                    <name language="English">Shrouding female deceased in five pieces of cloth</name>
+                </names>
+                <deontics>suggested</deontics>
+            </practice>
+        </culturaldomain>
+    </ent>
+</document>

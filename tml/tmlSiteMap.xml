@@ -2,17 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
 <?xml-stylesheet type="text/css" href="../css/all.css"?>
+<document xmlns:xi="http://www.w3.org/2001/XInclude">
 <sitemap xmlns:xi="http://www.w3.org/2001/XInclude">
 <name>Thakbong Sitemap</name><description>Root: <include href="tml.xml" parse="xml"/></description><description><include href="tmlCollaborator.xml" parse="xml"/></description>
 <description><include href="tmlContributor.xml" parse="xml"/></description>
 <description><include href="tmlDefinitions.xml" parse="xml"/></description>
-<description><include href="tmlDocBelgium (oliver-ASUS-EXPERTBOOK-B1500CEAEY-B1508CEAE's conflicted copy 2026-06-06).xml" parse="xml"/></description>
 <description><include href="tmlDocBelgium.xml" parse="xml"/></description>
 <description><include href="tmlDocChina.xml" parse="xml"/></description>
 <description><include href="tmlDocChinaBeijing.xml" parse="xml"/></description>
 <description><include href="tmlDocChinaDongtou.xml" parse="xml"/></description>
 <description><include href="tmlDocChinaFujian.xml" parse="xml"/></description>
 <description><include href="tmlDocCzechia.xml" parse="xml"/></description>
+<description><include href="tmlDocDictionary.xml" parse="xml"/></description>
 <description><include href="tmlDocEngland.xml" parse="xml"/></description>
 <description><include href="tmlDocFrance.xml" parse="xml"/></description>
 <description><include href="tmlDocGermany.xml" parse="xml"/></description>
@@ -57,8 +58,10 @@
 <description><include href="tmlDocTaiwanKaohsiungFudingjinMuslimSection2.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanKaohsiungFudingjinSectionA.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanKaohsiungFudingjinSectionB.xml" parse="xml"/></description>
+<description><include href="tmlDocTaiwanKaohsiungFudingjinSectionB6.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanKaohsiungFudingjinSectionC.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanKaohsiungFudingjinSectionD.xml" parse="xml"/></description>
+<description><include href="tmlDocTaiwanKaohsiungHunei.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanKaohsiungNiaosong.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanKaohsiungYanchao.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanMazu.xml" parse="xml"/></description>
@@ -137,6 +140,7 @@
 <description><include href="tmlDocTaiwanPenghuZhongxi.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuZhuwan.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPingdong.xml" parse="xml"/></description>
+<description><include href="tmlDocTaiwanPingdongMudan.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPingdongNanzhou.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPingdongXiaoLiuqiu.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTaibei.xml" parse="xml"/></description>
@@ -145,6 +149,7 @@
 <description><include href="tmlDocTaiwanTaibeiNingboTongxianghui.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTaibeiZhongshanFirstCemetery.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTaidong.xml" parse="xml"/></description>
+<description><include href="tmlDocTaiwanTaidongNanxing.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTainan.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTainanAnding.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTainanAnnan.xml" parse="xml"/></description>
@@ -170,6 +175,7 @@
 <description><include href="tmlDocTaiwanTainanNanshanSouth.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTainanNanshanSouthwest.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTainanNanshanWest.xml" parse="xml"/></description>
+<description><include href="tmlDocTaiwanTainanNanxi.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTainanProtestant.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTainanShanshang.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanTainanXinhua.xml" parse="xml"/></description>
@@ -182,8 +188,6 @@
 <description><include href="tmlDocTaiwanXindian.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanXinzhu.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanYilan.xml" parse="xml"/></description>
-<description><include href="tmlDocTaiwanYunlin.xml" parse="xml"/></description>
-<description><include href="tmlDocTaiwanZhanghua.xml" parse="xml"/></description>
 <description><include href="tmlDocThailand.xml" parse="xml"/></description>
 <description><include href="tmlDocThailandAyutthaya.xml" parse="xml"/></description>
 <description><include href="tmlDocThailandBangkok.xml" parse="xml"/></description>
@@ -220,4 +224,4 @@
 <description><include href="tmlProjectShigong.xml" parse="xml"/></description>
 <description><include href="tmlSiteMap.xml" parse="xml"/></description>
 <description><include href="tmlSubProjects.xml" parse="xml"/></description>
-</sitemap>
+</sitemap></document>

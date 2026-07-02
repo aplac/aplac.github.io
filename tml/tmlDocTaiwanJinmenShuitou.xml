@@ -1,61 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
-<?xml-stylesheet type="text/css" href="../css/all.css"?>
 <document latitude="N(24)" longitude="E(118)">
-<ent id="sJinmenShuitouVillage">
-<names>
-<name script="Latin" ucd="LATIN">Shuitou Village</name><name script="Chinese-traditional" ucd="CJK">水頭</name></names>
+<ent id="o20251123033150">
 <types>
-<type script="Latin" ucd="LATIN">Shuitou</type><type script="Latin" ucd="LATIN">settlement</type></types>
-<description>
-<div script="Latin" ucd="LATIN">Shuitou is a village in Jinmen that is said to have been countinuously settled for more that 700 years. The village is famous for its large number of nicely decorated houses, built by rich merchants who had made a fortune trading in Southeast Asia.</div></description>
-<geography geotop="sKinmenIsland" siteid="sKinmenIsland">
-<longitude crs="WGS84" deg="decimal" src="map">118.30</longitude><latitude crs="WGS84" deg="decimal" src="map">24.40</latitude></geography>
-<ent id="s20251123033150">
-<types>
-<type script="Latin" ucd="LATIN">house</type></types>
-<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/><ent id="o20251123033150">
-<types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123033150" siteid="s20251123033150"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:31:50" url="/2025/11/23/DATE20251123TIME033150GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6206UPLOAD112725UPID329SITEShuitouVillageInesORIGIMG7802.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:31:50" url="/2025/11/23/DATE20251123TIME033150GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6206UPLOAD112725UPID329SITEShuitouVillageInesORIGIMG7802.jpg"/></media>
 </ent>
 <ent id="o20251123033202">
 <types>
-<type script="Latin" ucd="LATIN">structure front side left</type></types>
+<type script="Latin">structure front side left</type></types>
 <geography geotop="s20251123033150" siteid="s20251123033150"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:32:02" url="/2025/11/23/DATE20251123TIME033202GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7084UPLOAD112725UPID309SITEShuitouVillageInesORIGIMG7803.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:32:02" url="/2025/11/23/DATE20251123TIME033202GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7084UPLOAD112725UPID309SITEShuitouVillageInesORIGIMG7803.jpg"/></media>
 </ent>
-</ent>
-<ent id="s20251123025937">
+<ent id="s20251123033150">
 <types>
-<type script="Latin" ucd="LATIN">house</type></types>
-<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/><ent id="o20251123030112">
+<type script="Latin">house</type></types>
+<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/></ent>
+<ent id="o20251123030112">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:01:12" url="/2025/11/23/DATE20251123TIME030112GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6978UPLOAD112725UPID324SITEShuitouVillageInesORIGIMG7733.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:01:12" url="/2025/11/23/DATE20251123TIME030112GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6978UPLOAD112725UPID324SITEShuitouVillageInesORIGIMG7733.jpg"/></media>
 </ent>
 <ent id="o20251123025956">
 <types>
-<type script="Latin" ucd="LATIN">entrance</type></types>
+<type script="Latin">entrance</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="02:59:56" url="/2025/11/23/DATE20251123TIME025956GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6526UPLOAD112725UPID332SITEShuitouVillageInesORIGIMG7726.jpg" zoom="no"/><img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:00:03" url="/2025/11/23/DATE20251123TIME030003GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6532UPLOAD112725UPID339SITEShuitouVillageInesORIGIMG7727.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="02:59:56" url="/2025/11/23/DATE20251123TIME025956GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6526UPLOAD112725UPID332SITEShuitouVillageInesORIGIMG7726.jpg"/><img date="2025-11-23" time="03:00:03" url="/2025/11/23/DATE20251123TIME030003GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6532UPLOAD112725UPID339SITEShuitouVillageInesORIGIMG7727.jpg"/></media>
 </ent>
 <ent id="o20251123030012">
 <types>
-<type script="Latin" ucd="LATIN">structure front side left</type></types>
+<type script="Latin">structure front side left</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:00:12" url="/2025/11/23/DATE20251123TIME030012GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7311UPLOAD112725UPID289SITEShuitouVillageInesORIGIMG7728.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:00:12" url="/2025/11/23/DATE20251123TIME030012GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7311UPLOAD112725UPID289SITEShuitouVillageInesORIGIMG7728.jpg"/></media>
 </ent>
 <ent id="o20251123025755">
 <types>
-<type script="Latin" ucd="LATIN">tea pot with tea cup</type></types>
+<type script="Latin">tea pot with tea cup</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="02:57:55" url="/2025/11/23/DATE20251123TIME025755GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5947UPLOAD112725UPID318SITEShuitouVillageInesORIGIMG7723.jpg" zoom="no">
+<img date="2025-11-23" time="02:57:55" url="/2025/11/23/DATE20251123TIME025755GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5947UPLOAD112725UPID318SITEShuitouVillageInesORIGIMG7723.jpg">
 <labels>
-<label topical="0.2154" score="0.98" engine="Google Vision API">Wall</label><label topical="0.0119" score="0.97" engine="Google Vision API">Red</label><label topical="0.0868" score="0.94" engine="Google Vision API">Brickwork</label><label topical="0.3158" score="0.94" engine="Google Vision API">Brick</label><label topical="0.0770" score="0.89" engine="Google Vision API">Roof</label><label topical="0.0113" score="0.82" engine="Google Vision API">Building material</label><label topical="0.0434" score="0.60" engine="Google Vision API">Mortar</label></labels>
+<label engine="Google Vision API" score="0.98" topical="0.2154">Wall</label><label engine="Google Vision API" score="0.97" topical="0.0119">Red</label><label engine="Google Vision API" score="0.94" topical="0.0868">Brickwork</label><label engine="Google Vision API" score="0.94" topical="0.3158">Brick</label><label engine="Google Vision API" score="0.89" topical="0.0770">Roof</label><label engine="Google Vision API" score="0.82" topical="0.0113">Building material</label><label engine="Google Vision API" score="0.60" topical="0.0434">Mortar</label></labels>
 <objects>
 <object engine="Google Vision API"/></objects>
 </img>
@@ -63,460 +50,472 @@
 </ent>
 <ent id="o20251123025937">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="02:59:37" url="/2025/11/23/DATE20251123TIME025937GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6123UPLOAD112725UPID343SITEShuitouVillageInesORIGIMG7724.jpg" zoom="no">
+<img date="2025-11-23" time="02:59:37" url="/2025/11/23/DATE20251123TIME025937GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6123UPLOAD112725UPID343SITEShuitouVillageInesORIGIMG7724.jpg">
 <labels>
-<label topical="0.0022" score="0.94" engine="Google Vision API">Facade</label><label topical="0.0065" score="0.93" engine="Google Vision API">Door</label><label topical="0.0011" score="0.81" engine="Google Vision API">Flowerpot</label><label topical="0.0001" score="0.74" engine="Google Vision API">Shade</label><label topical="0.0193" score="0.70" engine="Google Vision API">Chinese architecture</label><label topical="0.2643" score="0.69" engine="Google Vision API">Temple</label><label topical="0.0005" score="0.68" engine="Google Vision API">Column</label><label topical="0.0001" score="0.67" engine="Google Vision API">Molding</label><label topical="0.0002" score="0.62" engine="Google Vision API">Stairs</label><label topical="0.0253" score="0.61" engine="Google Vision API">Shrine</label></labels>
+<label engine="Google Vision API" score="0.94" topical="0.0022">Facade</label><label engine="Google Vision API" score="0.93" topical="0.0065">Door</label><label engine="Google Vision API" score="0.81" topical="0.0011">Flowerpot</label><label engine="Google Vision API" score="0.74" topical="0.0001">Shade</label><label engine="Google Vision API" score="0.70" topical="0.0193">Chinese architecture</label><label engine="Google Vision API" score="0.69" topical="0.2643">Temple</label><label engine="Google Vision API" score="0.68" topical="0.0005">Column</label><label engine="Google Vision API" score="0.67" topical="0.0001">Molding</label><label engine="Google Vision API" score="0.62" topical="0.0002">Stairs</label><label engine="Google Vision API" score="0.61" topical="0.0253">Shrine</label></labels>
 </img>
 </media>
 </ent>
 <ent id="o20251123025950">
 <types>
-<type script="Latin" ucd="LATIN">structure front side right</type></types>
+<type script="Latin">structure front side right</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="02:59:50" url="/2025/11/23/DATE20251123TIME025950GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6127UPLOAD112725UPID286SITEShuitouVillageInesORIGIMG7725.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="02:59:50" url="/2025/11/23/DATE20251123TIME025950GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6127UPLOAD112725UPID286SITEShuitouVillageInesORIGIMG7725.jpg"/></media>
 </ent>
 <ent id="o20251123030049">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:00:49" url="/2025/11/23/DATE20251123TIME030049GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6723UPLOAD112725UPID328SITEShuitouVillageInesORIGIMG7731.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:00:49" url="/2025/11/23/DATE20251123TIME030049GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6723UPLOAD112725UPID328SITEShuitouVillageInesORIGIMG7731.jpg"/></media>
 </ent>
 <ent id="o20251123030021">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:00:21" url="/2025/11/23/DATE20251123TIME030021GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6900UPLOAD112725UPID310SITEShuitouVillageInesORIGIMG7729.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:00:21" url="/2025/11/23/DATE20251123TIME030021GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6900UPLOAD112725UPID310SITEShuitouVillageInesORIGIMG7729.jpg"/></media>
 </ent>
 <ent id="o20251123030059">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:00:59" url="/2025/11/23/DATE20251123TIME030059GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6675UPLOAD112725UPID348SITEShuitouVillageInesORIGIMG7732.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:00:59" url="/2025/11/23/DATE20251123TIME030059GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6675UPLOAD112725UPID348SITEShuitouVillageInesORIGIMG7732.jpg"/></media>
 </ent>
 <ent id="o20251123030038">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:00:38" url="/2025/11/23/DATE20251123TIME030038GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7224UPLOAD112725UPID300SITEShuitouVillageInesORIGIMG7730.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:00:38" url="/2025/11/23/DATE20251123TIME030038GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7224UPLOAD112725UPID300SITEShuitouVillageInesORIGIMG7730.jpg"/></media>
 </ent>
 <ent id="o20251123030159">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123025937" siteid="s20251123025937"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:01:59" url="/2025/11/23/DATE20251123TIME030159GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8090UPLOAD112725UPID291SITEShuitouVillageInesORIGIMG7734.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:01:59" url="/2025/11/23/DATE20251123TIME030159GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8090UPLOAD112725UPID291SITEShuitouVillageInesORIGIMG7734.jpg"/></media>
 </ent>
-</ent>
-<ent id="s20251123030301">
+<ent id="s20251123025937">
 <types>
-<type script="Latin" ucd="LATIN">house</type></types>
-<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/><ent id="o20251123030421">
+<type script="Latin">house</type></types>
+<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/></ent>
+<ent id="o20251123030421">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:04:21" url="/2025/11/23/DATE20251123TIME030421GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6941UPLOAD112725UPID305SITEShuitouVillageInesORIGIMG7742.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:04:21" url="/2025/11/23/DATE20251123TIME030421GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6941UPLOAD112725UPID305SITEShuitouVillageInesORIGIMG7742.jpg"/></media>
 </ent>
 <ent id="o20251123030521">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:05:21" url="/2025/11/23/DATE20251123TIME030521GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6600UPLOAD112725UPID312SITEShuitouVillageInesORIGIMG7748.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:05:21" url="/2025/11/23/DATE20251123TIME030521GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6600UPLOAD112725UPID312SITEShuitouVillageInesORIGIMG7748.jpg"/></media>
 </ent>
 <ent id="o20251123030544">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:05:44" url="/2025/11/23/DATE20251123TIME030544GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7206UPLOAD112725UPID276SITEShuitouVillageInesORIGIMG7751.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:05:44" url="/2025/11/23/DATE20251123TIME030544GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7206UPLOAD112725UPID276SITEShuitouVillageInesORIGIMG7751.jpg"/></media>
 </ent>
 <ent id="o20251123030633">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:06:33" url="/2025/11/23/DATE20251123TIME030633GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7973UPLOAD112725UPID302SITEShuitouVillageInesORIGIMG7756.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:06:33" url="/2025/11/23/DATE20251123TIME030633GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7973UPLOAD112725UPID302SITEShuitouVillageInesORIGIMG7756.jpg"/></media>
 </ent>
 <ent id="o20251123030647">
 <types>
-<type script="Latin" ucd="LATIN">inscribed figurative art</type></types>
+<type script="Latin">inscribed figurative art</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:06:47" url="/2025/11/23/DATE20251123TIME030647GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7700UPLOAD112725UPID345SITEShuitouVillageInesORIGIMG7758.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:06:47" url="/2025/11/23/DATE20251123TIME030647GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7700UPLOAD112725UPID345SITEShuitouVillageInesORIGIMG7758.jpg"/></media>
 </ent>
 <ent id="o20251123030529">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:05:29" url="/2025/11/23/DATE20251123TIME030529GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7390UPLOAD112725UPID299SITEShuitouVillageInesORIGIMG7749.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:05:29" url="/2025/11/23/DATE20251123TIME030529GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7390UPLOAD112725UPID299SITEShuitouVillageInesORIGIMG7749.jpg"/></media>
 </ent>
 <ent id="o20251123030807">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:08:07" url="/2025/11/23/DATE20251123TIME030807GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6999UPLOAD112725UPID307SITEShuitouVillageInesORIGIMG7761.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:08:07" url="/2025/11/23/DATE20251123TIME030807GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6999UPLOAD112725UPID307SITEShuitouVillageInesORIGIMG7761.jpg"/></media>
 </ent>
 <ent id="o20251123030641">
 <types>
-<type script="Latin" ucd="LATIN">inscribed figurative art</type></types>
+<type script="Latin">inscribed figurative art</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:06:41" url="/2025/11/23/DATE20251123TIME030641GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6635UPLOAD112725UPID283SITEShuitouVillageInesORIGIMG7757.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:06:41" url="/2025/11/23/DATE20251123TIME030641GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6635UPLOAD112725UPID283SITEShuitouVillageInesORIGIMG7757.jpg"/></media>
 </ent>
 <ent id="o20251123030705">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:07:05" url="/2025/11/23/DATE20251123TIME030705GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7112UPLOAD112725UPID323SITEShuitouVillageInesORIGIMG7760.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:07:05" url="/2025/11/23/DATE20251123TIME030705GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7112UPLOAD112725UPID323SITEShuitouVillageInesORIGIMG7760.jpg"/></media>
 </ent>
 <ent id="o20251123031231">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:12:31" url="/2025/11/23/DATE20251123TIME031231GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6009UPLOAD112725UPID319SITEShuitouVillageInesORIGIMG7762.jpg" zoom="no"/><img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:12:45" url="/2025/11/23/DATE20251123TIME031245GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6014UPLOAD112725UPID274SITEShuitouVillageInesORIGIMG7763.jpg" zoom="no"/><img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:14:09" url="/2025/11/23/DATE20251123TIME031409GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5893UPLOAD112725UPID337SITEShuitouVillageInesORIGIMG7764.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:12:31" url="/2025/11/23/DATE20251123TIME031231GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6009UPLOAD112725UPID319SITEShuitouVillageInesORIGIMG7762.jpg"/><img date="2025-11-23" time="03:12:45" url="/2025/11/23/DATE20251123TIME031245GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6014UPLOAD112725UPID274SITEShuitouVillageInesORIGIMG7763.jpg"/><img date="2025-11-23" time="03:14:09" url="/2025/11/23/DATE20251123TIME031409GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5893UPLOAD112725UPID337SITEShuitouVillageInesORIGIMG7764.jpg"/></media>
 </ent>
 <ent id="o20251123030659">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:06:59" url="/2025/11/23/DATE20251123TIME030659GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7909UPLOAD112725UPID313SITEShuitouVillageInesORIGIMG7759.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:06:59" url="/2025/11/23/DATE20251123TIME030659GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7909UPLOAD112725UPID313SITEShuitouVillageInesORIGIMG7759.jpg"/></media>
 </ent>
 <ent id="o20251123030452">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:04:52" url="/2025/11/23/DATE20251123TIME030452GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7070UPLOAD112725UPID295SITEShuitouVillageInesORIGIMG7745.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:04:52" url="/2025/11/23/DATE20251123TIME030452GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7070UPLOAD112725UPID295SITEShuitouVillageInesORIGIMG7745.jpg"/></media>
 </ent>
 <ent id="o20251123030510">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:05:10" url="/2025/11/23/DATE20251123TIME030510GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6571UPLOAD112725UPID293SITEShuitouVillageInesORIGIMG7747.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:05:10" url="/2025/11/23/DATE20251123TIME030510GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6571UPLOAD112725UPID293SITEShuitouVillageInesORIGIMG7747.jpg"/></media>
 </ent>
 <ent id="o20251123030503">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:05:03" url="/2025/11/23/DATE20251123TIME030503GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6474UPLOAD112725UPID298SITEShuitouVillageInesORIGIMG7746.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:05:03" url="/2025/11/23/DATE20251123TIME030503GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6474UPLOAD112725UPID298SITEShuitouVillageInesORIGIMG7746.jpg"/></media>
 </ent>
 <ent id="o20251123030612">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:06:12" url="/2025/11/23/DATE20251123TIME030612GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7688UPLOAD112725UPID327SITEShuitouVillageInesORIGIMG7754.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:06:12" url="/2025/11/23/DATE20251123TIME030612GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7688UPLOAD112725UPID327SITEShuitouVillageInesORIGIMG7754.jpg"/></media>
 </ent>
 <ent id="o20251123030356">
 <types>
-<type script="Latin" ucd="LATIN">window</type></types>
+<type script="Latin">window</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:03:56" url="/2025/11/23/DATE20251123TIME030356GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6840UPLOAD112725UPID278SITEShuitouVillageInesORIGIMG7740.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:03:56" url="/2025/11/23/DATE20251123TIME030356GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6840UPLOAD112725UPID278SITEShuitouVillageInesORIGIMG7740.jpg"/></media>
 </ent>
 <ent id="o20251123030333">
 <types>
-<type script="Latin" ucd="LATIN">window</type></types>
+<type script="Latin">window</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:03:33" url="/2025/11/23/DATE20251123TIME030333GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7083UPLOAD112725UPID351SITEShuitouVillageInesORIGIMG7738.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:03:33" url="/2025/11/23/DATE20251123TIME030333GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7083UPLOAD112725UPID351SITEShuitouVillageInesORIGIMG7738.jpg"/></media>
 </ent>
 <ent id="o20251123030622">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:06:22" url="/2025/11/23/DATE20251123TIME030622GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7935UPLOAD112725UPID325SITEShuitouVillageInesORIGIMG7755.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:06:22" url="/2025/11/23/DATE20251123TIME030622GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7935UPLOAD112725UPID325SITEShuitouVillageInesORIGIMG7755.jpg"/></media>
 </ent>
 <ent id="o20251123030345">
 <types>
-<type script="Latin" ucd="LATIN">entrance</type></types>
+<type script="Latin">entrance</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:03:45" url="/2025/11/23/DATE20251123TIME030345GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6583UPLOAD112725UPID296SITEShuitouVillageInesORIGIMG7739.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:03:45" url="/2025/11/23/DATE20251123TIME030345GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6583UPLOAD112725UPID296SITEShuitouVillageInesORIGIMG7739.jpg"/></media>
 </ent>
 <ent id="o20251123030431">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:04:31" url="/2025/11/23/DATE20251123TIME030431GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7369UPLOAD112725UPID275SITEShuitouVillageInesORIGIMG7743.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:04:31" url="/2025/11/23/DATE20251123TIME030431GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7369UPLOAD112725UPID275SITEShuitouVillageInesORIGIMG7743.jpg"/></media>
 </ent>
 <ent id="o20251123030301">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:03:01" url="/2025/11/23/DATE20251123TIME030301GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5696UPLOAD112725UPID333SITEShuitouVillageInesORIGIMG7735.jpg" zoom="no"/><img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:03:12" url="/2025/11/23/DATE20251123TIME030312GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5926UPLOAD112725UPID294SITEShuitouVillageInesORIGIMG7736.jpg" zoom="no"/><img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:03:19" url="/2025/11/23/DATE20251123TIME030319GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5394UPLOAD112725UPID281SITEShuitouVillageInesORIGIMG7737.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:03:01" url="/2025/11/23/DATE20251123TIME030301GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5696UPLOAD112725UPID333SITEShuitouVillageInesORIGIMG7735.jpg"/><img date="2025-11-23" time="03:03:12" url="/2025/11/23/DATE20251123TIME030312GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5926UPLOAD112725UPID294SITEShuitouVillageInesORIGIMG7736.jpg"/><img date="2025-11-23" time="03:03:19" url="/2025/11/23/DATE20251123TIME030319GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5394UPLOAD112725UPID281SITEShuitouVillageInesORIGIMG7737.jpg"/></media>
 </ent>
 <ent id="o20251123030536">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:05:36" url="/2025/11/23/DATE20251123TIME030536GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8091UPLOAD112725UPID285SITEShuitouVillageInesORIGIMG7750.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:05:36" url="/2025/11/23/DATE20251123TIME030536GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8091UPLOAD112725UPID285SITEShuitouVillageInesORIGIMG7750.jpg"/></media>
 </ent>
 <ent id="o20251123030442">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:04:42" url="/2025/11/23/DATE20251123TIME030442GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7014UPLOAD112725UPID331SITEShuitouVillageInesORIGIMG7744.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:04:42" url="/2025/11/23/DATE20251123TIME030442GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7014UPLOAD112725UPID331SITEShuitouVillageInesORIGIMG7744.jpg"/></media>
 </ent>
 <ent id="o20251123030408">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:04:08" url="/2025/11/23/DATE20251123TIME030408GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6405UPLOAD112725UPID304SITEShuitouVillageInesORIGIMG7741.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:04:08" url="/2025/11/23/DATE20251123TIME030408GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6405UPLOAD112725UPID304SITEShuitouVillageInesORIGIMG7741.jpg"/></media>
 </ent>
 <ent id="o20251123030550">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:05:50" url="/2025/11/23/DATE20251123TIME030550GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6958UPLOAD112725UPID320SITEShuitouVillageInesORIGIMG7752.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:05:50" url="/2025/11/23/DATE20251123TIME030550GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6958UPLOAD112725UPID320SITEShuitouVillageInesORIGIMG7752.jpg"/></media>
 </ent>
 <ent id="o20251123030603">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123030301" siteid="s20251123030301"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:06:03" url="/2025/11/23/DATE20251123TIME030603GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8019UPLOAD112725UPID277SITEShuitouVillageInesORIGIMG7753.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:06:03" url="/2025/11/23/DATE20251123TIME030603GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8019UPLOAD112725UPID277SITEShuitouVillageInesORIGIMG7753.jpg"/></media>
 </ent>
-</ent>
-<ent id="s20251123033335">
+<ent id="s20251123030301">
 <types>
-<type script="Latin" ucd="LATIN">house</type></types>
-<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/><ent id="o20251123033347">
+<type script="Latin">house</type></types>
+<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/></ent>
+<ent id="o20251123033347">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123033335" siteid="s20251123033335"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:33:47" url="/2025/11/23/DATE20251123TIME033347GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5988UPLOAD112725UPID280SITEShuitouVillageInesORIGIMG7806.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:33:47" url="/2025/11/23/DATE20251123TIME033347GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5988UPLOAD112725UPID280SITEShuitouVillageInesORIGIMG7806.jpg"/></media>
 </ent>
 <ent id="o20251123033342">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123033335" siteid="s20251123033335"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:33:42" url="/2025/11/23/DATE20251123TIME033342GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6050UPLOAD112725UPID316SITEShuitouVillageInesORIGIMG7805.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:33:42" url="/2025/11/23/DATE20251123TIME033342GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6050UPLOAD112725UPID316SITEShuitouVillageInesORIGIMG7805.jpg"/></media>
 </ent>
 <ent id="o20251123033335">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123033335" siteid="s20251123033335"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:33:35" url="/2025/11/23/DATE20251123TIME033335GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5929UPLOAD112725UPID326SITEShuitouVillageInesORIGIMG7804.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:33:35" url="/2025/11/23/DATE20251123TIME033335GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5929UPLOAD112725UPID326SITEShuitouVillageInesORIGIMG7804.jpg"/></media>
 </ent>
-</ent>
-<ent id="s20251123032304">
+<ent id="s20251123033335">
 <types>
-<type script="Latin" ucd="LATIN">house</type></types>
-<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/><ent id="o20251123032501">
+<type script="Latin">house</type></types>
+<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/></ent>
+<ent id="o20251123032501">
 <types>
-<type script="Latin" ucd="LATIN">entrance</type></types>
+<type script="Latin">entrance</type></types>
 <geography geotop="s20251123032304" siteid="s20251123032304"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:25:01" url="/2025/11/23/DATE20251123TIME032501GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB4902UPLOAD112725UPID284SITEShuitouVillageInesORIGIMG7785.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:25:01" url="/2025/11/23/DATE20251123TIME032501GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB4902UPLOAD112725UPID284SITEShuitouVillageInesORIGIMG7785.jpg"/></media>
 </ent>
 <ent id="o20251123032516">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032304" siteid="s20251123032304"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:25:16" url="/2025/11/23/DATE20251123TIME032516GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7956UPLOAD112725UPID342SITEShuitouVillageInesORIGIMG7787.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:25:16" url="/2025/11/23/DATE20251123TIME032516GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7956UPLOAD112725UPID342SITEShuitouVillageInesORIGIMG7787.jpg"/></media>
 </ent>
 <ent id="o20251123032732">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032304" siteid="s20251123032304"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:27:32" url="/2025/11/23/DATE20251123TIME032732GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5507UPLOAD112725UPID303SITEShuitouVillageInesORIGIMG7790.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:27:32" url="/2025/11/23/DATE20251123TIME032732GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5507UPLOAD112725UPID303SITEShuitouVillageInesORIGIMG7790.jpg"/></media>
 </ent>
 <ent id="o20251123032525">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032304" siteid="s20251123032304"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:25:25" url="/2025/11/23/DATE20251123TIME032525GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6059UPLOAD112725UPID346SITEShuitouVillageInesORIGIMG7788.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:25:25" url="/2025/11/23/DATE20251123TIME032525GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6059UPLOAD112725UPID346SITEShuitouVillageInesORIGIMG7788.jpg"/></media>
 </ent>
 <ent id="o20251123032451">
 <types>
-<type script="Latin" ucd="LATIN">window</type></types>
+<type script="Latin">window</type></types>
 <geography geotop="s20251123032304" siteid="s20251123032304"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:24:51" url="/2025/11/23/DATE20251123TIME032451GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5156UPLOAD112725UPID356SITEShuitouVillageInesORIGIMG7784.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:24:51" url="/2025/11/23/DATE20251123TIME032451GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5156UPLOAD112725UPID356SITEShuitouVillageInesORIGIMG7784.jpg"/></media>
 </ent>
 <ent id="o20251123032440">
 <types>
-<type script="Latin" ucd="LATIN">window</type></types>
+<type script="Latin">window</type></types>
 <geography geotop="s20251123032304" siteid="s20251123032304"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:24:40" url="/2025/11/23/DATE20251123TIME032440GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5331UPLOAD112725UPID355SITEShuitouVillageInesORIGIMG7783.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:24:40" url="/2025/11/23/DATE20251123TIME032440GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5331UPLOAD112725UPID355SITEShuitouVillageInesORIGIMG7783.jpg"/></media>
 </ent>
 <ent id="o20251123032536">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032304" siteid="s20251123032304"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:25:36" url="/2025/11/23/DATE20251123TIME032536GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5133UPLOAD112725UPID321SITEShuitouVillageInesORIGIMG7789.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:25:36" url="/2025/11/23/DATE20251123TIME032536GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5133UPLOAD112725UPID321SITEShuitouVillageInesORIGIMG7789.jpg"/></media>
 </ent>
 <ent id="o20251123032508">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032304" siteid="s20251123032304"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:25:08" url="/2025/11/23/DATE20251123TIME032508GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6116UPLOAD112725UPID330SITEShuitouVillageInesORIGIMG7786.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:25:08" url="/2025/11/23/DATE20251123TIME032508GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6116UPLOAD112725UPID330SITEShuitouVillageInesORIGIMG7786.jpg"/></media>
 </ent>
 <ent id="o20251123032304">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123032304" siteid="s20251123032304"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:23:04" url="/2025/11/23/DATE20251123TIME032304GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5470UPLOAD112725UPID306SITEShuitouVillageInesORIGIMG7782.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:23:04" url="/2025/11/23/DATE20251123TIME032304GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5470UPLOAD112725UPID306SITEShuitouVillageInesORIGIMG7782.jpg"/></media>
 </ent>
-</ent>
-<ent id="s20251123032859">
+<ent id="s20251123032304">
 <types>
-<type script="Latin" ucd="LATIN">house</type></types>
-<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/><ent id="o20251123032936">
+<type script="Latin">house</type></types>
+<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/></ent>
+<ent id="o20251123032936">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:29:36" url="/2025/11/23/DATE20251123TIME032936GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7276UPLOAD112725UPID338SITEShuitouVillageInesORIGIMG7794.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:29:36" url="/2025/11/23/DATE20251123TIME032936GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7276UPLOAD112725UPID338SITEShuitouVillageInesORIGIMG7794.jpg"/></media>
 </ent>
 <ent id="o20251123033130">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:31:30" url="/2025/11/23/DATE20251123TIME033130GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6234UPLOAD112725UPID311SITEShuitouVillageInesORIGIMG7800.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:31:30" url="/2025/11/23/DATE20251123TIME033130GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6234UPLOAD112725UPID311SITEShuitouVillageInesORIGIMG7800.jpg"/></media>
 </ent>
 <ent id="o20251123032908">
 <types>
-<type script="Latin" ucd="LATIN">entrance</type></types>
+<type script="Latin">entrance</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:29:08" url="/2025/11/23/DATE20251123TIME032908GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5339UPLOAD112725UPID347SITEShuitouVillageInesORIGIMG7792.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:29:08" url="/2025/11/23/DATE20251123TIME032908GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5339UPLOAD112725UPID347SITEShuitouVillageInesORIGIMG7792.jpg"/></media>
 </ent>
 <ent id="o20251123032859">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:28:59" url="/2025/11/23/DATE20251123TIME032859GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6453UPLOAD112725UPID314SITEShuitouVillageInesORIGIMG7791.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:28:59" url="/2025/11/23/DATE20251123TIME032859GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6453UPLOAD112725UPID314SITEShuitouVillageInesORIGIMG7791.jpg"/></media>
 </ent>
 <ent id="o20251123033004">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:30:04" url="/2025/11/23/DATE20251123TIME033004GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6189UPLOAD112725UPID344SITEShuitouVillageInesORIGIMG7797.jpg" zoom="no"/><img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:30:28" url="/2025/11/23/DATE20251123TIME033028GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6333UPLOAD112725UPID288SITEShuitouVillageInesORIGIMG7798.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:30:04" url="/2025/11/23/DATE20251123TIME033004GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6189UPLOAD112725UPID344SITEShuitouVillageInesORIGIMG7797.jpg"/><img date="2025-11-23" time="03:30:28" url="/2025/11/23/DATE20251123TIME033028GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6333UPLOAD112725UPID288SITEShuitouVillageInesORIGIMG7798.jpg"/></media>
 </ent>
 <ent id="o20251123033114">
 <types>
-<type script="Latin" ucd="LATIN">entrance</type></types>
+<type script="Latin">entrance</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:31:14" url="/2025/11/23/DATE20251123TIME033114GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5257UPLOAD112725UPID282SITEShuitouVillageInesORIGIMG7799.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:31:14" url="/2025/11/23/DATE20251123TIME033114GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5257UPLOAD112725UPID282SITEShuitouVillageInesORIGIMG7799.jpg"/></media>
 </ent>
 <ent id="o20251123033136">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:31:36" url="/2025/11/23/DATE20251123TIME033136GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6424UPLOAD112725UPID354SITEShuitouVillageInesORIGIMG7801.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:31:36" url="/2025/11/23/DATE20251123TIME033136GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6424UPLOAD112725UPID354SITEShuitouVillageInesORIGIMG7801.jpg"/></media>
 </ent>
 <ent id="o20251123032957">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:29:57" url="/2025/11/23/DATE20251123TIME032957GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6370UPLOAD112725UPID297SITEShuitouVillageInesORIGIMG7796.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:29:57" url="/2025/11/23/DATE20251123TIME032957GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6370UPLOAD112725UPID297SITEShuitouVillageInesORIGIMG7796.jpg"/></media>
 </ent>
 <ent id="o20251123032925">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:29:25" url="/2025/11/23/DATE20251123TIME032925GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6610UPLOAD112725UPID317SITEShuitouVillageInesORIGIMG7793.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:29:25" url="/2025/11/23/DATE20251123TIME032925GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6610UPLOAD112725UPID317SITEShuitouVillageInesORIGIMG7793.jpg"/></media>
 </ent>
 <ent id="o20251123032944">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123032859" siteid="s20251123032859"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:29:44" url="/2025/11/23/DATE20251123TIME032944GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6182UPLOAD112725UPID322SITEShuitouVillageInesORIGIMG7795.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:29:44" url="/2025/11/23/DATE20251123TIME032944GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6182UPLOAD112725UPID322SITEShuitouVillageInesORIGIMG7795.jpg"/></media>
 </ent>
-</ent>
-<ent id="s20251123031844">
+<ent id="s20251123032859">
 <types>
-<type script="Latin" ucd="LATIN">house</type></types>
-<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/><ent id="o20251123031851">
+<type script="Latin">house</type></types>
+<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/></ent>
+<ent id="o20251123031851">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:18:51" url="/2025/11/23/DATE20251123TIME031851GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7565UPLOAD112725UPID335SITEShuitouVillageInesORIGIMG7766.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:18:51" url="/2025/11/23/DATE20251123TIME031851GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7565UPLOAD112725UPID335SITEShuitouVillageInesORIGIMG7766.jpg"/></media>
 </ent>
 <ent id="o20251123031939">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:19:39" url="/2025/11/23/DATE20251123TIME031939GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6906UPLOAD112725UPID350SITEShuitouVillageInesORIGIMG7771.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:19:39" url="/2025/11/23/DATE20251123TIME031939GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6906UPLOAD112725UPID350SITEShuitouVillageInesORIGIMG7771.jpg"/></media>
 </ent>
 <ent id="o20251123032058">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:20:58" url="/2025/11/23/DATE20251123TIME032058GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7435UPLOAD112725UPID301SITEShuitouVillageInesORIGIMG7776.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:20:58" url="/2025/11/23/DATE20251123TIME032058GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7435UPLOAD112725UPID301SITEShuitouVillageInesORIGIMG7776.jpg"/></media>
 </ent>
 <ent id="o20251123031844">
 <types>
-<type script="Latin" ucd="LATIN">structure</type></types>
+<type script="Latin">structure</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:18:44" url="/2025/11/23/DATE20251123TIME031844GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7068UPLOAD112725UPID341SITEShuitouVillageInesORIGIMG7765.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:18:44" url="/2025/11/23/DATE20251123TIME031844GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7068UPLOAD112725UPID341SITEShuitouVillageInesORIGIMG7765.jpg"/></media>
 </ent>
 <ent id="o20251123032013">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:20:13" url="/2025/11/23/DATE20251123TIME032013GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7143UPLOAD112725UPID308SITEShuitouVillageInesORIGIMG7774.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:20:13" url="/2025/11/23/DATE20251123TIME032013GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7143UPLOAD112725UPID308SITEShuitouVillageInesORIGIMG7774.jpg"/></media>
 </ent>
 <ent id="o20251123031905">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:19:05" url="/2025/11/23/DATE20251123TIME031905GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6528UPLOAD112725UPID290SITEShuitouVillageInesORIGIMG7767.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:19:05" url="/2025/11/23/DATE20251123TIME031905GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6528UPLOAD112725UPID290SITEShuitouVillageInesORIGIMG7767.jpg"/></media>
 </ent>
 <ent id="o20251123031919">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:19:19" url="/2025/11/23/DATE20251123TIME031919GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6637UPLOAD112725UPID336SITEShuitouVillageInesORIGIMG7768.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:19:19" url="/2025/11/23/DATE20251123TIME031919GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6637UPLOAD112725UPID336SITEShuitouVillageInesORIGIMG7768.jpg"/></media>
 </ent>
 <ent id="o20251123032154">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:21:54" url="/2025/11/23/DATE20251123TIME032154GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5884UPLOAD112725UPID287SITEShuitouVillageInesORIGIMG7780.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:21:54" url="/2025/11/23/DATE20251123TIME032154GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5884UPLOAD112725UPID287SITEShuitouVillageInesORIGIMG7780.jpg"/></media>
 </ent>
 <ent id="o20251123032019">
 <types>
-<type script="Latin" ucd="LATIN">structure front side left</type></types>
+<type script="Latin">structure front side left</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:20:19" url="/2025/11/23/DATE20251123TIME032019GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6637UPLOAD112725UPID334SITEShuitouVillageInesORIGIMG7775.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:20:19" url="/2025/11/23/DATE20251123TIME032019GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6637UPLOAD112725UPID334SITEShuitouVillageInesORIGIMG7775.jpg"/></media>
 </ent>
 <ent id="o20251123031945">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:19:45" url="/2025/11/23/DATE20251123TIME031945GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6029UPLOAD112725UPID352SITEShuitouVillageInesORIGIMG7772.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:19:45" url="/2025/11/23/DATE20251123TIME031945GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6029UPLOAD112725UPID352SITEShuitouVillageInesORIGIMG7772.jpg"/></media>
 </ent>
 <ent id="o20251123031926">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:19:26" url="/2025/11/23/DATE20251123TIME031926GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7563UPLOAD112725UPID353SITEShuitouVillageInesORIGIMG7769.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:19:26" url="/2025/11/23/DATE20251123TIME031926GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7563UPLOAD112725UPID353SITEShuitouVillageInesORIGIMG7769.jpg"/></media>
 </ent>
 <ent id="o20251123032114">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:21:14" url="/2025/11/23/DATE20251123TIME032114GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7094UPLOAD112725UPID349SITEShuitouVillageInesORIGIMG7777.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:21:14" url="/2025/11/23/DATE20251123TIME032114GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7094UPLOAD112725UPID349SITEShuitouVillageInesORIGIMG7777.jpg"/></media>
 </ent>
 <ent id="o20251123031932">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:19:32" url="/2025/11/23/DATE20251123TIME031932GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5683UPLOAD112725UPID292SITEShuitouVillageInesORIGIMG7770.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:19:32" url="/2025/11/23/DATE20251123TIME031932GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5683UPLOAD112725UPID292SITEShuitouVillageInesORIGIMG7770.jpg"/></media>
 </ent>
 <ent id="o20251123032124">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:21:24" url="/2025/11/23/DATE20251123TIME032124GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7698UPLOAD112725UPID357SITEShuitouVillageInesORIGIMG7778.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:21:24" url="/2025/11/23/DATE20251123TIME032124GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7698UPLOAD112725UPID357SITEShuitouVillageInesORIGIMG7778.jpg"/></media>
 </ent>
 <ent id="o20251123032132">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:21:32" url="/2025/11/23/DATE20251123TIME032132GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7951UPLOAD112725UPID340SITEShuitouVillageInesORIGIMG7779.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:21:32" url="/2025/11/23/DATE20251123TIME032132GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7951UPLOAD112725UPID340SITEShuitouVillageInesORIGIMG7779.jpg"/></media>
 </ent>
 <ent id="o20251123032215">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:22:15" url="/2025/11/23/DATE20251123TIME032215GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6697UPLOAD112725UPID279SITEShuitouVillageInesORIGIMG7781.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:22:15" url="/2025/11/23/DATE20251123TIME032215GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6697UPLOAD112725UPID279SITEShuitouVillageInesORIGIMG7781.jpg"/></media>
 </ent>
 <ent id="o20251123031955">
 <types>
-<type script="Latin" ucd="LATIN">structure front side left</type></types>
+<type script="Latin">structure front side left</type></types>
 <geography geotop="s20251123031844" siteid="s20251123031844"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:19:55" url="/2025/11/23/DATE20251123TIME031955GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6361UPLOAD112725UPID315SITEShuitouVillageInesORIGIMG7773.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:19:55" url="/2025/11/23/DATE20251123TIME031955GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6361UPLOAD112725UPID315SITEShuitouVillageInesORIGIMG7773.jpg"/></media>
 </ent>
+<ent id="s20251123031844">
+<types>
+<type script="Latin">house</type></types>
+<geography geotop="sJinmenShuitouVillage" siteid="sJinmenShuitouVillage"/></ent>
+<ent id="sJinmenShuitouVillage">
+<names>
+<name script="Latin">Shuitou Village</name><name script="Chinese-traditional">水頭</name></names>
+<types>
+<type script="Latin">Shuitou</type><type script="Latin">settlement</type></types>
+<description>
+<div script="Latin">Shuitou is a village in Jinmen that is said to have been countinuously settled for more that 700 years. The village is famous for its large number of nicely decorated houses, built by rich merchants who had made a fortune trading in Southeast Asia.</div></description>
+<geography geotop="sKinmenIsland" siteid="sKinmenIsland"><longitude src="map">118.30</longitude><latitude src="map">24.40</latitude></geography><stats>
+<stat type="house" cross="0" direct="7" indirect="0">7</stat></stats>
 </ent>
-<stats><stat type="house" direct="7" indirect="0" cross="0">7</stat></stats></ent>
 </document>

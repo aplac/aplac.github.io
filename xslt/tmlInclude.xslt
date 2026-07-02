@@ -5,26 +5,26 @@
 <xsl:output method="xml" indent="yes"/>
 
   <xsl:template match="include">
-    <html xmlns="http://www.w3.org/1999/xhtml">
+       <html xmlns="http://www.w3.org/1999/xhtml">
        <xsl:element name="a">
            <xsl:attribute name="href">
                <xsl:value-of select="@href"/>
            </xsl:attribute>
            <xsl:value-of select="@href"/>
        </xsl:element>
-    </html>
+       </html>
         <xsl:apply-templates select="node()"/>
   </xsl:template>
 
   <xsl:template match="xi:include">
-    <html xmlns="http://www.w3.org/1999/xhtml">
+       <html xmlns="http://www.w3.org/1999/xhtml">
        <xsl:element name="a">
            <xsl:attribute name="href">
                <xsl:value-of select="@href"/>
            </xsl:attribute>
            <xsl:value-of select="@href"/>
        </xsl:element>
-    </html>
+       </html>
     <xsl:copy>
         <xsl:apply-templates select="node()"/>
     </xsl:copy>

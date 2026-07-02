@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
-<?xml-stylesheet type="text/css" href="../css/all.css"?>
-<document latitude="N(24|25|26|27|28|29|37|38|39|40|41|42|51|52)" longitude="E(75|89|116|117|118|119|120|121|122)">
-
-</document>
+<document latitude="N(24|25|26|27|28|29|37|38|39|40|41|42|51|52)" longitude="E(75|89|116|117|118|119|120|121|122)"></document>

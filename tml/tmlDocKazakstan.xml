@@ -1,7 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
-<?xml-stylesheet type="text/css" href="../css/all.css"?>
 <document latitude="N(23|24)" longitude="E(119|120)">
-<ent id="s72423"><types><type language="English" script="Latin" ucd="LATIN">administrative region</type></types><admins><adminsys><adminlevel admintype="1" code="KZ"><adminname>country</adminname></adminlevel></adminsys></admins><names><name language="English" script="Latin" ucd="LATIN">Kazakstan</name></names><geography siteid="sAsianContinent" geotop="sAsianContinent"/><description><div author="Oliver Streiter" language="English" script="Latin" ucd="LATIN">Kazakstan</div></description><ent id="s948"><types><type language="English" script="Latin" ucd="LATIN">cemetery</type><type script="Chinese-traditional" ucd="CJK">公墓</type><type script="Chinese-traditional" ucd="CJK">墓地</type><type script="Chinese-traditional" ucd="CJK">墓園</type><type script="Chinese-traditional" ucd="CJK">墳場</type><type language="English" script="Latin" sourceid="1" sourcenode="def" ucd="LATIN">site</type></types><names><name language="English" script="Latin" ucd="LATIN">Kazakstan, Astana</name></names><geography geotop="s72423" siteid="s72423"><latitude crs="WGS84" deg="decimal" src="percol-down">23.217523</latitude><orientations><orientation system="geographic north">23</orientation></orientations></geography><events><event day="2016-08-03" lunar="2016-07-01" timefrom="21:51:45" timeto="21:52:08" type="fieldwork"/></events><description><div author="Oliver Streiter" language="English" script="Latin" ucd="LATIN">Kazakstan, Astana</div></description><ent id="o308649"><types><type language="English" script="Latin" ucd="LATIN">outer space</type></types><geography siteid="s948" geotop="s948"/><media><img date="2016-08-03" flash="no" measurement="no" public="yes" time="21-52-08" url="/2016/08/03/DATE20160803TIME215208GEOBOOLnoLONGE0000000LATN0000000DIR129ALTnoSIZE11448THUMB3398ORIGAstanaKazakstanDSCN7271.jpg" zoom="no"><labels><label topical="0.1761" score="0.99" engine="Google Vision API">Sky</label><label topical="0.0277" score="0.98" engine="Google Vision API">Daytime</label><label topical="0.0321" score="0.96" engine="Google Vision API">Road surface</label><label topical="0.0721" score="0.91" engine="Google Vision API">Asphalt</label><label topical="0.0428" score="0.84" engine="Google Vision API">Morning</label><label topical="0.0027" score="0.80" engine="Google Vision API">Sunlight</label><label topical="0.0096" score="0.72" engine="Google Vision API">Tar</label><label topical="0.0120" score="0.65" engine="Google Vision API">Evening</label><label topical="0.0000" score="0.62" engine="Google Vision API">Meteorological phenomenon</label><label topical="0.0035" score="0.60" engine="Google Vision API">Cumulus</label></labels></img><img date="2016-08-03" flash="no" measurement="no" public="yes" time="21-51-46" url="/2016/08/03/DATE20160803TIME215146GEOBOOLnoLONGE0000000LATN0000000DIR131ALTnoSIZE11448THUMB2961ORIGAstanaKazakstanDSCN7262.jpg" zoom="no"><labels><label topical="0.2357" score="0.99" engine="Google Vision API">Sky</label><label topical="0.0016" score="0.99" engine="Google Vision API">Blue</label><label topical="0.0195" score="0.72" engine="Google Vision API">Evening</label><label topical="0.0000" score="0.63" engine="Google Vision API">Meteorological phenomenon</label><label topical="0.0109" score="0.63" engine="Google Vision API">Cumulus</label><label topical="0.0049" score="0.61" engine="Google Vision API">Skyline</label><label topical="0.0100" score="0.54" engine="Google Vision API">Dusk</label></labels></img><img date="2016-08-03" flash="no" measurement="no" public="yes" time="21-52-04" url="/2016/08/03/DATE20160803TIME215204GEOBOOLnoLONGE0000000LATN0000000DIR159ALTnoSIZE11448THUMB3420ORIGAstanaKazakstanDSCN7269.jpg" zoom="no"><labels><label engine="Google Vision API"/></labels></img><img date="2016-08-03" flash="no" measurement="no" public="yes" time="21-51-49" url="/2016/08/03/DATE20160803TIME215149GEOBOOLnoLONGE0000000LATN0000000DIR127ALTnoSIZE11448THUMB3152ORIGAstanaKazakstanDSCN7263.jpg" zoom="no"><labels><label topical="0.3411" score="0.99" engine="Google Vision API">Sky</label><label topical="0.0034" score="0.99" engine="Google Vision API">Blue</label><label topical="0.0226" score="0.98" engine="Google Vision API">Daytime</label><label topical="0.0234" score="0.94" engine="Google Vision API">Horizon</label><label topical="0.0270" score="0.84" engine="Google Vision API">Morning</label><label topical="0.0039" score="0.79" engine="Google Vision API">Sunlight</label><label topical="0.0214" score="0.77" engine="Google Vision API">Evening</label><label topical="0.0000" score="0.62" engine="Google Vision API">Meteorological phenomenon</label><label topical="0.0043" score="0.61" engine="Google Vision API">Cumulus</label><label topical="0.0186" score="0.60" engine="Google Vision API">Dusk</label></labels></img><img date="2016-08-03" flash="no" measurement="no" public="yes" time="21-52-02" url="/2016/08/03/DATE20160803TIME215202GEOBOOLnoLONGE0000000LATN0000000DIR116ALTnoSIZE11448THUMB3130ORIGAstanaKazakstanDSCN7268.jpg" zoom="no"><labels><label topical="0.0613" score="0.99" engine="Google Vision API">Sky</label><label topical="0.0543" score="0.93" engine="Google Vision API">Cloud</label><label topical="0.0110" score="0.84" engine="Google Vision API">Morning</label><label topical="0.0004" score="0.71" engine="Google Vision API">Dome</label><label topical="0.0000" score="0.70" engine="Google Vision API">Meteorological phenomenon</label><label topical="0.0002" score="0.69" engine="Google Vision API">Cumulus</label><label topical="0.0159" score="0.69" engine="Google Vision API">Dome</label><label topical="0.5115" score="0.53" engine="Google Vision API">Cemetery</label></labels></img><img date="2016-08-03" flash="no" measurement="no" public="yes" time="21-51-45" url="/2016/08/03/DATE20160803TIME215145GEOBOOLnoLONGE0000000LATN0000000DIR152ALTnoSIZE11448THUMB2855ORIGAstanaKazakstanDSCN7261.jpg" zoom="no"><labels><label topical="0.1446" score="0.99" engine="Google Vision API">Sky</label><label topical="0.0179" score="0.95" engine="Google Vision API">Horizon</label><label topical="0.0048" score="0.69" engine="Google Vision API">Dusk</label><label topical="0.0136" score="0.66" engine="Google Vision API">Evening</label><label topical="0.0135" score="0.61" engine="Google Vision API">Dawn</label><label topical="0.0084" score="0.52" engine="Google Vision API">Sunrise</label><label topical="0.0206" score="0.50" engine="Google Vision API">Sunset</label></labels></img><img date="2016-08-03" flash="no" measurement="no" public="yes" time="21-51-57" url="/2016/08/03/DATE20160803TIME215157GEOBOOLnoLONGE0000000LATN0000000DIR110ALTnoSIZE11448THUMB3104ORIGAstanaKazakstanDSCN7266.jpg" zoom="no"><labels><label topical="0.0670" score="0.99" engine="Google Vision API">Sky</label><label topical="0.0000" score="0.64" engine="Google Vision API">Meteorological phenomenon</label><label topical="0.0010" score="0.62" engine="Google Vision API">Cumulus</label><label topical="0.0064" score="0.60" engine="Google Vision API">Evening</label><label topical="0.0002" score="0.53" engine="Google Vision API">Skyline</label></labels></img></media><sem writing="uninscribed"/></ent></ent><stats><stat type="cemetery" direct="1" indirect="0" cross="0">1</stat></stats></ent>
+    <ent id="s72423">
+        <types>
+            <type language="English">administrative region</type>
+        </types>
+        <admins>
+            <adminsys>
+                <adminlevel admintype="1" code="KZ">
+                    <adminname>country</adminname>
+                </adminlevel>
+            </adminsys>
+        </admins>
+        <names>
+            <name language="English">Kazakstan</name>
+        </names>
+        <geography geotop="sAsianContinent" siteid="sAsianContinent">
+            <latitude src="percol-up">23.217523</latitude>
+        </geography>
+        <description>
+            <div author="Oliver Streiter" language="English">Kazakstan</div>
+        </description>
+        <ent id="s948">
+            <types>
+                <type language="English">cemetery</type>
+                <type script="Chinese-traditional">公墓</type>
+                <type script="Chinese-traditional">墓地</type>
+                <type script="Chinese-traditional">墓園</type>
+                <type script="Chinese-traditional">墳場</type>
+                <type language="English" sourceid="1" sourcenode="def">site</type>
+            </types>
+            <names>
+                <name language="English">Kazakstan, Astana</name>
+            </names>
+            <geography geotop="s72423" siteid="s72423">
+                <latitude src="percol-down">23.217523</latitude>
+                <orientations>
+                    <orientation system="geographic north">23</orientation>
+                </orientations>
+            </geography>
+            <events>
+                <event type="fieldwork" day="2016-08-03" lunar="2016-07-01" timefrom="21:51:45" timeto="21:52:08" />
+            </events>
+            <description>
+                <div author="Oliver Streiter" language="English">Kazakstan, Astana</div>
+            </description>
+            <ent id="o308649">
+                <types>
+                    <type language="English">outer space</type>
+                </types>
+                <geography geotop="s948" siteid="s948" />
+                <media>
+                    <img date="2016-08-03" time="21-52-08" url="/2016/08/03/DATE20160803TIME215208GEOBOOLnoLONGE0000000LATN0000000DIR129ALTnoSIZE11448THUMB3398ORIGAstanaKazakstanDSCN7271.jpg">
+                        <labels>
+                            <label engine="Google Vision API" score="0.99" topical="0.1761">Sky</label>
+                            <label engine="Google Vision API" score="0.98" topical="0.0277">Daytime</label>
+                            <label engine="Google Vision API" score="0.96" topical="0.0321">Road surface</label>
+                            <label engine="Google Vision API" score="0.91" topical="0.0721">Asphalt</label>
+                            <label engine="Google Vision API" score="0.84" topical="0.0428">Morning</label>
+                            <label engine="Google Vision API" score="0.80" topical="0.0027">Sunlight</label>
+                            <label engine="Google Vision API" score="0.72" topical="0.0096">Tar</label>
+                            <label engine="Google Vision API" score="0.65" topical="0.0120">Evening</label>
+                            <label engine="Google Vision API" score="0.62" topical="0.0000">Meteorological phenomenon</label>
+                            <label engine="Google Vision API" score="0.60" topical="0.0035">Cumulus</label>
+                        </labels>
+                    </img>
+                    <img date="2016-08-03" time="21-51-46" url="/2016/08/03/DATE20160803TIME215146GEOBOOLnoLONGE0000000LATN0000000DIR131ALTnoSIZE11448THUMB2961ORIGAstanaKazakstanDSCN7262.jpg">
+                        <labels>
+                            <label engine="Google Vision API" score="0.99" topical="0.2357">Sky</label>
+                            <label engine="Google Vision API" score="0.99" topical="0.0016">Blue</label>
+                            <label engine="Google Vision API" score="0.72" topical="0.0195">Evening</label>
+                            <label engine="Google Vision API" score="0.63" topical="0.0000">Meteorological phenomenon</label>
+                            <label engine="Google Vision API" score="0.63" topical="0.0109">Cumulus</label>
+                            <label engine="Google Vision API" score="0.61" topical="0.0049">Skyline</label>
+                            <label engine="Google Vision API" score="0.54" topical="0.0100">Dusk</label>
+                        </labels>
+                    </img>
+                    <img date="2016-08-03" time="21-52-04" url="/2016/08/03/DATE20160803TIME215204GEOBOOLnoLONGE0000000LATN0000000DIR159ALTnoSIZE11448THUMB3420ORIGAstanaKazakstanDSCN7269.jpg">
+                        <labels>
+                            <label engine="Google Vision API" />
+                        </labels>
+                    </img>
+                    <img date="2016-08-03" time="21-51-49" url="/2016/08/03/DATE20160803TIME215149GEOBOOLnoLONGE0000000LATN0000000DIR127ALTnoSIZE11448THUMB3152ORIGAstanaKazakstanDSCN7263.jpg">
+                        <labels>
+                            <label engine="Google Vision API" score="0.99" topical="0.3411">Sky</label>
+                            <label engine="Google Vision API" score="0.99" topical="0.0034">Blue</label>
+                            <label engine="Google Vision API" score="0.98" topical="0.0226">Daytime</label>
+                            <label engine="Google Vision API" score="0.94" topical="0.0234">Horizon</label>
+                            <label engine="Google Vision API" score="0.84" topical="0.0270">Morning</label>
+                            <label engine="Google Vision API" score="0.79" topical="0.0039">Sunlight</label>
+                            <label engine="Google Vision API" score="0.77" topical="0.0214">Evening</label>
+                            <label engine="Google Vision API" score="0.62" topical="0.0000">Meteorological phenomenon</label>
+                            <label engine="Google Vision API" score="0.61" topical="0.0043">Cumulus</label>
+                            <label engine="Google Vision API" score="0.60" topical="0.0186">Dusk</label>
+                        </labels>
+                    </img>
+                    <img date="2016-08-03" time="21-52-02" url="/2016/08/03/DATE20160803TIME215202GEOBOOLnoLONGE0000000LATN0000000DIR116ALTnoSIZE11448THUMB3130ORIGAstanaKazakstanDSCN7268.jpg">
+                        <labels>
+                            <label engine="Google Vision API" score="0.99" topical="0.0613">Sky</label>
+                            <label engine="Google Vision API" score="0.93" topical="0.0543">Cloud</label>
+                            <label engine="Google Vision API" score="0.84" topical="0.0110">Morning</label>
+                            <label engine="Google Vision API" score="0.71" topical="0.0004">Dome</label>
+                            <label engine="Google Vision API" score="0.70" topical="0.0000">Meteorological phenomenon</label>
+                            <label engine="Google Vision API" score="0.69" topical="0.0002">Cumulus</label>
+                            <label engine="Google Vision API" score="0.69" topical="0.0159">Dome</label>
+                            <label engine="Google Vision API" score="0.53" topical="0.5115">Cemetery</label>
+                        </labels>
+                    </img>
+                    <img date="2016-08-03" time="21-51-45" url="/2016/08/03/DATE20160803TIME215145GEOBOOLnoLONGE0000000LATN0000000DIR152ALTnoSIZE11448THUMB2855ORIGAstanaKazakstanDSCN7261.jpg">
+                        <labels>
+                            <label engine="Google Vision API" score="0.99" topical="0.1446">Sky</label>
+                            <label engine="Google Vision API" score="0.95" topical="0.0179">Horizon</label>
+                            <label engine="Google Vision API" score="0.69" topical="0.0048">Dusk</label>
+                            <label engine="Google Vision API" score="0.66" topical="0.0136">Evening</label>
+                            <label engine="Google Vision API" score="0.61" topical="0.0135">Dawn</label>
+                            <label engine="Google Vision API" score="0.52" topical="0.0084">Sunrise</label>
+                            <label engine="Google Vision API" score="0.50" topical="0.0206">Sunset</label>
+                        </labels>
+                    </img>
+                    <img date="2016-08-03" time="21-51-57" url="/2016/08/03/DATE20160803TIME215157GEOBOOLnoLONGE0000000LATN0000000DIR110ALTnoSIZE11448THUMB3104ORIGAstanaKazakstanDSCN7266.jpg">
+                        <labels>
+                            <label engine="Google Vision API" score="0.99" topical="0.0670">Sky</label>
+                            <label engine="Google Vision API" score="0.64" topical="0.0000">Meteorological phenomenon</label>
+                            <label engine="Google Vision API" score="0.62" topical="0.0010">Cumulus</label>
+                            <label engine="Google Vision API" score="0.60" topical="0.0064">Evening</label>
+                            <label engine="Google Vision API" score="0.53" topical="0.0002">Skyline</label>
+                        </labels>
+                    </img>
+                </media>
+                <sem writing="uninscribed" />
+            </ent>
+        </ent>
+        <stats>
+            <stat type="cemetery" cross="0" direct="1" indirect="0">1</stat>
+        </stats>
+    </ent>
 </document>

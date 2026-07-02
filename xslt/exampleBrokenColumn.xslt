@@ -4,7 +4,7 @@
   <xsl:variable name="V1" select="document('../tml/tmlDocBelgium.xml')"/>
   <xsl:variable name="V2" select="document('../tml/tmlDocHongKong.xml')"/>
 
-  <xsl:include href="tmlExample.xslt"/>
+  <xsl:include href="tml1.xslt"/>
 
   <xsl:template match="examples">
         <examples>

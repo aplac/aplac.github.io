@@ -1,183 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
-<?xml-stylesheet type="text/css" href="../css/all.css"?>
 <document latitude="N(24)" longitude="E(118)">
-<ent id="sZhuShanVillage">
-<names>
-<name script="Latin" ucd="LATIN">Zhu Shan Village</name><name script="Chinese-traditional" ucd="CJK">珠山聚落</name><name script="Chinese-traditional" ucd="CJK">珠山</name></names>
+<ent id="o20251123041204">
 <types>
-<type script="Latin" ucd="LATIN">Zhushan</type><type script="Latin" ucd="LATIN">settlement</type></types>
-<geography geotop="sKinmenIsland" siteid="sKinmenIsland">
-<longitude crs="WGS84" deg="decimal" src="map">118.32</longitude><latitude crs="WGS84" deg="decimal" src="map">24.40</latitude></geography>
+<type script="Latin">structure front side</type></types>
+<geography geotop="s20251123041204" siteid="s20251123041204"/><media>
+<img date="2025-11-23" time="04:12:04" url="/2025/11/23/DATE20251123TIME041204GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6457UPLOAD112725UPID50SITEZhuShanVillageInesORIGIMG7826.jpg"/></media>
+</ent>
 <ent id="s20251123041204">
 <types>
 <type>object</type></types>
-<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/><ent id="o20251123041204">
+<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/></ent>
+<ent id="o20251123041151">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
-<geography geotop="s20251123041204" siteid="s20251123041204"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="04:12:04" url="/2025/11/23/DATE20251123TIME041204GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6457UPLOAD112725UPID50SITEZhuShanVillageInesORIGIMG7826.jpg" zoom="no"/></media>
-</ent>
+<type script="Latin">structure front side</type></types>
+<geography geotop="s20251123041151" siteid="s20251123041151"/><media>
+<img date="2025-11-23" time="04:11:51" url="/2025/11/23/DATE20251123TIME041151GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6447UPLOAD112725UPID46SITEZhuShanVillageInesORIGIMG7825.jpg"/></media>
 </ent>
 <ent id="s20251123041151">
 <types>
 <type>object</type></types>
-<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/><ent id="o20251123041151">
+<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/></ent>
+<ent id="o20251123040609">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
-<geography geotop="s20251123041151" siteid="s20251123041151"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="04:11:51" url="/2025/11/23/DATE20251123TIME041151GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6447UPLOAD112725UPID46SITEZhuShanVillageInesORIGIMG7825.jpg" zoom="no"/></media>
+<type script="Latin">decorative ceramics</type></types>
+<geography geotop="s20251123040500" siteid="s20251123040500"/><media>
+<img date="2025-11-23" time="04:06:09" url="/2025/11/23/DATE20251123TIME040609GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6257UPLOAD112725UPID41SITEZhuShanVillageInesORIGIMG7824.jpg"/></media>
 </ent>
+<ent id="o20251123040546">
+<types>
+<type script="Latin">decorative ceramics</type></types>
+<geography geotop="s20251123040500" siteid="s20251123040500"/><media>
+<img date="2025-11-23" time="04:05:46" url="/2025/11/23/DATE20251123TIME040546GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6299UPLOAD112725UPID40SITEZhuShanVillageInesORIGIMG7822.jpg"/></media>
+</ent>
+<ent id="o20251123040500">
+<types>
+<type script="Latin">structure front side</type></types>
+<geography geotop="s20251123040500" siteid="s20251123040500"/><media>
+<img date="2025-11-23" time="04:05:00" url="/2025/11/23/DATE20251123TIME040500GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5465UPLOAD112725UPID49SITEZhuShanVillageInesORIGIMG7821.jpg"/></media>
+</ent>
+<ent id="o20251123040559">
+<types>
+<type script="Latin">structure front side</type></types>
+<geography geotop="s20251123040500" siteid="s20251123040500"/><media>
+<img date="2025-11-23" time="04:05:59" url="/2025/11/23/DATE20251123TIME040559GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6769UPLOAD112725UPID36SITEZhuShanVillageInesORIGIMG7823.jpg"/></media>
 </ent>
 <ent id="s20251123040500">
 <types>
 <type>object</type></types>
-<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/><ent id="o20251123040609">
+<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/></ent>
+<ent id="o20251123103900">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
-<geography geotop="s20251123040500" siteid="s20251123040500"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="04:06:09" url="/2025/11/23/DATE20251123TIME040609GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6257UPLOAD112725UPID41SITEZhuShanVillageInesORIGIMG7824.jpg" zoom="no"/></media>
-</ent>
-<ent id="o20251123040546">
-<types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
-<geography geotop="s20251123040500" siteid="s20251123040500"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="04:05:46" url="/2025/11/23/DATE20251123TIME040546GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6299UPLOAD112725UPID40SITEZhuShanVillageInesORIGIMG7822.jpg" zoom="no"/></media>
-</ent>
-<ent id="o20251123040500">
-<types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
-<geography geotop="s20251123040500" siteid="s20251123040500"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="04:05:00" url="/2025/11/23/DATE20251123TIME040500GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5465UPLOAD112725UPID49SITEZhuShanVillageInesORIGIMG7821.jpg" zoom="no"/></media>
-</ent>
-<ent id="o20251123040559">
-<types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
-<geography geotop="s20251123040500" siteid="s20251123040500"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="04:05:59" url="/2025/11/23/DATE20251123TIME040559GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6769UPLOAD112725UPID36SITEZhuShanVillageInesORIGIMG7823.jpg" zoom="no"/></media>
-</ent>
-</ent>
-<ent id="s20251123034731">
-<types>
-<type>object</type></types>
-<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/><ent id="o20251123103900">
-<types>
-<type script="Latin" ucd="LATIN">general</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal">118.317414</longitude><latitude crs="WGS84" deg="decimal">24.399744</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.399744" longitude="118.317414" measurement="no" public="yes" time="10:39:00" url="/2025/11/23/DATE20251123TIME103900GEOBOOLyesLONGE118317414LATN24399744DIR143ALT36SIZE1589THUMB0UPLOAD112725UPID66SITEfiveGeneralsORIGIMG3843.jpg" zoom="no"/></media>
+<type script="Latin">general</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude>118.317414</longitude><latitude>24.399744</latitude></geography><media>
+<img date="2025-11-23" latitude="24.399744" longitude="118.317414" time="10:39:00" url="/2025/11/23/DATE20251123TIME103900GEOBOOLyesLONGE118317414LATN24399744DIR143ALT36SIZE1589THUMB0UPLOAD112725UPID66SITEfiveGeneralsORIGIMG3843.jpg"/></media>
 </ent>
 <ent id="o20251123034738">
 <types>
-<type script="Latin" ucd="LATIN">flag</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal"/><latitude crs="WGS84" deg="decimal"/></geography>
-<media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:47:38" url="/2025/11/23/DATE20251123TIME034738GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7073UPLOAD112725UPID60SITEfiveGeneralsORIGIMG7809.jpg" zoom="no"/></media>
+<type script="Latin">flag</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude/><latitude/></geography><media>
+<img date="2025-11-23" time="03:47:38" url="/2025/11/23/DATE20251123TIME034738GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB7073UPLOAD112725UPID60SITEfiveGeneralsORIGIMG7809.jpg"/></media>
 </ent>
 <ent id="o20251123034731">
 <types>
-<type script="Latin" ucd="LATIN">flag</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal"/><latitude crs="WGS84" deg="decimal"/></geography>
-<media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:47:31" url="/2025/11/23/DATE20251123TIME034731GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6646UPLOAD112725UPID58SITEfiveGeneralsORIGIMG7808.jpg" zoom="no"/></media>
+<type script="Latin">flag</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude/><latitude/></geography><media>
+<img date="2025-11-23" time="03:47:31" url="/2025/11/23/DATE20251123TIME034731GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6646UPLOAD112725UPID58SITEfiveGeneralsORIGIMG7808.jpg"/></media>
 </ent>
 <ent id="o20251123103946">
 <types>
-<type script="Latin" ucd="LATIN">flag</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal">118.317397</longitude><latitude crs="WGS84" deg="decimal">24.399697</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.399697" longitude="118.317397" measurement="no" public="yes" time="10:39:46" url="/2025/11/23/DATE20251123TIME103946GEOBOOLyesLONGE118317397LATN24399697DIR316ALT36SIZE1589THUMB0UPLOAD112725UPID57SITEfiveGeneralsORIGIMG3848.jpg" zoom="no"/></media>
+<type script="Latin">flag</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude>118.317397</longitude><latitude>24.399697</latitude></geography><media>
+<img date="2025-11-23" latitude="24.399697" longitude="118.317397" time="10:39:46" url="/2025/11/23/DATE20251123TIME103946GEOBOOLyesLONGE118317397LATN24399697DIR316ALT36SIZE1589THUMB0UPLOAD112725UPID57SITEfiveGeneralsORIGIMG3848.jpg"/></media>
 </ent>
 <ent id="o20251123034841">
 <types>
-<type script="Latin" ucd="LATIN">zhufu</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal"/><latitude crs="WGS84" deg="decimal"/></geography>
-<media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:48:41" url="/2025/11/23/DATE20251123TIME034841GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8120UPLOAD112725UPID64SITEfiveGeneralsORIGIMG7811.jpg" zoom="no"/></media>
+<type script="Latin">zhufu</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude/><latitude/></geography><media>
+<img date="2025-11-23" time="03:48:41" url="/2025/11/23/DATE20251123TIME034841GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8120UPLOAD112725UPID64SITEfiveGeneralsORIGIMG7811.jpg"/></media>
 <sem>
 <arts>
-<art ucd="LATIN" script="Latin">calligraphy</art></arts>
+<art script="Latin">calligraphy</art></arts>
 </sem>
 </ent>
 <ent id="o20251123034800">
 <types>
-<type script="Latin" ucd="LATIN">flag</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal"/><latitude crs="WGS84" deg="decimal"/></geography>
-<media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:48:00" url="/2025/11/23/DATE20251123TIME034800GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5743UPLOAD112725UPID53SITEfiveGeneralsORIGIMG7810.jpg" zoom="no"/></media>
+<type script="Latin">flag</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude/><latitude/></geography><media>
+<img date="2025-11-23" time="03:48:00" url="/2025/11/23/DATE20251123TIME034800GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5743UPLOAD112725UPID53SITEfiveGeneralsORIGIMG7810.jpg"/></media>
 </ent>
 <ent id="o20251123103920">
 <types>
-<type script="Latin" ucd="LATIN">zhufu</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal">118.317414</longitude><latitude crs="WGS84" deg="decimal">24.399681</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.399681" longitude="118.317414" measurement="no" public="yes" time="10:39:20" url="/2025/11/23/DATE20251123TIME103920GEOBOOLyesLONGE118317414LATN24399681DIR134ALT36SIZE1589THUMB0UPLOAD112725UPID67SITEfiveGeneralsORIGIMG3845.jpg" zoom="no"/></media>
+<type script="Latin">zhufu</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude>118.317414</longitude><latitude>24.399681</latitude></geography><media>
+<img date="2025-11-23" latitude="24.399681" longitude="118.317414" time="10:39:20" url="/2025/11/23/DATE20251123TIME103920GEOBOOLyesLONGE118317414LATN24399681DIR134ALT36SIZE1589THUMB0UPLOAD112725UPID67SITEfiveGeneralsORIGIMG3845.jpg"/></media>
 <sem>
 <arts>
-<art ucd="LATIN" script="Latin">calligraphy</art></arts>
+<art script="Latin">calligraphy</art></arts>
 </sem>
 </ent>
 <ent id="o20251123103936">
 <types>
-<type script="Latin" ucd="LATIN">flag</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal">118.317406</longitude><latitude crs="WGS84" deg="decimal">24.399689</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.399689" longitude="118.317406" measurement="no" public="yes" time="10:39:36" url="/2025/11/23/DATE20251123TIME103936GEOBOOLyesLONGE118317406LATN24399689DIR133ALT36SIZE1589THUMB0UPLOAD112725UPID61SITEfiveGeneralsORIGIMG3847.jpg" zoom="no"/></media>
+<type script="Latin">flag</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude>118.317406</longitude><latitude>24.399689</latitude></geography><media>
+<img date="2025-11-23" latitude="24.399689" longitude="118.317406" time="10:39:36" url="/2025/11/23/DATE20251123TIME103936GEOBOOLyesLONGE118317406LATN24399689DIR133ALT36SIZE1589THUMB0UPLOAD112725UPID61SITEfiveGeneralsORIGIMG3847.jpg"/></media>
 </ent>
 <ent id="o20251123103924">
 <types>
-<type script="Latin" ucd="LATIN">zhufu</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal">118.317422</longitude><latitude crs="WGS84" deg="decimal">24.399683</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.399683" longitude="118.317422" measurement="no" public="yes" time="10:39:24" url="/2025/11/23/DATE20251123TIME103924GEOBOOLyesLONGE118317422LATN24399683DIR132ALT36SIZE1589THUMB0UPLOAD112725UPID54SITEfiveGeneralsORIGIMG3846.jpg" zoom="no"/></media>
+<type script="Latin">zhufu</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude>118.317422</longitude><latitude>24.399683</latitude></geography><media>
+<img date="2025-11-23" latitude="24.399683" longitude="118.317422" time="10:39:24" url="/2025/11/23/DATE20251123TIME103924GEOBOOLyesLONGE118317422LATN24399683DIR132ALT36SIZE1589THUMB0UPLOAD112725UPID54SITEfiveGeneralsORIGIMG3846.jpg"/></media>
 <sem>
 <arts>
-<art ucd="LATIN" script="Latin">calligraphy</art></arts>
+<art script="Latin">calligraphy</art></arts>
 </sem>
 </ent>
 <ent id="o20251123103906">
 <types>
-<type script="Latin" ucd="LATIN">joss money</type></types>
-<geography geotop="s20251123034731" siteid="s20251123034731">
-<longitude crs="WGS84" deg="decimal">118.317414</longitude><latitude crs="WGS84" deg="decimal">24.399731</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.399731" longitude="118.317414" measurement="no" public="yes" time="10:39:06" url="/2025/11/23/DATE20251123TIME103906GEOBOOLyesLONGE118317414LATN24399731DIR142ALT36SIZE1589THUMB0UPLOAD112725UPID62SITEfiveGeneralsORIGIMG3844.jpg" zoom="no"/></media>
+<type script="Latin">joss money</type></types>
+<geography geotop="s20251123034731" siteid="s20251123034731"><longitude>118.317414</longitude><latitude>24.399731</latitude></geography><media>
+<img date="2025-11-23" latitude="24.399731" longitude="118.317414" time="10:39:06" url="/2025/11/23/DATE20251123TIME103906GEOBOOLyesLONGE118317414LATN24399731DIR142ALT36SIZE1589THUMB0UPLOAD112725UPID62SITEfiveGeneralsORIGIMG3844.jpg"/></media>
 </ent>
-</ent>
-<ent id="s20251123035729">
+<ent id="s20251123034731">
 <types>
 <type>object</type></types>
-<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/><ent id="o20251123035907">
+<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"><latitude src="percol-up">24.399693</latitude><longitude src="percol-up">118.317414</longitude></geography></ent>
+<ent id="o20251123035907">
 <types>
-<type script="Latin" ucd="LATIN">windbreak</type></types>
+<type script="Latin">windbreak</type></types>
 <geography geotop="s20251123035729" siteid="s20251123035729"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:59:07" url="/2025/11/23/DATE20251123TIME035907GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6871UPLOAD112725UPID44SITEZhuShanVillageInesORIGIMG7817.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:59:07" url="/2025/11/23/DATE20251123TIME035907GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6871UPLOAD112725UPID44SITEZhuShanVillageInesORIGIMG7817.jpg"/></media>
 </ent>
 <ent id="o20251123035805">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123035729" siteid="s20251123035729"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:58:05" url="/2025/11/23/DATE20251123TIME035805GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6587UPLOAD112725UPID39SITEZhuShanVillageInesORIGIMG7815.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:58:05" url="/2025/11/23/DATE20251123TIME035805GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6587UPLOAD112725UPID39SITEZhuShanVillageInesORIGIMG7815.jpg"/></media>
 </ent>
 <ent id="o20251123035729">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123035729" siteid="s20251123035729"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:57:29" url="/2025/11/23/DATE20251123TIME035729GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5857UPLOAD112725UPID45SITEZhuShanVillageInesORIGIMG7812.jpg" zoom="no">
+<img date="2025-11-23" time="03:57:29" url="/2025/11/23/DATE20251123TIME035729GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5857UPLOAD112725UPID45SITEZhuShanVillageInesORIGIMG7812.jpg">
 <labels>
-<label topical="0.0362" score="0.98" engine="Google Vision API">Wall</label><label topical="0.0036" score="0.97" engine="Google Vision API">Red</label><label topical="0.0760" score="0.92" engine="Google Vision API">Door</label><label topical="0.0385" score="0.88" engine="Google Vision API">Brick</label><label topical="0.0036" score="0.87" engine="Google Vision API">Home Door</label><label topical="0.0094" score="0.87" engine="Google Vision API">Brickwork</label><label topical="0.0028" score="0.62" engine="Google Vision API">Flowerpot</label><label topical="0.0016" score="0.60" engine="Google Vision API">Houseplant</label><label topical="0.0021" score="0.59" engine="Google Vision API">Stairs</label><label topical="0.0119" score="0.53" engine="Google Vision API">Gate</label></labels>
+<label engine="Google Vision API" score="0.98" topical="0.0362">Wall</label><label engine="Google Vision API" score="0.97" topical="0.0036">Red</label><label engine="Google Vision API" score="0.92" topical="0.0760">Door</label><label engine="Google Vision API" score="0.88" topical="0.0385">Brick</label><label engine="Google Vision API" score="0.87" topical="0.0036">Home Door</label><label engine="Google Vision API" score="0.87" topical="0.0094">Brickwork</label><label engine="Google Vision API" score="0.62" topical="0.0028">Flowerpot</label><label engine="Google Vision API" score="0.60" topical="0.0016">Houseplant</label><label engine="Google Vision API" score="0.59" topical="0.0021">Stairs</label><label engine="Google Vision API" score="0.53" topical="0.0119">Gate</label></labels>
 <objects>
-<object score="0.5431180000305176" engine="Google Vision API">
+<object engine="Google Vision API" score="0.5431180000305176">
 <vertex x="0.1494140625" y="0.71875"/><vertex x="0.271484375" y="0.71875"/><vertex x="0.271484375" y="0.85546875"/><vertex x="0.1494140625" y="0.85546875"/></object>
 </objects>
 </img>
@@ -185,108 +154,104 @@
 </ent>
 <ent id="o20251123040138">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123035729" siteid="s20251123035729"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="04:01:38" url="/2025/11/23/DATE20251123TIME040138GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5009UPLOAD112725UPID38SITEZhuShanVillageInesORIGIMG7818.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="04:01:38" url="/2025/11/23/DATE20251123TIME040138GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5009UPLOAD112725UPID38SITEZhuShanVillageInesORIGIMG7818.jpg"/></media>
 </ent>
 <ent id="o20251123035813">
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
+<type script="Latin">structure front side</type></types>
 <geography geotop="s20251123035729" siteid="s20251123035729"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:58:13" url="/2025/11/23/DATE20251123TIME035813GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5847UPLOAD112725UPID43SITEZhuShanVillageInesORIGIMG7816.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:58:13" url="/2025/11/23/DATE20251123TIME035813GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB5847UPLOAD112725UPID43SITEZhuShanVillageInesORIGIMG7816.jpg"/></media>
 </ent>
 <ent id="o20251123035752">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123035729" siteid="s20251123035729"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:57:52" url="/2025/11/23/DATE20251123TIME035752GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6450UPLOAD112725UPID42SITEZhuShanVillageInesORIGIMG7814.jpg" zoom="no"/></media>
+<img date="2025-11-23" time="03:57:52" url="/2025/11/23/DATE20251123TIME035752GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6450UPLOAD112725UPID42SITEZhuShanVillageInesORIGIMG7814.jpg"/></media>
 </ent>
 <ent id="o20251123035743">
 <types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
+<type script="Latin">decorative ceramics</type></types>
 <geography geotop="s20251123035729" siteid="s20251123035729"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="03:57:43" url="/2025/11/23/DATE20251123TIME035743GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6652UPLOAD112725UPID48SITEZhuShanVillageInesORIGIMG7813.jpg" zoom="no">
+<img date="2025-11-23" time="03:57:43" url="/2025/11/23/DATE20251123TIME035743GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6652UPLOAD112725UPID48SITEZhuShanVillageInesORIGIMG7813.jpg">
 <labels>
-<label topical="0.1333" score="0.75" engine="Google Vision API">Tile</label><label topical="0.0010" score="0.75" engine="Google Vision API">Creative arts</label><label topical="0.0099" score="0.68" engine="Google Vision API">Symmetry</label><label topical="0.0187" score="0.64" engine="Google Vision API">Motif</label><label topical="0.3583" score="0.59" engine="Google Vision API">Mosaic</label><label topical="0.0081" score="0.50" engine="Google Vision API">Ornament</label></labels>
+<label engine="Google Vision API" score="0.75" topical="0.1333">Tile</label><label engine="Google Vision API" score="0.75" topical="0.0010">Creative arts</label><label engine="Google Vision API" score="0.68" topical="0.0099">Symmetry</label><label engine="Google Vision API" score="0.64" topical="0.0187">Motif</label><label engine="Google Vision API" score="0.59" topical="0.3583">Mosaic</label><label engine="Google Vision API" score="0.50" topical="0.0081">Ornament</label></labels>
 </img>
 </media>
 </ent>
-</ent>
-<ent id="s20251123105611">
+<ent id="s20251123035729">
 <types>
 <type>object</type></types>
-<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/><ent id="o20251123105557">
+<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/></ent>
+<ent id="o20251123105557">
 <types>
-<type script="Latin" ucd="LATIN">central general</type></types>
-<geography geotop="s20251123105611" siteid="s20251123105611">
-<longitude crs="WGS84" deg="decimal">118.321633</longitude><latitude crs="WGS84" deg="decimal">24.402356</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.402356" longitude="118.321633" measurement="no" public="yes" time="10:55:57" url="/2025/11/23/DATE20251123TIME105557GEOBOOLyesLONGE118321633LATN24402356DIR234ALT22SIZE1589THUMB0UPLOAD112725UPID65SITEfiveGeneralsORIGIMG3849.jpg" zoom="no"/></media>
+<type script="Latin">central general</type></types>
+<geography geotop="s20251123105611" siteid="s20251123105611"><longitude>118.321633</longitude><latitude>24.402356</latitude></geography><media>
+<img date="2025-11-23" latitude="24.402356" longitude="118.321633" time="10:55:57" url="/2025/11/23/DATE20251123TIME105557GEOBOOLyesLONGE118321633LATN24402356DIR234ALT22SIZE1589THUMB0UPLOAD112725UPID65SITEfiveGeneralsORIGIMG3849.jpg"/></media>
 </ent>
 <ent id="o20251123105625">
 <types>
-<type script="Latin" ucd="LATIN">apotropaic paper slip</type></types>
-<geography geotop="s20251123105611" siteid="s20251123105611">
-<longitude crs="WGS84" deg="decimal">118.321639</longitude><latitude crs="WGS84" deg="decimal">24.402358</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.402358" longitude="118.321639" measurement="no" public="yes" time="10:56:25" url="/2025/11/23/DATE20251123TIME105625GEOBOOLyesLONGE118321639LATN24402358DIR286ALT24SIZE1589THUMB0UPLOAD112725UPID51SITEfiveGeneralsORIGIMG3853.jpg" zoom="no"/></media>
+<type script="Latin">apotropaic paper slip</type></types>
+<geography geotop="s20251123105611" siteid="s20251123105611"><longitude>118.321639</longitude><latitude>24.402358</latitude></geography><media>
+<img date="2025-11-23" latitude="24.402358" longitude="118.321639" time="10:56:25" url="/2025/11/23/DATE20251123TIME105625GEOBOOLyesLONGE118321639LATN24402358DIR286ALT24SIZE1589THUMB0UPLOAD112725UPID51SITEfiveGeneralsORIGIMG3853.jpg"/></media>
 </ent>
 <ent id="o20251123105633">
 <types>
-<type script="Latin" ucd="LATIN">zhufu</type></types>
-<geography geotop="s20251123105611" siteid="s20251123105611">
-<longitude crs="WGS84" deg="decimal">118.321669</longitude><latitude crs="WGS84" deg="decimal">24.402300</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.402300" longitude="118.321669" measurement="no" public="yes" time="10:56:33" url="/2025/11/23/DATE20251123TIME105633GEOBOOLyesLONGE118321669LATN24402300DIR284ALT19SIZE1589THUMB0UPLOAD112725UPID63SITEfiveGeneralsORIGIMG3854.jpg" zoom="no"/></media>
+<type script="Latin">zhufu</type></types>
+<geography geotop="s20251123105611" siteid="s20251123105611"><longitude>118.321669</longitude><latitude>24.402300</latitude></geography><media>
+<img date="2025-11-23" latitude="24.402300" longitude="118.321669" time="10:56:33" url="/2025/11/23/DATE20251123TIME105633GEOBOOLyesLONGE118321669LATN24402300DIR284ALT19SIZE1589THUMB0UPLOAD112725UPID63SITEfiveGeneralsORIGIMG3854.jpg"/></media>
 <sem>
 <arts>
-<art ucd="LATIN" script="Latin">calligraphy</art></arts>
+<art script="Latin">calligraphy</art></arts>
 </sem>
 </ent>
 <ent id="o20251123105618">
 <types>
-<type script="Latin" ucd="LATIN">flag</type></types>
-<geography geotop="s20251123105611" siteid="s20251123105611">
-<longitude crs="WGS84" deg="decimal">118.321639</longitude><latitude crs="WGS84" deg="decimal">24.402358</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.402358" longitude="118.321639" measurement="no" public="yes" time="10:56:18" url="/2025/11/23/DATE20251123TIME105618GEOBOOLyesLONGE118321639LATN24402358DIR136ALT23SIZE1589THUMB0UPLOAD112725UPID55SITEfiveGeneralsORIGIMG3852.jpg" zoom="no"/></media>
+<type script="Latin">flag</type></types>
+<geography geotop="s20251123105611" siteid="s20251123105611"><longitude>118.321639</longitude><latitude>24.402358</latitude></geography><media>
+<img date="2025-11-23" latitude="24.402358" longitude="118.321639" time="10:56:18" url="/2025/11/23/DATE20251123TIME105618GEOBOOLyesLONGE118321639LATN24402358DIR136ALT23SIZE1589THUMB0UPLOAD112725UPID55SITEfiveGeneralsORIGIMG3852.jpg"/></media>
 </ent>
 <ent id="o20251123105611">
 <types>
-<type script="Latin" ucd="LATIN">flag</type></types>
-<geography geotop="s20251123105611" siteid="s20251123105611">
-<longitude crs="WGS84" deg="decimal">118.321639</longitude><latitude crs="WGS84" deg="decimal">24.402344</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.402344" longitude="118.321639" measurement="no" public="yes" time="10:56:11" url="/2025/11/23/DATE20251123TIME105611GEOBOOLyesLONGE118321639LATN24402344DIR296ALT25SIZE1589THUMB0UPLOAD112725UPID52SITEfiveGeneralsORIGIMG3851.jpg" zoom="no"/></media>
+<type script="Latin">flag</type></types>
+<geography geotop="s20251123105611" siteid="s20251123105611"><longitude>118.321639</longitude><latitude>24.402344</latitude></geography><media>
+<img date="2025-11-23" latitude="24.402344" longitude="118.321639" time="10:56:11" url="/2025/11/23/DATE20251123TIME105611GEOBOOLyesLONGE118321639LATN24402344DIR296ALT25SIZE1589THUMB0UPLOAD112725UPID52SITEfiveGeneralsORIGIMG3851.jpg"/></media>
 </ent>
 <ent id="o20251123105602">
 <types>
-<type script="Latin" ucd="LATIN">zhufu</type></types>
-<geography geotop="s20251123105611" siteid="s20251123105611">
-<longitude crs="WGS84" deg="decimal">118.321633</longitude><latitude crs="WGS84" deg="decimal">24.402339</latitude></geography>
-<media>
-<img date="2025-11-23" flash="no" latitude="24.402339" longitude="118.321633" measurement="no" public="yes" time="10:56:02" url="/2025/11/23/DATE20251123TIME105602GEOBOOLyesLONGE118321633LATN24402339DIR246ALT26SIZE1589THUMB0UPLOAD112725UPID59SITEfiveGeneralsORIGIMG3850.jpg" zoom="no"/></media>
+<type script="Latin">zhufu</type></types>
+<geography geotop="s20251123105611" siteid="s20251123105611"><longitude>118.321633</longitude><latitude>24.402339</latitude></geography><media>
+<img date="2025-11-23" latitude="24.402339" longitude="118.321633" time="10:56:02" url="/2025/11/23/DATE20251123TIME105602GEOBOOLyesLONGE118321633LATN24402339DIR246ALT26SIZE1589THUMB0UPLOAD112725UPID59SITEfiveGeneralsORIGIMG3850.jpg"/></media>
 <sem>
 <arts>
-<art ucd="LATIN" script="Latin">calligraphy</art></arts>
+<art script="Latin">calligraphy</art></arts>
 </sem>
 </ent>
+<ent id="s20251123105611">
+<types>
+<type>object</type></types>
+<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"><latitude src="percol-up">24.402350</latitude><longitude src="percol-up">118.321639</longitude></geography></ent>
+<ent id="o20251123040158">
+<types>
+<type script="Latin">structure front side</type></types>
+<geography geotop="s20251123040158" siteid="s20251123040158"/><media>
+<img date="2025-11-23" time="04:01:58" url="/2025/11/23/DATE20251123TIME040158GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6790UPLOAD112725UPID37SITEZhuShanVillageInesORIGIMG7819.jpg"/></media>
+</ent>
+<ent id="o20251123040239">
+<types>
+<type script="Latin">decorative ceramics</type></types>
+<geography geotop="s20251123040158" siteid="s20251123040158"/><media>
+<img date="2025-11-23" time="04:02:39" url="/2025/11/23/DATE20251123TIME040239GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8061UPLOAD112725UPID47SITEZhuShanVillageInesORIGIMG7820.jpg"/></media>
 </ent>
 <ent id="s20251123040158">
 <types>
 <type>object</type></types>
-<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/><ent id="o20251123040158">
+<geography geotop="sZhuShanVillage" siteid="sZhuShanVillage"/></ent>
+<ent id="sZhuShanVillage">
+<names>
+<name script="Latin">Zhu Shan Village</name><name script="Chinese-traditional">珠山聚落</name><name script="Chinese-traditional">珠山</name></names>
 <types>
-<type script="Latin" ucd="LATIN">structure front side</type></types>
-<geography geotop="s20251123040158" siteid="s20251123040158"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="04:01:58" url="/2025/11/23/DATE20251123TIME040158GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB6790UPLOAD112725UPID37SITEZhuShanVillageInesORIGIMG7819.jpg" zoom="no"/></media>
-</ent>
-<ent id="o20251123040239">
-<types>
-<type script="Latin" ucd="LATIN">decorative ceramics</type></types>
-<geography geotop="s20251123040158" siteid="s20251123040158"/><media>
-<img date="2025-11-23" flash="no" measurement="no" public="yes" time="04:02:39" url="/2025/11/23/DATE20251123TIME040239GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE17596THUMB8061UPLOAD112725UPID47SITEZhuShanVillageInesORIGIMG7820.jpg" zoom="no"/></media>
-</ent>
-</ent>
-</ent>
+<type script="Latin">Zhushan</type><type script="Latin">settlement</type></types>
+<geography geotop="sKinmenIsland" siteid="sKinmenIsland"><longitude src="map">118.32</longitude><latitude src="map">24.40</latitude></geography></ent>
 </document>

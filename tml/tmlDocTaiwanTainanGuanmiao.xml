@@ -1,54 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
-<?xml-stylesheet type="text/css" href="../css/all.css"?>
 <document latitude="N(22)" longitude="E(120)">
-<ent id="s131793">
-<communities>
-<community>
-<name script="Latin" ucd="LATIN">Guanmiao</name></community>
-</communities>
-<geography geotop="s131793" siteid="s131793">
-<address ucd="CJK" script="Chinese-traditional">台灣台南</address><pluscode>7QM2JF39+J4</pluscode><orientations>
-<orientation src="ground measurement" system="geographic north">95</orientation></orientations>
-<latitude crs="WGS84" deg="decimal">23.270042</latitude><longitude crs="WGS84" deg="decimal">120.469567</longitude><island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<names>
-<name script="Latin" ucd="LATIN">Guanmiao</name><name script="Chinese-traditional" ucd="CJK">關廟</name></names>
-<types>
-<type script="Latin" ucd="LATIN">settlement</type></types>
-<events>
-<event date="2023-01-07" type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-</event>
-</events>
 <ent id="s933">
 <communities>
 <community>
-<name script="Latin" ucd="LATIN">Guanmiao</name><name script="Chinese-traditional" ucd="CJK">關廟</name></community>
+<name script="Latin">Guanmiao</name><name script="Chinese-traditional">關廟</name></community>
 </communities>
-<geography geotop="s131793" siteid="s131793">
-<address ucd="CJK" script="Chinese-traditional">台灣台南關廟</address><pluscode>7QM2639W+2W</pluscode><orientations>
-<orientation src="ground measurement" system="geographic north">95</orientation></orientations>
-<island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<names>
-<name script="Latin" ucd="LATIN">Wanli, Baimalun</name></names>
+<geography geotop="s131793" siteid="s131793"><address script="Chinese-traditional">台灣台南關廟</address><pluscode>7QM2639W+2W</pluscode><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><names>
+<name script="Latin">Wanli, Baimalun</name></names>
 <types>
-<type script="Latin" ucd="LATIN">cemetery</type><type script="Latin" ucd="LATIN">community burial</type><type script="Chinese-traditional" ucd="CJK">墓地</type></types>
+<type script="Latin">cemetery</type><type script="Latin">community burial</type><type script="Chinese-traditional">墓地</type></types>
 <ref>
 <event>
 <agents/></event>
 </ref>
 <culturaldomain/><media/><events>
-<event date="2023-01-15" type="fieldwork">
+<event type="fieldwork" date="2023-01-15">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+</ent>
+<ent id="o306612">
+<types>
+<type language="English">object</type></types>
+<geography geotop="s121105" siteid="s121105"><island REF="Taiwan"/></geography><media>
+<img date="1975-01-01" time="12:00:00" url="/1975/01/01/DATE19750101TIME120000GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE0THUMB0ORIGtainanchikanloutaiwanwenxian71.jpg"/></media>
+<sem writing="inscribed"/></ent>
+<ent id="s121105">
+<communities>
+<community>
+<name script="Latin">Guanmiao</name></community>
+</communities>
+<geography geotop="s927" siteid="s927"><address script="Chinese-traditional">台灣台南</address><pluscode>7QM2639W+2W</pluscode><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><names>
+<name script="Latin">Chikanlou</name><name script="Chinese-traditional">墓地</name></names>
+<types>
+<type script="Latin">tomb</type></types>
+<ref>
+<event>
+<agents/></event>
+</ref>
+<culturaldomain/><media/><events>
+<event type="fieldwork" date="2021-11-09">
 <agents>
 <agent refid="con1" role="researcher"/></agents>
 </event>
@@ -57,137 +51,58 @@
 <ent id="s927">
 <communities>
 <community>
-<name script="Latin" ucd="LATIN">Guanmiao</name></community>
+<name script="Latin">Guanmiao</name></community>
 </communities>
-<geography geotop="s131793" siteid="s131793">
-<address ucd="CJK" script="Chinese-traditional">台灣台南</address><pluscode>7QM2639W+2W</pluscode><orientations>
-<orientation src="ground measurement" system="geographic north">95</orientation></orientations>
-<island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<names>
-<name script="Latin" ucd="LATIN">Chikanlou cemetery</name><name script="Chinese-traditional" ucd="CJK">墓地</name></names>
+<geography geotop="s131793" siteid="s131793"><address script="Chinese-traditional">台灣台南</address><pluscode>7QM2639W+2W</pluscode><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><names>
+<name script="Latin">Chikanlou cemetery</name><name script="Chinese-traditional">墓地</name></names>
 <types>
-<type script="Latin" ucd="LATIN">cemetery</type><type script="Latin" ucd="LATIN">community burial</type></types>
+<type script="Latin">cemetery</type><type script="Latin">community burial</type></types>
 <ref>
 <event>
 <agents/></event>
 </ref>
 <culturaldomain/><media/><events>
-<event date="2023-01-15" type="fieldwork">
+<event type="fieldwork" date="2023-01-15">
 <agents>
 <agent refid="con1" role="researcher"/></agents>
 </event>
 </events>
-<ent id="s121105">
-<communities>
-<community>
-<name script="Latin" ucd="LATIN">Guanmiao</name></community>
-</communities>
-<geography geotop="s927" siteid="s927">
-<address ucd="CJK" script="Chinese-traditional">台灣台南</address><pluscode>7QM2639W+2W</pluscode><orientations>
-<orientation src="ground measurement" system="geographic north">95</orientation></orientations>
-<island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<names>
-<name script="Latin" ucd="LATIN">Chikanlou</name><name script="Chinese-traditional" ucd="CJK">墓地</name></names>
-<types>
-<type script="Latin" ucd="LATIN">tomb</type></types>
-<ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><media/><events>
-<event date="2021-11-09" type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-</event>
-</events>
-<ent id="o306612">
-<types>
-<type language="English" script="Latin" ucd="LATIN">object</type></types>
-<geography geotop="s121105" siteid="s121105">
-<island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="1975-01-01" flash="no" measurement="no" public="yes" time="12:00:00" url="/1975/01/01/DATE19750101TIME120000GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE0THUMB0ORIGtainanchikanloutaiwanwenxian71.jpg" zoom="no"/></media>
-<sem writing="inscribed"/></ent>
+<stats>
+<stat type="tomb" cross="0" direct="1" indirect="0">1</stat></stats>
 </ent>
-<stats><stat type="tomb" direct="1" indirect="0" cross="0">1</stat></stats></ent>
-<ent id="s486">
-<communities>
-<community>
-<name script="Latin" ucd="LATIN">Guanmiao</name></community>
-</communities>
-<geography geotop="s131793" siteid="s131793">
-<address ucd="CJK" script="Chinese-traditional">台灣台南</address><address ucd="LATIN" script="Latin">Tainanshi, Dongshanxiang, Tianliaozi, private graves</address><pluscode>7QM27FC9+2R</pluscode><terrain>downhill</terrain><longitude crs="WGS84" deg="decimal" src="percol-up">120.469567</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.270042</latitude><orientations>
-<orientation src="ground measurement" system="geographic north">95</orientation></orientations>
-<island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<names>
-<name script="Latin" ucd="LATIN">7FC9+2R</name><name script="Latin" ucd="LATIN">Dongshan, Tianliaozi, private graves</name></names>
-<types>
-<type script="Latin" ucd="LATIN">community burial</type><type script="Latin" ucd="LATIN">cemetery</type></types>
-<ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><media/><events>
-<event date="2023-01-15" type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-</event>
-</events>
 <ent id="o1233037">
 <types>
-<type language="English" script="Latin" ucd="LATIN">inner space</type></types>
-<geography geotop="s486" siteid="s486">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270042</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469567</longitude><island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270003" longitude="120.469567" measurement="no" public="yes" time="14:35:29" url="/2012/02/02/DATE20120202TIME143529GEOBOOLyesLONGE120469567LATN23270003DIR177ALT22SIZE1952THUMB4758ORIGRIMG0043.jpg" zoom="no">
+<type language="English">inner space</type></types>
+<geography geotop="s486" siteid="s486"><latitude src="percol-up">23.270042</latitude><longitude src="percol-up">120.469567</longitude><island REF="Taiwan"/></geography><media>
+<img date="2012-02-02" latitude="23.270003" longitude="120.469567" time="14:35:29" url="/2012/02/02/DATE20120202TIME143529GEOBOOLyesLONGE120469567LATN23270003DIR177ALT22SIZE1952THUMB4758ORIGRIMG0043.jpg">
 <labels>
-<label topical="0.0023" score="0.92" engine="Google Vision API">Shrub</label><label topical="0.0008" score="0.64" engine="Google Vision API">Tar</label><label topical="0.0007" score="0.63" engine="Google Vision API">Overhead power line</label><label topical="0.0112" score="0.59" engine="Google Vision API">Plantation</label></labels>
+<label engine="Google Vision API" score="0.92" topical="0.0023">Shrub</label><label engine="Google Vision API" score="0.64" topical="0.0008">Tar</label><label engine="Google Vision API" score="0.63" topical="0.0007">Overhead power line</label><label engine="Google Vision API" score="0.59" topical="0.0112">Plantation</label></labels>
 <objects>
 <object engine="Google Vision API"/></objects>
 </img>
-<img date="2012-02-02" flash="no" latitude="23.270175" longitude="120.469503" measurement="no" public="yes" time="14:33:31" url="/2012/02/02/DATE20120202TIME143331GEOBOOLyesLONGE120469503LATN23270175DIR48ALT42949667SIZE1952THUMB5320ORIGRIMG0019.jpg" zoom="no">
+<img date="2012-02-02" latitude="23.270175" longitude="120.469503" time="14:33:31" url="/2012/02/02/DATE20120202TIME143331GEOBOOLyesLONGE120469503LATN23270175DIR48ALT42949667SIZE1952THUMB5320ORIGRIMG0019.jpg">
 <labels>
-<label topical="0.0380" score="0.99" engine="Google Vision API">Car</label><label topical="0.0018" score="0.99" engine="Google Vision API">Land vehicle</label><label topical="0.0426" score="0.99" engine="Google Vision API">Vehicle</label><label topical="0.0037" score="0.98" engine="Google Vision API">Tire</label><label topical="0.0041" score="0.97" engine="Google Vision API">Wheel</label><label topical="0.0004" score="0.97" engine="Google Vision API">Automotive lighting</label><label topical="0.0001" score="0.96" engine="Google Vision API">Automotive Tire</label><label topical="0.0001" score="0.95" engine="Google Vision API">Automotive Exterior</label><label topical="0.0001" score="0.94" engine="Google Vision API">Automotive Parking Light</label><label topical="0.0010" score="0.91" engine="Google Vision API">Bumper</label></labels>
+<label engine="Google Vision API" score="0.99" topical="0.0380">Car</label><label engine="Google Vision API" score="0.99" topical="0.0018">Land vehicle</label><label engine="Google Vision API" score="0.99" topical="0.0426">Vehicle</label><label engine="Google Vision API" score="0.98" topical="0.0037">Tire</label><label engine="Google Vision API" score="0.97" topical="0.0041">Wheel</label><label engine="Google Vision API" score="0.97" topical="0.0004">Automotive lighting</label><label engine="Google Vision API" score="0.96" topical="0.0001">Automotive Tire</label><label engine="Google Vision API" score="0.95" topical="0.0001">Automotive Exterior</label><label engine="Google Vision API" score="0.94" topical="0.0001">Automotive Parking Light</label><label engine="Google Vision API" score="0.91" topical="0.0010">Bumper</label></labels>
 <objects>
-<object score="0.9582273960113525" engine="Google Vision API">
+<object engine="Google Vision API" score="0.9582273960113525">
 <vertex x="0.1064453125" y="0.361328125"/><vertex x="0.81640625" y="0.361328125"/><vertex x="0.81640625" y="0.796875"/><vertex x="0.1064453125" y="0.796875"/></object>
-<object score="0.7824471592903137" engine="Google Vision API">
+<object engine="Google Vision API" score="0.7824471592903137">
 <vertex x="0.462890625" y="0.62890625"/><vertex x="0.578125" y="0.62890625"/><vertex x="0.578125" y="0.796875"/><vertex x="0.462890625" y="0.796875"/></object>
-<object score="0.7744306921958923" engine="Google Vision API">
+<object engine="Google Vision API" score="0.7744306921958923">
 <vertex x="0.1455078125" y="0.5234375"/><vertex x="0.2177734375" y="0.5234375"/><vertex x="0.2177734375" y="0.65234375"/><vertex x="0.1455078125" y="0.65234375"/></object>
-<object score="0.760158896446228" engine="Google Vision API">
+<object engine="Google Vision API" score="0.760158896446228">
 <vertex x="0.462890625" y="0.62890625"/><vertex x="0.578125" y="0.62890625"/><vertex x="0.578125" y="0.796875"/><vertex x="0.462890625" y="0.796875"/></object>
-<object score="0.730800449848175" engine="Google Vision API">
+<object engine="Google Vision API" score="0.730800449848175">
 <vertex x="0.1455078125" y="0.5234375"/><vertex x="0.2177734375" y="0.5234375"/><vertex x="0.2177734375" y="0.65234375"/><vertex x="0.1455078125" y="0.65234375"/></object>
 </objects>
 </img>
-<img date="2012-02-02" flash="no" latitude="23.270042" longitude="120.469583" measurement="no" public="yes" time="14:35:44" url="/2012/02/02/DATE20120202TIME143544GEOBOOLyesLONGE120469583LATN23270042DIR351ALT17SIZE1952THUMB5041ORIGRIMG0045.jpg" zoom="no">
+<img date="2012-02-02" latitude="23.270042" longitude="120.469583" time="14:35:44" url="/2012/02/02/DATE20120202TIME143544GEOBOOLyesLONGE120469583LATN23270042DIR351ALT17SIZE1952THUMB5041ORIGRIMG0045.jpg">
 <labels>
 <label engine="Google Vision API"/></labels>
 <objects>
-<object score="0.8455038070678711" engine="Google Vision API">
+<object engine="Google Vision API" score="0.8455038070678711">
 <vertex x="0.3671875" y="0.33984375"/><vertex x="0.494140625" y="0.33984375"/><vertex x="0.494140625" y="0.486328125"/><vertex x="0.3671875" y="0.486328125"/></object>
-<object score="0.6541073322296143" engine="Google Vision API">
+<object engine="Google Vision API" score="0.6541073322296143">
 <vertex x="0.48828125" y="0.369140625"/><vertex x="0.546875" y="0.369140625"/><vertex x="0.546875" y="0.45703125"/><vertex x="0.48828125" y="0.45703125"/></object>
 </objects>
 </img>
@@ -197,60 +112,17 @@
 <agents/></event>
 </ref>
 <culturaldomain/><sem writing="uninscribed"/></ent>
-<ent id="s37863">
-<communities>
-<community>
-<name script="Latin" ucd="LATIN">Madou</name></community>
-</communities>
-<geography geotop="s486" siteid="s486">
-<address ucd="CJK" script="Chinese-traditional">台灣台南</address><address ucd="LATIN" script="Latin">Tainanshi, Dongshanxiang, Tianliaozi, private graves</address><pluscode>7QM27FC9+2R</pluscode><terrain>downhill</terrain><longitude crs="WGS84" deg="decimal" src="percol-up">120.469542</longitude><latitude crs="WGS84" deg="decimal" src="percol-up">23.270044</latitude><orientations>
-<orientation src="ground measurement" system="geographic north">95</orientation></orientations>
-<island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<names>
-<name script="Latin" ucd="LATIN">7FC9+2R</name><name script="Latin" ucd="LATIN">Dongshan, Tianliaozi, private graves</name></names>
-<types>
-<type script="Latin" ucd="LATIN">individual burial</type><type script="Latin" ucd="LATIN">tomb</type></types>
-<ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain>
-<practices>
-<practice>
-<names>
-<name script="Latin" ucd="LATIN">burial using a urn</name></names>
-<epistemics>implied</epistemics></practice>
-<practice>
-<names>
-<name script="Latin" ucd="LATIN">the container of the body of the deceased is lowered into the ground and covered by soil</name></names>
-<epistemics>observed</epistemics></practice>
-</practices>
-</culturaldomain>
-<media/><events>
-<event date="2021-11-11" type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-</event>
-</events>
 <ent id="o221835">
 <types>
-<type language="English" script="Latin" ucd="LATIN">object</type></types>
-<geography geotop="s37863" siteid="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270056</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469528</longitude><island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270056" longitude="120.469528" measurement="no" public="yes" time="14:34:58" url="/2012/02/02/DATE20120202TIME143458GEOBOOLyesLONGE120469528LATN23270056DIR29ALT37SIZE1952THUMB5223ORIGRIMG0036.jpg" zoom="no"/></media>
+<type language="English">object</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270056</latitude><longitude src="percol-up">120.469528</longitude><island REF="Taiwan"/></geography><media>
+<img date="2012-02-02" latitude="23.270056" longitude="120.469528" time="14:34:58" url="/2012/02/02/DATE20120202TIME143458GEOBOOLyesLONGE120469528LATN23270056DIR29ALT37SIZE1952THUMB5223ORIGRIMG0036.jpg"/></media>
 <sem writing="inscribed">
 <texts>
 <text id="t1" side="f" textColor="" writingDirection="">
-<normalization><div/></normalization></text>
+<normalization>
+<div/></normalization>
+</text>
 </texts>
 </sem>
 <ref>
@@ -260,19 +132,15 @@
 <culturaldomain/></ent>
 <ent id="o214178">
 <types>
-<type language="English" script="Latin" ucd="LATIN">object</type></types>
-<geography geotop="s37863" siteid="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270042</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469542</longitude><island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270042" longitude="120.469542" measurement="no" public="yes" time="14:35:11" url="/2012/02/02/DATE20120202TIME143511GEOBOOLyesLONGE120469542LATN23270042DIR94ALT30SIZE1952THUMB5475ORIGRIMG0039.jpg" zoom="no"/></media>
+<type language="English">object</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270042</latitude><longitude src="percol-up">120.469542</longitude><island REF="Taiwan"/></geography><media>
+<img date="2012-02-02" latitude="23.270042" longitude="120.469542" time="14:35:11" url="/2012/02/02/DATE20120202TIME143511GEOBOOLyesLONGE120469542LATN23270042DIR94ALT30SIZE1952THUMB5475ORIGRIMG0039.jpg"/></media>
 <sem writing="inscribed">
 <texts>
 <text id="t1" side="f" textColor="" writingDirection="">
-<normalization><div/></normalization></text>
+<normalization>
+<div/></normalization>
+</text>
 </texts>
 </sem>
 <ref>
@@ -282,31 +150,21 @@
 <culturaldomain/></ent>
 <ent id="o224106">
 <types>
-<type language="English" script="Latin" ucd="LATIN">object</type></types>
-<geography geotop="s37863" siteid="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270019</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469558</longitude><island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270019" longitude="120.469558" measurement="no" public="yes" time="14:35:35" url="/2012/02/02/DATE20120202TIME143535GEOBOOLyesLONGE120469558LATN23270019DIR242ALT21SIZE1952THUMB3607ORIGRIMG0044.jpg" zoom="no"/></media>
+<type language="English">object</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270019</latitude><longitude src="percol-up">120.469558</longitude><island REF="Taiwan"/></geography><media>
+<img date="2012-02-02" latitude="23.270019" longitude="120.469558" time="14:35:35" url="/2012/02/02/DATE20120202TIME143535GEOBOOLyesLONGE120469558LATN23270019DIR242ALT21SIZE1952THUMB3607ORIGRIMG0044.jpg"/></media>
 <sem writing="inscribed"/></ent>
 <ent id="o214177">
 <types>
-<type language="English" script="Latin" ucd="LATIN">object</type></types>
-<geography geotop="s37863" siteid="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270061</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469542</longitude><island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270061" longitude="120.469542" measurement="no" public="yes" time="14:34:50" url="/2012/02/02/DATE20120202TIME143450GEOBOOLyesLONGE120469542LATN23270061DIR62ALT43SIZE1952THUMB5175ORIGRIMG0034.jpg" zoom="no"/></media>
+<type language="English">object</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270061</latitude><longitude src="percol-up">120.469542</longitude><island REF="Taiwan"/></geography><media>
+<img date="2012-02-02" latitude="23.270061" longitude="120.469542" time="14:34:50" url="/2012/02/02/DATE20120202TIME143450GEOBOOLyesLONGE120469542LATN23270061DIR62ALT43SIZE1952THUMB5175ORIGRIMG0034.jpg"/></media>
 <sem writing="inscribed">
 <texts>
 <text id="t1" side="f" textColor="" writingDirection="">
-<normalization><div/></normalization></text>
+<normalization>
+<div/></normalization>
+</text>
 </texts>
 </sem>
 <ref>
@@ -316,23 +174,19 @@
 <culturaldomain/></ent>
 <ent id="o190689">
 <types>
-<type language="English" script="Latin" ucd="LATIN">object</type></types>
-<geography geotop="s37863" siteid="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270036</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469553</longitude><island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270036" longitude="120.469553" measurement="no" public="yes" time="14:35:14" url="/2012/02/02/DATE20120202TIME143514GEOBOOLyesLONGE120469553LATN23270036DIR112ALT30SIZE1952THUMB5445ORIGRIMG0040.jpg" zoom="no">
+<type language="English">object</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270036</latitude><longitude src="percol-up">120.469553</longitude><island REF="Taiwan"/></geography><media>
+<img date="2012-02-02" latitude="23.270036" longitude="120.469553" time="14:35:14" url="/2012/02/02/DATE20120202TIME143514GEOBOOLyesLONGE120469553LATN23270036DIR112ALT30SIZE1952THUMB5445ORIGRIMG0040.jpg">
 <labels>
-<label topical="0.0128" score="0.81" engine="Google Vision API">Concrete</label><label topical="0.0028" score="0.64" engine="Google Vision API">Paint</label><label topical="0.0019" score="0.51" engine="Google Vision API">Graffiti</label></labels>
+<label engine="Google Vision API" score="0.81" topical="0.0128">Concrete</label><label engine="Google Vision API" score="0.64" topical="0.0028">Paint</label><label engine="Google Vision API" score="0.51" topical="0.0019">Graffiti</label></labels>
 </img>
 </media>
 <sem writing="inscribed">
 <texts>
 <text id="t1" side="f" textColor="" writingDirection="">
-<normalization><div/></normalization></text>
+<normalization>
+<div/></normalization>
+</text>
 </texts>
 </sem>
 <ref>
@@ -342,19 +196,15 @@
 <culturaldomain/></ent>
 <ent id="o216644">
 <types>
-<type language="English" script="Latin" ucd="LATIN">object</type></types>
-<geography geotop="s37863" siteid="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270044</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469511</longitude><island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270044" longitude="120.469511" measurement="no" public="yes" time="14:35:06" url="/2012/02/02/DATE20120202TIME143506GEOBOOLyesLONGE120469511LATN23270044DIR32ALT31SIZE1952THUMB5531ORIGRIMG0038.jpg" zoom="no"/></media>
+<type language="English">object</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270044</latitude><longitude src="percol-up">120.469511</longitude><island REF="Taiwan"/></geography><media>
+<img date="2012-02-02" latitude="23.270044" longitude="120.469511" time="14:35:06" url="/2012/02/02/DATE20120202TIME143506GEOBOOLyesLONGE120469511LATN23270044DIR32ALT31SIZE1952THUMB5531ORIGRIMG0038.jpg"/></media>
 <sem writing="inscribed">
 <texts>
 <text id="t1" side="f" textColor="" writingDirection="">
-<normalization><div/></normalization></text>
+<normalization>
+<div/></normalization>
+</text>
 </texts>
 </sem>
 <ref>
@@ -364,83 +214,69 @@
 <culturaldomain/></ent>
 <ent id="o214181">
 <types>
-<type language="English" script="Latin" ucd="LATIN">earthgod</type></types>
-<geography siteid="s37863" geotop="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270011</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469322</longitude></geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270011" measurement="no" public="yes" time="14:34:35" url="/2012/02/02/DATE20120202TIME143435GEOBOOLyesLONGE120469322LATN23270011DIR98ALT47SIZE1952THUMB5624ORIGRIMG0032.jpg" zoom="no"/></media>
+<type language="English">earthgod</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270011</latitude><longitude src="percol-up">120.469322</longitude></geography><media>
+<img date="2012-02-02" latitude="23.270011" time="14:34:35" url="/2012/02/02/DATE20120202TIME143435GEOBOOLyesLONGE120469322LATN23270011DIR98ALT47SIZE1952THUMB5624ORIGRIMG0032.jpg"/></media>
 <events>
 <event type="production">
 <agents>
 <agent role="stone carver"/></agents>
-<material language="English" script="Latin" ucd="LATIN">stone</material></event>
+<material language="English">stone</material></event>
 </events>
 <sem writing="inscribed"/></ent>
 <ent id="o223107">
 <types>
-<type language="English" script="Latin" ucd="LATIN">earthgod</type></types>
-<geography siteid="s37863" geotop="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270019</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469564</longitude></geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270019" measurement="no" public="yes" time="14:35:19" url="/2012/02/02/DATE20120202TIME143519GEOBOOLyesLONGE120469564LATN23270019DIR175ALT27SIZE1952THUMB5180ORIGRIMG0041.jpg" zoom="no"/></media>
+<type language="English">earthgod</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270019</latitude><longitude src="percol-up">120.469564</longitude></geography><media>
+<img date="2012-02-02" latitude="23.270019" time="14:35:19" url="/2012/02/02/DATE20120202TIME143519GEOBOOLyesLONGE120469564LATN23270019DIR175ALT27SIZE1952THUMB5180ORIGRIMG0041.jpg"/></media>
 <events>
 <event type="production">
 <agents>
 <agent role="stone carver"/></agents>
-<material language="English" script="Latin" ucd="LATIN">stone</material></event>
+<material language="English">stone</material></event>
 </events>
 <sem writing="inscribed"/></ent>
 <ent id="o223753">
 <types>
-<type language="English" script="Latin" ucd="LATIN">earthgod</type></types>
-<geography siteid="s37863" geotop="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.269967</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469389</longitude></geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.269967" measurement="no" public="yes" time="14:34:42" url="/2012/02/02/DATE20120202TIME143442GEOBOOLyesLONGE120469389LATN23269967DIR61ALT49SIZE1952THUMB4949ORIGRIMG0033.jpg" zoom="no"/></media>
+<type language="English">earthgod</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.269967</latitude><longitude src="percol-up">120.469389</longitude></geography><media>
+<img date="2012-02-02" latitude="23.269967" time="14:34:42" url="/2012/02/02/DATE20120202TIME143442GEOBOOLyesLONGE120469389LATN23269967DIR61ALT49SIZE1952THUMB4949ORIGRIMG0033.jpg"/></media>
 <events>
 <event type="production">
 <agents>
 <agent role="stone carver"/></agents>
-<material language="English" script="Latin" ucd="LATIN">stone</material></event>
+<material language="English">stone</material></event>
 </events>
 <sem writing="inscribed"/></ent>
 <ent id="o224924">
 <types>
-<type language="English" script="Latin" ucd="LATIN">earthgod</type></types>
-<geography siteid="s37863" geotop="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270006</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469583</longitude></geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270006" measurement="no" public="yes" time="14:35:24" url="/2012/02/02/DATE20120202TIME143524GEOBOOLyesLONGE120469583LATN23270006DIR179ALT24SIZE1952THUMB4890ORIGRIMG0042.jpg" zoom="no"/></media>
+<type language="English">earthgod</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270006</latitude><longitude src="percol-up">120.469583</longitude></geography><media>
+<img date="2012-02-02" latitude="23.270006" time="14:35:24" url="/2012/02/02/DATE20120202TIME143524GEOBOOLyesLONGE120469583LATN23270006DIR179ALT24SIZE1952THUMB4890ORIGRIMG0042.jpg"/></media>
 <events>
 <event type="production">
 <agents>
 <agent role="stone carver"/></agents>
-<material language="English" script="Latin" ucd="LATIN">stone</material></event>
+<material language="English">stone</material></event>
 </events>
 <sem writing="inscribed"/></ent>
 <ent id="o1189547">
 <types>
-<type language="English" script="Latin" ucd="LATIN">altar</type></types>
-<geography siteid="s37863" geotop="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270072</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469569</longitude></geography>
-<media>
-<img date="2012-02-02" flash="no" measurement="no" public="yes" time="14:34:54" url="/2012/02/02/DATE20120202TIME143454GEOBOOLyesLONGE120469569LATN23270072DIR67ALT39SIZE1952THUMB6001ORIGRIMG0035.jpg" zoom="no"/></media>
+<type language="English">altar</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270072</latitude><longitude src="percol-up">120.469569</longitude></geography><media>
+<img date="2012-02-02" time="14:34:54" url="/2012/02/02/DATE20120202TIME143454GEOBOOLyesLONGE120469569LATN23270072DIR67ALT39SIZE1952THUMB6001ORIGRIMG0035.jpg"/></media>
 <sem writing="uninscribed"/></ent>
 <ent id="o223103">
 <types>
-<type language="English" script="Latin" ucd="LATIN">object</type></types>
-<geography geotop="s37863" siteid="s37863">
-<latitude crs="WGS84" deg="decimal" src="percol-up">23.270044</latitude><longitude crs="WGS84" deg="decimal" src="percol-up">120.469514</longitude><island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="2012-02-02" flash="no" latitude="23.270044" longitude="120.469514" measurement="no" public="yes" time="14:35:02" url="/2012/02/02/DATE20120202TIME143502GEOBOOLyesLONGE120469514LATN23270044DIR35ALT33SIZE1952THUMB5237ORIGRIMG0037.jpg" zoom="no"/></media>
+<type language="English">object</type></types>
+<geography geotop="s37863" siteid="s37863"><latitude src="percol-up">23.270044</latitude><longitude src="percol-up">120.469514</longitude><island REF="Taiwan"/></geography><media>
+<img date="2012-02-02" latitude="23.270044" longitude="120.469514" time="14:35:02" url="/2012/02/02/DATE20120202TIME143502GEOBOOLyesLONGE120469514LATN23270044DIR35ALT33SIZE1952THUMB5237ORIGRIMG0037.jpg"/></media>
 <sem writing="inscribed">
 <texts>
 <text id="t1" side="f" textColor="" writingDirection="">
-<normalization><div/></normalization></text>
+<normalization>
+<div/></normalization>
+</text>
 </texts>
 </sem>
 <ref>
@@ -448,74 +284,91 @@
 <agents/></event>
 </ref>
 <culturaldomain/></ent>
-<stats><stat type="earthgod" direct="4" indirect="0" cross="0">4</stat></stats></ent>
-<stats><stat type="earthgod" indirect="4" direct="0" cross="0">4</stat><stat type="tomb" direct="1" indirect="0" cross="0">1</stat></stats></ent>
-<stats><stat type="cemetery" direct="3" indirect="0" cross="0">3</stat><stat type="earthgod" indirect="4" direct="0" cross="0">4</stat><stat type="tomb" indirect="2" direct="0" cross="0">2</stat></stats></ent>
-<ent id="s931">
+<ent id="s37863">
 <communities>
 <community>
-<name script="Latin" ucd="LATIN">Hougang</name></community>
+<name script="Latin">Madou</name></community>
 </communities>
-<geography geotop="s131810" siteid="s131810">
-<address ucd="CJK" script="Chinese-traditional">台灣台南</address><pluscode>7PMX7M6C+RX</pluscode><orientations>
-<orientation src="ground measurement" system="geographic north">95</orientation></orientations>
-<island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<names>
-<name script="Latin" ucd="LATIN">Dongji, unspecified</name><name script="Chinese-traditional" ucd="CJK">東吉</name></names>
+<geography geotop="s486" siteid="s486"><address script="Chinese-traditional">台灣台南</address><address script="Latin">Tainanshi, Dongshanxiang, Tianliaozi, private graves</address><pluscode>7QM27FC9+2R</pluscode><terrain>downhill</terrain><longitude src="percol-up">120.469542</longitude><latitude src="percol-up">23.270044</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><names>
+<name script="Latin">7FC9+2R</name><name script="Latin">Dongshan, Tianliaozi, private graves</name></names>
 <types>
-<type script="Latin" ucd="LATIN">cemetery</type><type script="Latin" ucd="LATIN">community burial</type></types>
-<events>
-<event date="2023-01-15" type="fieldwork">
+<type script="Latin">individual burial</type><type script="Latin">tomb</type></types>
+<ref>
+<event>
+<agents/></event>
+</ref>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name script="Latin">burial using a urn</name></names>
+<epistemics>implied</epistemics></practice>
+<practice>
+<names>
+<name script="Latin">the container of the body of the deceased is lowered into the ground and covered by soil</name></names>
+<epistemics>observed</epistemics></practice>
+</practices>
+</culturaldomain>
+<media/><events>
+<event type="fieldwork" date="2021-11-11">
 <agents>
 <agent refid="con1" role="researcher"/></agents>
 </event>
 </events>
-<ent id="s118104">
+<stats>
+<stat type="earthgod" cross="0" direct="4" indirect="0">4</stat></stats>
+</ent>
+<ent id="s486">
 <communities>
 <community>
-<name script="Latin" ucd="LATIN">Hougang</name></community>
+<name script="Latin">Guanmiao</name></community>
 </communities>
-<geography geotop="s931" siteid="s931">
-<address ucd="CJK" script="Chinese-traditional">台灣台南</address><pluscode>7PMX7M6C+RX</pluscode><orientations>
-<orientation src="ground measurement" system="geographic north">95</orientation></orientations>
-<island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<names>
-<name script="Latin" ucd="LATIN">Dongji</name><name script="Chinese-traditional" ucd="CJK">東吉</name></names>
+<geography geotop="s131793" siteid="s131793"><address script="Chinese-traditional">台灣台南</address><address script="Latin">Tainanshi, Dongshanxiang, Tianliaozi, private graves</address><pluscode>7QM27FC9+2R</pluscode><terrain>downhill</terrain><longitude src="percol-up">120.469567</longitude><latitude src="percol-up">23.270042</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><names>
+<name script="Latin">7FC9+2R</name><name script="Latin">Dongshan, Tianliaozi, private graves</name></names>
 <types>
-<type script="Latin" ucd="LATIN">tomb</type></types>
+<type script="Latin">community burial</type><type script="Latin">cemetery</type></types>
 <ref>
 <event>
 <agents/></event>
 </ref>
 <culturaldomain/><media/><events>
-<event date="2021-09-26" type="fieldwork">
+<event type="fieldwork" date="2023-01-15">
 <agents>
 <agent refid="con1" role="researcher"/></agents>
 </event>
 </events>
+<stats>
+<stat type="earthgod" cross="0" direct="0" indirect="4">4</stat><stat type="tomb" cross="0" direct="1" indirect="0">1</stat></stats>
+</ent>
+<ent id="s131793">
+<communities>
+<community>
+<name script="Latin">Guanmiao</name></community>
+</communities>
+<geography geotop="s131793" siteid="s131793"><address script="Chinese-traditional">台灣台南</address><pluscode>7QM2JF39+J4</pluscode><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><latitude>23.270042</latitude><longitude>120.469567</longitude><island REF="Taiwan"/></geography><names>
+<name script="Latin">Guanmiao</name><name script="Chinese-traditional">關廟</name></names>
+<types>
+<type script="Latin">settlement</type></types>
+<events>
+<event type="fieldwork" date="2023-01-07">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<stats>
+<stat type="cemetery" cross="0" direct="3" indirect="0">3</stat><stat type="earthgod" cross="0" direct="0" indirect="4">4</stat><stat type="tomb" cross="0" direct="0" indirect="2">2</stat></stats>
+</ent>
 <ent id="o306619">
 <types>
-<type language="English" script="Latin" ucd="LATIN">object</type></types>
-<geography geotop="s118104" siteid="s118104">
-<island>
-<names>
-<name language="English">Taiwan Island</name><name>臺灣本島</name></names>
-</island>
-</geography>
-<media>
-<img date="1975-01-01" flash="no" measurement="no" public="yes" time="12:00:00" url="/1975/01/01/DATE19750101TIME120000GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE0THUMB0ORIGtainandongjiaotaiwanwenxian28.jpg" zoom="no"/></media>
+<type language="English">object</type></types>
+<geography geotop="s118104" siteid="s118104"><island REF="Taiwan"/></geography><media>
+<img date="1975-01-01" time="12:00:00" url="/1975/01/01/DATE19750101TIME120000GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE0THUMB0ORIGtainandongjiaotaiwanwenxian28.jpg"/></media>
 <sem writing="inscribed">
 <texts>
 <text id="t1" side="f" textColor="" writingDirection="">
-<normalization><div/></normalization></text>
+<normalization>
+<div/></normalization>
+</text>
 </texts>
 </sem>
 <ref>
@@ -523,6 +376,42 @@
 <agents/></event>
 </ref>
 <culturaldomain/></ent>
+<ent id="s118104">
+<communities>
+<community>
+<name script="Latin">Hougang</name></community>
+</communities>
+<geography geotop="s931" siteid="s931"><address script="Chinese-traditional">台灣台南</address><pluscode>7PMX7M6C+RX</pluscode><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><names>
+<name script="Latin">Dongji</name><name script="Chinese-traditional">東吉</name></names>
+<types>
+<type script="Latin">tomb</type></types>
+<ref>
+<event>
+<agents/></event>
+</ref>
+<culturaldomain/><media/><events>
+<event type="fieldwork" date="2021-09-26">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
 </ent>
-<stats><stat type="tomb" direct="1" indirect="0" cross="0">1</stat></stats></ent>
+<ent id="s931">
+<communities>
+<community>
+<name script="Latin">Hougang</name></community>
+</communities>
+<geography geotop="s131810" siteid="s131810"><address script="Chinese-traditional">台灣台南</address><pluscode>7PMX7M6C+RX</pluscode><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><names>
+<name script="Latin">Dongji, unspecified</name><name script="Chinese-traditional">東吉</name></names>
+<types>
+<type script="Latin">cemetery</type><type script="Latin">community burial</type></types>
+<events>
+<event type="fieldwork" date="2023-01-15">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<stats>
+<stat type="tomb" cross="0" direct="1" indirect="0">1</stat></stats>
+</ent>
 </document>

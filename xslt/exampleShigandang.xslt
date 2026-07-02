@@ -8,7 +8,7 @@
   <xsl:variable name="V4" select="document('../tml/tmlDocTaiwanJinmen.xml')"/>
   <xsl:variable name="V5" select="document('../tml/tmlDocTaiwanPenghuHuayu.xml')"/>
 
-  <xsl:include href="tmlExample.xslt"/>
+  <xsl:include href="tml1.xslt"/>
   <xsl:template match="examples">
         <examples>
 		<html xmlns="http://www.w3.org/1999/xhtml"><h2>Bangkok</h2><hr/><a href="../tml/tmlDocThailandBangkok.xml" parse="xml">tmlDocThailandBangkok.xml</a></html><xsl:apply-templates select="$V1//ent/media[starts-with(../@id,'o') and ../types/type='shigandang']"/>

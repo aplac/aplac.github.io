@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
+<?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<document latitude="N(22)" longitude="E(120)">
+<ent id="sNanxiTainan">
+<communities>
+<community>
+<name script="Latin">Nanxi</name><name script="Chinese-traditional">南西</name></community>
+</communities>
+<geography geotop="s131904" siteid="s131904"><address script="Chinese-traditional">台灣台南楠西</address><address>Taiwan, Tainan, Nanxi</address><pluscode/><longitude src="percol-up">120.570267</longitude><latitude src="percol-up">23.188198</latitude><island REF="Taiwan"/></geography><names>
+<name script="Latin">Nanxi</name><name script="Chinese-traditional">楠西</name></names>
+<types>
+<type script="Latin">settlement</type></types>
+</ent>
+<ent id="s131904">
+<communities>
+<community>
+<name script="Latin">Nanxi</name><name script="Chinese-traditional">南西</name></community>
+</communities>
+<geography geotop="sNanxiTainan" siteid="sNanxiTainan"><address script="Chinese-traditional">台灣台南楠西龜丹</address><pluscode>7QJ28V4Q+FP</pluscode><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><latitude>23.189470</latitude><longitude>120.574053</longitude><island REF="Taiwan"/></geography><names>
+<name script="Latin">Nanxing</name><name script="Chinese-traditional">南興</name></names>
+<types>
+<type script="Latin">settlement</type></types>
+<events>
+<event type="fieldwork" date="2023-01-15">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+<stats>
+<stat type="cemetery" cross="0" direct="1" indirect="0">1</stat><stat type="earthgod" cross="0" direct="0" indirect="9">9</stat><stat type="grave" cross="0" direct="0" indirect="2">2</stat><stat type="photo" cross="0" direct="0" indirect="13">13</stat><stat type="tomb" cross="0" direct="0" indirect="243">243</stat><stat type="tombstone" cross="0" direct="0" indirect="40">40</stat></stats>
+</ent>
+<ent id="s109239">
+<communities>
+<community>
+<name script="Latin">Nanxi</name><name script="Chinese-traditional">南西</name></community>
+</communities>
+<geography geotop="s131904" siteid="s131904"><address script="Chinese-traditional">台灣台南楠西</address><pluscode>7QM25HQC+74</pluscode><longitude src="percol-up">120.570267</longitude><latitude src="percol-up">23.188198</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><names>
+<name script="Latin">Meiling, Tudigong Shrine</name><name script="Latin">worship</name><name script="Chinese-traditional">楠西梅陵風景區土地公廟</name></names>
+<types>
+<type script="Latin">Earthgod shrine</type></types>
+<events>
+<event type="fieldwork" date="2023-01-15">
+<agents>
+<agent refid="con1" role="researcher"/></agents>
+</event>
+</events>
+</ent>
+<ent id="sNanxiTainan">
+<communities>
+<community>
+<name script="Latin">Nanxi</name><name script="Chinese-traditional">南西</name></community>
+</communities>
+<geography geotop="s131904" siteid="s131904"><address script="Chinese-traditional">台灣台南楠西</address><address>Taiwan, Tainan, Nanxi</address><pluscode/><longitude src="percol-up">120.570267</longitude><latitude src="percol-up">23.188198</latitude><island REF="Taiwan"/></geography><names>
+<name script="Latin">Nanxi</name><name script="Chinese-traditional">楠西</name></names>
+<types>
+<type script="Latin">settlement</type></types>
+</ent>
+</document>

@@ -7,12 +7,12 @@
 <xsl:output method="xml" indent="yes"/>
 
    <xsl:template match="stats">
-	<html xmlns="http://www.w3.org/1999/xhtml">
+   <html xmlns="http://www.w3.org/1999/xhtml">
         <h3>A short statistical summary of our fieldwork:</h3>
 	<table xmlns="http://www.w3.org/1999/xhtml">
 	<xsl:apply-templates select="stat"/>
         </table>
-       </html>
+</html>
    </xsl:template>
 
    <xsl:template match="stat">
