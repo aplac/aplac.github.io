@@ -7,6 +7,7 @@
   <xsl:template match="include">
        <html xmlns="http://www.w3.org/1999/xhtml">
        <xsl:element name="a">
+           <xsl:attribute name="style">display:block</xsl:attribute>
            <xsl:attribute name="href">
                <xsl:value-of select="@href"/>
            </xsl:attribute>
@@ -19,6 +20,7 @@
   <xsl:template match="xi:include">
        <html xmlns="http://www.w3.org/1999/xhtml">
        <xsl:element name="a">
+           <xsl:attribute name="style">display:block</xsl:attribute>
            <xsl:attribute name="href">
                <xsl:value-of select="@href"/>
            </xsl:attribute>

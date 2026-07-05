@@ -5,9 +5,8 @@
 <thakbong xmlns:xi="http://www.w3.org/2001/XInclude">
     <project id="thakbong">
         <description>
-        <name language="English" script="Latin" ucd="LATIN">Thakbong 讀墓, A Research and Documentation Project at APLAC, the Research
-        Center for Asia Pacific Languages and Cultures</name>
-            <creator>Oliver Streiter</creator>
+		<name language="English" script="Latin" ucd="LATIN">Thakbong 讀墓, A Research and Documentation Project at APLAC, the Research Center for Asia Pacific Languages and Cultures</name> 
+  	    <creator>Oliver Streiter</creator>
             <initiator>Oliver Streiter, Yoann Goudin</initiator>
             <responsible>Oliver Streiter, Yoann Goudin, James X. Morris, Zhan
             Ya-Qing</responsible>

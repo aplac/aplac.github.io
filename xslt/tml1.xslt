@@ -24,12 +24,16 @@
 	                        not(self::id) and
 	                        not(self::ent) and
 	                        not(self::event) and
+	                        not(self::thakbong) and
 	                        not(self::document) and
 	                        not(self::parse) and
 	                        not(self::href) and
 	                        not(self::html) and
 	                        not(self::table) and
 	                        not(self::island) and
+	                        not(self::projects) and
+	                        not(self::definitions) and
+	                        not(self::examples) and
 	                        not(self::practice) and
 	                        not(self::a) and
 	                        not(self::include) and
@@ -56,6 +60,7 @@
 	                       and not(self::html) 
 	                       and not(self::a) 
 	                       and not(self::table) 
+	                       and not(self::thakbong) 
 	                       and not(self::island) 
 	                       and not(self::practice) 
 	                       and not(self::td) 
@@ -63,6 +68,8 @@
 	                       and not(self::tr) 
 	                       and not(self::ent) 
 	                       and not(self::document) 
+	                       and not(self::projects)
+	                       and not(self::examples) 
 	                       and not(self::definitions) 
 	                       ]">
         <xsl:if test="@REF">
@@ -87,7 +94,7 @@
         </xsl:if>
   </xsl:template>
 
-<xsl:template match="document">
+<xsl:template match="document|thakbong|examples|definitions|projects">
     <xsl:copy-of select="/processing-instruction('xml-stylesheet')"/>
     <xsl:copy>
     <ent>
@@ -100,9 +107,10 @@
     <xsl:apply-templates select="ent"/>
     <xsl:apply-templates select="def"/>
     <xsl:apply-templates select="project"/>
-    <xsl:apply-templates select="examples"/>
+    <xsl:apply-templates select="example"/>
     <xsl:apply-templates select="sitemap"/>
     <xsl:apply-templates select="person"/>
+    <xsl:apply-templates select="definition"/>
  </ent>
  </xsl:copy>
 </xsl:template>

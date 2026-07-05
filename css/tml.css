@@ -95,9 +95,6 @@ address:not(:empty):before { content : "address: " }
 street:not(:empty):before { content : " street: " }
 housenumber:not(:empty):before { content : " Nb: " }
 practice:not(:empty):before { content : "cultural practice: " }
-creator:not(:empty):before { content : "creator: " }
-initiator:not(:empty):before { content : "initiator: " }
-responsible:not(:empty):before { content : "responsible: " }
 motif:not(:empty):before { content : "motif: " }
 deontics:not(:empty):before { content : " (deontics/normative: " }
 deontics:not(:empty):after { content : ")" }
