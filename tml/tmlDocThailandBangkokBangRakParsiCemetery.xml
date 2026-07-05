@@ -2,15 +2,224 @@
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
 <document latitude="N(13)" longitude="E(100)">
-<ent id="o111320"><pi /><types><type language="English">object</type></types><geography geotop="sNewParsi29326" siteid="sNewParsi29326" /><media><img date="2024-04-04" time="09-46-35" url="/2024/04/04/DATE20240404TIME094635GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB9392UPLOAD052124UPID4186ORIGDSC02656.jpg" /></media><sem /><ref /><events><event type="fieldwork" day="2024-04-04" /></events></ent>
-<ent id="o58624"><pi /><types><type language="English">object</type></types><geography geotop="sNewParsi29326" siteid="sNewParsi29326" /><media><img date="2024-04-04" time="09-46-35" url="/2024/04/04/DATE20240404TIME094635GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB9392UPLOAD052124UPID4186ORIGDSC02656.jpg" /></media><sem /><ref /><events><event type="fieldwork" day="2024-04-04" /></events></ent>
-<ent id="sNewParsi29326"><pi /><names><name language="English">s29326</name><name language="English" ucd="LATIN">s29326</name></names><types><type language="English">tomb</type></types><description><div language="English">A tomb in ...</div></description><admins><adminsys><admtop>sBangkokSilomParsiCemetery</admtop></adminsys></admins><geography geotop="sBangkokSilomParsiCemetery" siteid="sBangkokSilomParsiCemetery" /><events /></ent>
-<ent id="s293278"><pi /><names><name language="English">s29327</name><name language="English" ucd="LATIN">s29327</name></names><types><type language="English">tomb</type></types><description><div language="English">A tomb in ...</div></description><admins><adminsys><admtop>sBangkokSilomParsiCemetery</admtop></adminsys></admins><geography geotop="sBangkokSilomParsiCemetery" siteid="sBangkokSilomParsiCemetery" /><events /></ent>
-<ent id="o111258"><pi /><types><type language="English">object</type></types><geography geotop="sNewParsi30580" siteid="sNewParsi30580" /><media><img date="2024-04-04" time="09-46-45" url="/2024/04/04/DATE20240404TIME094645GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB8067UPLOAD052124UPID4183ORIGDSC02658.jpg" /></media><sem /><ref /><events><event type="fieldwork" day="2024-04-04" /></events></ent>
-<ent id="o58607"><pi /><types><type language="English">object</type></types><geography geotop="sNewParsi30580" siteid="sNewParsi30580" /><media><img date="2024-04-04" time="09-46-45" url="/2024/04/04/DATE20240404TIME094645GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB8067UPLOAD052124UPID4183ORIGDSC02658.jpg" /></media><sem /><ref /><events><event type="fieldwork" day="2024-04-04" /></events></ent>
-<ent id="sNewParsi30580"><pi /><names><name language="English">s30580</name><name language="English" ucd="LATIN">s30580</name></names><types><type language="English">tomb</type></types><description><div language="English">A tomb in ...</div></description><admins><adminsys><admtop>sBangkokSilomParsiCemetery</admtop></adminsys></admins><geography geotop="sBangkokSilomParsiCemetery" siteid="sBangkokSilomParsiCemetery" /><events /></ent>
-<ent id="o111297"><pi /><types><type language="English">object</type></types><geography geotop="sNewParsi29325" siteid="sNewParsi29325" /><media><img date="2024-04-04" time="09-46-28" url="/2024/04/04/DATE20240404TIME094628GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB8352UPLOAD052124UPID4184ORIGDSC02655.jpg"><labels><label engine="Google Vision API" score="0.95" topical="0.2196">Headstone</label><label engine="Google Vision API" score="0.95" topical="0.4898">Grave</label><label engine="Google Vision API" score="0.92" topical="0.0217">Memorial</label><label engine="Google Vision API" score="0.90" topical="0.4295">Cemetery</label><label engine="Google Vision API" score="0.61" topical="0.2206">Tomb</label><label engine="Google Vision API" score="0.56" topical="0.0044">Cross</label><label engine="Google Vision API" score="0.54" topical="0.0034">Stele</label><label engine="Google Vision API" score="0.52" topical="0.0000">Flower Arranging</label><label engine="Google Vision API" score="0.52" topical="0.0098">Granite</label><label engine="Google Vision API" score="0.51" topical="0.0022">Commemorative plaque</label></labels></img></media><sem /><ref /><events><event type="fieldwork" day="2024-04-04" /></events></ent>
-<ent id="o58618"><pi /><types><type language="English">object</type></types><geography geotop="sNewParsi29325" siteid="sNewParsi29325" /><media><img date="2024-04-04" time="09-46-28" url="/2024/04/04/DATE20240404TIME094628GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB8352UPLOAD052124UPID4184ORIGDSC02655.jpg" /></media><sem /><ref /><events><event type="fieldwork" day="2024-04-04" /></events></ent>
-<ent id="sNewParsi29325"><pi /><names><name language="English">s29325</name><name language="English" ucd="LATIN">s29325</name></names><types><type language="English">tomb</type></types><description><div language="English">A tomb in ...</div></description><admins><adminsys><admtop>sBangkokSilomParsiCemetery</admtop></adminsys></admins><geography geotop="sBangkokSilomParsiCemetery" siteid="sBangkokSilomParsiCemetery" /><events /></ent>
-<ent id="sBangkokSilomParsiCemetery"><pi /><names><name language="English">Silom Parsi Cemetery</name><name language="English">Bang Rak Parsi Cemetery</name></names><types><type language="English">cemetery</type><type language="English">Parsi cemetery</type></types><description><div author="Oliver Streiter" language="English">The Silom Parsi Cemetery is a Parsi cemetery in direct vicinity to the Hakka, Hokkien and Cantonese Cemeteries. To enter the cemetery one has to enter the alley to the Cantonese school and push a rolling gate open, which is unlocked during day time. A gardien is living insight the area of the Christian and Parsi Cemetery and he will lock and unlock the cemetery. Within the compound, the cemetery is separated by a fence in two parts, the Christian Cemetery and the Parsi Cemetery. Within the Parsi cemeteries there are a few older Parsi tombs, while newer tombs with Christian or Muslim symbolisms are included. In the center of the areal of the Parsi cemetery is a monument commenmorating the establishment of the cemetery. A simple wooden house on the compound of the Parsi cemetery is where the gardien of the cemeteris lives during day time.</div></description><stats><stat type="tomb" cross="0" direct="4" indirect="0">4</stat></stats><communities><community /></communities><admins><adminsys><admtop>sBangRak</admtop></adminsys></admins><geography geotop="sBangRak" siteid="sBangRak"><street language="English" script="Latin">525 Soi Sueksa Witthaya</street><orientations><orientation system="geographic north">45</orientation></orientations><longitude src="percol-down">100.5258015</longitude><latitude src="percol-down">13.7242585</latitude></geography><culturaldomain /><events><event type="fieldwork" day="2018-02-04" lunar="2017-12-19" /></events></ent>
+<ent id="sBangkokSilomParsiCemetery">
+<pi />
+<names>
+<name language="English">Silom Parsi Cemetery</name>
+<name language="English">Bang Rak Parsi Cemetery</name>
+</names>
+<types>
+<type language="English">cemetery</type>
+<type language="English">Parsi cemetery</type>
+</types>
+<description>
+<div author="Oliver Streiter" language="English">The Silom Parsi Cemetery is a Parsi cemetery in direct vicinity to the Hakka, Hokkien and Cantonese Cemeteries. To enter the cemetery one has to enter the alley to the Cantonese school and push a rolling gate open, which is unlocked during day time. A gardien is living insight the area of the Christian and Parsi Cemetery and he will lock and unlock the cemetery. Within the compound, the cemetery is separated by a fence in two parts, the Christian Cemetery and the Parsi Cemetery. Within the Parsi cemeteries there are a few older Parsi tombs, while newer tombs with Christian or Muslim symbolisms are included. In the center of the areal of the Parsi cemetery is a monument commenmorating the establishment of the cemetery. A simple wooden house on the compound of the Parsi cemetery is where the gardien of the cemeteris lives during day time.</div>
+</description>
+<stats>
+<stat type="tomb" cross="0" direct="4" indirect="0">4</stat>
+</stats>
+<communities>
+<community />
+</communities>
+<admins>
+<adminsys>
+<admtop>sBangRak</admtop>
+</adminsys>
+</admins>
+<geography geotop="sBangRak" siteid="sBangRak">
+<street language="English" script="Latin">525 Soi Sueksa Witthaya</street>
+<orientations>
+<orientation system="geographic north">45</orientation>
+</orientations>
+<longitude src="percol-down">100.5258015</longitude>
+<latitude src="percol-down">13.7242585</latitude>
+</geography>
+<culturaldomain />
+<events>
+<event type="fieldwork" day="2018-02-04" lunar="2017-12-19" />
+</events>
+<ent id="s293278">
+<pi />
+<names>
+<name language="English">s29327</name>
+<name language="English" ucd="LATIN">s29327</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<description>
+<div language="English">A tomb in ...</div>
+</description>
+<admins>
+<adminsys>
+<admtop>sBangkokSilomParsiCemetery</admtop>
+</adminsys>
+</admins>
+<geography geotop="sBangkokSilomParsiCemetery" siteid="sBangkokSilomParsiCemetery" />
+<events />
+</ent>
+<ent id="sNewParsi29325">
+<pi />
+<names>
+<name language="English">s29325</name>
+<name language="English" ucd="LATIN">s29325</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<description>
+<div language="English">A tomb in ...</div>
+</description>
+<admins>
+<adminsys>
+<admtop>sBangkokSilomParsiCemetery</admtop>
+</adminsys>
+</admins>
+<geography geotop="sBangkokSilomParsiCemetery" siteid="sBangkokSilomParsiCemetery" />
+<events />
+<ent id="o111297">
+<pi />
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sNewParsi29325" siteid="sNewParsi29325" />
+<media>
+<img date="2024-04-04" time="09-46-28" url="/2024/04/04/DATE20240404TIME094628GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB8352UPLOAD052124UPID4184ORIGDSC02655.jpg">
+<labels>
+<label engine="Google Vision API" score="0.95" topical="0.2196">Headstone</label>
+<label engine="Google Vision API" score="0.95" topical="0.4898">Grave</label>
+<label engine="Google Vision API" score="0.92" topical="0.0217">Memorial</label>
+<label engine="Google Vision API" score="0.90" topical="0.4295">Cemetery</label>
+<label engine="Google Vision API" score="0.61" topical="0.2206">Tomb</label>
+<label engine="Google Vision API" score="0.56" topical="0.0044">Cross</label>
+<label engine="Google Vision API" score="0.54" topical="0.0034">Stele</label>
+<label engine="Google Vision API" score="0.52" topical="0.0000">Flower Arranging</label>
+<label engine="Google Vision API" score="0.52" topical="0.0098">Granite</label>
+<label engine="Google Vision API" score="0.51" topical="0.0022">Commemorative plaque</label>
+</labels>
+</img>
+</media>
+<sem />
+<ref />
+<events>
+<event type="fieldwork" day="2024-04-04" />
+</events>
+</ent>
+<ent id="o58618">
+<pi />
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sNewParsi29325" siteid="sNewParsi29325" />
+<media>
+<img date="2024-04-04" time="09-46-28" url="/2024/04/04/DATE20240404TIME094628GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB8352UPLOAD052124UPID4184ORIGDSC02655.jpg" />
+</media>
+<sem />
+<ref />
+<events>
+<event type="fieldwork" day="2024-04-04" />
+</events>
+</ent>
+</ent>
+<ent id="sNewParsi29326">
+<pi />
+<names>
+<name language="English">s29326</name>
+<name language="English" ucd="LATIN">s29326</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<description>
+<div language="English">A tomb in ...</div>
+</description>
+<admins>
+<adminsys>
+<admtop>sBangkokSilomParsiCemetery</admtop>
+</adminsys>
+</admins>
+<geography geotop="sBangkokSilomParsiCemetery" siteid="sBangkokSilomParsiCemetery" />
+<events />
+<ent id="o111320">
+<pi />
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sNewParsi29326" siteid="sNewParsi29326" />
+<media>
+<img date="2024-04-04" time="09-46-35" url="/2024/04/04/DATE20240404TIME094635GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB9392UPLOAD052124UPID4186ORIGDSC02656.jpg" />
+</media>
+<sem />
+<ref />
+<events>
+<event type="fieldwork" day="2024-04-04" />
+</events>
+</ent>
+<ent id="o58624">
+<pi />
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sNewParsi29326" siteid="sNewParsi29326" />
+<media>
+<img date="2024-04-04" time="09-46-35" url="/2024/04/04/DATE20240404TIME094635GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB9392UPLOAD052124UPID4186ORIGDSC02656.jpg" />
+</media>
+<sem />
+<ref />
+<events>
+<event type="fieldwork" day="2024-04-04" />
+</events>
+</ent>
+</ent>
+<ent id="sNewParsi30580">
+<pi />
+<names>
+<name language="English">s30580</name>
+<name language="English" ucd="LATIN">s30580</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<description>
+<div language="English">A tomb in ...</div>
+</description>
+<admins>
+<adminsys>
+<admtop>sBangkokSilomParsiCemetery</admtop>
+</adminsys>
+</admins>
+<geography geotop="sBangkokSilomParsiCemetery" siteid="sBangkokSilomParsiCemetery" />
+<events />
+<ent id="o58607">
+<pi />
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sNewParsi30580" siteid="sNewParsi30580" />
+<media>
+<img date="2024-04-04" time="09-46-45" url="/2024/04/04/DATE20240404TIME094645GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB8067UPLOAD052124UPID4183ORIGDSC02658.jpg" />
+</media>
+<sem />
+<ref />
+<events>
+<event type="fieldwork" day="2024-04-04" />
+</events>
+</ent>
+<ent id="o111258">
+<pi />
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sNewParsi30580" siteid="sNewParsi30580" />
+<media>
+<img date="2024-04-04" time="09-46-45" url="/2024/04/04/DATE20240404TIME094645GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB8067UPLOAD052124UPID4183ORIGDSC02658.jpg" />
+</media>
+<sem />
+<ref />
+<events>
+<event type="fieldwork" day="2024-04-04" />
+</events>
+</ent>
+</ent>
+</ent>
 </document>

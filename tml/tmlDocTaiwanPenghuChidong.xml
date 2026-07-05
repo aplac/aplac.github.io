@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
-<document latitude="N(22|23)" longitude="E(119|120)">
-<ent id="sChidongXiyu"><names><name language="English">Chidong Village</name><name script="Chinese-traditional">池東村</name></names><types><type language="English">settlement</type></types><communities><community><name language="English">Chidong</name><name script="Chinese-traditional">小池角</name></community></communities><geography geotop="sPenghuXiyuIsland" siteid="sPenghuXiyuIsland"><longitude src="percol-up">119.5071015</longitude><latitude src="percol-up">23.6032225</latitude><archipelago><names><name script="Latin">Penghu Islands</name><name script="Latin">Pescadores Islands</name><name script="Chinese-traditional">澎湖群島</name></names></archipelago><island><names><name language="English">Xiyu Island</name><name language="Mandarin" script="Chinese-traditional">西嶼</name></names></island></geography><events><event type="fieldwork" day="2020-04-04" lunar="2020-03-12" timefrom="14:54:59" timeto="16:13:54"><agents><agent refid="con1" role="researcher" /><agent refid="con15" role="researcher" /></agents></event></events></ent>
-</document>
+<document latitude="N(22|23)" longitude="E(119|120)"></document>

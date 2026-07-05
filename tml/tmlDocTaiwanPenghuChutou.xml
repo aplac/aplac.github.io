@@ -2,72 +2,151 @@
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
 <document latitude="N(22|23)" longitude="E(119|120)">
-<ent id="s114004">
-<types>
-<type language="English">water body</type></types>
-<communities>
-<community>
-<communityname language="English" script="Latin">Magong</communityname></community>
-</communities>
-<names>
-<name language="English">Chutou Island Coastal Waters</name></names>
-<geography geotop="s113690" siteid="s113690"><latitude src="percol-down">23.217523</latitude><archipelago><names><name script="Latin">Penghu Islands</name><name script="Latin">Pescadores Islands</name><name script="Chinese-traditional">澎湖群島</name></names></archipelago><longitude src="percol-down">119.5414785</longitude><island><names><name script="Chinese-traditional">鋤頭嶼</name><name language="English">Chutou Island</name></names></island></geography><description>
-<div author="Oliver Streiter" language="English">Chutou Island Coastal Waters</div></description>
-<admins/><sem figurative="no" writing="uninscribed"/></ent>
-<ent id="s113942">
-<types>
-<type language="English">coastline</type></types>
-<communities>
-<community>
-<name language="English">Magong</name></community>
-</communities>
-<names>
-<name language="English">Chutou Coastline</name></names>
-<geography geotop="s113690" siteid="s113690"><latitude src="percol-down">23.217523</latitude><archipelago><names><name script="Latin">Penghu Islands</name><name script="Latin">Pescadores Islands</name><name script="Chinese-traditional">澎湖群島</name></names></archipelago><longitude src="percol-down">119.5414785</longitude><island><names><name script="Chinese-traditional">鋤頭嶼</name><name language="English">Chutou Island</name></names></island></geography><description>
-<div author="Oliver Streiter" language="English">Chutou Coastline</div></description>
-<admins/><sem figurative="no" writing="uninscribed"/></ent>
 <ent id="s113690">
 <types>
-<type language="English">island</type></types>
+<type language="English">island</type>
+</types>
 <admins>
 <adminsys>
-<admtop>sWanganDistrictPenghu</admtop></adminsys>
+<admtop>sWanganDistrictPenghu</admtop>
+</adminsys>
 </admins>
 <communities>
 <community>
-<communityname language="English" script="Latin">Dongji</communityname></community>
+<communityname language="English" script="Latin">Dongji</communityname>
+</community>
 </communities>
 <names>
-<name script="Chinese-traditional">鋤>頭嶼</name><name language="English">Chutou Island</name></names>
-<geography geotop="sPenghuArchipelago" siteid="sPenghuArchipelago"><rocks><rock language="English" script="Latin">basalt</rock></rocks><archipelago><names><name script="Latin">Pescadores Islands</name><name script="Latin">Penghu Islands</name><name script="Chinese-traditional">澎湖群島</name></names></archipelago><island><names><name script="Chinese-traditional">鋤頭嶼</name><name language="English">Chutou Island</name></names></island><longitude src="percol-down">119.5414785</longitude><latitude src="percol-down">23.56</latitude></geography><events>
+<name script="Chinese-traditional">鋤&gt;頭嶼</name>
+<name language="English">Chutou Island</name>
+</names>
+<geography geotop="sPenghuArchipelago" siteid="sPenghuArchipelago">
+<rocks>
+<rock language="English" script="Latin">basalt</rock>
+</rocks>
+<archipelago>
+<names>
+<name script="Latin">Pescadores Islands</name>
+<name script="Latin">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">鋤頭嶼</name>
+<name language="English">Chutou Island</name>
+</names>
+</island>
+<longitude src="percol-down">119.5414785</longitude>
+<latitude src="percol-down">23.56</latitude>
+</geography>
+<events>
 <event type="fieldwork" day="2017-07-03" lunar="2017-06-10" timefrom="09:18:15" timeto="09:18:28">
 <agents>
 <agent refid="con18" role="researcher">
 <names>
-<name language="English">Mandy TO</name></names>
+<name language="English">Mandy TO</name>
+</names>
 </agent>
 <agent>
 <names>
-<name language="English">Tammy</name></names>
+<name language="English">Tammy</name>
+</names>
 </agent>
 <agent refid="con10" role="researcher">
 <names>
-<name language="English">James Xavier MORRIS</name></names>
+<name language="English">James Xavier MORRIS</name>
+</names>
 </agent>
 <agent>
 <names>
-<name language="English">A-Yeh</name></names>
+<name language="English">A-Yeh</name>
+</names>
 </agent>
 </agents>
 </event>
 </events>
-<admins/><culturaldomain>
+<admins />
+<culturaldomain>
 <practices>
 <practice>
 <names>
-<name language="English">fishing</name><name script="Chinese-traditional">捕魚</name></names>
+<name language="English">fishing</name>
+<name script="Chinese-traditional">捕魚</name>
+</names>
 </practice>
 </practices>
 </culturaldomain>
-<sem figurative="no" writing="uninscribed"/></ent>
+<sem figurative="no" writing="uninscribed" />
+<ent id="s114004">
+<types>
+<type language="English">water body</type>
+</types>
+<communities>
+<community>
+<communityname language="English" script="Latin">Magong</communityname>
+</community>
+</communities>
+<names>
+<name language="English">Chutou Island Coastal Waters</name>
+</names>
+<geography geotop="s113690" siteid="s113690">
+<latitude src="percol-down">23.217523</latitude>
+<archipelago>
+<names>
+<name script="Latin">Penghu Islands</name>
+<name script="Latin">Pescadores Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-down">119.5414785</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">鋤頭嶼</name>
+<name language="English">Chutou Island</name>
+</names>
+</island>
+</geography>
+<description>
+<div author="Oliver Streiter" language="English">Chutou Island Coastal Waters</div>
+</description>
+<admins />
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="s113942">
+<types>
+<type language="English">coastline</type>
+</types>
+<communities>
+<community>
+<name language="English">Magong</name>
+</community>
+</communities>
+<names>
+<name language="English">Chutou Coastline</name>
+</names>
+<geography geotop="s113690" siteid="s113690">
+<latitude src="percol-down">23.217523</latitude>
+<archipelago>
+<names>
+<name script="Latin">Penghu Islands</name>
+<name script="Latin">Pescadores Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-down">119.5414785</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">鋤頭嶼</name>
+<name language="English">Chutou Island</name>
+</names>
+</island>
+</geography>
+<description>
+<div author="Oliver Streiter" language="English">Chutou Coastline</div>
+</description>
+<admins />
+<sem figurative="no" writing="uninscribed" />
+</ent>
+</ent>
 </document>

@@ -2,504 +2,1073 @@
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
 <document latitude="N(22|23)" longitude="E(119|120)">
-<ent id="o1054243">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s126567" siteid="s126567"><latitude src="percol-up">23.785243</latitude><longitude src="percol-up">119.599503</longitude><island><names><name language="English">Mudou Island</name><name script="Chinese-traditional">目斗嶼</name></names></island></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785243" longitude="119.599503" measurement="no" public="yes" time="14:22:19" url="/2021/07/30/DATE20210730TIME142219GEOBOOLyesLONGE119599503LATN23785243DIRnoALT13SIZE38972THUMB6935ORIGOliverDSC01171.jpg" zoom="no">
-<labels>
-<label engine="Google Vision API"/></labels>
-</img>
-</media>
-<sem writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
-<ent id="o1054245">
-<types>
-<type language="English">animal</type></types>
-<geography geotop="s126567" siteid="s126567"><latitude src="percol-up">23.785503</latitude><longitude src="percol-up">119.599817</longitude><island><names><name language="English">Mudou Island</name><name script="Chinese-traditional">目斗嶼</name></names></island></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785503" longitude="119.599817" measurement="no" public="yes" time="14:23:27" url="/2021/07/30/DATE20210730TIME142327GEOBOOLyesLONGE119599817LATN23785503DIRnoALT24SIZE38972THUMB4204ORIGOliverDSC01173.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
-<ent id="o1054246">
-<types>
-<type language="English">animal</type></types>
-<geography geotop="s126567" siteid="s126567"><latitude src="percol-up">23.785534</latitude><longitude src="percol-up">119.599834</longitude><island><names><name language="English">Mudou Island</name><name script="Chinese-traditional">目斗嶼</name></names></island></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785534" longitude="119.599834" measurement="no" public="yes" time="14:23:33" url="/2021/07/30/DATE20210730TIME142333GEOBOOLyesLONGE119599834LATN23785534DIRnoALT22SIZE38972THUMB5765ORIGOliverDSC01174.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
-<ent id="o1054247">
-<types>
-<type language="English">site marker</type></types>
-<geography geotop="s126567" siteid="s126567"><longitude src="percol-down">119.59982550000001</longitude><latitude src="percol-down">23.7855185</latitude><island><names><name language="English">Mudou Island</name><name script="Chinese-traditional">目斗嶼</name></names></island></geography><media>
-<img date="2021-07-30" flash="no" measurement="no" public="yes" time="14:24:17" url="/2021/07/30/DATE20210730TIME142417GEOBOOLnoLONGE0000000LATN0000000DIR291ALTnoSIZE11472THUMB4165ORIGOliverDSCN7370.jpg" zoom="no">
-<labels>
-<label engine="Google Vision API" score="0.95" topical="0.0077">Tower</label><label engine="Google Vision API" score="0.94" topical="0.1927">Coast</label><label engine="Google Vision API" score="0.93" topical="0.8047">Lighthouse</label><label engine="Google Vision API" score="0.93" topical="0.0025">Coastal and oceanic landforms</label><label engine="Google Vision API" score="0.91" topical="0.0199">Rock</label><label engine="Google Vision API" score="0.90" topical="0.2822">Sea</label><label engine="Google Vision API" score="0.90" topical="0.0488">Promontory</label><label engine="Google Vision API" score="0.86" topical="0.0213">Ocean</label><label engine="Google Vision API" score="0.84" topical="0.0101">Headland</label><label engine="Google Vision API" score="0.78" topical="0.0722">Beacon</label></labels>
-</img>
-</media>
-<sem writing="inscribed">
-<arts/><genres/><texts>
-<text id="t1" script="Chinese-traditional" side="f" writingDirection="">
-<transcription/><normalization>
-<div/></normalization>
-</text>
-</texts>
-</sem>
-<ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
-<ent id="o1054249">
-<types>
-<type language="English">geological sample</type></types>
-<geography geotop="s126567" siteid="s126567"><latitude src="percol-up">23.785841</latitude><longitude src="percol-up">119.600273</longitude><island><names><name language="English">Mudou Island</name><name script="Chinese-traditional">目斗嶼</name></names></island></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785841" longitude="119.600273" measurement="no" public="yes" time="14:26:51" url="/2021/07/30/DATE20210730TIME142651GEOBOOLyesLONGE119600273LATN23785841DIRnoALT5SIZE38972THUMB10353ORIGOliverDSC01176.jpg" zoom="no">
-<labels>
-<label engine="Google Vision API"/></labels>
-</img>
-</media>
-<sem writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events>
-<event type="production">
-<agents>
-<agent role="stone carver"/></agents>
-<material language="English">stone</material><technique language="English">none</technique></event>
-</events>
-</ent>
-<ent id="o1054250">
-<types>
-<type language="English">structure front side</type></types>
-<geography geotop="s126569" siteid="s126569"><latitude src="percol-up">23.785998</latitude><longitude src="percol-up">119.600331</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785968" longitude="119.600327" measurement="no" public="yes" time="14:30:12" url="/2021/07/30/DATE20210730TIME143012GEOBOOLyesLONGE119600327LATN23785968DIR299ALT0SIZE11472THUMB3988ORIGOliverDSCN7372.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.786017" longitude="119.600331" measurement="no" public="yes" time="14:28:05" url="/2021/07/30/DATE20210730TIME142805GEOBOOLyesLONGE119600331LATN23786017DIRnoALT12SIZE38972THUMB8444ORIGOliverDSC01179.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.785998" longitude="119.600371" measurement="no" public="yes" time="14:27:24" url="/2021/07/30/DATE20210730TIME142724GEOBOOLyesLONGE119600371LATN23785998DIRnoALT11SIZE38972THUMB9410ORIGOliverDSC01177.jpg" zoom="no"/></media>
-<sem figurative="no" writing="uninscribed"/></ent>
-<ent id="o1054251">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="s126569" siteid="s126569"><latitude src="percol-up">23.786</latitude><longitude src="percol-up">119.600322</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786000" longitude="119.600322" measurement="no" public="yes" time="14:27:57" url="/2021/07/30/DATE20210730TIME142757GEOBOOLyesLONGE119600322LATN23786000DIRnoALT13SIZE38972THUMB6740ORIGOliverDSC01178.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1054254">
-<types>
-<type language="English">structure</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786009</latitude><longitude src="percol-up">119.600359</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785996" longitude="119.600392" measurement="no" public="yes" time="14:28:42" url="/2021/07/30/DATE20210730TIME142842GEOBOOLyesLONGE119600392LATN23785996DIRnoALT13SIZE38972THUMB9887ORIGOliverDSC01182.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.786021" longitude="119.600326" measurement="no" public="yes" time="14:28:21" url="/2021/07/30/DATE20210730TIME142821GEOBOOLyesLONGE119600326LATN23786021DIRnoALT12SIZE38972THUMB8343ORIGOliverDSC01181.jpg" zoom="no"/></media>
-<sem figurative="no" writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
-<ent id="o1054256">
-<types>
-<type language="English">entrance</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786017</latitude><longitude src="percol-up">119.600487</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786024" longitude="119.600488" measurement="no" public="yes" time="14:29:29" url="/2021/07/30/DATE20210730TIME142929GEOBOOLyesLONGE119600488LATN23786024DIRnoALT12SIZE38972THUMB8859ORIGOliverDSC01187.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.786011" longitude="119.600486" measurement="no" public="yes" time="14:28:59" url="/2021/07/30/DATE20210730TIME142859GEOBOOLyesLONGE119600486LATN23786011DIRnoALT12SIZE38972THUMB10519ORIGOliverDSC01183.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054257">
-<types>
-<type language="English">site name tablet</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786014</latitude><longitude src="percol-up">119.60049</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786014" longitude="119.600490" measurement="no" public="yes" time="14:29:05" url="/2021/07/30/DATE20210730TIME142905GEOBOOLyesLONGE119600490LATN23786014DIRnoALT12SIZE38972THUMB10147ORIGOliverDSC01184.jpg" zoom="no"/></media>
-<sem writing="inscribed">
-<arts/><genres/><texts>
-<text id="t1" characters="5" role="epigraph" script="Chinese-traditional" side="f" writingDirection="t2br2l">
-<transcription completed="yes">目斗福德祠</transcription><normalization>
-<div id="1" script="Chinese-traditional">目斗福德祠</div></normalization>
-<transliterations>
-<transliteration system="peh-oe-ji">bo̍k táu hok Tik sī</transliteration><transliteration system="cantonese">muk6 dau2 fuk1 dak1 ci4</transliteration><transliteration system="Hanyu pinyin">mù dòu fú dé cí</transliteration></transliterations>
-<translations>
-<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-03 23:00:42">
-<div id="1" language="English">Mu Dou Fude Temple</div></trans>
-</translations>
-</text>
-</texts>
-</sem>
-<ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054258">
-<types>
-<type language="English">window</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786016</latitude><longitude src="percol-up">119.60049</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786016" longitude="119.600490" measurement="no" public="yes" time="14:29:13" url="/2021/07/30/DATE20210730TIME142913GEOBOOLyesLONGE119600490LATN23786016DIRnoALT12SIZE38972THUMB9799ORIGOliverDSC01185.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054259">
-<types>
-<type language="English">window</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786035</latitude><longitude src="percol-up">119.600483</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786035" longitude="119.600483" measurement="no" public="yes" time="14:29:22" url="/2021/07/30/DATE20210730TIME142922GEOBOOLyesLONGE119600483LATN23786035DIRnoALT12SIZE38972THUMB10978ORIGOliverDSC01186.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054261">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786056</latitude><longitude src="percol-up">119.60048</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786016" longitude="119.600504" measurement="no" public="yes" time="14:29:37" url="/2021/07/30/DATE20210730TIME142937GEOBOOLyesLONGE119600504LATN23786016DIRnoALT12SIZE38972THUMB9824ORIGOliverDSC01188.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.786056" longitude="119.600480" measurement="no" public="yes" time="14:29:52" url="/2021/07/30/DATE20210730TIME142952GEOBOOLyesLONGE119600480LATN23786056DIRnoALT12SIZE38972THUMB9830ORIGOliverDSC01189.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.786058" longitude="119.600476" measurement="no" public="yes" time="14:29:59" url="/2021/07/30/DATE20210730TIME142959GEOBOOLyesLONGE119600476LATN23786058DIRnoALT12SIZE38972THUMB8519ORIGOliverDSC01190.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054264">
-<types>
-<type language="English">outer space</type></types>
-<geography geotop="s126569" siteid="s126569"><latitude src="percol-up">23.785968</latitude><longitude src="percol-up">119.600378</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785968" longitude="119.600378" measurement="no" public="yes" time="14:30:03" url="/2021/07/30/DATE20210730TIME143003GEOBOOLyesLONGE119600378LATN23785968DIR303ALT0SIZE11472THUMB4676ORIGOliverDSCN7371.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054265">
-<types>
-<type language="English">structure</type></types>
-<geography geotop="o1054250" siteid="s126569"><latitude src="percol-up">23.785993</latitude><longitude src="percol-up">119.600328</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785968" longitude="119.600327" measurement="no" public="yes" time="14:30:12" url="/2021/07/30/DATE20210730TIME143012GEOBOOLyesLONGE119600327LATN23785968DIR299ALT0SIZE11472THUMB3988ORIGOliverDSCN7372.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.786033" longitude="119.600328" measurement="no" public="yes" time="14:28:15" url="/2021/07/30/DATE20210730TIME142815GEOBOOLyesLONGE119600328LATN23786033DIRnoALT11SIZE38972THUMB9317ORIGOliverDSC01180.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.785988" longitude="119.600328" measurement="no" public="yes" time="14:37:47" url="/2021/07/30/DATE20210730TIME143747GEOBOOLyesLONGE119600328LATN23785988DIR305ALT0SIZE11472THUMB4444ORIGOliverDSCN7379.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.785998" longitude="119.600371" measurement="no" public="yes" time="14:27:24" url="/2021/07/30/DATE20210730TIME142724GEOBOOLyesLONGE119600371LATN23785998DIRnoALT11SIZE38972THUMB9410ORIGOliverDSC01177.jpg" zoom="no"/></media>
-<sem figurative="no" writing="uninscribed"/></ent>
-<ent id="o1054267">
-<types>
-<type language="English">outer space</type></types>
-<geography geotop="s126570" siteid="s126570"><latitude src="percol-up">23.786003</latitude><longitude src="percol-up">119.600637</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786003" longitude="119.600637" measurement="no" public="yes" time="14:32:28" url="/2021/07/30/DATE20210730TIME143228GEOBOOLyesLONGE119600637LATN23786003DIRnoALT12SIZE38972THUMB9695ORIGOliverDSC01196.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
-<ent id="o1054268">
-<types>
-<type language="English">structure</type></types>
-<geography geotop="o1054267" siteid="s126570"><latitude src="percol-up">23.785973</latitude><longitude src="percol-up">119.600679</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600693" measurement="no" public="yes" time="14:32:53" url="/2021/07/30/DATE20210730TIME143253GEOBOOLyesLONGE119600693LATN23785973DIRnoALT12SIZE38972THUMB9501ORIGOliverDSC01197.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.785958" longitude="119.600672" measurement="no" public="yes" time="14:35:50" url="/2021/07/30/DATE20210730TIME143550GEOBOOLyesLONGE119600672LATN23785958DIR347ALT0SIZE11472THUMB5154ORIGOliverDSCN7377.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.786003" longitude="119.600637" measurement="no" public="yes" time="14:32:28" url="/2021/07/30/DATE20210730TIME143228GEOBOOLyesLONGE119600637LATN23786003DIRnoALT12SIZE38972THUMB9695ORIGOliverDSC01196.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600687" measurement="no" public="yes" time="14:32:59" url="/2021/07/30/DATE20210730TIME143259GEOBOOLyesLONGE119600687LATN23785973DIRnoALT12SIZE38972THUMB8572ORIGOliverDSC01198.jpg" zoom="no"/></media>
-<sem figurative="no" writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
-<ent id="o1054269">
-<types>
-<type language="English">structure front side</type></types>
-<geography geotop="o1054268" siteid="s126570"><latitude src="percol-up">23.785965</latitude><longitude src="percol-up">119.600679</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785958" longitude="119.600672" measurement="no" public="yes" time="14:35:50" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143550GEOBOOLyesLONGE119600672LATN23785958DIR347ALT0SIZE11472THUMB5154ORIGOliverDSCN7377.jpg" zoom="no"/><img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600687" measurement="no" public="yes" time="14:32:59" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143259GEOBOOLyesLONGE119600687LATN23785973DIRnoALT12SIZE38972THUMB8572ORIGOliverDSC01198.jpg" zoom="no"/></media>
-<sem figurative="no" writing="uninscribed"/><ref/><events>
-<event/></events>
-</ent>
-<ent id="o1054270">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="o1054268" siteid="s126570"><latitude src="percol-up">23.785974</latitude><longitude src="percol-up">119.600681</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785974" longitude="119.600681" measurement="no" public="yes" time="14:33:05" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143305GEOBOOLyesLONGE119600681LATN23785974DIRnoALT12SIZE38972THUMB7099ORIGOliverDSC01199.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref/><events>
-<event/></events>
-</ent>
-<ent id="o1054275">
-<types>
-<type language="English">compass</type></types>
-<geography geotop="s126570" siteid="s126570"><latitude src="percol-up">23.785967</latitude><longitude src="percol-up">119.600667</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785967" longitude="119.600667" measurement="yes" public="no" time="14:36:05" url="/2021/07/30/DATE20210730TIME143605GEOBOOLyesLONGE119600667LATN23785967DIR259ALT0SIZE11472THUMB4418ORIGOliverDSCN7378.jpg" zoom="no"/></media>
-<sem writing="inscribed">
-<arts/><genres/><texts>
-<text id="t1" role="epigraph" side="f" ucd="{UCD}" writingDirection="t2br2l">
-<transcription completed="yes">343</transcription><normalization>
-<div id="1" ucd="{UCD}">343</div></normalization>
-<transliterations/><translations>
-<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-03 23:00:45">
-<div/></trans>
-</translations>
-</text>
-</texts>
-</sem>
-<ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events>
-<event type="compass measurement">
-<agents>
-<agent refid="con1"/></agents>
-</event>
-</events>
-</ent>
-<ent id="o1054834">
-<types>
-<type language="English" script="Latin">object</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786024</latitude><longitude src="percol-up">119.600486</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786024" longitude="119.600486" measurement="no" public="yes" time="14:30:06" url="/2021/07/30/DATE20210730TIME143006GEOBOOLyesLONGE119600486LATN23786024DIRnoALT13SIZE38972THUMB10763ORIGOliverDSC01191.jpg" zoom="no"/></media>
-<sem/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054835">
-<types>
-<type language="English" script="Latin">object</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786027</latitude><longitude src="percol-up">119.600499</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786027" longitude="119.600499" measurement="no" public="yes" time="14:30:10" url="/2021/07/30/DATE20210730TIME143010GEOBOOLyesLONGE119600499LATN23786027DIRnoALT13SIZE38972THUMB10492ORIGOliverDSC01192.jpg" zoom="no"/></media>
-<sem/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054836">
-<types>
-<type language="English" script="Latin">object</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786025</latitude><longitude src="percol-up">119.600507</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786025" longitude="119.600507" measurement="no" public="yes" time="14:30:14" url="/2021/07/30/DATE20210730TIME143014GEOBOOLyesLONGE119600507LATN23786025DIRnoALT13SIZE38972THUMB10524ORIGOliverDSC01193.jpg" zoom="no"/></media>
-<sem/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054837">
-<types>
-<type language="English" script="Latin">object</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.78604</latitude><longitude src="percol-up">119.600464</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786040" longitude="119.600464" measurement="no" public="yes" time="14:30:26" url="/2021/07/30/DATE20210730TIME143026GEOBOOLyesLONGE119600464LATN23786040DIRnoALT14SIZE38972THUMB8043ORIGOliverDSC01194.jpg" zoom="no"/></media>
-<sem/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054838">
-<types>
-<type language="English" script="Latin">object</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786046</latitude><longitude src="percol-up">119.600447</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786046" longitude="119.600447" measurement="no" public="yes" time="14:30:32" url="/2021/07/30/DATE20210730TIME143032GEOBOOLyesLONGE119600447LATN23786046DIRnoALT15SIZE38972THUMB8859ORIGOliverDSC01195.jpg" zoom="no"/></media>
-<sem/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054839">
-<types>
-<type language="English" script="Latin">object</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.785977</latitude><longitude src="percol-up">119.60048</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785977" longitude="119.600480" measurement="no" public="yes" time="14:31:15" url="/2021/07/30/DATE20210730TIME143115GEOBOOLyesLONGE119600480LATN23785977DIR17ALT0SIZE11472THUMB4803ORIGOliverDSCN7374.jpg" zoom="no"/></media>
-<sem/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054840">
-<types>
-<type language="English">compass</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786013</latitude><longitude src="percol-up">119.600572</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786013" longitude="119.600572" measurement="yes" public="no" time="14:34:20" url="/2021/07/30/DATE20210730TIME143420GEOBOOLyesLONGE119600572LATN23786013DIR307ALT0SIZE11472THUMB4795ORIGOliverDSCN7375.jpg" zoom="no"/></media>
-<sem writing="inscribed">
-<arts/><genres/><texts>
-<text id="t1" role="epigraph" side="f" ucd="{UCD}" writingDirection="t2br2l">
-<transcription completed="yes">269</transcription><normalization>
-<div id="1" ucd="{UCD}">269</div></normalization>
-<transliterations/><translations>
-<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-03 23:00:42">
-<div/></trans>
-</translations>
-</text>
-</texts>
-</sem>
-<ref>
-<event/></ref>
-<events>
-<event type="compass measurement">
-<agents>
-<agent refid="con1"/></agents>
-</event>
-</events>
-</ent>
-<ent id="o1054841">
-<types>
-<type language="English" script="Latin">object</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786017</latitude><longitude src="percol-up">119.600562</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786017" longitude="119.600562" measurement="no" public="yes" time="14:34:23" url="/2021/07/30/DATE20210730TIME143423GEOBOOLyesLONGE119600562LATN23786017DIR303ALT0SIZE11472THUMB4812ORIGOliverDSCN7376.jpg" zoom="no"/></media>
-<sem/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054842">
-<types>
-<type language="English" script="Latin">object</type></types>
-<geography geotop="s126568" siteid="s126568"><latitude src="percol-up">23.786024</latitude><longitude src="percol-up">119.600585</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786024" longitude="119.600585" measurement="no" public="yes" time="14:34:46" url="/2021/07/30/DATE20210730TIME143446GEOBOOLyesLONGE119600585LATN23786024DIRnoALT13SIZE38972THUMB10164ORIGOliverDSC01202.jpg" zoom="no"/></media>
-<sem/><ref>
-<event/></ref>
-<events/></ent>
-<ent id="o1054844">
-<types>
-<type language="English">compass</type></types>
-<geography geotop="s126569" siteid="s126569"><latitude src="percol-up">23.785983</latitude><longitude src="percol-up">119.600278</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785983" longitude="119.600278" measurement="yes" public="no" time="14:39:03" url="/2021/07/30/DATE20210730TIME143903GEOBOOLyesLONGE119600278LATN23785983DIR308ALT0SIZE11472THUMB4256ORIGOliverDSCN7380.jpg" zoom="no"/></media>
-<sem writing="inscribed">
-<arts/><genres/><texts>
-<text id="t1" role="epigraph" side="f" ucd="{UCD}" writingDirection="t2br2l">
-<transcription completed="yes">106</transcription><normalization>
-<div id="1" ucd="{UCD}">106</div></normalization>
-<transliterations/><translations>
-<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-03 23:00:44">
-<div/></trans>
-</translations>
-</text>
-</texts>
-</sem>
-<ref>
-<event/></ref>
-<events>
-<event type="compass measurement">
-<agents>
-<agent refid="con1"/></agents>
-</event>
-</events>
-</ent>
-<ent id="o1093067">
-<types>
-<type language="English">censer</type></types>
-<geography geotop="o1054251" siteid="s126569"/></ent>
-<ent id="o1093149">
-<types>
-<type language="English">entrance</type></types>
-<geography geotop="o1054269" siteid="s126570"><latitude src="percol-up">23.785973</latitude><longitude src="percol-up">119.600687</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600687" measurement="no" public="yes" time="14:32:59" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143259GEOBOOLyesLONGE119600687LATN23785973DIRnoALT12SIZE38972THUMB8572ORIGOliverDSC01198.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref/><events>
-<event/></events>
-</ent>
-<ent id="o1093151">
-<types>
-<type language="English">structure left side</type></types>
-<geography geotop="o1054268" siteid="s126570"><latitude src="percol-up">23.786003</latitude><longitude src="percol-up">119.600637</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.786003" longitude="119.600637" measurement="no" public="yes" time="14:32:28" url="/2021/07/30/DATE20210730TIME143228GEOBOOLyesLONGE119600637LATN23786003DIRnoALT12SIZE38972THUMB9695ORIGOliverDSC01196.jpg" zoom="no"/></media>
-<sem figurative="no" writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
-<ent id="o1093152">
-<types>
-<type language="English">structure right side</type></types>
-<geography geotop="s126570" siteid="s126570"><latitude src="percol-up">23.785973</latitude><longitude src="percol-up">119.600693</longitude><continent><names><name language="English">European Continent</name></names></continent></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600693" measurement="no" public="yes" time="14:32:53" url="/2021/07/30/DATE20210730TIME143253GEOBOOLyesLONGE119600693LATN23785973DIRnoALT12SIZE38972THUMB9501ORIGOliverDSC01197.jpg" zoom="no"/></media>
-<sem figurative="no" writing="uninscribed"/></ent>
-<ent id="o1093153">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="o1054270" siteid="s126570"><latitude src="percol-up">23.785974</latitude><longitude src="percol-up">119.600681</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785974" longitude="119.600681" measurement="no" public="yes" time="14:33:05" url="/2021/07/30/DATE20210730TIME143305GEOBOOLyesLONGE119600681LATN23785974DIRnoALT12SIZE38972THUMB7099ORIGOliverDSC01199.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
-<ent id="o1093154">
-<types>
-<type language="English">altar table</type></types>
-<geography geotop="o1093153" siteid="s126570"><latitude src="percol-up">23.785974</latitude><longitude src="percol-up">119.600681</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785974" longitude="119.600681" measurement="no" public="yes" time="14:33:05" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143305GEOBOOLyesLONGE119600681LATN23785974DIRnoALT12SIZE38972THUMB7099ORIGOliverDSC01199.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref/><culturaldomain>
-<practices>
-<practice>
-<names>
-<name script="Latin">offering</name></names>
-<epistemics>implied</epistemics></practice>
-</practices>
-</culturaldomain>
-<events>
-<event type="production">
-<material language="English">brick</material><technique language="English" script="Latin"/></event>
-</events>
-</ent>
-<ent id="o1093155">
-<types>
-<type language="English">censer</type></types>
-<geography geotop="o1093153" siteid="s126570"><latitude src="percol-up">23.785974</latitude><longitude src="percol-up">119.600681</longitude></geography><media>
-<img date="2021-07-30" flash="no" latitude="23.785974" longitude="119.600681" measurement="no" public="yes" time="14:33:05" url="/2021/07/30/DATE20210730TIME143305GEOBOOLyesLONGE119600681LATN23785974DIRnoALT12SIZE38972THUMB7099ORIGOliverDSC01199.jpg" zoom="no"/></media>
-<sem writing="uninscribed"/><ref>
-<event>
-<agents/></event>
-</ref>
-<culturaldomain/><events/></ent>
 <ent id="s126567">
 <names>
-<name language="English">Mudou Island</name><name script="Chinese-traditional">目斗嶼</name></names>
+<name language="English">Mudou Island</name>
+<name script="Chinese-traditional">目斗嶼</name>
+</names>
 <types>
-<type language="English">island</type></types>
+<type language="English">island</type>
+</types>
 <communities>
 <community>
-<name language="English">Mudou</name><name script="Chinese-traditional">目斗</name></community>
+<name language="English">Mudou</name>
+<name script="Chinese-traditional">目斗</name>
+</community>
 </communities>
 <admins>
 <adminsys>
-<admtop>sBaishaDistrict</admtop></adminsys>
+<admtop>sBaishaDistrict</admtop>
+</adminsys>
 </admins>
 <admins>
-<adminsys/></admins>
-<geography geotop="sPenghuArchipelago" siteid="sPenghuArchipelago"><rocks><rock language="English" script="Latin">basalt</rock></rocks><longitude src="percol-up">119.59982550000001</longitude><latitude src="percol-up">23.7855185</latitude><archipelago><names><name script="Latin">Pescadores Islands</name><name script="Latin">Penghu Islands</name><name script="Chinese-traditional">澎湖群島</name></names></archipelago><island><names><name language="English">Mudou Island</name><name script="Chinese-traditional">目斗嶼</name></names></island></geography><media/><sem figurative="no" writing="uninscribed"/><ref>
+<adminsys />
+</admins>
+<geography geotop="sPenghuArchipelago" siteid="sPenghuArchipelago">
+<rocks>
+<rock language="English" script="Latin">basalt</rock>
+</rocks>
+<longitude src="percol-up">119.59982550000001</longitude>
+<latitude src="percol-up">23.7855185</latitude>
+<archipelago>
+<names>
+<name script="Latin">Pescadores Islands</name>
+<name script="Latin">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name language="English">Mudou Island</name>
+<name script="Chinese-traditional">目斗嶼</name>
+</names>
+</island>
+</geography>
+<media />
+<sem figurative="no" writing="uninscribed" />
+<ref>
 <event>
-<agents/></event>
+<agents />
+</event>
 </ref>
 <culturaldomain>
 <practices>
 <practice>
 <names>
-<name language="English">fishing</name><name script="Chinese-traditional">捕魚</name></names>
+<name language="English">fishing</name>
+<name script="Chinese-traditional">捕魚</name>
+</names>
 </practice>
 </practices>
 </culturaldomain>
 <events>
 <event type="fieldwork" day="2021-07-30" lunar="2021-06-21" timefrom="14:22:19" timeto="14:26:51">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="s126588">
+<names>
+<name script="Latin">Mudouyu Coastline</name>
+<name ucd="CJK">目斗嶼</name>
+</names>
+<types>
+<type script="Latin">coastline</type>
+</types>
+<geography geotop="s126567" siteid="s126567">
+<address ucd="CJK">台灣</address>
+<orientations>
+<orientation src="ground measurement" system="geographic north">166</orientation>
+</orientations>
+</geography>
+<events>
+<event type="fieldwork" date="2021-08-03">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
 </event>
 </events>
 </ent>
-<ent id="s126568">
-<names>
-<name language="English">Mudou Fude Ci</name><name ucd="CJK">目斗福德祠</name></names>
+<ent id="o1054243">
 <types>
-<type language="English">Fude ci</type><type language="English">Fude miao</type><type language="English">Earthgod shrine</type><type language="English">temple</type><type language="English">Taoist temple</type><type script="Chinese-traditional">福德廟</type><type script="Chinese-traditional">廟</type></types>
-<communities>
-<community>
-<name language="English">Mudou</name><name ucd="CJK">目斗</name></community>
-</communities>
-<geography geotop="s131893" siteid="s131893"><address ucd="CJK">台灣澎湖白沙目斗</address><pluscode>7PMXQJP2+C5</pluscode><longitude src="percol-up">119.600487</longitude><latitude src="percol-up">23.786024</latitude><orientations><orientation src="ground measurement" system="geographic north">166</orientation></orientations><archipelago><names><name language="English">Penghu Islands</name><name language="English">Pescadores Islands</name><name ucd="CJK">澎湖群島</name></names></archipelago><continent><names><name language="English">European Continent</name></names></continent></geography></ent>
-<ent id="s126569">
+<type language="English">inner space</type>
+</types>
+<geography geotop="s126567" siteid="s126567">
+<latitude src="percol-up">23.785243</latitude>
+<longitude src="percol-up">119.599503</longitude>
+<island>
 <names>
-<name language="English">Mudou Keng-a</name><name ucd="CJK">目斗宮仔</name></names>
+<name language="English">Mudou Island</name>
+<name script="Chinese-traditional">目斗嶼</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785243" longitude="119.599503" measurement="no" public="yes" time="14:22:19" url="/2021/07/30/DATE20210730TIME142219GEOBOOLyesLONGE119599503LATN23785243DIRnoALT13SIZE38972THUMB6935ORIGOliverDSC01171.jpg" zoom="no">
+<labels>
+<label engine="Google Vision API" />
+</labels>
+</img>
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
+</ent>
+<ent id="o1054247">
 <types>
-<type language="English">keng-a</type><type script="Chinese-traditional">宮仔</type><type language="English">place of worship</type></types>
-<communities>
-<community>
-<name language="English">Mudou</name><name ucd="CJK">目斗</name></community>
-</communities>
-<geography geotop="s131893" siteid="s131893"><address ucd="CJK">台灣澎湖白沙目斗</address><pluscode>7PMXQJP2+94</pluscode><longitude src="percol-up">119.6003265</longitude><latitude src="percol-up">23.7859905</latitude><orientations><orientation src="ground measurement" system="geographic north">166</orientation></orientations><archipelago><names><name language="English">Penghu Islands</name><name language="English">Pescadores Islands</name><name ucd="CJK">澎湖群島</name></names></archipelago><continent><names><name language="English">European Continent</name></names></continent></geography></ent>
-<ent id="s126570">
+<type language="English">site marker</type>
+</types>
+<geography geotop="s126567" siteid="s126567">
+<longitude src="percol-down">119.59982550000001</longitude>
+<latitude src="percol-down">23.7855185</latitude>
+<island>
 <names>
-<name language="English">Mudou Keng-a</name><name language="English">worship</name><name ucd="CJK">目斗宮仔</name></names>
+<name language="English">Mudou Island</name>
+<name script="Chinese-traditional">目斗嶼</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" measurement="no" public="yes" time="14:24:17" url="/2021/07/30/DATE20210730TIME142417GEOBOOLnoLONGE0000000LATN0000000DIR291ALTnoSIZE11472THUMB4165ORIGOliverDSCN7370.jpg" zoom="no">
+<labels>
+<label engine="Google Vision API" score="0.95" topical="0.0077">Tower</label>
+<label engine="Google Vision API" score="0.94" topical="0.1927">Coast</label>
+<label engine="Google Vision API" score="0.93" topical="0.8047">Lighthouse</label>
+<label engine="Google Vision API" score="0.93" topical="0.0025">Coastal and oceanic landforms</label>
+<label engine="Google Vision API" score="0.91" topical="0.0199">Rock</label>
+<label engine="Google Vision API" score="0.90" topical="0.2822">Sea</label>
+<label engine="Google Vision API" score="0.90" topical="0.0488">Promontory</label>
+<label engine="Google Vision API" score="0.86" topical="0.0213">Ocean</label>
+<label engine="Google Vision API" score="0.84" topical="0.0101">Headland</label>
+<label engine="Google Vision API" score="0.78" topical="0.0722">Beacon</label>
+</labels>
+</img>
+</media>
+<sem writing="inscribed">
+<arts />
+<genres />
+<texts>
+<text id="t1" script="Chinese-traditional" side="f" writingDirection="">
+<transcription />
+<normalization>
+<div />
+</normalization>
+</text>
+</texts>
+</sem>
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
+</ent>
+<ent id="o1054245">
 <types>
-<type language="English">keng-a</type><type script="Chinese-traditional">宮仔</type></types>
-<communities>
-<community>
-<name language="English">Mudou</name><name ucd="CJK">目斗</name></community>
-</communities>
-<geography geotop="s131893" siteid="s131893"><address ucd="CJK">台灣澎湖白沙目斗</address><pluscode>7PMXQJP2+97</pluscode><longitude src="percol-up">119.600652</longitude><latitude src="percol-up">23.785985</latitude><orientations><orientation src="ground measurement" system="geographic north">166</orientation></orientations><archipelago><names><name language="English">Penghu Islands</name><name language="English">Pescadores Islands</name><name ucd="CJK">澎湖群島</name></names></archipelago><continent><names><name language="English">European Continent</name></names></continent></geography></ent>
-<ent id="s126588">
+<type language="English">animal</type>
+</types>
+<geography geotop="s126567" siteid="s126567">
+<latitude src="percol-up">23.785503</latitude>
+<longitude src="percol-up">119.599817</longitude>
+<island>
 <names>
-<name script="Latin">Mudouyu Coastline</name><name ucd="CJK">目斗嶼</name></names>
+<name language="English">Mudou Island</name>
+<name script="Chinese-traditional">目斗嶼</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785503" longitude="119.599817" measurement="no" public="yes" time="14:23:27" url="/2021/07/30/DATE20210730TIME142327GEOBOOLyesLONGE119599817LATN23785503DIRnoALT24SIZE38972THUMB4204ORIGOliverDSC01173.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
+</ent>
+<ent id="o1054249">
 <types>
-<type script="Latin">coastline</type></types>
-<geography geotop="s126567" siteid="s126567"><address ucd="CJK">台灣</address><orientations><orientation src="ground measurement" system="geographic north">166</orientation></orientations></geography><events>
-<event type="fieldwork" date="2021-08-03">
+<type language="English">geological sample</type>
+</types>
+<geography geotop="s126567" siteid="s126567">
+<latitude src="percol-up">23.785841</latitude>
+<longitude src="percol-up">119.600273</longitude>
+<island>
+<names>
+<name language="English">Mudou Island</name>
+<name script="Chinese-traditional">目斗嶼</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785841" longitude="119.600273" measurement="no" public="yes" time="14:26:51" url="/2021/07/30/DATE20210730TIME142651GEOBOOLyesLONGE119600273LATN23785841DIRnoALT5SIZE38972THUMB10353ORIGOliverDSC01176.jpg" zoom="no">
+<labels>
+<label engine="Google Vision API" />
+</labels>
+</img>
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events>
+<event type="production">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+<technique language="English">none</technique>
 </event>
 </events>
+</ent>
+<ent id="o1054246">
+<types>
+<type language="English">animal</type>
+</types>
+<geography geotop="s126567" siteid="s126567">
+<latitude src="percol-up">23.785534</latitude>
+<longitude src="percol-up">119.599834</longitude>
+<island>
+<names>
+<name language="English">Mudou Island</name>
+<name script="Chinese-traditional">目斗嶼</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785534" longitude="119.599834" measurement="no" public="yes" time="14:23:33" url="/2021/07/30/DATE20210730TIME142333GEOBOOLyesLONGE119599834LATN23785534DIRnoALT22SIZE38972THUMB5765ORIGOliverDSC01174.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
 </ent>
 <ent id="s131893">
 <names>
-<name script="Latin">Mudou</name><name script="Chinese-traditional">目斗</name></names>
+<name script="Latin">Mudou</name>
+<name script="Chinese-traditional">目斗</name>
+</names>
 <types>
-<type script="Latin">settlement</type></types>
+<type script="Latin">settlement</type>
+</types>
 <communities>
 <community>
-<name script="Latin">Mudou</name><name script="Chinese-traditional">目斗</name></community>
+<name script="Latin">Mudou</name>
+<name script="Chinese-traditional">目斗</name>
+</community>
 </communities>
-<geography geotop="s126567" siteid="s126567"><address script="Chinese-traditional">台灣澎湖白沙目斗</address><pluscode>7PMXQJP2+C5</pluscode><orientations><orientation src="ground measurement" system="geographic north">166</orientation></orientations><archipelago><names><name script="Latin">Penghu Islands</name><name script="Latin">Pescadores Islands</name><name script="Chinese-traditional">澎湖群島</name></names></archipelago></geography><ref>
-<event/></ref>
-<events/></ent>
+<geography geotop="s126567" siteid="s126567">
+<address script="Chinese-traditional">台灣澎湖白沙目斗</address>
+<pluscode>7PMXQJP2+C5</pluscode>
+<orientations>
+<orientation src="ground measurement" system="geographic north">166</orientation>
+</orientations>
+<archipelago>
+<names>
+<name script="Latin">Penghu Islands</name>
+<name script="Latin">Pescadores Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+</geography>
+<ref>
+<event />
+</ref>
+<events />
+<ent id="s126568">
+<names>
+<name language="English">Mudou Fude Ci</name>
+<name ucd="CJK">目斗福德祠</name>
+</names>
+<types>
+<type language="English">Fude ci</type>
+<type language="English">Fude miao</type>
+<type language="English">Earthgod shrine</type>
+<type language="English">temple</type>
+<type language="English">Taoist temple</type>
+<type script="Chinese-traditional">福德廟</type>
+<type script="Chinese-traditional">廟</type>
+</types>
+<communities>
+<community>
+<name language="English">Mudou</name>
+<name ucd="CJK">目斗</name>
+</community>
+</communities>
+<geography geotop="s131893" siteid="s131893">
+<address ucd="CJK">台灣澎湖白沙目斗</address>
+<pluscode>7PMXQJP2+C5</pluscode>
+<longitude src="percol-up">119.600487</longitude>
+<latitude src="percol-up">23.786024</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">166</orientation>
+</orientations>
+<archipelago>
+<names>
+<name language="English">Penghu Islands</name>
+<name language="English">Pescadores Islands</name>
+<name ucd="CJK">澎湖群島</name>
+</names>
+</archipelago>
+<continent>
+<names>
+<name language="English">European Continent</name>
+</names>
+</continent>
+</geography>
+<ent id="o1054256">
+<types>
+<type language="English">entrance</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786017</latitude>
+<longitude src="percol-up">119.600487</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786024" longitude="119.600488" measurement="no" public="yes" time="14:29:29" url="/2021/07/30/DATE20210730TIME142929GEOBOOLyesLONGE119600488LATN23786024DIRnoALT12SIZE38972THUMB8859ORIGOliverDSC01187.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.786011" longitude="119.600486" measurement="no" public="yes" time="14:28:59" url="/2021/07/30/DATE20210730TIME142859GEOBOOLyesLONGE119600486LATN23786011DIRnoALT12SIZE38972THUMB10519ORIGOliverDSC01183.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054842">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786024</latitude>
+<longitude src="percol-up">119.600585</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786024" longitude="119.600585" measurement="no" public="yes" time="14:34:46" url="/2021/07/30/DATE20210730TIME143446GEOBOOLyesLONGE119600585LATN23786024DIRnoALT13SIZE38972THUMB10164ORIGOliverDSC01202.jpg" zoom="no" />
+</media>
+<sem />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054254">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786009</latitude>
+<longitude src="percol-up">119.600359</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785996" longitude="119.600392" measurement="no" public="yes" time="14:28:42" url="/2021/07/30/DATE20210730TIME142842GEOBOOLyesLONGE119600392LATN23785996DIRnoALT13SIZE38972THUMB9887ORIGOliverDSC01182.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.786021" longitude="119.600326" measurement="no" public="yes" time="14:28:21" url="/2021/07/30/DATE20210730TIME142821GEOBOOLyesLONGE119600326LATN23786021DIRnoALT12SIZE38972THUMB8343ORIGOliverDSC01181.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
+</ent>
+<ent id="o1054259">
+<types>
+<type language="English">window</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786035</latitude>
+<longitude src="percol-up">119.600483</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786035" longitude="119.600483" measurement="no" public="yes" time="14:29:22" url="/2021/07/30/DATE20210730TIME142922GEOBOOLyesLONGE119600483LATN23786035DIRnoALT12SIZE38972THUMB10978ORIGOliverDSC01186.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054261">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786056</latitude>
+<longitude src="percol-up">119.60048</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786016" longitude="119.600504" measurement="no" public="yes" time="14:29:37" url="/2021/07/30/DATE20210730TIME142937GEOBOOLyesLONGE119600504LATN23786016DIRnoALT12SIZE38972THUMB9824ORIGOliverDSC01188.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.786056" longitude="119.600480" measurement="no" public="yes" time="14:29:52" url="/2021/07/30/DATE20210730TIME142952GEOBOOLyesLONGE119600480LATN23786056DIRnoALT12SIZE38972THUMB9830ORIGOliverDSC01189.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.786058" longitude="119.600476" measurement="no" public="yes" time="14:29:59" url="/2021/07/30/DATE20210730TIME142959GEOBOOLyesLONGE119600476LATN23786058DIRnoALT12SIZE38972THUMB8519ORIGOliverDSC01190.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054838">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786046</latitude>
+<longitude src="percol-up">119.600447</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786046" longitude="119.600447" measurement="no" public="yes" time="14:30:32" url="/2021/07/30/DATE20210730TIME143032GEOBOOLyesLONGE119600447LATN23786046DIRnoALT15SIZE38972THUMB8859ORIGOliverDSC01195.jpg" zoom="no" />
+</media>
+<sem />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054257">
+<types>
+<type language="English">site name tablet</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786014</latitude>
+<longitude src="percol-up">119.60049</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786014" longitude="119.600490" measurement="no" public="yes" time="14:29:05" url="/2021/07/30/DATE20210730TIME142905GEOBOOLyesLONGE119600490LATN23786014DIRnoALT12SIZE38972THUMB10147ORIGOliverDSC01184.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts />
+<genres />
+<texts>
+<text id="t1" characters="5" role="epigraph" script="Chinese-traditional" side="f" writingDirection="t2br2l">
+<transcription completed="yes">目斗福德祠</transcription>
+<normalization>
+<div id="1" script="Chinese-traditional">目斗福德祠</div>
+</normalization>
+<transliterations>
+<transliteration system="peh-oe-ji">bo̍k táu hok Tik sī</transliteration>
+<transliteration system="cantonese">muk6 dau2 fuk1 dak1 ci4</transliteration>
+<transliteration system="Hanyu pinyin">mù dòu fú dé cí</transliteration>
+</transliterations>
+<translations>
+<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-03 23:00:42">
+<div id="1" language="English">Mu Dou Fude Temple</div>
+</trans>
+</translations>
+</text>
+</texts>
+</sem>
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054839">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.785977</latitude>
+<longitude src="percol-up">119.60048</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785977" longitude="119.600480" measurement="no" public="yes" time="14:31:15" url="/2021/07/30/DATE20210730TIME143115GEOBOOLyesLONGE119600480LATN23785977DIR17ALT0SIZE11472THUMB4803ORIGOliverDSCN7374.jpg" zoom="no" />
+</media>
+<sem />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054834">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786024</latitude>
+<longitude src="percol-up">119.600486</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786024" longitude="119.600486" measurement="no" public="yes" time="14:30:06" url="/2021/07/30/DATE20210730TIME143006GEOBOOLyesLONGE119600486LATN23786024DIRnoALT13SIZE38972THUMB10763ORIGOliverDSC01191.jpg" zoom="no" />
+</media>
+<sem />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054840">
+<types>
+<type language="English">compass</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786013</latitude>
+<longitude src="percol-up">119.600572</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786013" longitude="119.600572" measurement="yes" public="no" time="14:34:20" url="/2021/07/30/DATE20210730TIME143420GEOBOOLyesLONGE119600572LATN23786013DIR307ALT0SIZE11472THUMB4795ORIGOliverDSCN7375.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts />
+<genres />
+<texts>
+<text id="t1" role="epigraph" side="f" ucd="{UCD}" writingDirection="t2br2l">
+<transcription completed="yes">269</transcription>
+<normalization>
+<div id="1" ucd="{UCD}">269</div>
+</normalization>
+<transliterations />
+<translations>
+<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-03 23:00:42">
+<div />
+</trans>
+</translations>
+</text>
+</texts>
+</sem>
+<ref>
+<event />
+</ref>
+<events>
+<event type="compass measurement">
+<agents>
+<agent refid="con1" />
+</agents>
+</event>
+</events>
+</ent>
+<ent id="o1054836">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786025</latitude>
+<longitude src="percol-up">119.600507</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786025" longitude="119.600507" measurement="no" public="yes" time="14:30:14" url="/2021/07/30/DATE20210730TIME143014GEOBOOLyesLONGE119600507LATN23786025DIRnoALT13SIZE38972THUMB10524ORIGOliverDSC01193.jpg" zoom="no" />
+</media>
+<sem />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054841">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786017</latitude>
+<longitude src="percol-up">119.600562</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786017" longitude="119.600562" measurement="no" public="yes" time="14:34:23" url="/2021/07/30/DATE20210730TIME143423GEOBOOLyesLONGE119600562LATN23786017DIR303ALT0SIZE11472THUMB4812ORIGOliverDSCN7376.jpg" zoom="no" />
+</media>
+<sem />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054837">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.78604</latitude>
+<longitude src="percol-up">119.600464</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786040" longitude="119.600464" measurement="no" public="yes" time="14:30:26" url="/2021/07/30/DATE20210730TIME143026GEOBOOLyesLONGE119600464LATN23786040DIRnoALT14SIZE38972THUMB8043ORIGOliverDSC01194.jpg" zoom="no" />
+</media>
+<sem />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054258">
+<types>
+<type language="English">window</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786016</latitude>
+<longitude src="percol-up">119.60049</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786016" longitude="119.600490" measurement="no" public="yes" time="14:29:13" url="/2021/07/30/DATE20210730TIME142913GEOBOOLyesLONGE119600490LATN23786016DIRnoALT12SIZE38972THUMB9799ORIGOliverDSC01185.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054835">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s126568" siteid="s126568">
+<latitude src="percol-up">23.786027</latitude>
+<longitude src="percol-up">119.600499</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786027" longitude="119.600499" measurement="no" public="yes" time="14:30:10" url="/2021/07/30/DATE20210730TIME143010GEOBOOLyesLONGE119600499LATN23786027DIRnoALT13SIZE38972THUMB10492ORIGOliverDSC01192.jpg" zoom="no" />
+</media>
+<sem />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+</ent>
+<ent id="s126569">
+<names>
+<name language="English">Mudou Keng-a</name>
+<name ucd="CJK">目斗宮仔</name>
+</names>
+<types>
+<type language="English">keng-a</type>
+<type script="Chinese-traditional">宮仔</type>
+<type language="English">place of worship</type>
+</types>
+<communities>
+<community>
+<name language="English">Mudou</name>
+<name ucd="CJK">目斗</name>
+</community>
+</communities>
+<geography geotop="s131893" siteid="s131893">
+<address ucd="CJK">台灣澎湖白沙目斗</address>
+<pluscode>7PMXQJP2+94</pluscode>
+<longitude src="percol-up">119.6003265</longitude>
+<latitude src="percol-up">23.7859905</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">166</orientation>
+</orientations>
+<archipelago>
+<names>
+<name language="English">Penghu Islands</name>
+<name language="English">Pescadores Islands</name>
+<name ucd="CJK">澎湖群島</name>
+</names>
+</archipelago>
+<continent>
+<names>
+<name language="English">European Continent</name>
+</names>
+</continent>
+</geography>
+<ent id="o1054264">
+<types>
+<type language="English">outer space</type>
+</types>
+<geography geotop="s126569" siteid="s126569">
+<latitude src="percol-up">23.785968</latitude>
+<longitude src="percol-up">119.600378</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785968" longitude="119.600378" measurement="no" public="yes" time="14:30:03" url="/2021/07/30/DATE20210730TIME143003GEOBOOLyesLONGE119600378LATN23785968DIR303ALT0SIZE11472THUMB4676ORIGOliverDSCN7371.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event />
+</ref>
+<events />
+</ent>
+<ent id="o1054250">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="s126569" siteid="s126569">
+<latitude src="percol-up">23.785998</latitude>
+<longitude src="percol-up">119.600331</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785968" longitude="119.600327" measurement="no" public="yes" time="14:30:12" url="/2021/07/30/DATE20210730TIME143012GEOBOOLyesLONGE119600327LATN23785968DIR299ALT0SIZE11472THUMB3988ORIGOliverDSCN7372.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.786017" longitude="119.600331" measurement="no" public="yes" time="14:28:05" url="/2021/07/30/DATE20210730TIME142805GEOBOOLyesLONGE119600331LATN23786017DIRnoALT12SIZE38972THUMB8444ORIGOliverDSC01179.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.785998" longitude="119.600371" measurement="no" public="yes" time="14:27:24" url="/2021/07/30/DATE20210730TIME142724GEOBOOLyesLONGE119600371LATN23785998DIRnoALT11SIZE38972THUMB9410ORIGOliverDSC01177.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o1054265">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="o1054250" siteid="s126569">
+<latitude src="percol-up">23.785993</latitude>
+<longitude src="percol-up">119.600328</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785968" longitude="119.600327" measurement="no" public="yes" time="14:30:12" url="/2021/07/30/DATE20210730TIME143012GEOBOOLyesLONGE119600327LATN23785968DIR299ALT0SIZE11472THUMB3988ORIGOliverDSCN7372.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.786033" longitude="119.600328" measurement="no" public="yes" time="14:28:15" url="/2021/07/30/DATE20210730TIME142815GEOBOOLyesLONGE119600328LATN23786033DIRnoALT11SIZE38972THUMB9317ORIGOliverDSC01180.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.785988" longitude="119.600328" measurement="no" public="yes" time="14:37:47" url="/2021/07/30/DATE20210730TIME143747GEOBOOLyesLONGE119600328LATN23785988DIR305ALT0SIZE11472THUMB4444ORIGOliverDSCN7379.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.785998" longitude="119.600371" measurement="no" public="yes" time="14:27:24" url="/2021/07/30/DATE20210730TIME142724GEOBOOLyesLONGE119600371LATN23785998DIRnoALT11SIZE38972THUMB9410ORIGOliverDSC01177.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+</ent>
+<ent id="o1054844">
+<types>
+<type language="English">compass</type>
+</types>
+<geography geotop="s126569" siteid="s126569">
+<latitude src="percol-up">23.785983</latitude>
+<longitude src="percol-up">119.600278</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785983" longitude="119.600278" measurement="yes" public="no" time="14:39:03" url="/2021/07/30/DATE20210730TIME143903GEOBOOLyesLONGE119600278LATN23785983DIR308ALT0SIZE11472THUMB4256ORIGOliverDSCN7380.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts />
+<genres />
+<texts>
+<text id="t1" role="epigraph" side="f" ucd="{UCD}" writingDirection="t2br2l">
+<transcription completed="yes">106</transcription>
+<normalization>
+<div id="1" ucd="{UCD}">106</div>
+</normalization>
+<transliterations />
+<translations>
+<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-03 23:00:44">
+<div />
+</trans>
+</translations>
+</text>
+</texts>
+</sem>
+<ref>
+<event />
+</ref>
+<events>
+<event type="compass measurement">
+<agents>
+<agent refid="con1" />
+</agents>
+</event>
+</events>
+</ent>
+<ent id="o1054251">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="s126569" siteid="s126569">
+<latitude src="percol-up">23.786</latitude>
+<longitude src="percol-up">119.600322</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786000" longitude="119.600322" measurement="no" public="yes" time="14:27:57" url="/2021/07/30/DATE20210730TIME142757GEOBOOLyesLONGE119600322LATN23786000DIRnoALT13SIZE38972THUMB6740ORIGOliverDSC01178.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1093067">
+<types>
+<type language="English">censer</type>
+</types>
+<geography geotop="o1054251" siteid="s126569" />
+</ent>
+</ent>
+</ent>
+<ent id="s126570">
+<names>
+<name language="English">Mudou Keng-a</name>
+<name language="English">worship</name>
+<name ucd="CJK">目斗宮仔</name>
+</names>
+<types>
+<type language="English">keng-a</type>
+<type script="Chinese-traditional">宮仔</type>
+</types>
+<communities>
+<community>
+<name language="English">Mudou</name>
+<name ucd="CJK">目斗</name>
+</community>
+</communities>
+<geography geotop="s131893" siteid="s131893">
+<address ucd="CJK">台灣澎湖白沙目斗</address>
+<pluscode>7PMXQJP2+97</pluscode>
+<longitude src="percol-up">119.600652</longitude>
+<latitude src="percol-up">23.785985</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">166</orientation>
+</orientations>
+<archipelago>
+<names>
+<name language="English">Penghu Islands</name>
+<name language="English">Pescadores Islands</name>
+<name ucd="CJK">澎湖群島</name>
+</names>
+</archipelago>
+<continent>
+<names>
+<name language="English">European Continent</name>
+</names>
+</continent>
+</geography>
+<ent id="o1093152">
+<types>
+<type language="English">structure right side</type>
+</types>
+<geography geotop="s126570" siteid="s126570">
+<latitude src="percol-up">23.785973</latitude>
+<longitude src="percol-up">119.600693</longitude>
+<continent>
+<names>
+<name language="English">European Continent</name>
+</names>
+</continent>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600693" measurement="no" public="yes" time="14:32:53" url="/2021/07/30/DATE20210730TIME143253GEOBOOLyesLONGE119600693LATN23785973DIRnoALT12SIZE38972THUMB9501ORIGOliverDSC01197.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o1054275">
+<types>
+<type language="English">compass</type>
+</types>
+<geography geotop="s126570" siteid="s126570">
+<latitude src="percol-up">23.785967</latitude>
+<longitude src="percol-up">119.600667</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785967" longitude="119.600667" measurement="yes" public="no" time="14:36:05" url="/2021/07/30/DATE20210730TIME143605GEOBOOLyesLONGE119600667LATN23785967DIR259ALT0SIZE11472THUMB4418ORIGOliverDSCN7378.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts />
+<genres />
+<texts>
+<text id="t1" role="epigraph" side="f" ucd="{UCD}" writingDirection="t2br2l">
+<transcription completed="yes">343</transcription>
+<normalization>
+<div id="1" ucd="{UCD}">343</div>
+</normalization>
+<transliterations />
+<translations>
+<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-03 23:00:45">
+<div />
+</trans>
+</translations>
+</text>
+</texts>
+</sem>
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events>
+<event type="compass measurement">
+<agents>
+<agent refid="con1" />
+</agents>
+</event>
+</events>
+</ent>
+<ent id="o1054267">
+<types>
+<type language="English">outer space</type>
+</types>
+<geography geotop="s126570" siteid="s126570">
+<latitude src="percol-up">23.786003</latitude>
+<longitude src="percol-up">119.600637</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786003" longitude="119.600637" measurement="no" public="yes" time="14:32:28" url="/2021/07/30/DATE20210730TIME143228GEOBOOLyesLONGE119600637LATN23786003DIRnoALT12SIZE38972THUMB9695ORIGOliverDSC01196.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
+<ent id="o1054268">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="o1054267" siteid="s126570">
+<latitude src="percol-up">23.785973</latitude>
+<longitude src="percol-up">119.600679</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600693" measurement="no" public="yes" time="14:32:53" url="/2021/07/30/DATE20210730TIME143253GEOBOOLyesLONGE119600693LATN23785973DIRnoALT12SIZE38972THUMB9501ORIGOliverDSC01197.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.785958" longitude="119.600672" measurement="no" public="yes" time="14:35:50" url="/2021/07/30/DATE20210730TIME143550GEOBOOLyesLONGE119600672LATN23785958DIR347ALT0SIZE11472THUMB5154ORIGOliverDSCN7377.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.786003" longitude="119.600637" measurement="no" public="yes" time="14:32:28" url="/2021/07/30/DATE20210730TIME143228GEOBOOLyesLONGE119600637LATN23786003DIRnoALT12SIZE38972THUMB9695ORIGOliverDSC01196.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600687" measurement="no" public="yes" time="14:32:59" url="/2021/07/30/DATE20210730TIME143259GEOBOOLyesLONGE119600687LATN23785973DIRnoALT12SIZE38972THUMB8572ORIGOliverDSC01198.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
+<ent id="o1054269">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o1054268" siteid="s126570">
+<latitude src="percol-up">23.785965</latitude>
+<longitude src="percol-up">119.600679</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785958" longitude="119.600672" measurement="no" public="yes" time="14:35:50" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143550GEOBOOLyesLONGE119600672LATN23785958DIR347ALT0SIZE11472THUMB5154ORIGOliverDSCN7377.jpg" zoom="no" />
+<img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600687" measurement="no" public="yes" time="14:32:59" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143259GEOBOOLyesLONGE119600687LATN23785973DIRnoALT12SIZE38972THUMB8572ORIGOliverDSC01198.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ref />
+<events>
+<event />
+</events>
+<ent id="o1093149">
+<types>
+<type language="English">entrance</type>
+</types>
+<geography geotop="o1054269" siteid="s126570">
+<latitude src="percol-up">23.785973</latitude>
+<longitude src="percol-up">119.600687</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785973" longitude="119.600687" measurement="no" public="yes" time="14:32:59" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143259GEOBOOLyesLONGE119600687LATN23785973DIRnoALT12SIZE38972THUMB8572ORIGOliverDSC01198.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref />
+<events>
+<event />
+</events>
+</ent>
+</ent>
+<ent id="o1093151">
+<types>
+<type language="English">structure left side</type>
+</types>
+<geography geotop="o1054268" siteid="s126570">
+<latitude src="percol-up">23.786003</latitude>
+<longitude src="percol-up">119.600637</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.786003" longitude="119.600637" measurement="no" public="yes" time="14:32:28" url="/2021/07/30/DATE20210730TIME143228GEOBOOLyesLONGE119600637LATN23786003DIRnoALT12SIZE38972THUMB9695ORIGOliverDSC01196.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
+</ent>
+<ent id="o1054270">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="o1054268" siteid="s126570">
+<latitude src="percol-up">23.785974</latitude>
+<longitude src="percol-up">119.600681</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785974" longitude="119.600681" measurement="no" public="yes" time="14:33:05" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143305GEOBOOLyesLONGE119600681LATN23785974DIRnoALT12SIZE38972THUMB7099ORIGOliverDSC01199.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref />
+<events>
+<event />
+</events>
+<ent id="o1093153">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1054270" siteid="s126570">
+<latitude src="percol-up">23.785974</latitude>
+<longitude src="percol-up">119.600681</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785974" longitude="119.600681" measurement="no" public="yes" time="14:33:05" url="/2021/07/30/DATE20210730TIME143305GEOBOOLyesLONGE119600681LATN23785974DIRnoALT12SIZE38972THUMB7099ORIGOliverDSC01199.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
+<ent id="o1093154">
+<types>
+<type language="English">altar table</type>
+</types>
+<geography geotop="o1093153" siteid="s126570">
+<latitude src="percol-up">23.785974</latitude>
+<longitude src="percol-up">119.600681</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785974" longitude="119.600681" measurement="no" public="yes" time="14:33:05" url="thakbong/fieldwork/2021/07/30/DATE20210730TIME143305GEOBOOLyesLONGE119600681LATN23785974DIRnoALT12SIZE38972THUMB7099ORIGOliverDSC01199.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref />
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name script="Latin">offering</name>
+</names>
+<epistemics>implied</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<material language="English">brick</material>
+<technique language="English" script="Latin" />
+</event>
+</events>
+</ent>
+<ent id="o1093155">
+<types>
+<type language="English">censer</type>
+</types>
+<geography geotop="o1093153" siteid="s126570">
+<latitude src="percol-up">23.785974</latitude>
+<longitude src="percol-up">119.600681</longitude>
+</geography>
+<media>
+<img date="2021-07-30" flash="no" latitude="23.785974" longitude="119.600681" measurement="no" public="yes" time="14:33:05" url="/2021/07/30/DATE20210730TIME143305GEOBOOLyesLONGE119600681LATN23785974DIRnoALT12SIZE38972THUMB7099ORIGOliverDSC01199.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ref>
+<event>
+<agents />
+</event>
+</ref>
+<culturaldomain />
+<events />
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
 </document>

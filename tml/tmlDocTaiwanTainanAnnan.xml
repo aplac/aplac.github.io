@@ -2,818 +2,1846 @@
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
 <document latitude="N(22)" longitude="E(120)">
-<ent id="s64359">
+<ent id="sTainanAnnanDistrict">
 <names>
-<name language="English">24PF+74</name><name language="English">Mazu Temple First Road</name></names>
+<name>Annan District</name>
+<name>安南區</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address><pluscode>7QM224PF+74</pluscode><longitude src="percol-up">120.12277599999999</longitude><latitude src="percol-up">23.035636</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type>admnistrative region</type>
+</types>
+<stats>
+<stat type="cemetery" cross="0" direct="1" indirect="0">1</stat>
+<stat type="earthgod" cross="0" direct="0" indirect="1">1</stat>
+<stat type="grave" cross="0" direct="0" indirect="2">2</stat>
+<stat type="tomb" cross="0" direct="0" indirect="17">17</stat>
+</stats>
+<geography geotop="s131977" siteid="s131977">
+<island REF="Taiwan" />
+<latitude src="percol-up">23.035614</latitude>
+<longitude src="percol-up">120.123101</longitude>
+</geography>
+<ent id="s876">
+<names>
+<name language="English">24MF+W4</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
+<types>
+<type language="English">community burial</type>
+<type language="English">cemetery</type>
+</types>
+<stats>
+<stat type="earthgod" cross="0" direct="0" indirect="1">1</stat>
+<stat type="grave" cross="0" direct="2" indirect="0">2</stat>
+<stat type="tomb" cross="0" direct="17" indirect="0">17</stat>
+</stats>
+<geography geotop="sTainanAnnanDistrict" siteid="sTainanAnnanDistrict">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224MF+W4</pluscode>
+<longitude src="percol-up">120.12310149999999</longitude>
+<latitude src="percol-up">23.035614000000002</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-09-29</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-05-21</date>
+</event>
 </events>
-</ent>
-<ent id="s64351">
+<ent id="s64339">
 <names>
-<name language="English">24PF+86</name><name language="English">Mazu Temple First Road</name></names>
+<name language="English">24PF+32</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address><pluscode>7QM224PF+86</pluscode><longitude src="percol-up">120.123038</longitude><latitude src="percol-up">23.035772</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address>
+<pluscode>7QM224PF+32</pluscode>
+<longitude src="percol-up">120.1226075</longitude>
+<latitude src="percol-up">23.0351925</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2019-09-30</date></event>
-</events>
-</ent>
-<ent id="s64355">
-<names>
-<name language="English">24PF+97</name><name language="English">Mazu Temple First Road</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address><pluscode>7QM224PF+97</pluscode><longitude src="percol-up">120.123205</longitude><latitude src="percol-up">23.03595</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-01-28</date></event>
-</events>
-</ent>
-<ent id="o1051882">
-<types>
-<type language="English">fieldwork</type></types>
-<geography geotop="s876" siteid="s876"><latitude src="percol-up">23.035713</latitude><longitude src="percol-up">120.12337</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035713" longitude="120.123370" time="12:19:37" url="/2016/08/08/DATE20160808TIME121937GEOBOOLyesLONGE120123370LATN23035713DIR281ALT493SIZE10430THUMB6207ORIGjamestainan3DSCN0087.jpg">
-<labels>
-<label engine="Google Vision API" score="0.98" topical="0.0015">Motor vehicle</label><label engine="Google Vision API" score="0.97" topical="0.0011">Automotive lighting</label><label engine="Google Vision API" score="0.97" topical="0.0620">Motorcycle</label><label engine="Google Vision API" score="0.96" topical="0.0003">Automotive Tire</label><label engine="Google Vision API" score="0.94" topical="0.0000">Automotive Exterior</label><label engine="Google Vision API" score="0.91" topical="0.0004">Automotive Wheel System</label><label engine="Google Vision API" score="0.91" topical="0.0102">Fender</label><label engine="Google Vision API" score="0.88" topical="0.0001">Automotive Mirror</label><label engine="Google Vision API" score="0.88" topical="0.0020">Alloy wheel</label><label engine="Google Vision API" score="0.83" topical="0.0003">Vehicle brake</label></labels>
-</img>
-<img date="2016-08-08" latitude="23.035713" longitude="120.123370" time="12:19:37" url="/2016/08/08/DATE20160808TIME121937GEOBOOLyesLONGE120123370LATN23035713DIR281ALT493SIZE10430THUMB6207ORIGjamestainan3DSCN0087.jpg">
-<labels>
-<label engine="Google Vision API" score="0.98" topical="0.0015">Motor vehicle</label><label engine="Google Vision API" score="0.97" topical="0.0011">Automotive lighting</label><label engine="Google Vision API" score="0.97" topical="0.0620">Motorcycle</label><label engine="Google Vision API" score="0.96" topical="0.0003">Automotive Tire</label><label engine="Google Vision API" score="0.94" topical="0.0000">Automotive Exterior</label><label engine="Google Vision API" score="0.91" topical="0.0004">Automotive Wheel System</label><label engine="Google Vision API" score="0.91" topical="0.0102">Fender</label><label engine="Google Vision API" score="0.88" topical="0.0001">Automotive Mirror</label><label engine="Google Vision API" score="0.88" topical="0.0020">Alloy wheel</label><label engine="Google Vision API" score="0.83" topical="0.0003">Vehicle brake</label></labels>
-</img>
-</media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1244737">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s876" siteid="s876"><latitude src="percol-up">23.035515</latitude><longitude src="percol-up">120.122833</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035855" longitude="120.123115" time="12:39:51" url="/2016/08/08/DATE20160808TIME123951GEOBOOLyesLONGE120123115LATN23035855DIR333ALT7SIZE10430THUMB4121ORIGjamestainan3DSCN0187.jpg"/><img date="2016-08-08" latitude="23.035175" longitude="120.122552" time="12:28:39" url="/2016/08/08/DATE20160808TIME122839GEOBOOLyesLONGE120122552LATN23035175DIR131ALT118SIZE10430THUMB4814ORIGjamestainan3DSCN0124.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="s64347">
-<names>
-<name language="English">24PF+64</name><name language="English">Mazu Temple First Road</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address><pluscode>7QM224PF+64</pluscode><longitude src="percol-up">120.12275</longitude><latitude src="percol-up">23.035527</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-01-28</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-19</date>
+</event>
 </events>
 </ent>
 <ent id="s64346">
 <names>
-<name language="English">24PF+54</name><name language="English">Mazu Temple First Road</name></names>
+<name language="English">24PF+54</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address><pluscode>7QM224PF+54</pluscode><longitude src="percol-up">120.12277</longitude><latitude src="percol-up">23.035495</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address>
+<pluscode>7QM224PF+54</pluscode>
+<longitude src="percol-up">120.12277</longitude>
+<latitude src="percol-up">23.035495</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-06</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-06</date>
+</event>
 </events>
 </ent>
-<ent id="o1075475">
+<ent id="o1244737">
 <types>
-<type language="English">object</type></types>
-<geography geotop="s64337" siteid="s64337"><latitude src="percol-up">23.035213</latitude><longitude src="percol-up">120.1226</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035213" longitude="120.122600" time="12:28:10" url="/2016/08/08/DATE20160808TIME122810GEOBOOLyesLONGE120122600LATN23035213DIR100ALT133SIZE10430THUMB3111ORIGjamestainan3DSCN0123.jpg"/></media>
-</ent>
-<ent id="o1075474">
-<types>
-<type language="English">structure front side</type></types>
-<geography geotop="o1116659" siteid="s64337"><latitude src="percol-up">23.035265</latitude><longitude src="percol-up">120.122652</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035265" longitude="120.122652" time="12:28:04" url="/2016/08/08/DATE20160808TIME122804GEOBOOLyesLONGE120122652LATN23035265DIR95ALT144SIZE10430THUMB4521ORIGjamestainan3DSCN0122.jpg"/></media>
-<sem figurative="no" writing="uninscribed"/></ent>
-<ent id="o1116659">
-<types>
-<type language="English">structure</type></types>
-<geography geotop="s64337" siteid="s64337"><latitude src="percol-up">23.035265</latitude><longitude src="percol-up">120.122652</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035265" longitude="120.122652" time="12:28:04" url="/2016/08/08/DATE20160808TIME122804GEOBOOLyesLONGE120122652LATN23035265DIR95ALT144SIZE10430THUMB4521ORIGjamestainan3DSCN0122.jpg"/></media>
-<sem figurative="no" writing="uninscribed"/></ent>
-<ent id="o1075473">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64337" siteid="s64337"><latitude src="percol-up">23.03521</latitude><longitude src="percol-up">120.122643</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035210" longitude="120.122643" time="12:27:51" url="/2016/08/08/DATE20160808TIME122751GEOBOOLyesLONGE120122643LATN23035210DIR46ALT155SIZE10430THUMB4839ORIGjamestainan3DSCN0121.jpg"/></media>
-</ent>
-<ent id="s64337">
-<names>
-<name language="English">24PF+33</name><name language="English">Mazu Temple First Road</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">grave</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+33</pluscode><longitude src="percol-up">120.122643</longitude><latitude src="percol-up">23.035213</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-27</date></event>
-</events>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<latitude src="percol-up">23.035515</latitude>
+<longitude src="percol-up">120.122833</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035855" longitude="120.123115" time="12:39:51" url="/2016/08/08/DATE20160808TIME123951GEOBOOLyesLONGE120123115LATN23035855DIR333ALT7SIZE10430THUMB4121ORIGjamestainan3DSCN0187.jpg" />
+<img date="2016-08-08" latitude="23.035175" longitude="120.122552" time="12:28:39" url="/2016/08/08/DATE20160808TIME122839GEOBOOLyesLONGE120122552LATN23035175DIR131ALT118SIZE10430THUMB4814ORIGjamestainan3DSCN0124.jpg" />
+</media>
+<sem writing="uninscribed" />
 </ent>
 <ent id="s64335">
 <names>
-<name language="English">24MF+X3</name><name language="English">Mazu Temple First Road</name></names>
+<name language="English">24MF+X3</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address><pluscode>7QM224MF+X3</pluscode><longitude src="percol-up">120.122642</longitude><latitude src="percol-up">23.034908</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address>
+<pluscode>7QM224MF+X3</pluscode>
+<longitude src="percol-up">120.122642</longitude>
+<latitude src="percol-up">23.034908</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-06-27</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-06-27</date>
+</event>
 </events>
 </ent>
-<ent id="s64339">
-<names>
-<name language="English">24PF+32</name><name language="English">Mazu Temple First Road</name></names>
+<ent id="o1051882">
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address><pluscode>7QM224PF+32</pluscode><longitude src="percol-up">120.1226075</longitude><latitude src="percol-up">23.0351925</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type language="English">fieldwork</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<latitude src="percol-up">23.035713</latitude>
+<longitude src="percol-up">120.12337</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035713" longitude="120.123370" time="12:19:37" url="/2016/08/08/DATE20160808TIME121937GEOBOOLyesLONGE120123370LATN23035713DIR281ALT493SIZE10430THUMB6207ORIGjamestainan3DSCN0087.jpg">
+<labels>
+<label engine="Google Vision API" score="0.98" topical="0.0015">Motor vehicle</label>
+<label engine="Google Vision API" score="0.97" topical="0.0011">Automotive lighting</label>
+<label engine="Google Vision API" score="0.97" topical="0.0620">Motorcycle</label>
+<label engine="Google Vision API" score="0.96" topical="0.0003">Automotive Tire</label>
+<label engine="Google Vision API" score="0.94" topical="0.0000">Automotive Exterior</label>
+<label engine="Google Vision API" score="0.91" topical="0.0004">Automotive Wheel System</label>
+<label engine="Google Vision API" score="0.91" topical="0.0102">Fender</label>
+<label engine="Google Vision API" score="0.88" topical="0.0001">Automotive Mirror</label>
+<label engine="Google Vision API" score="0.88" topical="0.0020">Alloy wheel</label>
+<label engine="Google Vision API" score="0.83" topical="0.0003">Vehicle brake</label>
+</labels>
+</img>
+<img date="2016-08-08" latitude="23.035713" longitude="120.123370" time="12:19:37" url="/2016/08/08/DATE20160808TIME121937GEOBOOLyesLONGE120123370LATN23035713DIR281ALT493SIZE10430THUMB6207ORIGjamestainan3DSCN0087.jpg">
+<labels>
+<label engine="Google Vision API" score="0.98" topical="0.0015">Motor vehicle</label>
+<label engine="Google Vision API" score="0.97" topical="0.0011">Automotive lighting</label>
+<label engine="Google Vision API" score="0.97" topical="0.0620">Motorcycle</label>
+<label engine="Google Vision API" score="0.96" topical="0.0003">Automotive Tire</label>
+<label engine="Google Vision API" score="0.94" topical="0.0000">Automotive Exterior</label>
+<label engine="Google Vision API" score="0.91" topical="0.0004">Automotive Wheel System</label>
+<label engine="Google Vision API" score="0.91" topical="0.0102">Fender</label>
+<label engine="Google Vision API" score="0.88" topical="0.0001">Automotive Mirror</label>
+<label engine="Google Vision API" score="0.88" topical="0.0020">Alloy wheel</label>
+<label engine="Google Vision API" score="0.83" topical="0.0003">Vehicle brake</label>
+</labels>
+</img>
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="s64361">
+<names>
+<name language="English">24PF+63</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+63</pluscode>
+<longitude src="percol-up">120.122675</longitude>
+<latitude src="percol-up">23.035488</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-19</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-07</date>
+</event>
+</events>
+<ent id="o284453">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64361" siteid="s64361">
+<latitude src="percol-up">23.035488</latitude>
+<longitude src="percol-up">120.122675</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035488" longitude="120.122675" time="12:42:00" url="/2016/08/08/DATE20160808TIME124200GEOBOOLyesLONGE120122675LATN23035488DIR315ALT8SIZE10430THUMB5624ORIGjamestainan3DSCN0200.jpg">
+<labels>
+<label engine="Google Vision API" score="0.82" topical="0.0209">Concrete</label>
+<label engine="Google Vision API" score="0.80" topical="0.0063">Memorial</label>
+<label engine="Google Vision API" score="0.76" topical="0.0372">Garden</label>
+<label engine="Google Vision API" score="0.68" topical="0.0147">Yard</label>
+<label engine="Google Vision API" score="0.64" topical="0.0013">Landscaping</label>
+<label engine="Google Vision API" score="0.64" topical="0.1526">Cemetery</label>
+<label engine="Google Vision API" score="0.59" topical="0.0732">Headstone</label>
+<label engine="Google Vision API" score="0.55" topical="0.0015">Flowerpot</label>
+</labels>
+<objects>
+<object engine="Google Vision API" />
+</objects>
+</img>
+</media>
+</ent>
+</ent>
+<ent id="s64347">
+<names>
+<name language="English">24PF+64</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address>
+<pluscode>7QM224PF+64</pluscode>
+<longitude src="percol-up">120.12275</longitude>
+<latitude src="percol-up">23.035527</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-01-28</date>
+</event>
+</events>
+</ent>
+<ent id="s64351">
+<names>
+<name language="English">24PF+86</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address>
+<pluscode>7QM224PF+86</pluscode>
+<longitude src="percol-up">120.123038</longitude>
+<latitude src="percol-up">23.035772</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2019-09-30</date>
+</event>
+</events>
+</ent>
+<ent id="s64359">
+<names>
+<name language="English">24PF+74</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address>
+<pluscode>7QM224PF+74</pluscode>
+<longitude src="percol-up">120.12277599999999</longitude>
+<latitude src="percol-up">23.035636</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-09-29</date>
+</event>
 </events>
 </ent>
 <ent id="s64349">
 <names>
-<name language="English">24PF+75</name><name language="English">Mazu Temple First Road</name></names>
+<name language="English">24PF+75</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address><pluscode>7QM224PF+75</pluscode><longitude src="percol-up">120.12290899999999</longitude><latitude src="percol-up">23.035686</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address>
+<pluscode>7QM224PF+75</pluscode>
+<longitude src="percol-up">120.12290899999999</longitude>
+<latitude src="percol-up">23.035686</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-07</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-07</date>
+</event>
 </events>
 </ent>
-<ent id="o284396">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64334" siteid="s64334"><latitude src="percol-up">23.03483</latitude><longitude src="percol-up">120.122898</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.034830" longitude="120.122898" time="12:25:53" url="/2016/08/08/DATE20160808TIME122553GEOBOOLyesLONGE120122898LATN23034830DIR246ALT342SIZE10430THUMB4957ORIGjamestainan3DSCN0109.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o284395">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64334" siteid="s64334"><latitude src="percol-up">23.03473</latitude><longitude src="percol-up">120.12319</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.034730" longitude="120.123190" time="12:25:41" url="/2016/08/08/DATE20160808TIME122541GEOBOOLyesLONGE120123190LATN23034730DIR288ALT396SIZE10430THUMB5274ORIGjamestainan3DSCN0108.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="s64334">
+<ent id="s64354">
 <names>
-<name language="English">24MF+W4</name><name language="English">Mazu Temple First Road</name><name language="English">family burial</name></names>
+<name language="English">24PF+97</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224MF+W4</pluscode><longitude src="percol-up">120.123044</longitude><latitude src="percol-up">23.034779999999998</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><culturaldomain>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+97</pluscode>
+<longitude src="percol-up">120.12321850000001</longitude>
+<latitude src="percol-up">23.0358885</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-01-28</date>
+</event>
+</events>
+<ent id="o284440">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64354" siteid="s64354">
+<latitude src="percol-up">23.035885</latitude>
+<longitude src="percol-up">120.123242</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035885" longitude="120.123242" time="12:38:15" url="/2016/08/08/DATE20160808TIME123815GEOBOOLyesLONGE120123242LATN23035885DIR69ALT9SIZE10430THUMB5248ORIGjamestainan3DSCN0179.jpg" />
+</media>
+</ent>
+<ent id="o284439">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64354" siteid="s64354">
+<latitude src="percol-up">23.035892</latitude>
+<longitude src="percol-up">120.123195</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035892" longitude="120.123195" time="12:38:04" url="/2016/08/08/DATE20160808TIME123804GEOBOOLyesLONGE120123195LATN23035892DIR90ALT10SIZE10430THUMB4680ORIGjamestainan3DSCN0178.jpg" />
+</media>
+</ent>
+</ent>
+<ent id="s64345">
+<names>
+<name language="English">24PF+54</name>
+<name language="English">Mazu Temple First Road</name>
+<name language="English">family burial</name>
+</names>
+<types>
+<type language="English">bongcu</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+54</pluscode>
+<longitude src="percol-up">120.1227275</longitude>
+<latitude src="percol-up">23.0354925</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<culturaldomain>
 <practices>
 <practice>
 <names>
-<name language="English">burial using a urn</name></names>
-<epistemics>implied</epistemics></practice>
+<name language="English">burial using a urn</name>
+</names>
+<epistemics>implied</epistemics>
+</practice>
 </practices>
 </culturaldomain>
 <events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-08</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-27</date>
+</event>
 </events>
+<ent id="o284421">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64345" siteid="s64345">
+<latitude src="percol-up">23.035497</latitude>
+<longitude src="percol-up">120.122702</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035497" longitude="120.122702" time="12:33:27" url="/2016/08/08/DATE20160808TIME123327GEOBOOLyesLONGE120122702LATN23035497DIR106ALT21SIZE10430THUMB4984ORIGjamestainan3DSCN0146.jpg" />
+</media>
 </ent>
-<ent id="o284432">
+<ent id="o1214528">
 <types>
-<type language="English">object</type></types>
-<geography geotop="s64352" siteid="s64352"><latitude src="percol-up">23.035887</latitude><longitude src="percol-up">120.123175</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035887" longitude="120.123175" time="12:36:53" url="/2016/08/08/DATE20160808TIME123653GEOBOOLyesLONGE120123175LATN23035887DIR182ALT10SIZE10430THUMB5358ORIGjamestainan3DSCN0167.jpg"/></media>
+<type language="English">altar</type>
+</types>
+<geography geotop="s64345" siteid="s64345">
+<orientations>
+<orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">289</orientation>
+</orientations>
+<latitude src="percol-up">23.035488</latitude>
+<longitude src="percol-up">120.122753</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035488" longitude="120.122753" time="12:33:36" url="/2016/08/08/DATE20160808TIME123336GEOBOOLyesLONGE120122753LATN23035488DIR112ALT21SIZE10430THUMB4827ORIGjamestainan3DSCN0147.jpg" />
+</media>
+<sem writing="uninscribed" />
 </ent>
-<ent id="o284433">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64352" siteid="s64352"><latitude src="percol-up">23.035828</latitude><longitude src="percol-up">120.123172</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035828" longitude="120.123172" time="12:37:21" url="/2016/08/08/DATE20160808TIME123721GEOBOOLyesLONGE120123172LATN23035828DIR214ALT10SIZE10430THUMB4266ORIGjamestainan3DSCN0171.jpg"/></media>
 </ent>
-<ent id="o1214150">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="s64352" siteid="s64352"><orientations><orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">4</orientation></orientations><latitude src="percol-up">23.035885</latitude><longitude src="percol-up">120.123172</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035885" longitude="120.123172" time="12:36:58" url="/2016/08/08/DATE20160808TIME123658GEOBOOLyesLONGE120123172LATN23035885DIR176ALT10SIZE10430THUMB4584ORIGjamestainan3DSCN0168.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1172844">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="s64352" siteid="s64352"><orientations><orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">4</orientation></orientations><latitude src="percol-up">23.035832</latitude><longitude src="percol-up">120.12317</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035832" longitude="120.123170" time="12:37:15" url="/2016/08/08/DATE20160808TIME123715GEOBOOLyesLONGE120123170LATN23035832DIR274ALT10SIZE10430THUMB4709ORIGjamestainan3DSCN0170.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o284435">
-<types>
-<type language="English">earthgod</type></types>
-<geography geotop="s64352" siteid="s64352"><latitude src="percol-up">23.035842</latitude><longitude src="percol-up">120.12317</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035842" longitude="120.123170" time="12:37:30" url="/2016/08/08/DATE20160808TIME123730GEOBOOLyesLONGE120123170LATN23035842DIR269ALT10SIZE10430THUMB4600ORIGjamestainan3DSCN0173.jpg"/></media>
-<events>
-<event type="production">
-<agents>
-<agent role="stone carver"/></agents>
-<material language="English">stone</material></event>
-</events>
-</ent>
-<ent id="o1147983">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="s64352" siteid="s64352"><orientations><orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">4</orientation></orientations><latitude src="percol-up">23.035837</latitude><longitude src="percol-up">120.12316</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035837" longitude="120.123160" time="12:37:09" url="/2016/08/08/DATE20160808TIME123709GEOBOOLyesLONGE120123160LATN23035837DIR78ALT10SIZE10430THUMB4126ORIGjamestainan3DSCN0169.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o284431">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64352" siteid="s64352"><latitude src="percol-up">23.035847</latitude><longitude src="percol-up">120.123137</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035847" longitude="120.123137" time="12:36:42" url="/2016/08/08/DATE20160808TIME123642GEOBOOLyesLONGE120123137LATN23035847DIR132ALT11SIZE10430THUMB5107ORIGjamestainan3DSCN0166.jpg"/></media>
-</ent>
-<ent id="s64352">
+<ent id="s64355">
 <names>
-<name language="English">24PF+87</name><name language="English">Mazu Temple First Road</name><name language="English">family burial</name></names>
+<name language="English">24PF+97</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">bongcu</type></types>
-<stats>
-<stat type="earthgod" cross="0" direct="1" indirect="0">1</stat></stats>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+87</pluscode><longitude src="percol-up">120.12317</longitude><latitude src="percol-up">23.035842</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><culturaldomain>
-<practices>
-<practice>
-<names>
-<name language="English">burial using a urn</name></names>
-<epistemics>implied</epistemics></practice>
-</practices>
-</culturaldomain>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address>
+<pluscode>7QM224PF+97</pluscode>
+<longitude src="percol-up">120.123205</longitude>
+<latitude src="percol-up">23.03595</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
 <events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-09-28</date></event>
-</events>
-</ent>
-<ent id="o284447">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64358" siteid="s64358"><latitude src="percol-up">23.035698</latitude><longitude src="percol-up">120.122918</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035698" longitude="120.122918" time="12:40:32" url="/2016/08/08/DATE20160808TIME124032GEOBOOLyesLONGE120122918LATN23035698DIR347ALT7SIZE10430THUMB4902ORIGjamestainan3DSCN0190.jpg"/></media>
-</ent>
-<ent id="o284448">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64358" siteid="s64358"><latitude src="percol-up">23.03574</latitude><longitude src="percol-up">120.12292</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035740" longitude="120.122920" time="12:40:46" url="/2016/08/08/DATE20160808TIME124046GEOBOOLyesLONGE120122920LATN23035740DIR336ALT7SIZE10430THUMB2981ORIGjamestainan3DSCN0192.jpg"/></media>
-</ent>
-<ent id="s64358">
-<names>
-<name language="English">24PF+75</name><name language="English">Mazu Temple First Road</name><name language="English">family burial</name></names>
-<types>
-<type language="English">bongcu</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+75</pluscode><longitude src="percol-up">120.122919</longitude><latitude src="percol-up">23.035719</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><culturaldomain>
-<practices>
-<practice>
-<names>
-<name language="English">burial using a urn</name></names>
-<epistemics>implied</epistemics></practice>
-</practices>
-</culturaldomain>
-<events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-07</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-01-28</date>
+</event>
 </events>
 </ent>
 <ent id="s64343">
 <names>
-<name language="English">24PF+42</name><name language="English">Mazu Temple First Road</name></names>
+<name language="English">24PF+42</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address><pluscode>7QM224PF+42</pluscode><longitude src="percol-up">120.12257</longitude><latitude src="percol-up">23.0352875</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南, 安南, 鹿耳</address>
+<pluscode>7QM224PF+42</pluscode>
+<longitude src="percol-up">120.12257</longitude>
+<latitude src="percol-up">23.0352875</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-08</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-08</date>
+</event>
 </events>
 </ent>
-<ent id="o284451">
+<ent id="s64352">
+<names>
+<name language="English">24PF+87</name>
+<name language="English">Mazu Temple First Road</name>
+<name language="English">family burial</name>
+</names>
 <types>
-<type language="English">object</type></types>
-<geography geotop="s64360" siteid="s64360"><latitude src="percol-up">23.035513</latitude><longitude src="percol-up">120.12269</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035513" longitude="120.122690" time="12:41:35" url="/2016/08/08/DATE20160808TIME124135GEOBOOLyesLONGE120122690LATN23035513DIR295ALT7SIZE10430THUMB5532ORIGjamestainan3DSCN0196.jpg"/></media>
+<type language="English">bongcu</type>
+</types>
+<stats>
+<stat type="earthgod" cross="0" direct="1" indirect="0">1</stat>
+</stats>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+87</pluscode>
+<longitude src="percol-up">120.12317</longitude>
+<latitude src="percol-up">23.035842</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">burial using a urn</name>
+</names>
+<epistemics>implied</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-09-28</date>
+</event>
+</events>
+<ent id="o284432">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64352" siteid="s64352">
+<latitude src="percol-up">23.035887</latitude>
+<longitude src="percol-up">120.123175</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035887" longitude="120.123175" time="12:36:53" url="/2016/08/08/DATE20160808TIME123653GEOBOOLyesLONGE120123175LATN23035887DIR182ALT10SIZE10430THUMB5358ORIGjamestainan3DSCN0167.jpg" />
+</media>
 </ent>
-<ent id="o1244740">
+<ent id="o1214150">
 <types>
-<type language="English">offering</type></types>
-<geography geotop="s64360" siteid="s64360"><latitude src="percol-up">23.03552</latitude><longitude src="percol-up">120.122667</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035520" longitude="120.122667" time="12:41:53" url="/2016/08/08/DATE20160808TIME124153GEOBOOLyesLONGE120122667LATN23035520DIR39ALT8SIZE10430THUMB6374ORIGjamestainan3DSCN0199.jpg"/></media>
+<type language="English">altar</type>
+</types>
+<geography geotop="s64352" siteid="s64352">
+<orientations>
+<orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">4</orientation>
+</orientations>
+<latitude src="percol-up">23.035885</latitude>
+<longitude src="percol-up">120.123172</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035885" longitude="120.123172" time="12:36:58" url="/2016/08/08/DATE20160808TIME123658GEOBOOLyesLONGE120123172LATN23035885DIR176ALT10SIZE10430THUMB4584ORIGjamestainan3DSCN0168.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o284431">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64352" siteid="s64352">
+<latitude src="percol-up">23.035847</latitude>
+<longitude src="percol-up">120.123137</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035847" longitude="120.123137" time="12:36:42" url="/2016/08/08/DATE20160808TIME123642GEOBOOLyesLONGE120123137LATN23035847DIR132ALT11SIZE10430THUMB5107ORIGjamestainan3DSCN0166.jpg" />
+</media>
+</ent>
+<ent id="o284433">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64352" siteid="s64352">
+<latitude src="percol-up">23.035828</latitude>
+<longitude src="percol-up">120.123172</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035828" longitude="120.123172" time="12:37:21" url="/2016/08/08/DATE20160808TIME123721GEOBOOLyesLONGE120123172LATN23035828DIR214ALT10SIZE10430THUMB4266ORIGjamestainan3DSCN0171.jpg" />
+</media>
+</ent>
+<ent id="o1147983">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="s64352" siteid="s64352">
+<orientations>
+<orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">4</orientation>
+</orientations>
+<latitude src="percol-up">23.035837</latitude>
+<longitude src="percol-up">120.12316</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035837" longitude="120.123160" time="12:37:09" url="/2016/08/08/DATE20160808TIME123709GEOBOOLyesLONGE120123160LATN23035837DIR78ALT10SIZE10430THUMB4126ORIGjamestainan3DSCN0169.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o284435">
+<types>
+<type language="English">earthgod</type>
+</types>
+<geography geotop="s64352" siteid="s64352">
+<latitude src="percol-up">23.035842</latitude>
+<longitude src="percol-up">120.12317</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035842" longitude="120.123170" time="12:37:30" url="/2016/08/08/DATE20160808TIME123730GEOBOOLyesLONGE120123170LATN23035842DIR269ALT10SIZE10430THUMB4600ORIGjamestainan3DSCN0173.jpg" />
+</media>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o1172844">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="s64352" siteid="s64352">
+<orientations>
+<orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">4</orientation>
+</orientations>
+<latitude src="percol-up">23.035832</latitude>
+<longitude src="percol-up">120.12317</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035832" longitude="120.123170" time="12:37:15" url="/2016/08/08/DATE20160808TIME123715GEOBOOLyesLONGE120123170LATN23035832DIR274ALT10SIZE10430THUMB4709ORIGjamestainan3DSCN0170.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+</ent>
+<ent id="s64358">
+<names>
+<name language="English">24PF+75</name>
+<name language="English">Mazu Temple First Road</name>
+<name language="English">family burial</name>
+</names>
+<types>
+<type language="English">bongcu</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+75</pluscode>
+<longitude src="percol-up">120.122919</longitude>
+<latitude src="percol-up">23.035719</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">burial using a urn</name>
+</names>
+<epistemics>implied</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-07</date>
+</event>
+</events>
+<ent id="o284448">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64358" siteid="s64358">
+<latitude src="percol-up">23.03574</latitude>
+<longitude src="percol-up">120.12292</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035740" longitude="120.122920" time="12:40:46" url="/2016/08/08/DATE20160808TIME124046GEOBOOLyesLONGE120122920LATN23035740DIR336ALT7SIZE10430THUMB2981ORIGjamestainan3DSCN0192.jpg" />
+</media>
+</ent>
+<ent id="o284447">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64358" siteid="s64358">
+<latitude src="percol-up">23.035698</latitude>
+<longitude src="percol-up">120.122918</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035698" longitude="120.122918" time="12:40:32" url="/2016/08/08/DATE20160808TIME124032GEOBOOLyesLONGE120122918LATN23035698DIR347ALT7SIZE10430THUMB4902ORIGjamestainan3DSCN0190.jpg" />
+</media>
+</ent>
+</ent>
+<ent id="s64356">
+<names>
+<name language="English">24PF+97</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+97</pluscode>
+<longitude src="percol-up">120.12316100000001</longitude>
+<latitude src="percol-up">23.035921000000002</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-07-01</date>
+</event>
+</events>
+<ent id="o284444">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64356" siteid="s64356">
+<latitude src="percol-up">23.035912</latitude>
+<longitude src="percol-up">120.12317</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035912" longitude="120.123170" time="12:39:04" url="/2016/08/08/DATE20160808TIME123904GEOBOOLyesLONGE120123170LATN23035912DIR350ALT7SIZE10430THUMB5136ORIGjamestainan3DSCN0185.jpg" />
+</media>
+</ent>
+<ent id="o1337758">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s64356" siteid="s64356">
+<latitude src="percol-up">23.03593</latitude>
+<longitude src="percol-up">120.123152</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035930" longitude="120.123152" time="12:39:29" url="/2016/08/08/DATE20160808TIME123929GEOBOOLyesLONGE120123152LATN23035930DIR20ALT7SIZE10430THUMB4274ORIGjamestainan3DSCN0186.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1166688">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1337758" siteid="s64356">
+<latitude src="percol-up">23.03593</latitude>
+<longitude src="percol-up">120.123152</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035930" longitude="120.123152" time="12:39:29" url="/2016/08/08/DATE20160808TIME123929GEOBOOLyesLONGE120123152LATN23035930DIR20ALT7SIZE10430THUMB4274ORIGjamestainan3DSCN0186.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+</ent>
+</ent>
+<ent id="s64334">
+<names>
+<name language="English">24MF+W4</name>
+<name language="English">Mazu Temple First Road</name>
+<name language="English">family burial</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224MF+W4</pluscode>
+<longitude src="percol-up">120.123044</longitude>
+<latitude src="percol-up">23.034779999999998</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">burial using a urn</name>
+</names>
+<epistemics>implied</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-08</date>
+</event>
+</events>
+<ent id="o284395">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64334" siteid="s64334">
+<latitude src="percol-up">23.03473</latitude>
+<longitude src="percol-up">120.12319</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.034730" longitude="120.123190" time="12:25:41" url="/2016/08/08/DATE20160808TIME122541GEOBOOLyesLONGE120123190LATN23034730DIR288ALT396SIZE10430THUMB5274ORIGjamestainan3DSCN0108.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o284396">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64334" siteid="s64334">
+<latitude src="percol-up">23.03483</latitude>
+<longitude src="percol-up">120.122898</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.034830" longitude="120.122898" time="12:25:53" url="/2016/08/08/DATE20160808TIME122553GEOBOOLyesLONGE120122898LATN23034830DIR246ALT342SIZE10430THUMB4957ORIGjamestainan3DSCN0109.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
 </ent>
 <ent id="s64360">
 <names>
-<name language="English">24PF+63</name><name language="English">Mazu Temple First Road</name></names>
+<name language="English">24PF+63</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+63</pluscode><longitude src="percol-up">120.1226785</longitude><latitude src="percol-up">23.0355165</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+63</pluscode>
+<longitude src="percol-up">120.1226785</longitude>
+<latitude src="percol-up">23.0355165</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-11-21</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-11-21</date>
+</event>
 </events>
-</ent>
-<ent id="o1079226">
+<ent id="o284451">
 <types>
-<type language="English">object</type></types>
-<geography geotop="s64357" siteid="s64357"><latitude src="percol-up">23.035785</latitude><longitude src="percol-up">120.123003</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035785" longitude="120.123003" time="12:40:09" url="/2016/08/08/DATE20160808TIME124009GEOBOOLyesLONGE120123003LATN23035785DIR348ALT7SIZE10430THUMB5008ORIGjamestainan3DSCN0188.jpg"/></media>
+<type language="English">object</type>
+</types>
+<geography geotop="s64360" siteid="s64360">
+<latitude src="percol-up">23.035513</latitude>
+<longitude src="percol-up">120.12269</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035513" longitude="120.122690" time="12:41:35" url="/2016/08/08/DATE20160808TIME124135GEOBOOLyesLONGE120122690LATN23035513DIR295ALT7SIZE10430THUMB5532ORIGjamestainan3DSCN0196.jpg" />
+</media>
 </ent>
-<ent id="o1079227">
+<ent id="o1244740">
 <types>
-<type language="English">object</type></types>
-<geography geotop="s64357" siteid="s64357"><latitude src="percol-up">23.035792</latitude><longitude src="percol-up">120.122997</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035792" longitude="120.122997" time="12:40:13" url="/2016/08/08/DATE20160808TIME124013GEOBOOLyesLONGE120122997LATN23035792DIR16ALT7SIZE10430THUMB4601ORIGjamestainan3DSCN0189.jpg"/></media>
+<type language="English">offering</type>
+</types>
+<geography geotop="s64360" siteid="s64360">
+<latitude src="percol-up">23.03552</latitude>
+<longitude src="percol-up">120.122667</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035520" longitude="120.122667" time="12:41:53" url="/2016/08/08/DATE20160808TIME124153GEOBOOLyesLONGE120122667LATN23035520DIR39ALT8SIZE10430THUMB6374ORIGjamestainan3DSCN0199.jpg" />
+</media>
+</ent>
 </ent>
 <ent id="s64357">
 <names>
-<name language="English">24PF+86</name><name language="English">Mazu Temple First Road</name></names>
+<name language="English">24PF+86</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">grave</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+86</pluscode><longitude src="percol-up">120.12299999999999</longitude><latitude src="percol-up">23.035788500000002</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type language="English">individual burial</type>
+<type language="English">grave</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+86</pluscode>
+<longitude src="percol-up">120.12299999999999</longitude>
+<latitude src="percol-up">23.035788500000002</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-07</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-07</date>
+</event>
 </events>
-</ent>
-<ent id="o284453">
+<ent id="o1079226">
 <types>
-<type language="English">object</type></types>
-<geography geotop="s64361" siteid="s64361"><latitude src="percol-up">23.035488</latitude><longitude src="percol-up">120.122675</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035488" longitude="120.122675" time="12:42:00" url="/2016/08/08/DATE20160808TIME124200GEOBOOLyesLONGE120122675LATN23035488DIR315ALT8SIZE10430THUMB5624ORIGjamestainan3DSCN0200.jpg">
-<labels>
-<label engine="Google Vision API" score="0.82" topical="0.0209">Concrete</label><label engine="Google Vision API" score="0.80" topical="0.0063">Memorial</label><label engine="Google Vision API" score="0.76" topical="0.0372">Garden</label><label engine="Google Vision API" score="0.68" topical="0.0147">Yard</label><label engine="Google Vision API" score="0.64" topical="0.0013">Landscaping</label><label engine="Google Vision API" score="0.64" topical="0.1526">Cemetery</label><label engine="Google Vision API" score="0.59" topical="0.0732">Headstone</label><label engine="Google Vision API" score="0.55" topical="0.0015">Flowerpot</label></labels>
-<objects>
-<object engine="Google Vision API"/></objects>
-</img>
+<type language="English">object</type>
+</types>
+<geography geotop="s64357" siteid="s64357">
+<latitude src="percol-up">23.035785</latitude>
+<longitude src="percol-up">120.123003</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035785" longitude="120.123003" time="12:40:09" url="/2016/08/08/DATE20160808TIME124009GEOBOOLyesLONGE120123003LATN23035785DIR348ALT7SIZE10430THUMB5008ORIGjamestainan3DSCN0188.jpg" />
 </media>
 </ent>
-<ent id="s64361">
-<names>
-<name language="English">24PF+63</name><name language="English">Mazu Temple First Road</name></names>
+<ent id="o1079227">
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+63</pluscode><longitude src="percol-up">120.122675</longitude><latitude src="percol-up">23.035488</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<type language="English">object</type>
+</types>
+<geography geotop="s64357" siteid="s64357">
+<latitude src="percol-up">23.035792</latitude>
+<longitude src="percol-up">120.122997</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035792" longitude="120.122997" time="12:40:13" url="/2016/08/08/DATE20160808TIME124013GEOBOOLyesLONGE120122997LATN23035792DIR16ALT7SIZE10430THUMB4601ORIGjamestainan3DSCN0189.jpg" />
+</media>
+</ent>
+</ent>
+<ent id="s64338">
+<names>
+<name language="English">24PF+32</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+32</pluscode>
+<longitude src="percol-up">120.12259</longitude>
+<latitude src="percol-up">23.035171</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-07</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2019-09-17</date>
+</event>
 </events>
+<ent id="o1348446">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s64338" siteid="s64338">
+<latitude src="percol-up">23.03518</latitude>
+<longitude src="percol-up">120.122613</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035180" longitude="120.122613" time="12:29:01" url="/2016/08/08/DATE20160808TIME122901GEOBOOLyesLONGE120122613LATN23035180DIR121ALT113SIZE10430THUMB4662ORIGjamestainan3DSCN0126.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1188095">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1348446" siteid="s64338">
+<latitude src="percol-up">23.03518</latitude>
+<longitude src="percol-up">120.122613</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035180" longitude="120.122613" time="12:29:01" url="/2016/08/08/DATE20160808TIME122901GEOBOOLyesLONGE120122613LATN23035180DIR121ALT113SIZE10430THUMB4662ORIGjamestainan3DSCN0126.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
 </ent>
 <ent id="o284407">
 <types>
-<type language="English">object</type></types>
-<geography geotop="s64338" siteid="s64338"><latitude src="percol-up">23.035162</latitude><longitude src="percol-up">120.122567</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035162" longitude="120.122567" time="12:28:47" url="/2016/08/08/DATE20160808TIME122847GEOBOOLyesLONGE120122567LATN23035162DIR145ALT115SIZE10430THUMB5353ORIGjamestainan3DSCN0125.jpg"/></media>
+<type language="English">object</type>
+</types>
+<geography geotop="s64338" siteid="s64338">
+<latitude src="percol-up">23.035162</latitude>
+<longitude src="percol-up">120.122567</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035162" longitude="120.122567" time="12:28:47" url="/2016/08/08/DATE20160808TIME122847GEOBOOLyesLONGE120122567LATN23035162DIR145ALT115SIZE10430THUMB5353ORIGjamestainan3DSCN0125.jpg" />
+</media>
 </ent>
-<ent id="o1188095">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="o1348446" siteid="s64338"><latitude src="percol-up">23.03518</latitude><longitude src="percol-up">120.122613</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035180" longitude="120.122613" time="12:29:01" url="/2016/08/08/DATE20160808TIME122901GEOBOOLyesLONGE120122613LATN23035180DIR121ALT113SIZE10430THUMB4662ORIGjamestainan3DSCN0126.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1348446">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s64338" siteid="s64338"><latitude src="percol-up">23.03518</latitude><longitude src="percol-up">120.122613</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035180" longitude="120.122613" time="12:29:01" url="/2016/08/08/DATE20160808TIME122901GEOBOOLyesLONGE120122613LATN23035180DIR121ALT113SIZE10430THUMB4662ORIGjamestainan3DSCN0126.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="s64338">
-<names>
-<name language="English">24PF+32</name><name language="English">Mazu Temple First Road</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+32</pluscode><longitude src="percol-up">120.12259</longitude><latitude src="percol-up">23.035171</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2019-09-17</date></event>
-</events>
-</ent>
-<ent id="o284440">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64354" siteid="s64354"><latitude src="percol-up">23.035885</latitude><longitude src="percol-up">120.123242</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035885" longitude="120.123242" time="12:38:15" url="/2016/08/08/DATE20160808TIME123815GEOBOOLyesLONGE120123242LATN23035885DIR69ALT9SIZE10430THUMB5248ORIGjamestainan3DSCN0179.jpg"/></media>
-</ent>
-<ent id="o284439">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64354" siteid="s64354"><latitude src="percol-up">23.035892</latitude><longitude src="percol-up">120.123195</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035892" longitude="120.123195" time="12:38:04" url="/2016/08/08/DATE20160808TIME123804GEOBOOLyesLONGE120123195LATN23035892DIR90ALT10SIZE10430THUMB4680ORIGjamestainan3DSCN0178.jpg"/></media>
-</ent>
-<ent id="s64354">
-<names>
-<name language="English">24PF+97</name><name language="English">Mazu Temple First Road</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+97</pluscode><longitude src="percol-up">120.12321850000001</longitude><latitude src="percol-up">23.0358885</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-01-28</date></event>
-</events>
-</ent>
-<ent id="o284391">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64330" siteid="s64330"><latitude src="percol-up">23.03562</latitude><longitude src="percol-up">120.123922</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035620" longitude="120.123922" time="12:21:48" url="/2016/08/08/DATE20160808TIME122148GEOBOOLyesLONGE120123922LATN23035620DIR277ALT478SIZE10430THUMB5302ORIGjamestainan3DSCN0100.jpg"/></media>
-</ent>
-<ent id="o1200684">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="o1364418" siteid="s64330"><latitude src="percol-up">23.035848</latitude><longitude src="percol-up">120.12368</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035848" longitude="120.123680" time="12:22:00" url="/2016/08/08/DATE20160808TIME122200GEOBOOLyesLONGE120123680LATN23035848DIR281ALT473SIZE10430THUMB4117ORIGjamestainan3DSCN0101.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1364418">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s64330" siteid="s64330"><latitude src="percol-up">23.035848</latitude><longitude src="percol-up">120.12368</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035848" longitude="120.123680" time="12:22:00" url="/2016/08/08/DATE20160808TIME122200GEOBOOLyesLONGE120123680LATN23035848DIR281ALT473SIZE10430THUMB4117ORIGjamestainan3DSCN0101.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="s64330">
-<names>
-<name language="English">24PF+8F</name><name language="English">Mazu Temple First Road</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+8F</pluscode><longitude src="percol-up">120.12380099999999</longitude><latitude src="percol-up">23.035734</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-02</date></event>
-</events>
-</ent>
-<ent id="o1208329">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="o1339078" siteid="s64341"><latitude src="percol-up">23.035137</latitude><longitude src="percol-up">120.122638</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035137" longitude="120.122638" time="12:30:59" url="/2016/08/08/DATE20160808TIME123059GEOBOOLyesLONGE120122638LATN23035137DIR104ALT51SIZE10430THUMB3952ORIGjamestainan3DSCN0137.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1339078">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s64341" siteid="s64341"><latitude src="percol-up">23.035137</latitude><longitude src="percol-up">120.122638</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035137" longitude="120.122638" time="12:30:59" url="/2016/08/08/DATE20160808TIME123059GEOBOOLyesLONGE120122638LATN23035137DIR104ALT51SIZE10430THUMB3952ORIGjamestainan3DSCN0137.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o284415">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64341" siteid="s64341"><latitude src="percol-up">23.035148</latitude><longitude src="percol-up">120.12264</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035148" longitude="120.122640" time="12:30:49" url="/2016/08/08/DATE20160808TIME123049GEOBOOLyesLONGE120122640LATN23035148DIR107ALT55SIZE10430THUMB6487ORIGjamestainan3DSCN0136.jpg"/></media>
 </ent>
 <ent id="s64341">
 <names>
-<name language="English">24PF+33</name><name language="English">Mazu Temple First Road</name></names>
+<name language="English">24PF+33</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+33</pluscode><longitude src="percol-up">120.12263899999999</longitude><latitude src="percol-up">23.0351425</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-02-11</date></event>
-</events>
-</ent>
-<ent id="o284421">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s64345" siteid="s64345"><latitude src="percol-up">23.035497</latitude><longitude src="percol-up">120.122702</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035497" longitude="120.122702" time="12:33:27" url="/2016/08/08/DATE20160808TIME123327GEOBOOLyesLONGE120122702LATN23035497DIR106ALT21SIZE10430THUMB4984ORIGjamestainan3DSCN0146.jpg"/></media>
-</ent>
-<ent id="o1214528">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="s64345" siteid="s64345"><orientations><orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">289</orientation></orientations><latitude src="percol-up">23.035488</latitude><longitude src="percol-up">120.122753</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035488" longitude="120.122753" time="12:33:36" url="/2016/08/08/DATE20160808TIME123336GEOBOOLyesLONGE120122753LATN23035488DIR112ALT21SIZE10430THUMB4827ORIGjamestainan3DSCN0147.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="s64345">
-<names>
-<name language="English">24PF+54</name><name language="English">Mazu Temple First Road</name><name language="English">family burial</name></names>
-<types>
-<type language="English">bongcu</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+54</pluscode><longitude src="percol-up">120.1227275</longitude><latitude src="percol-up">23.0354925</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><culturaldomain>
-<practices>
-<practice>
-<names>
-<name language="English">burial using a urn</name></names>
-<epistemics>implied</epistemics></practice>
-</practices>
-</culturaldomain>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+33</pluscode>
+<longitude src="percol-up">120.12263899999999</longitude>
+<latitude src="percol-up">23.0351425</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
 <events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-27</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-02-11</date>
+</event>
 </events>
+<ent id="o284415">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64341" siteid="s64341">
+<latitude src="percol-up">23.035148</latitude>
+<longitude src="percol-up">120.12264</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035148" longitude="120.122640" time="12:30:49" url="/2016/08/08/DATE20160808TIME123049GEOBOOLyesLONGE120122640LATN23035148DIR107ALT55SIZE10430THUMB6487ORIGjamestainan3DSCN0136.jpg" />
+</media>
 </ent>
-<ent id="o284444">
+<ent id="o1339078">
 <types>
-<type language="English">object</type></types>
-<geography geotop="s64356" siteid="s64356"><latitude src="percol-up">23.035912</latitude><longitude src="percol-up">120.12317</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035912" longitude="120.123170" time="12:39:04" url="/2016/08/08/DATE20160808TIME123904GEOBOOLyesLONGE120123170LATN23035912DIR350ALT7SIZE10430THUMB5136ORIGjamestainan3DSCN0185.jpg"/></media>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s64341" siteid="s64341">
+<latitude src="percol-up">23.035137</latitude>
+<longitude src="percol-up">120.122638</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035137" longitude="120.122638" time="12:30:59" url="/2016/08/08/DATE20160808TIME123059GEOBOOLyesLONGE120122638LATN23035137DIR104ALT51SIZE10430THUMB3952ORIGjamestainan3DSCN0137.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1208329">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1339078" siteid="s64341">
+<latitude src="percol-up">23.035137</latitude>
+<longitude src="percol-up">120.122638</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035137" longitude="120.122638" time="12:30:59" url="/2016/08/08/DATE20160808TIME123059GEOBOOLyesLONGE120122638LATN23035137DIR104ALT51SIZE10430THUMB3952ORIGjamestainan3DSCN0137.jpg" />
+</media>
+<sem writing="uninscribed" />
 </ent>
-<ent id="o1166688">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="o1337758" siteid="s64356"><latitude src="percol-up">23.03593</latitude><longitude src="percol-up">120.123152</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035930" longitude="120.123152" time="12:39:29" url="/2016/08/08/DATE20160808TIME123929GEOBOOLyesLONGE120123152LATN23035930DIR20ALT7SIZE10430THUMB4274ORIGjamestainan3DSCN0186.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1337758">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s64356" siteid="s64356"><latitude src="percol-up">23.03593</latitude><longitude src="percol-up">120.123152</longitude><island REF="Taiwan"/></geography><media>
-<img date="2016-08-08" latitude="23.035930" longitude="120.123152" time="12:39:29" url="/2016/08/08/DATE20160808TIME123929GEOBOOLyesLONGE120123152LATN23035930DIR20ALT7SIZE10430THUMB4274ORIGjamestainan3DSCN0186.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="s64356">
-<names>
-<name language="English">24PF+97</name><name language="English">Mazu Temple First Road</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s876" siteid="s876"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224PF+97</pluscode><longitude src="percol-up">120.12316100000001</longitude><latitude src="percol-up">23.035921000000002</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-07-01</date></event>
-</events>
 </ent>
-<ent id="s876">
-<names>
-<name language="English">24MF+W4</name><name language="English">Mazu Temple First Road</name></names>
-<types>
-<type language="English">community burial</type><type language="English">cemetery</type></types>
-<stats>
-<stat type="earthgod" cross="0" direct="0" indirect="1">1</stat><stat type="grave" cross="0" direct="2" indirect="0">2</stat><stat type="tomb" cross="0" direct="17" indirect="0">17</stat></stats>
-<geography geotop="sTainanAnnanDistrict" siteid="sTainanAnnanDistrict"><address script="Chinese-traditional">台灣台南安南鹿耳</address><pluscode>7QM224MF+W4</pluscode><longitude src="percol-up">120.12310149999999</longitude><latitude src="percol-up">23.035614000000002</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-05-21</date></event>
-</events>
 </ent>
-<ent id="sTainanAnnanDistrict">
+<ent id="s64337">
 <names>
-<name>Annan District</name><name>安南區</name></names>
+<name language="English">24PF+33</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type>admnistrative region</type></types>
-<stats>
-<stat type="cemetery" cross="0" direct="1" indirect="0">1</stat><stat type="earthgod" cross="0" direct="0" indirect="1">1</stat><stat type="grave" cross="0" direct="0" indirect="2">2</stat><stat type="tomb" cross="0" direct="0" indirect="17">17</stat></stats>
-<geography geotop="s131977" siteid="s131977"><island REF="Taiwan"/><latitude src="percol-up">23.035614</latitude><longitude src="percol-up">120.123101</longitude></geography></ent>
-<ent id="o110146">
-<types>
-<type language="English">site marker</type></types>
-<geography geotop="s566" siteid="s566"><latitude src="percol-up">23.020235</latitude><longitude src="percol-up">120.134103</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:53:12" url="/2012/08/27/DATE20120827TIME125312GEOBOOLyesLONGE120134128LATN23020239DIR337ALT19SIZE1952THUMB4562ORIGRIMG0036.jpg"/><img date="2012-08-27" latitude="23.020231" longitude="120.134078" time="12:53:01" url="/2012/08/27/DATE20120827TIME125301GEOBOOLyesLONGE120134078LATN23020231DIR320ALT19SIZE1952THUMB4465ORIGRIMG0035.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o244337">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38274" siteid="s38274"><latitude src="percol-up">23.020206</latitude><longitude src="percol-up">120.134286</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020206" longitude="120.134286" time="12:52:13" url="/2012/08/27/DATE20120827TIME125213GEOBOOLyesLONGE120134286LATN23020206DIR44ALT19SIZE1952THUMB4756ORIGRIMG0031.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o244336">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38274" siteid="s38274"><latitude src="percol-up">23.020119</latitude><longitude src="percol-up">120.134222</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020119" longitude="120.134222" time="12:52:01" url="/2012/08/27/DATE20120827TIME125201GEOBOOLyesLONGE120134222LATN23020119DIR13ALT19SIZE1952THUMB4967ORIGRIMG0029.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o1154138">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="o1355946" siteid="s38274"><latitude src="percol-up">23.020325</latitude><longitude src="percol-up">120.134064</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020325" longitude="120.134064" time="12:52:08" url="/2012/08/27/DATE20120827TIME125208GEOBOOLyesLONGE120134064LATN23020325DIR23ALT19SIZE1952THUMB4316ORIGRIMG0030.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1355946">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s38274" siteid="s38274"><latitude src="percol-up">23.020325</latitude><longitude src="percol-up">120.134064</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020325" longitude="120.134064" time="12:52:08" url="/2012/08/27/DATE20120827TIME125208GEOBOOLyesLONGE120134064LATN23020325DIR23ALT19SIZE1952THUMB4316ORIGRIMG0030.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="s38274">
-<names>
-<name language="English">24CM+4J</name><name language="English">Sicaohu, behind Dazong Miao</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s566" siteid="s566"><address script="Chinese-traditional">台灣台南安南</address><pluscode>7QM224CM+4J</pluscode><longitude src="percol-up">120.134222</longitude><latitude src="percol-up">23.020206</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-06-27</date></event>
-</events>
-</ent>
-<ent id="o244353">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38280" siteid="s38280"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:55:54" url="/2012/08/27/DATE20120827TIME125554GEOBOOLyesLONGE120134128LATN23020239DIR111ALT19SIZE1952THUMB5350ORIGRIMG0055.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o244352">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38280" siteid="s38280"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:55:42" url="/2012/08/27/DATE20120827TIME125542GEOBOOLyesLONGE120134128LATN23020239DIR73ALT19SIZE1952THUMB4747ORIGRIMG0054.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="s38280">
-<names>
-<name language="English">24CM+3M</name><name language="English">Sicaohu, behind Dazong Miao</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s566" siteid="s566"><address script="Chinese-traditional">台灣台南安南</address><pluscode>7QM224CM+3M</pluscode><longitude src="percol-up">120.134128</longitude><latitude src="percol-up">23.020239</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-19</date></event>
-</events>
-</ent>
-<ent id="o1200563">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="o1386031" siteid="s38281"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:56:17" url="/2012/08/27/DATE20120827TIME125617GEOBOOLyesLONGE120134128LATN23020239DIR64ALT19SIZE1952THUMB5255ORIGRIMG0059.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1386031">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s38281" siteid="s38281"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:56:17" url="/2012/08/27/DATE20120827TIME125617GEOBOOLyesLONGE120134128LATN23020239DIR64ALT19SIZE1952THUMB5255ORIGRIMG0059.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o244355">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38281" siteid="s38281"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:56:08" url="/2012/08/27/DATE20120827TIME125608GEOBOOLyesLONGE120134128LATN23020239DIR6ALT19SIZE1952THUMB4952ORIGRIMG0058.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="s38281">
-<names>
-<name language="English">24CM+3M</name><name language="English">Sicaohu, behind Dazong Miao</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s566" siteid="s566"><address script="Chinese-traditional">台灣台南安南</address><pluscode>7QM224CM+3M</pluscode><longitude src="percol-up">120.134128</longitude><latitude src="percol-up">23.020239</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-11-11</date></event>
-</events>
-</ent>
-<ent id="o244350">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38279" siteid="s38279"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:55:09" url="/2012/08/27/DATE20120827TIME125509GEOBOOLyesLONGE120134128LATN23020239DIR278ALT19SIZE1952THUMB4614ORIGRIMG0051.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o244349">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38279" siteid="s38279"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:55:03" url="/2012/08/27/DATE20120827TIME125503GEOBOOLyesLONGE120134128LATN23020239DIR287ALT19SIZE1952THUMB4453ORIGRIMG0050.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o244348">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38279" siteid="s38279"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:54:53" url="/2012/08/27/DATE20120827TIME125453GEOBOOLyesLONGE120134128LATN23020239DIR1ALT19SIZE1952THUMB4820ORIGRIMG0049.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="s38279">
-<names>
-<name language="English">24CM+3M</name><name language="English">Sicaohu, behind Dazong Miao</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s566" siteid="s566"><address script="Chinese-traditional">台灣台南安南</address><pluscode>7QM224CM+3M</pluscode><longitude src="percol-up">120.134128</longitude><latitude src="percol-up">23.020239</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><culturaldomain>
-<practices>
-<practice>
-<names>
-<name language="English">burial using a urn</name></names>
-<epistemics>implied</epistemics></practice>
-</practices>
-</culturaldomain>
+<type language="English">individual burial</type>
+<type language="English">grave</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+33</pluscode>
+<longitude src="percol-up">120.122643</longitude>
+<latitude src="percol-up">23.035213</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
 <events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-06</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-27</date>
+</event>
 </events>
+<ent id="o1075473">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64337" siteid="s64337">
+<latitude src="percol-up">23.03521</latitude>
+<longitude src="percol-up">120.122643</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035210" longitude="120.122643" time="12:27:51" url="/2016/08/08/DATE20160808TIME122751GEOBOOLyesLONGE120122643LATN23035210DIR46ALT155SIZE10430THUMB4839ORIGjamestainan3DSCN0121.jpg" />
+</media>
 </ent>
-<ent id="o244333">
+<ent id="o1075475">
 <types>
-<type language="English">object</type></types>
-<geography geotop="s38272" siteid="s38272"><latitude src="percol-up">23.020003</latitude><longitude src="percol-up">120.134431</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020003" longitude="120.134431" time="12:51:07" url="/2012/08/27/DATE20120827TIME125107GEOBOOLyesLONGE120134431LATN23020003DIR3ALT19SIZE1952THUMB5184ORIGRIMG0023.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o244334">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38272" siteid="s38272"><latitude src="percol-up">23.019986</latitude><longitude src="percol-up">120.134406</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.019986" longitude="120.134406" time="12:51:29" url="/2012/08/27/DATE20120827TIME125129GEOBOOLyesLONGE120134406LATN23019986DIR19ALT19SIZE1952THUMB5635ORIGRIMG0026.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="s38272">
-<names>
-<name language="English">24CM+3P</name><name language="English">Sicaohu, behind Dazong Miao</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s566" siteid="s566"><address script="Chinese-traditional">台灣台南安南</address><pluscode>7QM224CM+3P</pluscode><longitude src="percol-up">120.13441850000001</longitude><latitude src="percol-up">23.0199945</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-07</date></event>
-</events>
+<type language="English">object</type>
+</types>
+<geography geotop="s64337" siteid="s64337">
+<latitude src="percol-up">23.035213</latitude>
+<longitude src="percol-up">120.1226</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035213" longitude="120.122600" time="12:28:10" url="/2016/08/08/DATE20160808TIME122810GEOBOOLyesLONGE120122600LATN23035213DIR100ALT133SIZE10430THUMB3111ORIGjamestainan3DSCN0123.jpg" />
+</media>
 </ent>
-<ent id="o244344">
+<ent id="o1116659">
 <types>
-<type language="English">object</type></types>
-<geography geotop="s38277" siteid="s38277"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:54:06" url="/2012/08/27/DATE20120827TIME125406GEOBOOLyesLONGE120134128LATN23020239DIR104ALT19SIZE1952THUMB4313ORIGRIMG0042.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o1153687">
+<type language="English">structure</type>
+</types>
+<geography geotop="s64337" siteid="s64337">
+<latitude src="percol-up">23.035265</latitude>
+<longitude src="percol-up">120.122652</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035265" longitude="120.122652" time="12:28:04" url="/2016/08/08/DATE20160808TIME122804GEOBOOLyesLONGE120122652LATN23035265DIR95ALT144SIZE10430THUMB4521ORIGjamestainan3DSCN0122.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o1075474">
 <types>
-<type language="English">altar</type></types>
-<geography geotop="o1343034" siteid="s38277"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:54:14" url="/2012/08/27/DATE20120827TIME125414GEOBOOLyesLONGE120134128LATN23020239DIR91ALT19SIZE1952THUMB5321ORIGRIMG0043.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1343034">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s38277" siteid="s38277"><latitude src="percol-up">23.020239</latitude><longitude src="percol-up">120.134128</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:54:14" url="/2012/08/27/DATE20120827TIME125414GEOBOOLyesLONGE120134128LATN23020239DIR91ALT19SIZE1952THUMB5321ORIGRIMG0043.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="s38277">
-<names>
-<name language="English">24CM+3M</name><name language="English">Sicaohu, behind Dazong Miao</name></names>
-<types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s566" siteid="s566"><address script="Chinese-traditional">台灣台南安南</address><pluscode>7QM224CM+3M</pluscode><longitude src="percol-up">120.134128</longitude><latitude src="percol-up">23.020239</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
-<event type="fieldwork">
-<agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-10-07</date></event>
-</events>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o1116659" siteid="s64337">
+<latitude src="percol-up">23.035265</latitude>
+<longitude src="percol-up">120.122652</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035265" longitude="120.122652" time="12:28:04" url="/2016/08/08/DATE20160808TIME122804GEOBOOLyesLONGE120122652LATN23035265DIR95ALT144SIZE10430THUMB4521ORIGjamestainan3DSCN0122.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
 </ent>
-<ent id="o244332">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38271" siteid="s38271"><latitude src="percol-up">23.020011</latitude><longitude src="percol-up">120.134425</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020011" longitude="120.134425" time="12:50:54" url="/2012/08/27/DATE20120827TIME125054GEOBOOLyesLONGE120134425LATN23020011DIR343ALT19SIZE1952THUMB4819ORIGRIMG0022.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o244331">
-<types>
-<type language="English">object</type></types>
-<geography geotop="s38271" siteid="s38271"><latitude src="percol-up">23.018444</latitude><longitude src="percol-up">120.134031</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.018444" longitude="120.134031" time="12:50:40" url="/2012/08/27/DATE20120827TIME125040GEOBOOLyesLONGE120134031LATN23018444DIR350ALT19SIZE1952THUMB5408ORIGRIMG0020.jpg"/></media>
-<sem writing="inscribed"/></ent>
-<ent id="o1214403">
-<types>
-<type language="English">altar</type></types>
-<geography geotop="o1358392" siteid="s38271"><latitude src="percol-up">23.020147</latitude><longitude src="percol-up">120.134372</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020147" longitude="120.134372" time="12:50:51" url="/2012/08/27/DATE20120827TIME125051GEOBOOLyesLONGE120134372LATN23020147DIR355ALT19SIZE1952THUMB4583ORIGRIMG0021.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="o1358392">
-<types>
-<type language="English">inner space</type></types>
-<geography geotop="s38271" siteid="s38271"><latitude src="percol-up">23.020147</latitude><longitude src="percol-up">120.134372</longitude><island REF="Taiwan"/></geography><media>
-<img date="2012-08-27" latitude="23.020147" longitude="120.134372" time="12:50:51" url="/2012/08/27/DATE20120827TIME125051GEOBOOLyesLONGE120134372LATN23020147DIR355ALT19SIZE1952THUMB4583ORIGRIMG0021.jpg"/></media>
-<sem writing="uninscribed"/></ent>
-<ent id="s38271">
+</ent>
+</ent>
+<ent id="s64330">
 <names>
-<name language="English">24CM+3P</name><name language="English">Sicaohu, behind Dazong Miao</name></names>
+<name language="English">24PF+8F</name>
+<name language="English">Mazu Temple First Road</name>
+</names>
 <types>
-<type language="English">individual burial</type><type language="English">tomb</type></types>
-<geography geotop="s566" siteid="s566"><address script="Chinese-traditional">台灣台南安南</address><pluscode>7QM224CM+3P</pluscode><longitude src="percol-up">120.134372</longitude><latitude src="percol-up">23.020011</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><culturaldomain>
-<practices>
-<practice>
-<names>
-<name language="English">the container of the body of the deceased is lowered into the ground and covered by soil</name></names>
-<epistemics>observed</epistemics></practice>
-</practices>
-</culturaldomain>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s876" siteid="s876">
+<address script="Chinese-traditional">台灣台南安南鹿耳</address>
+<pluscode>7QM224PF+8F</pluscode>
+<longitude src="percol-up">120.12380099999999</longitude>
+<latitude src="percol-up">23.035734</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
 <events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-02-05</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-02</date>
+</event>
 </events>
+<ent id="o284391">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s64330" siteid="s64330">
+<latitude src="percol-up">23.03562</latitude>
+<longitude src="percol-up">120.123922</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035620" longitude="120.123922" time="12:21:48" url="/2016/08/08/DATE20160808TIME122148GEOBOOLyesLONGE120123922LATN23035620DIR277ALT478SIZE10430THUMB5302ORIGjamestainan3DSCN0100.jpg" />
+</media>
+</ent>
+<ent id="o1364418">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s64330" siteid="s64330">
+<latitude src="percol-up">23.035848</latitude>
+<longitude src="percol-up">120.12368</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035848" longitude="120.123680" time="12:22:00" url="/2016/08/08/DATE20160808TIME122200GEOBOOLyesLONGE120123680LATN23035848DIR281ALT473SIZE10430THUMB4117ORIGjamestainan3DSCN0101.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1200684">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1364418" siteid="s64330">
+<latitude src="percol-up">23.035848</latitude>
+<longitude src="percol-up">120.12368</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2016-08-08" latitude="23.035848" longitude="120.123680" time="12:22:00" url="/2016/08/08/DATE20160808TIME122200GEOBOOLyesLONGE120123680LATN23035848DIR281ALT473SIZE10430THUMB4117ORIGjamestainan3DSCN0101.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+</ent>
+</ent>
+</ent>
 </ent>
 <ent id="s566">
 <names>
-<name language="English">24CM+3P</name><name language="English">Sicaohu, behind Dazong Miao</name></names>
+<name language="English">24CM+3P</name>
+<name language="English">Sicaohu, behind Dazong Miao</name>
+</names>
 <types>
-<type language="English">community burial</type><type language="English">cemetery</type></types>
+<type language="English">community burial</type>
+<type language="English">cemetery</type>
+</types>
 <stats>
-<stat type="tomb" cross="0" direct="7" indirect="0">7</stat></stats>
-<geography geotop="s566" siteid="s566"><address script="Chinese-traditional">台灣台南安南</address><pluscode>7QM224CM+3P</pluscode><longitude src="percol-up">120.134103</longitude><latitude src="percol-up">23.020235</latitude><orientations><orientation src="ground measurement" system="geographic north">95</orientation></orientations><island REF="Taiwan"/></geography><events>
+<stat type="tomb" cross="0" direct="7" indirect="0">7</stat>
+</stats>
+<geography geotop="s566" siteid="s566">
+<address script="Chinese-traditional">台灣台南安南</address>
+<pluscode>7QM224CM+3P</pluscode>
+<longitude src="percol-up">120.134103</longitude>
+<latitude src="percol-up">23.020235</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
 <event type="fieldwork">
 <agents>
-<agent refid="con1" role="researcher"/></agents>
-<date>2021-04-23</date></event>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-04-23</date>
+</event>
 </events>
+<ent id="s38280">
+<names>
+<name language="English">24CM+3M</name>
+<name language="English">Sicaohu, behind Dazong Miao</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s566" siteid="s566">
+<address script="Chinese-traditional">台灣台南安南</address>
+<pluscode>7QM224CM+3M</pluscode>
+<longitude src="percol-up">120.134128</longitude>
+<latitude src="percol-up">23.020239</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-19</date>
+</event>
+</events>
+<ent id="o244352">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38280" siteid="s38280">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:55:42" url="/2012/08/27/DATE20120827TIME125542GEOBOOLyesLONGE120134128LATN23020239DIR73ALT19SIZE1952THUMB4747ORIGRIMG0054.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o244353">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38280" siteid="s38280">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:55:54" url="/2012/08/27/DATE20120827TIME125554GEOBOOLyesLONGE120134128LATN23020239DIR111ALT19SIZE1952THUMB5350ORIGRIMG0055.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+</ent>
+<ent id="o110146">
+<types>
+<type language="English">site marker</type>
+</types>
+<geography geotop="s566" siteid="s566">
+<latitude src="percol-up">23.020235</latitude>
+<longitude src="percol-up">120.134103</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:53:12" url="/2012/08/27/DATE20120827TIME125312GEOBOOLyesLONGE120134128LATN23020239DIR337ALT19SIZE1952THUMB4562ORIGRIMG0036.jpg" />
+<img date="2012-08-27" latitude="23.020231" longitude="120.134078" time="12:53:01" url="/2012/08/27/DATE20120827TIME125301GEOBOOLyesLONGE120134078LATN23020231DIR320ALT19SIZE1952THUMB4465ORIGRIMG0035.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="s38272">
+<names>
+<name language="English">24CM+3P</name>
+<name language="English">Sicaohu, behind Dazong Miao</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s566" siteid="s566">
+<address script="Chinese-traditional">台灣台南安南</address>
+<pluscode>7QM224CM+3P</pluscode>
+<longitude src="percol-up">120.13441850000001</longitude>
+<latitude src="percol-up">23.0199945</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-07</date>
+</event>
+</events>
+<ent id="o244334">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38272" siteid="s38272">
+<latitude src="percol-up">23.019986</latitude>
+<longitude src="percol-up">120.134406</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.019986" longitude="120.134406" time="12:51:29" url="/2012/08/27/DATE20120827TIME125129GEOBOOLyesLONGE120134406LATN23019986DIR19ALT19SIZE1952THUMB5635ORIGRIMG0026.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o244333">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38272" siteid="s38272">
+<latitude src="percol-up">23.020003</latitude>
+<longitude src="percol-up">120.134431</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020003" longitude="120.134431" time="12:51:07" url="/2012/08/27/DATE20120827TIME125107GEOBOOLyesLONGE120134431LATN23020003DIR3ALT19SIZE1952THUMB5184ORIGRIMG0023.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+</ent>
+<ent id="s38271">
+<names>
+<name language="English">24CM+3P</name>
+<name language="English">Sicaohu, behind Dazong Miao</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s566" siteid="s566">
+<address script="Chinese-traditional">台灣台南安南</address>
+<pluscode>7QM224CM+3P</pluscode>
+<longitude src="percol-up">120.134372</longitude>
+<latitude src="percol-up">23.020011</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">the container of the body of the deceased is lowered into the ground and covered by soil</name>
+</names>
+<epistemics>observed</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-02-05</date>
+</event>
+</events>
+<ent id="o244332">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38271" siteid="s38271">
+<latitude src="percol-up">23.020011</latitude>
+<longitude src="percol-up">120.134425</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020011" longitude="120.134425" time="12:50:54" url="/2012/08/27/DATE20120827TIME125054GEOBOOLyesLONGE120134425LATN23020011DIR343ALT19SIZE1952THUMB4819ORIGRIMG0022.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o244331">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38271" siteid="s38271">
+<latitude src="percol-up">23.018444</latitude>
+<longitude src="percol-up">120.134031</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.018444" longitude="120.134031" time="12:50:40" url="/2012/08/27/DATE20120827TIME125040GEOBOOLyesLONGE120134031LATN23018444DIR350ALT19SIZE1952THUMB5408ORIGRIMG0020.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o1358392">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s38271" siteid="s38271">
+<latitude src="percol-up">23.020147</latitude>
+<longitude src="percol-up">120.134372</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020147" longitude="120.134372" time="12:50:51" url="/2012/08/27/DATE20120827TIME125051GEOBOOLyesLONGE120134372LATN23020147DIR355ALT19SIZE1952THUMB4583ORIGRIMG0021.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1214403">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1358392" siteid="s38271">
+<latitude src="percol-up">23.020147</latitude>
+<longitude src="percol-up">120.134372</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020147" longitude="120.134372" time="12:50:51" url="/2012/08/27/DATE20120827TIME125051GEOBOOLyesLONGE120134372LATN23020147DIR355ALT19SIZE1952THUMB4583ORIGRIMG0021.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+</ent>
+</ent>
+<ent id="s38279">
+<names>
+<name language="English">24CM+3M</name>
+<name language="English">Sicaohu, behind Dazong Miao</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s566" siteid="s566">
+<address script="Chinese-traditional">台灣台南安南</address>
+<pluscode>7QM224CM+3M</pluscode>
+<longitude src="percol-up">120.134128</longitude>
+<latitude src="percol-up">23.020239</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">burial using a urn</name>
+</names>
+<epistemics>implied</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-06</date>
+</event>
+</events>
+<ent id="o244350">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38279" siteid="s38279">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:55:09" url="/2012/08/27/DATE20120827TIME125509GEOBOOLyesLONGE120134128LATN23020239DIR278ALT19SIZE1952THUMB4614ORIGRIMG0051.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o244348">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38279" siteid="s38279">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:54:53" url="/2012/08/27/DATE20120827TIME125453GEOBOOLyesLONGE120134128LATN23020239DIR1ALT19SIZE1952THUMB4820ORIGRIMG0049.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o244349">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38279" siteid="s38279">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:55:03" url="/2012/08/27/DATE20120827TIME125503GEOBOOLyesLONGE120134128LATN23020239DIR287ALT19SIZE1952THUMB4453ORIGRIMG0050.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+</ent>
+<ent id="s38281">
+<names>
+<name language="English">24CM+3M</name>
+<name language="English">Sicaohu, behind Dazong Miao</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s566" siteid="s566">
+<address script="Chinese-traditional">台灣台南安南</address>
+<pluscode>7QM224CM+3M</pluscode>
+<longitude src="percol-up">120.134128</longitude>
+<latitude src="percol-up">23.020239</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-11-11</date>
+</event>
+</events>
+<ent id="o244355">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38281" siteid="s38281">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:56:08" url="/2012/08/27/DATE20120827TIME125608GEOBOOLyesLONGE120134128LATN23020239DIR6ALT19SIZE1952THUMB4952ORIGRIMG0058.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o1386031">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s38281" siteid="s38281">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:56:17" url="/2012/08/27/DATE20120827TIME125617GEOBOOLyesLONGE120134128LATN23020239DIR64ALT19SIZE1952THUMB5255ORIGRIMG0059.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1200563">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1386031" siteid="s38281">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:56:17" url="/2012/08/27/DATE20120827TIME125617GEOBOOLyesLONGE120134128LATN23020239DIR64ALT19SIZE1952THUMB5255ORIGRIMG0059.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+</ent>
+</ent>
+<ent id="s38277">
+<names>
+<name language="English">24CM+3M</name>
+<name language="English">Sicaohu, behind Dazong Miao</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s566" siteid="s566">
+<address script="Chinese-traditional">台灣台南安南</address>
+<pluscode>7QM224CM+3M</pluscode>
+<longitude src="percol-up">120.134128</longitude>
+<latitude src="percol-up">23.020239</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-10-07</date>
+</event>
+</events>
+<ent id="o244344">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38277" siteid="s38277">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:54:06" url="/2012/08/27/DATE20120827TIME125406GEOBOOLyesLONGE120134128LATN23020239DIR104ALT19SIZE1952THUMB4313ORIGRIMG0042.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o1343034">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s38277" siteid="s38277">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:54:14" url="/2012/08/27/DATE20120827TIME125414GEOBOOLyesLONGE120134128LATN23020239DIR91ALT19SIZE1952THUMB5321ORIGRIMG0043.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1153687">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1343034" siteid="s38277">
+<latitude src="percol-up">23.020239</latitude>
+<longitude src="percol-up">120.134128</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020239" longitude="120.134128" time="12:54:14" url="/2012/08/27/DATE20120827TIME125414GEOBOOLyesLONGE120134128LATN23020239DIR91ALT19SIZE1952THUMB5321ORIGRIMG0043.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+</ent>
+</ent>
+<ent id="s38274">
+<names>
+<name language="English">24CM+4J</name>
+<name language="English">Sicaohu, behind Dazong Miao</name>
+</names>
+<types>
+<type language="English">individual burial</type>
+<type language="English">tomb</type>
+</types>
+<geography geotop="s566" siteid="s566">
+<address script="Chinese-traditional">台灣台南安南</address>
+<pluscode>7QM224CM+4J</pluscode>
+<longitude src="percol-up">120.134222</longitude>
+<latitude src="percol-up">23.020206</latitude>
+<orientations>
+<orientation src="ground measurement" system="geographic north">95</orientation>
+</orientations>
+<island REF="Taiwan" />
+</geography>
+<events>
+<event type="fieldwork">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+<date>2021-06-27</date>
+</event>
+</events>
+<ent id="o244336">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38274" siteid="s38274">
+<latitude src="percol-up">23.020119</latitude>
+<longitude src="percol-up">120.134222</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020119" longitude="120.134222" time="12:52:01" url="/2012/08/27/DATE20120827TIME125201GEOBOOLyesLONGE120134222LATN23020119DIR13ALT19SIZE1952THUMB4967ORIGRIMG0029.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o244337">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s38274" siteid="s38274">
+<latitude src="percol-up">23.020206</latitude>
+<longitude src="percol-up">120.134286</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020206" longitude="120.134286" time="12:52:13" url="/2012/08/27/DATE20120827TIME125213GEOBOOLyesLONGE120134286LATN23020206DIR44ALT19SIZE1952THUMB4756ORIGRIMG0031.jpg" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o1355946">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s38274" siteid="s38274">
+<latitude src="percol-up">23.020325</latitude>
+<longitude src="percol-up">120.134064</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020325" longitude="120.134064" time="12:52:08" url="/2012/08/27/DATE20120827TIME125208GEOBOOLyesLONGE120134064LATN23020325DIR23ALT19SIZE1952THUMB4316ORIGRIMG0030.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1154138">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1355946" siteid="s38274">
+<latitude src="percol-up">23.020325</latitude>
+<longitude src="percol-up">120.134064</longitude>
+<island REF="Taiwan" />
+</geography>
+<media>
+<img date="2012-08-27" latitude="23.020325" longitude="120.134064" time="12:52:08" url="/2012/08/27/DATE20120827TIME125208GEOBOOLyesLONGE120134064LATN23020325DIR23ALT19SIZE1952THUMB4316ORIGRIMG0030.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+</ent>
+</ent>
 </ent>
 </document>

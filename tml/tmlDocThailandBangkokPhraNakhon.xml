@@ -2,57 +2,57 @@
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
 <document latitude="N(13)" longitude="E(100)">
-    <ent id="sBangkokPhraNakhonAdmin">
-        <types>
-            <type language="English">administrative region</type>
-        </types>
-        <admins>
-            <adminsys>
-                <adminlevel admintype="3" code="TH-10-">
-                    <adminname>khet</adminname>
-                </adminlevel>
-                <admtop>s72664</admtop>
-            </adminsys>
-        </admins>
-        <geography geotop="sBangkok" siteid="sBangkok">
-            <longitude src="percol-up">100.542057</longitude>
-            <latitude src="percol-up">13.7244061940147</latitude>
-        </geography>
-        <names>
-            <name language="English">Phra Nakhon</name>
-            <name language="Thai" script="Thai">พระนคร</name>
-        </names>
-        <ent id="sWatThiphayaWareeWihan">
-            <types>
-                <type language="English">Wat</type>
-                <type script="Latin">Buddhist temple</type>
-                <type script="Latin">Thai temple</type>
-                <type script="Latin">Thai monastery</type>
-                <type script="Latin">Theravada monastery</type>
-                <type script="Latin">Sangha</type>
-                <type script="Chinese-traditional">僧伽</type>
-                <type language="Thai" script="Thai">พระสงฆ์</type>
-                <type language="Thai" script="Thai">สงฆ์</type>
-                <type language="Thai" script="Thai">วัด</type>
-                <type language="Thai" script="Thai">วัดไทย</type>
-            </types>
-            <names>
-                <name script="Chinese-traditional">曼谷敕賜甘露寺</name>
-                <name language="Thai" script="Thai">วัดทิพยวารีวิหาร</name>
-                <name language="English">Bangkok Wat Thiphaya Waree Wihan</name>
-            </names>
-            <geography geotop="sBangkokPhraNakhonAdmin" siteid="sBangkokPhraNakhonAdmin">
-                <orientations>
-                    <orientation system="geographic north">45</orientation>
-                </orientations>
-                <longitude src="percol-down">100.507225</longitude>
-                <latitude src="percol-down">13.740670999999999</latitude>
-            </geography>
-            <events>
-                <event type="fieldwork" day="2018-02-04" lunar="2017-12-19" />
-            </events>
-            <communities />
-            <admins />
-        </ent>
-    </ent>
+<ent id="sBangkokPhraNakhonAdmin">
+<types>
+<type language="English">administrative region</type>
+</types>
+<admins>
+<adminsys>
+<adminlevel admintype="3" code="TH-10-">
+<adminname>khet</adminname>
+</adminlevel>
+<admtop>s72664</admtop>
+</adminsys>
+</admins>
+<geography geotop="sBangkok" siteid="sBangkok">
+<longitude src="percol-up">100.542057</longitude>
+<latitude src="percol-up">13.7244061940147</latitude>
+</geography>
+<names>
+<name language="English">Phra Nakhon</name>
+<name language="Thai" script="Thai">พระนคร</name>
+</names>
+<ent id="sWatThiphayaWareeWihan">
+<types>
+<type language="English">Wat</type>
+<type script="Latin">Buddhist temple</type>
+<type script="Latin">Thai temple</type>
+<type script="Latin">Thai monastery</type>
+<type script="Latin">Theravada monastery</type>
+<type script="Latin">Sangha</type>
+<type script="Chinese-traditional">僧伽</type>
+<type language="Thai" script="Thai">พระสงฆ์</type>
+<type language="Thai" script="Thai">สงฆ์</type>
+<type language="Thai" script="Thai">วัด</type>
+<type language="Thai" script="Thai">วัดไทย</type>
+</types>
+<names>
+<name script="Chinese-traditional">曼谷敕賜甘露寺</name>
+<name language="Thai" script="Thai">วัดทิพยวารีวิหาร</name>
+<name language="English">Bangkok Wat Thiphaya Waree Wihan</name>
+</names>
+<geography geotop="sBangkokPhraNakhonAdmin" siteid="sBangkokPhraNakhonAdmin">
+<orientations>
+<orientation system="geographic north">45</orientation>
+</orientations>
+<longitude src="percol-down">100.507225</longitude>
+<latitude src="percol-down">13.740670999999999</latitude>
+</geography>
+<events>
+<event type="fieldwork" day="2018-02-04" lunar="2017-12-19" />
+</events>
+<communities />
+<admins />
+</ent>
+</ent>
 </document>

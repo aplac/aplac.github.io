@@ -1,28 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
 <?xml-stylesheet type="text/css" href="../css/tml.css"?>
-<document latitude="N(22)" longitude="E(120)">
-<ent id="sTainanNanshanEast">
-<types>
-<type language="English">cemetery section</type>
-            <type script="Chinese-traditional">公墓</type>
-            <type script="Chinese-traditional">墓地</type>
-            <type script="Chinese-traditional">墓園</type>
-            <type script="Chinese-traditional">墳場</type>
-        </types>
-<communities>
-<community>
-<name language="English">Tainan</name>
-                <name script="Chinese-traditional">台南</name>
-            </community>
-</communities>
-<names>
-<name language="English">Tongpanqian Cemetery</name>
-            <name language="English">Nanshan Cemetery East</name>
-            <name language="English">南山公墓</name>
-        </names>
-<geography geotop="s37" siteid="s37">
-            <island REF="Taiwan"/>
-        </geography>
-    </ent>
-</document>
+<document latitude="N(22)" longitude="E(120)"></document>
