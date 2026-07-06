@@ -85,6 +85,7 @@
 <description><include href="tmlDocTaiwanPenghuDacang.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDachengbei.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDachijiao.xml" parse="xml"/></description>
+<description><include href="tmlDocTaiwanPenghuDingwan.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDongan.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDongji.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDongwei.xml" parse="xml"/></description>
