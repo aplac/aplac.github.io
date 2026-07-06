@@ -16,6 +16,7 @@
 <include href="tmlDocTaiwanPenghuBaikeng.xml" parse="xml" />
 <include href="tmlDocTaiwanPenghuChenggong.xml" parse="xml" />
 <include href="tmlDocTaiwanPenghuDachengbei.xml" parse="xml" />
+<include href="tmlDocTaiwanPenghuDongshi.xml" parse="xml" />
 <include href="tmlDocTaiwanPenghuDingwan.xml" parse="xml" />
 <include href="tmlDocTaiwanPenghuGuoye.xml" parse="xml" />
 <include href="tmlDocTaiwanPenghuHongluo.xml" parse="xml" />
@@ -25,6 +26,7 @@
 <include href="tmlDocTaiwanPenghuLongmen.xml" parse="xml" />
 <include href="tmlDocTaiwanPenghuNanliao.xml" parse="xml" />
 <include href="tmlDocTaiwanPenghuQingluo.xml" parse="xml" />
+<include href="tmlDocTaiwanPenghuTaiwu.xml" parse="xml" />
 <include href="tmlDocTaiwanPenghuXixi.xml" parse="xml" />
 </description>
 <admins>

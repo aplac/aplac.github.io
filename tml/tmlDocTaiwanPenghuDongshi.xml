@@ -1,0 +1,2527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
+<?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<document latitude="N23" longitude="E119">
+<ent id="s113275">
+<names>
+<name language="English">Dongshi Generals</name>
+<name script="Chinese-traditional">東石營頭</name>
+</names>
+<types>
+<type language="English">general</type>
+<type language="English">五營</type>
+</types>
+<communities>
+<community>
+<name language="English">Dongshi</name>
+<name script="Chinese-traditional">東石</name>
+</community>
+</communities>
+<geography geotop="sPenghuXujia" siteid="sPenghuXujia">
+<longitude src="percol-up">119.62429</longitude>
+<latitude src="percol-up">23.58341</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">apotropaic practice</name>
+</names>
+<epistemics>observed</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork" day="2020-04-05" lunar="2020-03-13" timefrom="13:14:41" timeto="13:20:50">
+<agents>
+<agent refid="con1" role="researcher" />
+<agent refid="con15" role="researcher" />
+</agents>
+</event>
+<event type="fieldwork" day="2020-04-23" lunar="2020-04-01" timefrom="09:32:20" timeto="09:33:12">
+<agents>
+<agent refid="con1" role="researcher" />
+<agent refid="con15" role="researcher" />
+</agents>
+</event>
+<event type="fieldwork" day="2020-08-22" lunar="2020-07-04" timefrom="14:16:35" timeto="14:38:07">
+<agents>
+<agent refid="con1" role="researcher" />
+<agent refid="con15" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o1081197">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s113275" siteid="s113275">
+<latitude src="percol-up">23.585278</latitude>
+<longitude src="percol-up">119.62249</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.585278" longitude="119.622490" measurement="no" public="yes" time="13:15:04" url="/2020/04/05/DATE20200405TIME131504GEOBOOLyesLONGE119622490LATN23585278DIR151ALT0SIZE11472THUMB4557ORIGHanna3DSCN0921.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o179520">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s113275" siteid="s113275">
+<latitude src="percol-up">23.584585</latitude>
+<longitude src="percol-up">119.62429</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584585" longitude="119.624290" measurement="no" public="yes" time="14:16:39" url="/2020/08/22/DATE20200822TIME141639GEOBOOLyesLONGE119624290LATN23584585DIR17ALT0SIZE11472THUMB5042ORIGOliverDSCN2681.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1081199">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s113275" siteid="s113275">
+<latitude src="percol-up">23.583402</latitude>
+<longitude src="percol-up">119.624867</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583402" longitude="119.624867" measurement="no" public="yes" time="13:20:12" url="/2020/04/05/DATE20200405TIME132012GEOBOOLyesLONGE119624867LATN23583402DIR350ALT0SIZE11472THUMB4046ORIGHanna3DSCN0935.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1081247">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s113275" siteid="s113275">
+<latitude src="percol-up">23.582623</latitude>
+<longitude src="percol-up">119.622888</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582623" longitude="119.622888" measurement="no" public="yes" time="09:32:32" url="/2020/04/23/DATE20200423TIME093232GEOBOOLyesLONGE119622888LATN23582623DIR24ALT0SIZE11472THUMB4730ORIGHannaDSCN0990.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1081198">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s113275" siteid="s113275">
+<latitude src="percol-up">23.58341</latitude>
+<longitude src="percol-up">119.624873</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583410" longitude="119.624873" measurement="no" public="yes" time="13:20:03" url="/2020/04/05/DATE20200405TIME132003GEOBOOLyesLONGE119624873LATN23583410DIR69ALT0SIZE11472THUMB3422ORIGHanna3DSCN0933.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1081339">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s113275" siteid="s113275">
+<latitude src="percol-up">23.583348</latitude>
+<longitude src="percol-up">119.624882</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583348" longitude="119.624882" measurement="no" public="yes" time="14:33:44" url="/2020/08/22/DATE20200822TIME143344GEOBOOLyesLONGE119624882LATN23583348DIR24ALT0SIZE11472THUMB4546ORIGOliverDSCN2709.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1081338">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s113275" siteid="s113275">
+<latitude src="percol-up">23.58457</latitude>
+<longitude src="percol-up">119.62428</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584570" longitude="119.624280" measurement="no" public="yes" time="14:16:35" url="/2020/08/22/DATE20200822TIME141635GEOBOOLyesLONGE119624280LATN23584570DIR10ALT0SIZE11472THUMB5053ORIGOliverDSCN2680.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="s113034">
+<names>
+<name language="English">Dongshi North General Lian</name>
+<name script="Chinese-traditional">東石連公北營</name>
+</names>
+<types>
+<type language="English">general</type>
+<type language="English">五營</type>
+<type language="English">north general</type>
+<type script="Chinese-traditional">北營</type>
+<type language="English">general Lian</type>
+</types>
+<communities>
+<community>
+<name language="English">Dongshi</name>
+<name script="Chinese-traditional">東石</name>
+</community>
+</communities>
+<geography geotop="s113275" siteid="s113275">
+<orientations>
+<orientation system="geographic north">195</orientation>
+</orientations>
+<longitude src="percol-up">119.62430950000001</longitude>
+<latitude src="percol-up">23.584585</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">apotropaic practice</name>
+</names>
+<epistemics>observed</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork" day="2020-08-22" lunar="2020-07-04" timefrom="14:16:35" timeto="14:20:22">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o1502140">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584563</latitude>
+<longitude>119.624351</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584563" longitude="119.624351" measurement="no" public="yes" time="16:45:36" url="/2025/07/17/DATE20250717TIME164536GEOBOOLyesLONGE119624351LATN23584563DIRnoALT17SIZE30704THUMB11224UPLOAD072125UPID127SITEDongshiGeneralsNorthORIGDSC09824.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171896">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584582</latitude>
+<longitude src="percol-up">119.624333</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584582" longitude="119.624333" measurement="no" public="yes" time="14:18:21" url="/2020/08/22/DATE20200822TIME141821GEOBOOLyesLONGE119624333LATN23584582DIR8ALT0SIZE11472THUMB5559ORIGOliverDSCN2692.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502151">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584571</latitude>
+<longitude>119.624373</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584571" longitude="119.624373" measurement="no" public="yes" time="16:48:38" url="/2025/07/17/DATE20250717TIME164838GEOBOOLyesLONGE119624373LATN23584571DIRnoALT17SIZE30704THUMB9811UPLOAD072125UPID131SITEDongshiGeneralsNorthORIGDSC09835.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171901">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584578</latitude>
+<longitude src="percol-up">119.624252</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584578" longitude="119.624252" measurement="no" public="yes" time="14:20:00" url="/2020/08/22/DATE20200822TIME142000GEOBOOLyesLONGE119624252LATN23584578DIR11ALT0SIZE11472THUMB4548ORIGOliverDSCN2697.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171893">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584585</latitude>
+<longitude src="percol-up">119.624327</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584585" longitude="119.624327" measurement="no" public="yes" time="14:17:46" url="/2020/08/22/DATE20200822TIME141746GEOBOOLyesLONGE119624327LATN23584585DIR7ALT0SIZE11472THUMB3874ORIGOliverDSCN2689.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o171890">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584607</latitude>
+<longitude src="percol-up">119.624358</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584607" longitude="119.624358" measurement="no" public="yes" time="14:17:20" url="/2020/08/22/DATE20200822TIME141720GEOBOOLyesLONGE119624358LATN23584607DIR36ALT0SIZE11472THUMB5088ORIGOliverDSCN2686.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o1502137">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584573</latitude>
+<longitude>119.624380</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584573" longitude="119.624380" measurement="no" public="yes" time="16:45:16" url="/2025/07/17/DATE20250717TIME164516GEOBOOLyesLONGE119624380LATN23584573DIRnoALT17SIZE30704THUMB12077UPLOAD072125UPID129SITEDongshiGeneralsNorthORIGDSC09821.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502142">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584563</latitude>
+<longitude>119.624345</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584563" longitude="119.624345" measurement="no" public="yes" time="16:45:40" url="/2025/07/17/DATE20250717TIME164540GEOBOOLyesLONGE119624345LATN23584563DIRnoALT17SIZE30704THUMB11937UPLOAD072125UPID132SITEDongshiGeneralsNorthORIGDSC09826.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502147">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584610</latitude>
+<longitude>119.624381</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584610" longitude="119.624381" measurement="no" public="yes" time="16:47:07" url="/2025/07/17/DATE20250717TIME164707GEOBOOLyesLONGE119624381LATN23584610DIRnoALT17SIZE30704THUMB9970UPLOAD072125UPID123SITEDongshiGeneralsNorthORIGDSC09831.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502143">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584565</latitude>
+<longitude>119.624345</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584565" longitude="119.624345" measurement="no" public="yes" time="16:45:42" url="/2025/07/17/DATE20250717TIME164542GEOBOOLyesLONGE119624345LATN23584565DIRnoALT17SIZE30704THUMB11455UPLOAD072125UPID133SITEDongshiGeneralsNorthORIGDSC09827.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171897">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584597</latitude>
+<longitude src="percol-up">119.624275</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584597" longitude="119.624275" measurement="no" public="yes" time="14:19:31" url="/2020/08/22/DATE20200822TIME141931GEOBOOLyesLONGE119624275LATN23584597DIR292ALT0SIZE11472THUMB4509ORIGOliverDSCN2693.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171888">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584619</latitude>
+<longitude src="percol-up">119.624353</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584617" longitude="119.624348" measurement="no" public="yes" time="14:17:03" url="/2020/08/22/DATE20200822TIME141703GEOBOOLyesLONGE119624348LATN23584617DIR22ALT0SIZE11472THUMB5174ORIGOliverDSCN2684.jpg" zoom="no" />
+<img date="2020-08-22" flash="no" latitude="23.584620" longitude="119.624357" measurement="no" public="yes" time="14:17:11" url="/2020/08/22/DATE20200822TIME141711GEOBOOLyesLONGE119624357LATN23584620DIR31ALT0SIZE11472THUMB5787ORIGOliverDSCN2685.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502144">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584568</latitude>
+<longitude>119.624348</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584568" longitude="119.624348" measurement="no" public="yes" time="16:45:58" url="/2025/07/17/DATE20250717TIME164558GEOBOOLyesLONGE119624348LATN23584568DIRnoALT17SIZE30704THUMB9182UPLOAD072125UPID135SITEDongshiGeneralsNorthORIGDSC09828.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171899">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584588</latitude>
+<longitude src="percol-up">119.624273</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584588" longitude="119.624273" measurement="no" public="yes" time="14:19:44" url="/2020/08/22/DATE20200822TIME141944GEOBOOLyesLONGE119624273LATN23584588DIR14ALT0SIZE11472THUMB4671ORIGOliverDSCN2695.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o171894">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.58458</latitude>
+<longitude src="percol-up">119.624318</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584580" longitude="119.624318" measurement="no" public="yes" time="14:17:53" url="/2020/08/22/DATE20200822TIME141753GEOBOOLyesLONGE119624318LATN23584580DIR24ALT0SIZE11472THUMB4399ORIGOliverDSCN2690.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o171902">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584577</latitude>
+<longitude src="percol-up">119.624278</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584577" longitude="119.624278" measurement="no" public="yes" time="14:20:18" url="/2020/08/22/DATE20200822TIME142018GEOBOOLyesLONGE119624278LATN23584577DIR352ALT0SIZE11472THUMB4396ORIGOliverDSCN2698.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502145">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584573</latitude>
+<longitude>119.624351</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584573" longitude="119.624351" measurement="no" public="yes" time="16:46:34" url="/2025/07/17/DATE20250717TIME164634GEOBOOLyesLONGE119624351LATN23584573DIRnoALT17SIZE30704THUMB11084UPLOAD072125UPID130SITEDongshiGeneralsNorthORIGDSC09829.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502139">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584565</latitude>
+<longitude>119.624360</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584565" longitude="119.624360" measurement="no" public="yes" time="16:45:29" url="/2025/07/17/DATE20250717TIME164529GEOBOOLyesLONGE119624360LATN23584565DIRnoALT17SIZE30704THUMB11304UPLOAD072125UPID134SITEDongshiGeneralsNorthORIGDSC09823.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171887">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584608</latitude>
+<longitude src="percol-up">119.624313</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584608" longitude="119.624313" measurement="no" public="yes" time="14:16:50" url="/2020/08/22/DATE20200822TIME141650GEOBOOLyesLONGE119624313LATN23584608DIR32ALT0SIZE11472THUMB4836ORIGOliverDSCN2683.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171891">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584595</latitude>
+<longitude src="percol-up">119.624338</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584595" longitude="119.624338" measurement="no" public="yes" time="14:17:29" url="/2020/08/22/DATE20200822TIME141729GEOBOOLyesLONGE119624338LATN23584595DIR2ALT0SIZE11472THUMB3773ORIGOliverDSCN2687.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o171898">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584585</latitude>
+<longitude src="percol-up">119.624267</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584585" longitude="119.624267" measurement="no" public="yes" time="14:19:36" url="/2020/08/22/DATE20200822TIME141936GEOBOOLyesLONGE119624267LATN23584585DIR306ALT0SIZE11472THUMB4164ORIGOliverDSCN2694.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502141">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584565</latitude>
+<longitude>119.624348</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584565" longitude="119.624348" measurement="no" public="yes" time="16:45:38" url="/2025/07/17/DATE20250717TIME164538GEOBOOLyesLONGE119624348LATN23584565DIRnoALT17SIZE30704THUMB11273UPLOAD072125UPID121SITEDongshiGeneralsNorthORIGDSC09825.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171903">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584567</latitude>
+<longitude src="percol-up">119.624277</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584567" longitude="119.624277" measurement="no" public="yes" time="14:20:22" url="/2020/08/22/DATE20200822TIME142022GEOBOOLyesLONGE119624277LATN23584567DIR4ALT0SIZE11472THUMB4749ORIGOliverDSCN2699.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502138">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584571</latitude>
+<longitude>119.624373</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584571" longitude="119.624373" measurement="no" public="yes" time="16:45:21" url="/2025/07/17/DATE20250717TIME164521GEOBOOLyesLONGE119624373LATN23584571DIRnoALT17SIZE30704THUMB12066UPLOAD072125UPID126SITEDongshiGeneralsNorthORIGDSC09822.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171900">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584585</latitude>
+<longitude src="percol-up">119.624275</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584585" longitude="119.624275" measurement="no" public="yes" time="14:19:51" url="/2020/08/22/DATE20200822TIME141951GEOBOOLyesLONGE119624275LATN23584585DIR10ALT0SIZE11472THUMB4055ORIGOliverDSCN2696.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o1502146">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584578</latitude>
+<longitude>119.624401</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584578" longitude="119.624401" measurement="no" public="yes" time="16:47:04" url="/2025/07/17/DATE20250717TIME164704GEOBOOLyesLONGE119624401LATN23584578DIRnoALT17SIZE30704THUMB12053UPLOAD072125UPID125SITEDongshiGeneralsNorthORIGDSC09830.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502150">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584588</latitude>
+<longitude>119.624381</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584588" longitude="119.624381" measurement="no" public="yes" time="16:48:26" url="/2025/07/17/DATE20250717TIME164826GEOBOOLyesLONGE119624381LATN23584588DIRnoALT16SIZE30704THUMB10338UPLOAD072125UPID124SITEDongshiGeneralsNorthORIGDSC09834.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502136">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584561</latitude>
+<longitude>119.624401</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584561" longitude="119.624401" measurement="no" public="yes" time="16:45:11" url="/2025/07/17/DATE20250717TIME164511GEOBOOLyesLONGE119624401LATN23584561DIRnoALT17SIZE30704THUMB11505UPLOAD072125UPID137SITEDongshiGeneralsNorthORIGDSC09820.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o178630">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584585</latitude>
+<longitude src="percol-up">119.62429</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584585" longitude="119.624290" measurement="no" public="yes" time="14:16:39" url="/2020/08/22/DATE20200822TIME141639GEOBOOLyesLONGE119624290LATN23584585DIR17ALT0SIZE11472THUMB5042ORIGOliverDSCN2681.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o171884">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o178630" siteid="s113034">
+<latitude src="percol-up">23.584578</latitude>
+<longitude src="percol-up">119.624285</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584585" longitude="119.624290" measurement="no" public="yes" time="14:16:39" url="/2020/08/22/DATE20200822TIME141639GEOBOOLyesLONGE119624290LATN23584585DIR17ALT0SIZE11472THUMB5042ORIGOliverDSCN2681.jpg" zoom="no" />
+<img date="2020-08-22" flash="no" latitude="23.584570" longitude="119.624280" measurement="no" public="yes" time="14:16:35" url="/2020/08/22/DATE20200822TIME141635GEOBOOLyesLONGE119624280LATN23584570DIR10ALT0SIZE11472THUMB5053ORIGOliverDSCN2680.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+</ent>
+<ent id="o171892">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584587</latitude>
+<longitude src="percol-up">119.62433</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584587" longitude="119.624330" measurement="no" public="yes" time="14:17:36" url="/2020/08/22/DATE20200822TIME141736GEOBOOLyesLONGE119624330LATN23584587DIR41ALT0SIZE11472THUMB5259ORIGOliverDSCN2688.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o1502148">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584595</latitude>
+<longitude>119.624378</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584595" longitude="119.624378" measurement="no" public="yes" time="16:47:47" url="/2025/07/17/DATE20250717TIME164747GEOBOOLyesLONGE119624378LATN23584595DIRnoALT17SIZE30704THUMB11507UPLOAD072125UPID136SITEDongshiGeneralsNorthORIGDSC09832.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171886">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.584605</latitude>
+<longitude src="percol-up">119.624307</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584605" longitude="119.624307" measurement="no" public="yes" time="14:16:45" url="/2020/08/22/DATE20200822TIME141645GEOBOOLyesLONGE119624307LATN23584605DIR23ALT0SIZE11472THUMB4390ORIGOliverDSCN2682.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502149">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584588</latitude>
+<longitude>119.624378</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584588" longitude="119.624378" measurement="no" public="yes" time="16:48:15" url="/2025/07/17/DATE20250717TIME164815GEOBOOLyesLONGE119624378LATN23584588DIRnoALT16SIZE30704THUMB11371UPLOAD072125UPID128SITEDongshiGeneralsNorthORIGDSC09833.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171895">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude src="percol-up">23.58456</latitude>
+<longitude src="percol-up">119.624312</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.584560" longitude="119.624312" measurement="no" public="yes" time="14:18:01" url="/2020/08/22/DATE20200822TIME141801GEOBOOLyesLONGE119624312LATN23584560DIR17ALT0SIZE11472THUMB3663ORIGOliverDSCN2691.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o1502135">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113034" siteid="s113034">
+<latitude>23.584521</latitude>
+<longitude>119.624428</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.584521" longitude="119.624428" measurement="no" public="yes" time="16:45:01" url="/2025/07/17/DATE20250717TIME164501GEOBOOLyesLONGE119624428LATN23584521DIRnoALT17SIZE30704THUMB8591UPLOAD072125UPID122SITEDongshiGeneralsNorthORIGDSC09819.jpg" zoom="no" />
+</media>
+</ent>
+</ent>
+<ent id="s112379">
+<names>
+<name language="English">Dongshi General Zhang Gong Shengzhe</name>
+<name script="Chinese-traditional">東石張公聖者營</name>
+</names>
+<types>
+<type language="English">general</type>
+<type language="English">五營</type>
+<type language="English">general Zhang</type>
+</types>
+<communities>
+<community>
+<name language="English">Dongshi</name>
+<name script="Chinese-traditional">東石</name>
+</community>
+</communities>
+<geography geotop="s113275" siteid="s113275">
+<orientations>
+<orientation system="geographic north">245</orientation>
+</orientations>
+<longitude src="percol-up">119.62487</longitude>
+<latitude src="percol-up">23.583405</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">apotropaic practice</name>
+</names>
+<epistemics>observed</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork" day="2020-04-05" lunar="2020-03-13" timefrom="13:20:03" timeto="13:20:50">
+<agents>
+<agent refid="con1" role="researcher" />
+<agent refid="con15" role="researcher" />
+</agents>
+</event>
+<event type="fieldwork" day="2020-08-22" lunar="2020-07-04" timefrom="14:33:38" timeto="14:38:07">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o1502125">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583380</latitude>
+<longitude>119.624891</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583380" longitude="119.624891" measurement="no" public="yes" time="16:37:51" url="/2025/07/17/DATE20250717TIME163751GEOBOOLyesLONGE119624891LATN23583380DIRnoALT19SIZE30704THUMB10758UPLOAD072125UPID47SITEDongshiGeneralsEastORIGDSC09809.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502118">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583385</latitude>
+<longitude>119.624896</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583385" longitude="119.624896" measurement="no" public="yes" time="16:36:55" url="/2025/07/17/DATE20250717TIME163655GEOBOOLyesLONGE119624896LATN23583385DIRnoALT20SIZE30704THUMB9890UPLOAD072125UPID45SITEDongshiGeneralsEastORIGDSC09802.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171922">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.58339</latitude>
+<longitude src="percol-up">119.624888</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583390" longitude="119.624888" measurement="no" public="yes" time="14:38:07" url="/2020/08/22/DATE20200822TIME143807GEOBOOLyesLONGE119624888LATN23583390DIR282ALT0SIZE11472THUMB5151ORIGOliverDSCN2718.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171919">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583395</latitude>
+<longitude src="percol-up">119.62486</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583395" longitude="119.624860" measurement="no" public="yes" time="14:37:01" url="/2020/08/22/DATE20200822TIME143701GEOBOOLyesLONGE119624860LATN23583395DIR283ALT0SIZE11472THUMB5100ORIGOliverDSCN2715.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150741">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583418</latitude>
+<longitude src="percol-up">119.624872</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583418" longitude="119.624872" measurement="no" public="yes" time="13:20:32" url="/2020/04/05/DATE20200405TIME132032GEOBOOLyesLONGE119624872LATN23583418DIR84ALT0SIZE11472THUMB4357ORIGHanna3DSCN0941.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150734">
+<types>
+<type language="English">outer space</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583403</latitude>
+<longitude src="percol-up">119.62485</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583403" longitude="119.624850" measurement="no" public="yes" time="13:20:07" url="/2020/04/05/DATE20200405TIME132007GEOBOOLyesLONGE119624850LATN23583403DIR92ALT0SIZE11472THUMB3221ORIGHanna3DSCN0934.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o171917">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583412</latitude>
+<longitude src="percol-up">119.624893</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583412" longitude="119.624893" measurement="no" public="yes" time="14:36:27" url="/2020/08/22/DATE20200822TIME143627GEOBOOLyesLONGE119624893LATN23583412DIR288ALT0SIZE11472THUMB4952ORIGOliverDSCN2713.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502121">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583386</latitude>
+<longitude>119.624901</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583386" longitude="119.624901" measurement="no" public="yes" time="16:37:08" url="/2025/07/17/DATE20250717TIME163708GEOBOOLyesLONGE119624901LATN23583386DIRnoALT20SIZE30704THUMB9790UPLOAD072125UPID36SITEDongshiGeneralsEastORIGDSC09805.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502119">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583388</latitude>
+<longitude>119.624898</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583388" longitude="119.624898" measurement="no" public="yes" time="16:36:59" url="/2025/07/17/DATE20250717TIME163659GEOBOOLyesLONGE119624898LATN23583388DIRnoALT20SIZE30704THUMB8618UPLOAD072125UPID48SITEDongshiGeneralsEastORIGDSC09803.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502133">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379" />
+<media>
+<img date="2025-07-17" flash="no" measurement="no" public="yes" time="16:42:27" url="/2025/07/17/DATE20250717TIME164227GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB7715UPLOAD072125UPID50SITEDongshiGeneralsEastORIGDSC09817.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150737">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583408</latitude>
+<longitude src="percol-up">119.624867</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583408" longitude="119.624867" measurement="no" public="yes" time="13:20:18" url="/2020/04/05/DATE20200405TIME132018GEOBOOLyesLONGE119624867LATN23583408DIR13ALT0SIZE11472THUMB4045ORIGHanna3DSCN0937.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502126">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583385</latitude>
+<longitude>119.624866</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583385" longitude="119.624866" measurement="no" public="yes" time="16:38:26" url="/2025/07/17/DATE20250717TIME163826GEOBOOLyesLONGE119624866LATN23583385DIRnoALT18SIZE30704THUMB12603UPLOAD072125UPID37SITEDongshiGeneralsEastORIGDSC09810.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502134">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583368</latitude>
+<longitude>119.624713</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583368" longitude="119.624713" measurement="no" public="yes" time="16:42:34" url="/2025/07/17/DATE20250717TIME164234GEOBOOLyesLONGE119624713LATN23583368DIRnoALT17SIZE30704THUMB7783UPLOAD072125UPID55SITEDongshiGeneralsEastORIGDSC09818.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171914">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583372</latitude>
+<longitude src="percol-up">119.624888</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583372" longitude="119.624888" measurement="no" public="yes" time="14:34:00" url="/2020/08/22/DATE20200822TIME143400GEOBOOLyesLONGE119624888LATN23583372DIR360ALT0SIZE11472THUMB4471ORIGOliverDSCN2710.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150739">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583412</latitude>
+<longitude src="percol-up">119.624868</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583412" longitude="119.624868" measurement="no" public="yes" time="13:20:25" url="/2020/04/05/DATE20200405TIME132025GEOBOOLyesLONGE119624868LATN23583412DIR312ALT0SIZE11472THUMB4251ORIGHanna3DSCN0939.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o1502132">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583423</latitude>
+<longitude>119.624913</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583423" longitude="119.624913" measurement="no" public="yes" time="16:40:28" url="/2025/07/17/DATE20250717TIME164028GEOBOOLyesLONGE119624913LATN23583423DIRnoALT18SIZE30704THUMB10821UPLOAD072125UPID51SITEDongshiGeneralsEastORIGDSC09816.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502115">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583361</latitude>
+<longitude>119.624998</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583361" longitude="119.624998" measurement="no" public="yes" time="16:36:22" url="/2025/07/17/DATE20250717TIME163622GEOBOOLyesLONGE119624998LATN23583361DIRnoALT20SIZE30704THUMB7702UPLOAD072125UPID41SITEDongshiGeneralsEastORIGDSC09799.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502128">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583471</latitude>
+<longitude>119.624903</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583471" longitude="119.624903" measurement="no" public="yes" time="16:39:07" url="/2025/07/17/DATE20250717TIME163907GEOBOOLyesLONGE119624903LATN23583471DIRnoALT18SIZE30704THUMB12339UPLOAD072125UPID38SITEDongshiGeneralsEastORIGDSC09812.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150745">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.58343</latitude>
+<longitude src="percol-up">119.62489</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583430" longitude="119.624890" measurement="no" public="yes" time="13:20:50" url="/2020/04/05/DATE20200405TIME132050GEOBOOLyesLONGE119624890LATN23583430DIR158ALT0SIZE11472THUMB4369ORIGHanna3DSCN0945.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171921">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583387</latitude>
+<longitude src="percol-up">119.624867</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583387" longitude="119.624867" measurement="no" public="yes" time="14:37:17" url="/2020/08/22/DATE20200822TIME143717GEOBOOLyesLONGE119624867LATN23583387DIR284ALT0SIZE11472THUMB4927ORIGOliverDSCN2717.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o1502129">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583468</latitude>
+<longitude>119.624901</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583468" longitude="119.624901" measurement="no" public="yes" time="16:39:20" url="/2025/07/17/DATE20250717TIME163920GEOBOOLyesLONGE119624901LATN23583468DIRnoALT18SIZE30704THUMB13639UPLOAD072125UPID56SITEDongshiGeneralsEastORIGDSC09813.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171916">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583405</latitude>
+<longitude src="percol-up">119.624892</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583405" longitude="119.624892" measurement="no" public="yes" time="14:36:24" url="/2020/08/22/DATE20200822TIME143624GEOBOOLyesLONGE119624892LATN23583405DIR287ALT0SIZE11472THUMB5534ORIGOliverDSCN2712.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150736">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583405</latitude>
+<longitude src="percol-up">119.624865</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583405" longitude="119.624865" measurement="no" public="yes" time="13:20:14" url="/2020/04/05/DATE20200405TIME132014GEOBOOLyesLONGE119624865LATN23583405DIR350ALT0SIZE11472THUMB4072ORIGHanna3DSCN0936.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1502130">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583441</latitude>
+<longitude>119.624880</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583441" longitude="119.624880" measurement="no" public="yes" time="16:39:47" url="/2025/07/17/DATE20250717TIME163947GEOBOOLyesLONGE119624880LATN23583441DIRnoALT18SIZE30704THUMB11612UPLOAD072125UPID44SITEDongshiGeneralsEastORIGDSC09814.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502116">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583383</latitude>
+<longitude>119.624895</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583383" longitude="119.624895" measurement="no" public="yes" time="16:36:48" url="/2025/07/17/DATE20250717TIME163648GEOBOOLyesLONGE119624895LATN23583383DIRnoALT20SIZE30704THUMB8645UPLOAD072125UPID53SITEDongshiGeneralsEastORIGDSC09800.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502114">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583395</latitude>
+<longitude>119.624918</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583395" longitude="119.624918" measurement="no" public="yes" time="16:36:11" url="/2025/07/17/DATE20250717TIME163611GEOBOOLyesLONGE119624918LATN23583395DIRnoALT20SIZE30704THUMB6835UPLOAD072125UPID52SITEDongshiGeneralsEastORIGDSC09798.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171915">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583365</latitude>
+<longitude src="percol-up">119.6249</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583365" longitude="119.624900" measurement="no" public="yes" time="14:35:57" url="/2020/08/22/DATE20200822TIME143557GEOBOOLyesLONGE119624900LATN23583365DIR294ALT0SIZE11472THUMB4820ORIGOliverDSCN2711.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502117">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583385</latitude>
+<longitude>119.624895</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583385" longitude="119.624895" measurement="no" public="yes" time="16:36:53" url="/2025/07/17/DATE20250717TIME163653GEOBOOLyesLONGE119624895LATN23583385DIRnoALT20SIZE30704THUMB8949UPLOAD072125UPID39SITEDongshiGeneralsEastORIGDSC09801.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502120">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583388</latitude>
+<longitude>119.624901</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583388" longitude="119.624901" measurement="no" public="yes" time="16:37:04" url="/2025/07/17/DATE20250717TIME163704GEOBOOLyesLONGE119624901LATN23583388DIRnoALT20SIZE30704THUMB10331UPLOAD072125UPID57SITEDongshiGeneralsEastORIGDSC09804.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502113">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583386</latitude>
+<longitude>119.624890</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583386" longitude="119.624890" measurement="no" public="yes" time="16:36:05" url="/2025/07/17/DATE20250717TIME163605GEOBOOLyesLONGE119624890LATN23583386DIRnoALT19SIZE30704THUMB8246UPLOAD072125UPID43SITEDongshiGeneralsEastORIGDSC09797.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150740">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583414</latitude>
+<longitude src="percol-up">119.624874</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583413" longitude="119.624877" measurement="no" public="yes" time="13:20:35" url="/2020/04/05/DATE20200405TIME132035GEOBOOLyesLONGE119624877LATN23583413DIR290ALT0SIZE11472THUMB4114ORIGHanna3DSCN0942.jpg" zoom="no" />
+<img date="2020-04-05" flash="no" latitude="23.583415" longitude="119.624870" measurement="no" public="yes" time="13:20:29" url="/2020/04/05/DATE20200405TIME132029GEOBOOLyesLONGE119624870LATN23583415DIR12ALT0SIZE11472THUMB4531ORIGHanna3DSCN0940.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150743">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583407</latitude>
+<longitude src="percol-up">119.62488</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583325" longitude="119.624880" measurement="no" public="yes" time="14:33:38" url="/2020/08/22/DATE20200822TIME143338GEOBOOLyesLONGE119624880LATN23583325DIR9ALT0SIZE11472THUMB3777ORIGOliverDSCN2708.jpg" zoom="no" />
+<img date="2020-04-05" flash="no" latitude="23.583410" longitude="119.624873" measurement="no" public="yes" time="13:20:03" url="/2020/04/05/DATE20200405TIME132003GEOBOOLyesLONGE119624873LATN23583410DIR69ALT0SIZE11472THUMB3422ORIGHanna3DSCN0933.jpg" zoom="no" />
+<img date="2020-04-05" flash="no" latitude="23.583407" longitude="119.624888" measurement="no" public="yes" time="13:20:41" url="/2020/04/05/DATE20200405TIME132041GEOBOOLyesLONGE119624888LATN23583407DIR218ALT0SIZE11472THUMB4309ORIGHanna3DSCN0943.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o150733">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o150743" siteid="s112379">
+<latitude src="percol-up">23.583402</latitude>
+<longitude src="percol-up">119.624873</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583402" longitude="119.624867" measurement="no" public="yes" time="13:20:12" url="/2020/04/05/DATE20200405TIME132012GEOBOOLyesLONGE119624867LATN23583402DIR350ALT0SIZE11472THUMB4046ORIGHanna3DSCN0935.jpg" zoom="no" />
+<img date="2020-08-22" flash="no" latitude="23.583348" longitude="119.624882" measurement="no" public="yes" time="14:33:44" url="/2020/08/22/DATE20200822TIME143344GEOBOOLyesLONGE119624882LATN23583348DIR24ALT0SIZE11472THUMB4546ORIGOliverDSCN2709.jpg" zoom="no" />
+<img date="2020-04-05" flash="no" latitude="23.583410" longitude="119.624873" measurement="no" public="yes" time="13:20:03" url="/2020/04/05/DATE20200405TIME132003GEOBOOLyesLONGE119624873LATN23583410DIR69ALT0SIZE11472THUMB3422ORIGHanna3DSCN0933.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+</ent>
+<ent id="o1502122">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583380</latitude>
+<longitude>119.624905</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583380" longitude="119.624905" measurement="no" public="yes" time="16:37:17" url="/2025/07/17/DATE20250717TIME163717GEOBOOLyesLONGE119624905LATN23583380DIRnoALT20SIZE30704THUMB8874UPLOAD072125UPID46SITEDongshiGeneralsEastORIGDSC09806.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502124">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583380</latitude>
+<longitude>119.624896</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583380" longitude="119.624896" measurement="no" public="yes" time="16:37:45" url="/2025/07/17/DATE20250717TIME163745GEOBOOLyesLONGE119624896LATN23583380DIRnoALT19SIZE30704THUMB9294UPLOAD072125UPID40SITEDongshiGeneralsEastORIGDSC09808.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502123">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583375</latitude>
+<longitude>119.624896</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583375" longitude="119.624896" measurement="no" public="yes" time="16:37:31" url="/2025/07/17/DATE20250717TIME163731GEOBOOLyesLONGE119624896LATN23583375DIRnoALT19SIZE30704THUMB9314UPLOAD072125UPID49SITEDongshiGeneralsEastORIGDSC09807.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502127">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583406</latitude>
+<longitude>119.624856</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583406" longitude="119.624856" measurement="no" public="yes" time="16:38:46" url="/2025/07/17/DATE20250717TIME163846GEOBOOLyesLONGE119624856LATN23583406DIRnoALT18SIZE30704THUMB14114UPLOAD072125UPID58SITEDongshiGeneralsEastORIGDSC09811.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502131">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude>23.583433</latitude>
+<longitude>119.624903</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.583433" longitude="119.624903" measurement="no" public="yes" time="16:40:05" url="/2025/07/17/DATE20250717TIME164005GEOBOOLyesLONGE119624903LATN23583433DIRnoALT18SIZE30704THUMB14125UPLOAD072125UPID54SITEDongshiGeneralsEastORIGDSC09815.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150738">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.58341</latitude>
+<longitude src="percol-up">119.624868</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583410" longitude="119.624868" measurement="no" public="yes" time="13:20:22" url="/2020/04/05/DATE20200405TIME132022GEOBOOLyesLONGE119624868LATN23583410DIR353ALT0SIZE11472THUMB4721ORIGHanna3DSCN0938.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171920">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583385</latitude>
+<longitude src="percol-up">119.624855</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583385" longitude="119.624855" measurement="no" public="yes" time="14:37:08" url="/2020/08/22/DATE20200822TIME143708GEOBOOLyesLONGE119624855LATN23583385DIR269ALT0SIZE11472THUMB5249ORIGOliverDSCN2716.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o150744">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.58342</latitude>
+<longitude src="percol-up">119.624888</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.583420" longitude="119.624888" measurement="no" public="yes" time="13:20:46" url="/2020/04/05/DATE20200405TIME132046GEOBOOLyesLONGE119624888LATN23583420DIR168ALT0SIZE11472THUMB4819ORIGHanna3DSCN0944.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o171918">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379">
+<latitude src="percol-up">23.583388</latitude>
+<longitude src="percol-up">119.62486</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-08-22" flash="no" latitude="23.583388" longitude="119.624860" measurement="no" public="yes" time="14:36:59" url="/2020/08/22/DATE20200822TIME143659GEOBOOLyesLONGE119624860LATN23583388DIR273ALT0SIZE11472THUMB5095ORIGOliverDSCN2714.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502112">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112379" siteid="s112379" />
+<media>
+<img date="2025-07-17" flash="no" measurement="no" public="yes" time="16:35:55" url="/2025/07/17/DATE20250717TIME163555GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB6670UPLOAD072125UPID42SITEDongshiGeneralsEastORIGDSC09796.jpg" zoom="no" />
+</media>
+</ent>
+</ent>
+<ent id="s112403">
+<names>
+<name language="English">Dongshi General Xiao Gong Shengzhe</name>
+<name script="Chinese-traditional">東石蕭公聖者營</name>
+</names>
+<types>
+<type language="English">general</type>
+<type language="English">五營</type>
+<type language="English">general Xiao</type>
+</types>
+<communities>
+<community>
+<name language="English">Dongshi</name>
+<name script="Chinese-traditional">東石</name>
+</community>
+</communities>
+<geography geotop="s113275" siteid="s113275">
+<orientations>
+<orientation system="geographic north">200</orientation>
+</orientations>
+<longitude src="percol-up">119.62290999999999</longitude>
+<latitude src="percol-up">23.582625</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">apotropaic practice</name>
+</names>
+<epistemics>observed</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork" day="2020-04-23" lunar="2020-04-01" timefrom="09:32:20" timeto="09:33:12">
+<agents>
+<agent refid="con1" role="researcher" />
+<agent refid="con15" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o164505">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude src="percol-up">23.582642</latitude>
+<longitude src="percol-up">119.62293</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582642" longitude="119.622930" measurement="no" public="yes" time="09:33:12" url="/2020/04/23/DATE20200423TIME093312GEOBOOLyesLONGE119622930LATN23582642DIR2ALT0SIZE11472THUMB3901ORIGHannaDSCN0996.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1052232">
+<types>
+<type language="English">fieldwork</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude src="percol-up">23.582592</latitude>
+<longitude src="percol-up">119.622875</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582592" longitude="119.622875" measurement="no" public="no" time="09:32:20" url="/2020/04/23/DATE20200423TIME093220GEOBOOLyesLONGE119622875LATN23582592DIR121ALT0SIZE11472THUMB5398ORIGHannaDSCN0988.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1502156">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582636</latitude>
+<longitude>119.622908</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582636" longitude="119.622908" measurement="no" public="yes" time="17:02:17" url="/2025/07/17/DATE20250717TIME170217GEOBOOLyesLONGE119622908LATN23582636DIRnoALT17SIZE30704THUMB9578UPLOAD072125UPID76SITEDongshiGeneralsSouthORIGDSC09842.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502170">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582688</latitude>
+<longitude>119.622906</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582688" longitude="119.622906" measurement="no" public="yes" time="17:04:22" url="/2025/07/17/DATE20250717TIME170422GEOBOOLyesLONGE119622906LATN23582688DIRnoALT17SIZE30704THUMB13123UPLOAD072125UPID72SITEDongshiGeneralsSouthORIGDSC09856.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502167">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582628</latitude>
+<longitude>119.622891</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582628" longitude="119.622891" measurement="no" public="yes" time="17:03:52" url="/2025/07/17/DATE20250717TIME170352GEOBOOLyesLONGE119622891LATN23582628DIRnoALT17SIZE30704THUMB10781UPLOAD072125UPID78SITEDongshiGeneralsSouthORIGDSC09853.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502163">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582630</latitude>
+<longitude>119.622893</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582630" longitude="119.622893" measurement="no" public="yes" time="17:02:50" url="/2025/07/17/DATE20250717TIME170250GEOBOOLyesLONGE119622893LATN23582630DIRnoALT17SIZE30704THUMB11126UPLOAD072125UPID62SITEDongshiGeneralsSouthORIGDSC09849.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502164">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582625</latitude>
+<longitude>119.622888</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582625" longitude="119.622888" measurement="no" public="yes" time="17:02:58" url="/2025/07/17/DATE20250717TIME170258GEOBOOLyesLONGE119622888LATN23582625DIRnoALT17SIZE30704THUMB11092UPLOAD072125UPID66SITEDongshiGeneralsSouthORIGDSC09850.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o164502">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude src="percol-up">23.582622</latitude>
+<longitude src="percol-up">119.622913</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582622" longitude="119.622913" measurement="no" public="yes" time="09:33:00" url="/2020/04/23/DATE20200423TIME093300GEOBOOLyesLONGE119622913LATN23582622DIR19ALT0SIZE11472THUMB4988ORIGHannaDSCN0993.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502155">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582633</latitude>
+<longitude>119.622898</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582633" longitude="119.622898" measurement="no" public="yes" time="17:02:10" url="/2025/07/17/DATE20250717TIME170210GEOBOOLyesLONGE119622898LATN23582633DIRnoALT18SIZE30704THUMB10646UPLOAD072125UPID70SITEDongshiGeneralsSouthORIGDSC09841.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502160">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582646</latitude>
+<longitude>119.622903</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582646" longitude="119.622903" measurement="no" public="yes" time="17:02:28" url="/2025/07/17/DATE20250717TIME170228GEOBOOLyesLONGE119622903LATN23582646DIRnoALT17SIZE30704THUMB10452UPLOAD072125UPID71SITEDongshiGeneralsSouthORIGDSC09846.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502159">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582646</latitude>
+<longitude>119.622903</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582646" longitude="119.622903" measurement="no" public="yes" time="17:02:25" url="/2025/07/17/DATE20250717TIME170225GEOBOOLyesLONGE119622903LATN23582646DIRnoALT17SIZE30704THUMB11141UPLOAD072125UPID74SITEDongshiGeneralsSouthORIGDSC09845.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502162">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582645</latitude>
+<longitude>119.622901</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582645" longitude="119.622901" measurement="no" public="yes" time="17:02:36" url="/2025/07/17/DATE20250717TIME170236GEOBOOLyesLONGE119622901LATN23582645DIRnoALT17SIZE30704THUMB7172UPLOAD072125UPID68SITEDongshiGeneralsSouthORIGDSC09848.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502158">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582646</latitude>
+<longitude>119.622905</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582646" longitude="119.622905" measurement="no" public="yes" time="17:02:23" url="/2025/07/17/DATE20250717TIME170223GEOBOOLyesLONGE119622905LATN23582646DIRnoALT17SIZE30704THUMB9320UPLOAD072125UPID64SITEDongshiGeneralsSouthORIGDSC09844.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o164501">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude src="percol-up">23.582628</latitude>
+<longitude src="percol-up">119.622907</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582628" longitude="119.622907" measurement="no" public="yes" time="09:32:57" url="/2020/04/23/DATE20200423TIME093257GEOBOOLyesLONGE119622907LATN23582628DIR22ALT0SIZE11472THUMB4441ORIGHannaDSCN0992.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o1502152">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582398</latitude>
+<longitude>119.622851</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582398" longitude="119.622851" measurement="no" public="yes" time="17:01:41" url="/2025/07/17/DATE20250717TIME170141GEOBOOLyesLONGE119622851LATN23582398DIRnoALT20SIZE30704THUMB7726UPLOAD072125UPID73SITEDongshiGeneralsSouthORIGDSC09838.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502168">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582626</latitude>
+<longitude>119.622893</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582626" longitude="119.622893" measurement="no" public="yes" time="17:03:57" url="/2025/07/17/DATE20250717TIME170357GEOBOOLyesLONGE119622893LATN23582626DIRnoALT17SIZE30704THUMB10831UPLOAD072125UPID75SITEDongshiGeneralsSouthORIGDSC09854.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502169">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582690</latitude>
+<longitude>119.622908</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582690" longitude="119.622908" measurement="no" public="yes" time="17:04:15" url="/2025/07/17/DATE20250717TIME170415GEOBOOLyesLONGE119622908LATN23582690DIRnoALT17SIZE30704THUMB9707UPLOAD072125UPID79SITEDongshiGeneralsSouthORIGDSC09855.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o164504">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude src="percol-up">23.582645</latitude>
+<longitude src="percol-up">119.622918</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582645" longitude="119.622918" measurement="no" public="yes" time="09:33:06" url="/2020/04/23/DATE20200423TIME093306GEOBOOLyesLONGE119622918LATN23582645DIR30ALT0SIZE11472THUMB3928ORIGHannaDSCN0995.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o164500">
+<types>
+<type language="English">stele</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude src="percol-up">23.582637</latitude>
+<longitude src="percol-up">119.622892</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582637" longitude="119.622892" measurement="no" public="yes" time="09:32:39" url="/2020/04/23/DATE20200423TIME093239GEOBOOLyesLONGE119622892LATN23582637DIR26ALT0SIZE11472THUMB4442ORIGHannaDSCN0991.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o164503">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude src="percol-up">23.582615</latitude>
+<longitude src="percol-up">119.622913</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582615" longitude="119.622913" measurement="no" public="yes" time="09:33:03" url="/2020/04/23/DATE20200423TIME093303GEOBOOLyesLONGE119622913LATN23582615DIR16ALT0SIZE11472THUMB4219ORIGHannaDSCN0994.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502165">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582625</latitude>
+<longitude>119.622895</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582625" longitude="119.622895" measurement="no" public="yes" time="17:03:33" url="/2025/07/17/DATE20250717TIME170333GEOBOOLyesLONGE119622895LATN23582625DIRnoALT17SIZE30704THUMB11786UPLOAD072125UPID61SITEDongshiGeneralsSouthORIGDSC09851.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502166">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582630</latitude>
+<longitude>119.622891</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582630" longitude="119.622891" measurement="no" public="yes" time="17:03:47" url="/2025/07/17/DATE20250717TIME170347GEOBOOLyesLONGE119622891LATN23582630DIRnoALT17SIZE30704THUMB10902UPLOAD072125UPID69SITEDongshiGeneralsSouthORIGDSC09852.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502161">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582645</latitude>
+<longitude>119.622901</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582645" longitude="119.622901" measurement="no" public="yes" time="17:02:34" url="/2025/07/17/DATE20250717TIME170234GEOBOOLyesLONGE119622901LATN23582645DIRnoALT17SIZE30704THUMB9990UPLOAD072125UPID65SITEDongshiGeneralsSouthORIGDSC09847.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o164498">
+<types>
+<type language="English">outer space</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude src="percol-up">23.5826</latitude>
+<longitude src="percol-up">119.62288</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582607" longitude="119.622885" measurement="no" public="yes" time="09:32:28" url="/2020/04/23/DATE20200423TIME093228GEOBOOLyesLONGE119622885LATN23582607DIR24ALT0SIZE11472THUMB4531ORIGHannaDSCN0989.jpg" zoom="no" />
+<img date="2020-04-23" flash="no" latitude="23.582592" longitude="119.622875" measurement="no" public="yes" time="09:32:20" url="/2020/04/23/DATE20200423TIME093220GEOBOOLyesLONGE119622875LATN23582592DIR121ALT0SIZE11472THUMB5398ORIGHannaDSCN0988.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1502154">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582616</latitude>
+<longitude>119.622888</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582616" longitude="119.622888" measurement="no" public="yes" time="17:02:05" url="/2025/07/17/DATE20250717TIME170205GEOBOOLyesLONGE119622888LATN23582616DIRnoALT18SIZE30704THUMB10924UPLOAD072125UPID77SITEDongshiGeneralsSouthORIGDSC09840.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502157">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582645</latitude>
+<longitude>119.622906</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582645" longitude="119.622906" measurement="no" public="yes" time="17:02:21" url="/2025/07/17/DATE20250717TIME170221GEOBOOLyesLONGE119622906LATN23582645DIRnoALT17SIZE30704THUMB9753UPLOAD072125UPID67SITEDongshiGeneralsSouthORIGDSC09843.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502153">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude>23.582468</latitude>
+<longitude>119.622858</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.582468" longitude="119.622858" measurement="no" public="yes" time="17:01:50" url="/2025/07/17/DATE20250717TIME170150GEOBOOLyesLONGE119622858LATN23582468DIRnoALT19SIZE30704THUMB6765UPLOAD072125UPID63SITEDongshiGeneralsSouthORIGDSC09839.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o179769">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112403" siteid="s112403">
+<latitude src="percol-up">23.582623</latitude>
+<longitude src="percol-up">119.622888</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582623" longitude="119.622888" measurement="no" public="yes" time="09:32:32" url="/2020/04/23/DATE20200423TIME093232GEOBOOLyesLONGE119622888LATN23582623DIR24ALT0SIZE11472THUMB4730ORIGHannaDSCN0990.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o164499">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o179769" siteid="s112403">
+<latitude src="percol-up">23.582623</latitude>
+<longitude src="percol-up">119.622888</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-23" flash="no" latitude="23.582623" longitude="119.622888" measurement="no" public="yes" time="09:32:32" url="/2020/04/23/DATE20200423TIME093232GEOBOOLyesLONGE119622888LATN23582623DIR24ALT0SIZE11472THUMB4730ORIGHannaDSCN0990.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+</ent>
+</ent>
+<ent id="s112378">
+<names>
+<name language="English">Dongshi General Liu Gong Shengzhe</name>
+<name script="Chinese-traditional">東石劉公聖者營</name>
+</names>
+<types>
+<type language="English">general</type>
+<type language="English">五營</type>
+<type language="English">general Liu</type>
+</types>
+<communities>
+<community>
+<name language="English">Dongshi</name>
+<name script="Chinese-traditional">東石</name>
+</community>
+</communities>
+<geography geotop="s113275" siteid="s113275">
+<orientations>
+<orientation system="geographic north">328</orientation>
+</orientations>
+<longitude src="percol-up">119.622491</longitude>
+<latitude src="percol-up">23.585269</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">apotropaic practice</name>
+</names>
+<epistemics>observed</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork" day="2020-04-05" lunar="2020-03-13" timefrom="13:14:41" timeto="13:16:13">
+<agents>
+<agent refid="con1" role="researcher" />
+<agent refid="con15" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o1502188">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585253</latitude>
+<longitude>119.622490</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585253" longitude="119.622490" measurement="no" public="yes" time="16:10:03" url="/2025/07/17/DATE20250717TIME161003GEOBOOLyesLONGE119622490LATN23585253DIRnoALT13SIZE30704THUMB11965UPLOAD072125UPID26SITEDongshiGeneralsWestORIGDSC09748.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502190">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585265</latitude>
+<longitude>119.622491</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585265" longitude="119.622491" measurement="no" public="yes" time="16:10:25" url="/2025/07/17/DATE20250717TIME161025GEOBOOLyesLONGE119622491LATN23585265DIRnoALT13SIZE30704THUMB12211UPLOAD072125UPID35SITEDongshiGeneralsWestORIGDSC09750.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502172">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585291</latitude>
+<longitude>119.622496</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585291" longitude="119.622496" measurement="no" public="yes" time="16:06:43" url="/2025/07/17/DATE20250717TIME160643GEOBOOLyesLONGE119622496LATN23585291DIRnoALT9SIZE30704THUMB10825UPLOAD072125UPID33SITEDongshiGeneralsWestORIGDSC09732.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502189">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585255</latitude>
+<longitude>119.622483</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585255" longitude="119.622483" measurement="no" public="yes" time="16:10:10" url="/2025/07/17/DATE20250717TIME161010GEOBOOLyesLONGE119622483LATN23585255DIRnoALT13SIZE30704THUMB12218UPLOAD072125UPID21SITEDongshiGeneralsWestORIGDSC09749.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502185">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585290</latitude>
+<longitude>119.622470</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585290" longitude="119.622470" measurement="no" public="yes" time="16:08:41" url="/2025/07/17/DATE20250717TIME160841GEOBOOLyesLONGE119622470LATN23585290DIRnoALT14SIZE30704THUMB14052UPLOAD072125UPID22SITEDongshiGeneralsWestORIGDSC09745.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502177">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585231</latitude>
+<longitude>119.622518</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585231" longitude="119.622518" measurement="no" public="yes" time="16:07:11" url="/2025/07/17/DATE20250717TIME160711GEOBOOLyesLONGE119622518LATN23585231DIRnoALT12SIZE30704THUMB11415UPLOAD072125UPID31SITEDongshiGeneralsWestORIGDSC09737.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502173">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585243</latitude>
+<longitude>119.622520</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585243" longitude="119.622520" measurement="no" public="yes" time="16:06:56" url="/2025/07/17/DATE20250717TIME160656GEOBOOLyesLONGE119622520LATN23585243DIRnoALT13SIZE30704THUMB11303UPLOAD072125UPID17SITEDongshiGeneralsWestORIGDSC09733.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502174">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585235</latitude>
+<longitude>119.622520</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585235" longitude="119.622520" measurement="no" public="yes" time="16:06:59" url="/2025/07/17/DATE20250717TIME160659GEOBOOLyesLONGE119622520LATN23585235DIRnoALT12SIZE30704THUMB11886UPLOAD072125UPID32SITEDongshiGeneralsWestORIGDSC09734.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502181">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585253</latitude>
+<longitude>119.622510</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585253" longitude="119.622510" measurement="no" public="yes" time="16:07:58" url="/2025/07/17/DATE20250717TIME160758GEOBOOLyesLONGE119622510LATN23585253DIRnoALT12SIZE30704THUMB13427UPLOAD072125UPID30SITEDongshiGeneralsWestORIGDSC09741.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502186">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585288</latitude>
+<longitude>119.622468</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585288" longitude="119.622468" measurement="no" public="yes" time="16:08:42" url="/2025/07/17/DATE20250717TIME160842GEOBOOLyesLONGE119622468LATN23585288DIRnoALT14SIZE30704THUMB13089UPLOAD072125UPID34SITEDongshiGeneralsWestORIGDSC09746.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502184">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585293</latitude>
+<longitude>119.622480</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585293" longitude="119.622480" measurement="no" public="yes" time="16:08:34" url="/2025/07/17/DATE20250717TIME160834GEOBOOLyesLONGE119622480LATN23585293DIRnoALT14SIZE30704THUMB11254UPLOAD072125UPID16SITEDongshiGeneralsWestORIGDSC09744.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502187">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585248</latitude>
+<longitude>119.622495</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585248" longitude="119.622495" measurement="no" public="yes" time="16:09:51" url="/2025/07/17/DATE20250717TIME160951GEOBOOLyesLONGE119622495LATN23585248DIRnoALT13SIZE30704THUMB13028UPLOAD072125UPID27SITEDongshiGeneralsWestORIGDSC09747.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502183">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585293</latitude>
+<longitude>119.622488</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585293" longitude="119.622488" measurement="no" public="yes" time="16:08:32" url="/2025/07/17/DATE20250717TIME160832GEOBOOLyesLONGE119622488LATN23585293DIRnoALT14SIZE30704THUMB13803UPLOAD072125UPID24SITEDongshiGeneralsWestORIGDSC09743.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502175">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585230</latitude>
+<longitude>119.622520</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585230" longitude="119.622520" measurement="no" public="yes" time="16:07:01" url="/2025/07/17/DATE20250717TIME160701GEOBOOLyesLONGE119622520LATN23585230DIRnoALT12SIZE30704THUMB11771UPLOAD072125UPID15SITEDongshiGeneralsWestORIGDSC09735.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502176">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585230</latitude>
+<longitude>119.622520</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585230" longitude="119.622520" measurement="no" public="yes" time="16:07:03" url="/2025/07/17/DATE20250717TIME160703GEOBOOLyesLONGE119622520LATN23585230DIRnoALT12SIZE30704THUMB11415UPLOAD072125UPID19SITEDongshiGeneralsWestORIGDSC09736.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150729">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude src="percol-up">23.585218</latitude>
+<longitude src="percol-up">119.622515</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.585218" longitude="119.622515" measurement="no" public="yes" time="13:15:45" url="/2020/04/05/DATE20200405TIME131545GEOBOOLyesLONGE119622515LATN23585218DIR135ALT0SIZE11472THUMB5751ORIGHanna3DSCN0929.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502171">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585375</latitude>
+<longitude>119.622408</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585375" longitude="119.622408" measurement="no" public="yes" time="16:06:33" url="/2025/07/17/DATE20250717TIME160633GEOBOOLyesLONGE119622408LATN23585375DIRnoALT5SIZE30704THUMB7262UPLOAD072125UPID29SITEDongshiGeneralsWestORIGDSC09731.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502191">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585260</latitude>
+<longitude>119.622533</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585260" longitude="119.622533" measurement="no" public="yes" time="16:10:33" url="/2025/07/17/DATE20250717TIME161033GEOBOOLyesLONGE119622533LATN23585260DIRnoALT15SIZE30704THUMB15148UPLOAD072125UPID25SITEDongshiGeneralsWestORIGDSC09751.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502178">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585235</latitude>
+<longitude>119.622518</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585235" longitude="119.622518" measurement="no" public="yes" time="16:07:23" url="/2025/07/17/DATE20250717TIME160723GEOBOOLyesLONGE119622518LATN23585235DIRnoALT12SIZE30704THUMB9792UPLOAD072125UPID28SITEDongshiGeneralsWestORIGDSC09738.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502180">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585238</latitude>
+<longitude>119.622516</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585238" longitude="119.622516" measurement="no" public="yes" time="16:07:41" url="/2025/07/17/DATE20250717TIME160741GEOBOOLyesLONGE119622516LATN23585238DIRnoALT12SIZE30704THUMB14412UPLOAD072125UPID18SITEDongshiGeneralsWestORIGDSC09740.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o150718">
+<types>
+<type language="English">outer space</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude src="percol-up">23.58532</latitude>
+<longitude src="percol-up">119.622467</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.585320" longitude="119.622467" measurement="no" public="yes" time="13:14:57" url="/2020/04/05/DATE20200405TIME131457GEOBOOLyesLONGE119622467LATN23585320DIR148ALT0SIZE11472THUMB3838ORIGHanna3DSCN0920.jpg" zoom="no" />
+<img date="2020-04-05" flash="no" latitude="23.585323" longitude="119.622337" measurement="no" public="yes" time="13:14:41" url="/2020/04/05/DATE20200405TIME131441GEOBOOLyesLONGE119622337LATN23585323DIR130ALT0SIZE11472THUMB3936ORIGHanna3DSCN0918.jpg" zoom="no" />
+<img date="2020-04-05" flash="no" latitude="23.585217" longitude="119.622512" measurement="no" public="yes" time="13:16:13" url="/2020/04/05/DATE20200405TIME131613GEOBOOLyesLONGE119622512LATN23585217DIR352ALT0SIZE11472THUMB4780ORIGHanna3DSCN0932.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o150728">
+<types>
+<type language="English">stele</type>
+</types>
+<geography geotop="o150718" siteid="s112378">
+<latitude src="percol-up">23.585223</latitude>
+<longitude src="percol-up">119.622507</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.585223" longitude="119.622507" measurement="no" public="yes" time="13:15:42" url="/2020/04/05/DATE20200405TIME131542GEOBOOLyesLONGE119622507LATN23585223DIR90ALT0SIZE11472THUMB4003ORIGHanna3DSCN0928.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o150727">
+<types>
+<type language="English">stele</type>
+</types>
+<geography geotop="o150718" siteid="s112378">
+<latitude src="percol-up">23.585235</latitude>
+<longitude src="percol-up">119.622515</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-04-05" flash="no" latitude="23.585235" longitude="119.622515" measurement="no" public="yes" time="13:15:30" url="/2020/04/05/DATE20200405TIME131530GEOBOOLyesLONGE119622515LATN23585235DIR226ALT0SIZE11472THUMB4825ORIGHanna3DSCN0927.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+</ent>
+</ent>
+<ent id="o1502179">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585238</latitude>
+<longitude>119.622515</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585238" longitude="119.622515" measurement="no" public="yes" time="16:07:35" url="/2025/07/17/DATE20250717TIME160735GEOBOOLyesLONGE119622515LATN23585238DIRnoALT12SIZE30704THUMB10362UPLOAD072125UPID23SITEDongshiGeneralsWestORIGDSC09739.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1502182">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112378" siteid="s112378">
+<latitude>23.585296</latitude>
+<longitude>119.622496</longitude>
+</geography>
+<media>
+<img date="2025-07-17" flash="no" latitude="23.585296" longitude="119.622496" measurement="no" public="yes" time="16:08:29" url="/2025/07/17/DATE20250717TIME160829GEOBOOLyesLONGE119622496LATN23585296DIRnoALT14SIZE30704THUMB14591UPLOAD072125UPID20SITEDongshiGeneralsWestORIGDSC09742.jpg" zoom="no" />
+</media>
+</ent>
+</ent>
+</ent>
+</document>

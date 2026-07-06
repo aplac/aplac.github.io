@@ -1,0 +1,5594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tml1.xslt"?>
+<?xml-stylesheet type="text/css" href="../css/tml.css"?>
+<document latitude="N(22|23)" longitude="E(119|120)">
+<ent id="s113846">
+<names>
+<name language="English" script="Latin" />
+</names>
+<types>
+<type language="English">settlement</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">太武</name>
+</community>
+</communities>
+<geography geotop="sPenghuIsland" siteid="sPenghuIsland">
+<longitude src="percol-up">119.64263299999999</longitude>
+<latitude src="percol-up">23.58203</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎 湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:20:50" timeto="10:20:50">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+<event type="fieldwork" day="2021-12-12" lunar="2021-11-09" timefrom="10:35:51" timeto="10:42:35">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+<event type="fieldwork" day="2022-02-07" lunar="2022-01-07">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+<event type="fieldwork" day="2022-11-10" lunar="2022-10-17" timefrom="14:18:45" timeto="14:18:50">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o1411753">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113846" siteid="s113846">
+<latitude src="percol-up">23.582029</latitude>
+<longitude src="percol-up">119.642636</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" latitude="23.582029" longitude="119.642636" measurement="no" public="yes" time="14:18:45" url="/2022/11/10/DATE20221110TIME141845GEOBOOLyesLONGE119642636LATN23582029DIRnoALT11SIZE38972THUMB9873UPLOAD111022UPID454ORIGOliverDSC00658.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1411752">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s113846" siteid="s113846">
+<latitude src="percol-up">23.582031</latitude>
+<longitude src="percol-up">119.64263</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" latitude="23.582031" longitude="119.642630" measurement="no" public="yes" time="14:18:50" url="/2022/11/10/DATE20221110TIME141850GEOBOOLyesLONGE119642630LATN23582031DIRnoALT12SIZE38972THUMB9530UPLOAD111022UPID455ORIGOliverDSC00659.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="s128505">
+<communities>
+<community>
+<name script="Latin">Taiwu</name>
+<name script="Chinese-traditional">太武</name>
+</community>
+</communities>
+<geography geotop="s113846" siteid="s113846">
+<address script="Chinese-traditional">台灣澎湖湖西, 太武</address>
+<pluscode>7PMXHJCP+RG</pluscode>
+<longitude src="percol-up">119.6362785</longitude>
+<latitude src="percol-up">23.5721025</latitude>
+<orientations>
+<orientation system="geographic north" />
+</orientations>
+<archipelago>
+<names>
+<name script="Latin">Penghu Islands</name>
+<name script="Latin">Pescadores Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+</geography>
+<names>
+<name script="Latin">Taiwu Construction Memorial</name>
+<name script="Chinese-traditional">太武工程成功紀念碑</name>
+</names>
+<types>
+<type script="Latin">memorial</type>
+</types>
+<ent id="o1082488">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s128505" siteid="s128505">
+<latitude src="percol-up">23.572098</latitude>
+<longitude src="percol-up">119.636285</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572098" longitude="119.636285" measurement="no" public="yes" time="10:33:47" url="/2021/12/12/DATE20211212TIME103347GEOBOOLyesLONGE119636285LATN23572098DIR351ALT0SIZE11472THUMB3382ORIGOliverDSCN3567.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1082489">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s128505" siteid="s128505">
+<latitude src="percol-up">23.572107</latitude>
+<longitude src="percol-up">119.636272</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572107" longitude="119.636272" measurement="no" public="yes" time="10:33:52" url="/2021/12/12/DATE20211212TIME103352GEOBOOLyesLONGE119636272LATN23572107DIR3ALT0SIZE11472THUMB3854ORIGOliverDSCN3568.jpg" zoom="no" />
+</media>
+</ent>
+</ent>
+<ent id="sTaiwuWaterTower">
+<names>
+<name language="English">Taiwu Water Tower</name>
+</names>
+<types>
+<type language="English">Taiwu</type>
+<type language="English">Water tower</type>
+</types>
+<geography geotop="s113846" siteid="s113846">
+<latitude>23.572106</latitude>
+<longitude>119.637466</longitude>
+</geography>
+<ent id="o1507881">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sTaiwuWaterTower" siteid="sTaiwuWaterTower">
+<latitude>23.572096</latitude>
+<longitude>119.637458</longitude>
+</geography>
+<media>
+<img date="2025-07-16" flash="no" latitude="23.572096" longitude="119.637458" measurement="no" public="yes" time="15:42:00" url="/2025/07/16/DATE20250716TIME154200GEOBOOLyesLONGE119637458LATN23572096DIRnoALT128SIZE30704THUMB9071UPLOAD072825UPID5750SITEyamalORIGDSC09541.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1508564">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sTaiwuWaterTower" siteid="sTaiwuWaterTower">
+<latitude>23.572106</latitude>
+<longitude>119.637466</longitude>
+</geography>
+<media>
+<img date="2025-07-16" flash="no" latitude="23.572106" longitude="119.637466" measurement="no" public="yes" time="15:41:58" url="/2025/07/16/DATE20250716TIME154158GEOBOOLyesLONGE119637466LATN23572106DIRnoALT128SIZE30704THUMB9942UPLOAD072825UPID8080SITEyamalORIGDSC09540.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1508566">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sTaiwuWaterTower" siteid="sTaiwuWaterTower">
+<latitude>23.572156</latitude>
+<longitude>119.637890</longitude>
+</geography>
+<media>
+<img date="2025-07-16" flash="no" latitude="23.572156" longitude="119.637890" measurement="no" public="yes" time="15:49:54" url="/2025/07/16/DATE20250716TIME154954GEOBOOLyesLONGE119637890LATN23572156DIRnoALT127SIZE30704THUMB8157UPLOAD072825UPID2865SITEyamalORIGDSC09549.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1507880">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sTaiwuWaterTower" siteid="sTaiwuWaterTower">
+<latitude>23.572106</latitude>
+<longitude>119.637466</longitude>
+</geography>
+<media>
+<img date="2025-07-16" flash="no" latitude="23.572106" longitude="119.637466" measurement="no" public="yes" time="15:41:58" url="/2025/07/16/DATE20250716TIME154158GEOBOOLyesLONGE119637466LATN23572106DIRnoALT128SIZE30704THUMB9942UPLOAD072825UPID8080SITEyamalORIGDSC09540.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1508565">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="sTaiwuWaterTower" siteid="sTaiwuWaterTower">
+<latitude>23.572096</latitude>
+<longitude>119.637458</longitude>
+</geography>
+<media>
+<img date="2025-07-16" flash="no" latitude="23.572096" longitude="119.637458" measurement="no" public="yes" time="15:42:00" url="/2025/07/16/DATE20250716TIME154200GEOBOOLyesLONGE119637458LATN23572096DIRnoALT128SIZE30704THUMB9071UPLOAD072825UPID5750SITEyamalORIGDSC09541.jpg" zoom="no" />
+</media>
+</ent>
+</ent>
+<ent id="s112159">
+<names>
+<name language="English">Taiwu Cemetery</name>
+<name script="Chinese-traditional">太武墓地</name>
+</names>
+<types>
+<type language="English">cemetery</type>
+<type script="Chinese-traditional">墓地</type>
+<type script="Chinese-traditional">墓</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">太武</name>
+</community>
+</communities>
+<geography geotop="s113846" siteid="s113846">
+<longitude src="percol-up">119.635463</longitude>
+<latitude src="percol-up">23.564262</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:24:58" timeto="10:56:01">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o1052357">
+<types>
+<type language="English">fieldwork</type>
+</types>
+<geography geotop="s112159" siteid="s112159">
+<latitude src="percol-up">23.564262</latitude>
+<longitude src="percol-up">119.635463</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.564262" longitude="119.635463" measurement="no" public="no" time="10:20:50" url="/2020/03/05/DATE20200305TIME102050GEOBOOLyesLONGE119635463LATN23564262DIR114ALT0SIZE11472THUMB3950ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7617.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.564262" longitude="119.635463" measurement="no" public="no" time="10:20:50" url="/2020/03/05/DATE20200305TIME102050GEOBOOLyesLONGE119635463LATN23564262DIR114ALT0SIZE11472THUMB3950ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7617.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="s112165">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">太武</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<orientations>
+<orientation system="geographic north">133</orientation>
+</orientations>
+<longitude src="percol-up">119.637172</longitude>
+<latitude src="percol-up">23.574828</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:24:58" timeto="10:25:36">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o130754">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="s112165" siteid="s112165">
+<latitude src="percol-up">23.574836</latitude>
+<longitude src="percol-up">119.637107</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574822" longitude="119.637088" measurement="no" public="yes" time="10:25:36" url="/2020/03/05/DATE20200305TIME102536GEOBOOLyesLONGE119637088LATN23574822DIR311ALT0SIZE11472THUMB5427ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7623.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.574840" longitude="119.637123" measurement="no" public="yes" time="10:25:19" url="/2020/03/05/DATE20200305TIME102519GEOBOOLyesLONGE119637123LATN23574840DIR337ALT0SIZE11472THUMB4394ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7620.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.574837" longitude="119.637102" measurement="no" public="yes" time="10:25:28" url="/2020/03/05/DATE20200305TIME102528GEOBOOLyesLONGE119637102LATN23574837DIR38ALT0SIZE11472THUMB5272ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7622.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.574835" longitude="119.637112" measurement="no" public="yes" time="10:25:23" url="/2020/03/05/DATE20200305TIME102523GEOBOOLyesLONGE119637112LATN23574835DIR349ALT0SIZE11472THUMB5498ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7621.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o355829">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112165" siteid="s112165">
+<latitude src="percol-up">23.574802</latitude>
+<longitude src="percol-up">119.637172</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574802" longitude="119.637172" measurement="no" public="yes" time="10:25:07" url="/2020/03/05/DATE20200305TIME102507GEOBOOLyesLONGE119637172LATN23574802DIR314ALT0SIZE11472THUMB4834ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7619.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o355828">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112165" siteid="s112165">
+<latitude src="percol-up">23.574828</latitude>
+<longitude src="percol-up">119.637225</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574828" longitude="119.637225" measurement="no" public="yes" time="10:24:58" url="/2020/03/05/DATE20200305TIME102458GEOBOOLyesLONGE119637225LATN23574828DIR272ALT0SIZE11472THUMB3587ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7618.jpg" zoom="no" />
+</media>
+</ent>
+</ent>
+<ent id="s112196">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">湖西</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<latitude src="percol-up">23.5787799205718</latitude>
+<orientations>
+<orientation system="geographic north">230</orientation>
+</orientations>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-up">119.635463</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:44:18" timeto="10:45:12">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o133355">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112196" siteid="s112196">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5787799205718</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133356">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112196" siteid="s112196">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5787799205718</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133353">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112196" siteid="s112196">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5787799205718</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133351">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112196" siteid="s112196">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5787799205718</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o356111">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112196" siteid="s112196">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5787799205718</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133354">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112196" siteid="s112196">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5787799205718</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o356112">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112196" siteid="s112196">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5787799205718</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133352">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="s112196" siteid="s112196">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5787799205718</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o133357">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112196" siteid="s112196">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5787799205718</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+</ent>
+<ent id="s112192">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">湖西</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<latitude src="percol-up">23.574802111357</latitude>
+<orientations>
+<orientation system="geographic north">130</orientation>
+</orientations>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-up">119.635463</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:24:58" timeto="10:25:36">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o133118">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="s112192" siteid="s112192">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.574802111357</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o356103">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112192" siteid="s112192">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.574802111357</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o356104">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112192" siteid="s112192">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.574802111357</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+</ent>
+<ent id="s112168">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">太武</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<orientations>
+<orientation system="geographic north">121</orientation>
+</orientations>
+<longitude src="percol-up">119.636688</longitude>
+<latitude src="percol-up">23.575125</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:32:56" timeto="10:34:08">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o130773">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575127</latitude>
+<longitude src="percol-up">119.636682</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575127" longitude="119.636682" measurement="no" public="yes" time="10:33:34" url="/2020/03/05/DATE20200305TIME103334GEOBOOLyesLONGE119636682LATN23575127DIR226ALT0SIZE11472THUMB4704ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7655.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o355840">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575125</latitude>
+<longitude src="percol-up">119.63674</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575125" longitude="119.636740" measurement="no" public="yes" time="10:33:13" url="/2020/03/05/DATE20200305TIME103313GEOBOOLyesLONGE119636740LATN23575125DIR302ALT0SIZE11472THUMB4427ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7651.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130771">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575123</latitude>
+<longitude src="percol-up">119.636707</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575123" longitude="119.636707" measurement="no" public="yes" time="10:33:23" url="/2020/03/05/DATE20200305TIME103323GEOBOOLyesLONGE119636707LATN23575123DIR318ALT0SIZE11472THUMB4561ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7653.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130778">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575123</latitude>
+<longitude src="percol-up">119.636688</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575123" longitude="119.636688" measurement="no" public="yes" time="10:33:59" url="/2020/03/05/DATE20200305TIME103359GEOBOOLyesLONGE119636688LATN23575123DIR309ALT0SIZE11472THUMB4337ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7660.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130772">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.57513</latitude>
+<longitude src="percol-up">119.636707</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575130" longitude="119.636707" measurement="no" public="yes" time="10:33:28" url="/2020/03/05/DATE20200305TIME103328GEOBOOLyesLONGE119636707LATN23575130DIR299ALT0SIZE11472THUMB4346ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7654.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130774">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575133</latitude>
+<longitude src="percol-up">119.636682</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575133" longitude="119.636682" measurement="no" public="yes" time="10:33:37" url="/2020/03/05/DATE20200305TIME103337GEOBOOLyesLONGE119636682LATN23575133DIR49ALT0SIZE11472THUMB4611ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7656.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130777">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575115</latitude>
+<longitude src="percol-up">119.63666</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575115" longitude="119.636660" measurement="no" public="yes" time="10:33:53" url="/2020/03/05/DATE20200305TIME103353GEOBOOLyesLONGE119636660LATN23575115DIR303ALT0SIZE11472THUMB4008ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7659.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130779">
+<types>
+<type language="English">kimlo</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575105</latitude>
+<longitude src="percol-up">119.636683</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575105" longitude="119.636683" measurement="no" public="yes" time="10:34:03" url="/2020/03/05/DATE20200305TIME103403GEOBOOLyesLONGE119636683LATN23575105DIR171ALT0SIZE11472THUMB3691ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7661.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+<technique language="English">none</technique>
+</event>
+</events>
+</ent>
+<ent id="o130775">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575138</latitude>
+<longitude src="percol-up">119.636662</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575138" longitude="119.636662" measurement="no" public="yes" time="10:33:42" url="/2020/03/05/DATE20200305TIME103342GEOBOOLyesLONGE119636662LATN23575138DIR223ALT0SIZE11472THUMB4623ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7657.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o131573">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575112</latitude>
+<longitude src="percol-up">119.636688</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575112" longitude="119.636688" measurement="no" public="yes" time="10:34:08" url="/2020/03/05/DATE20200305TIME103408GEOBOOLyesLONGE119636688LATN23575112DIR77ALT0SIZE11472THUMB4478ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7662.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o130780">
+<types>
+<type language="English">earthgod</type>
+</types>
+<geography geotop="o131573" siteid="s112168">
+<latitude src="percol-up">23.575112</latitude>
+<longitude src="percol-up">119.636688</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575112" longitude="119.636688" measurement="no" public="yes" time="10:34:08" url="/2020/03/05/DATE20200305TIME103408GEOBOOLyesLONGE119636688LATN23575112DIR77ALT0SIZE11472THUMB4478ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7662.jpg" zoom="no" />
+</media>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+</ent>
+<ent id="o132105">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<orientations>
+<orientation modtime="2024-03-21 11:55:58" src="percol-down" system="geographic north">121</orientation>
+</orientations>
+<latitude src="percol-up">23.575112</latitude>
+<longitude src="percol-up">119.636688</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575112" longitude="119.636688" measurement="no" public="yes" time="10:34:08" url="/2020/03/05/DATE20200305TIME103408GEOBOOLyesLONGE119636688LATN23575112DIR77ALT0SIZE11472THUMB4478ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7662.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o130776">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575142</latitude>
+<longitude src="percol-up">119.636658</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575142" longitude="119.636658" measurement="no" public="yes" time="10:33:45" url="/2020/03/05/DATE20200305TIME103345GEOBOOLyesLONGE119636658LATN23575142DIR46ALT0SIZE11472THUMB4328ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7658.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o355839">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575107</latitude>
+<longitude src="percol-up">119.63676</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575107" longitude="119.636760" measurement="no" public="yes" time="10:33:05" url="/2020/03/05/DATE20200305TIME103305GEOBOOLyesLONGE119636760LATN23575107DIR301ALT0SIZE11472THUMB4155ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7650.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o355838">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112168" siteid="s112168">
+<latitude src="percol-up">23.575138</latitude>
+<longitude src="percol-up">119.636775</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575138" longitude="119.636775" measurement="no" public="yes" time="10:32:56" url="/2020/03/05/DATE20200305TIME103256GEOBOOLyesLONGE119636775LATN23575138DIR267ALT0SIZE11472THUMB3880ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7649.jpg" zoom="no" />
+</media>
+</ent>
+</ent>
+<ent id="s112193">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">湖西</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<latitude src="percol-up">23.5748573456911</latitude>
+<orientations>
+<orientation system="geographic north">130</orientation>
+</orientations>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-up">119.635463</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:26:14" timeto="10:27:45">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o356106">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112193" siteid="s112193">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5748573456911</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133327">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="s112193" siteid="s112193">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5748573456911</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o356105">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112193" siteid="s112193">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5748573456911</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133324">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112193" siteid="s112193">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5748573456911</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133323">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112193" siteid="s112193">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5748573456911</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o356107">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112193" siteid="s112193">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5748573456911</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133326">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112193" siteid="s112193">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5748573456911</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133325">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112193" siteid="s112193">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5748573456911</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+</ent>
+<ent id="s112170">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">太武</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<orientations>
+<orientation system="geographic north">227</orientation>
+</orientations>
+<longitude src="percol-up">119.637863</longitude>
+<latitude src="percol-up">23.578897</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:54:10" timeto="10:56:01">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o130796">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578922</latitude>
+<longitude src="percol-up">119.637867</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578922" longitude="119.637867" measurement="no" public="yes" time="10:55:33" url="/2020/03/05/DATE20200305TIME105533GEOBOOLyesLONGE119637867LATN23578922DIR48ALT0SIZE11472THUMB4397ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7686.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o148186">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<orientations>
+<orientation modtime="2024-03-21 11:55:58" src="percol-down" system="geographic north">227</orientation>
+</orientations>
+<latitude src="percol-up">23.578882</latitude>
+<longitude src="percol-up">119.637863</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578882" longitude="119.637863" measurement="no" public="yes" time="10:56:01" url="/2020/03/05/DATE20200305TIME105601GEOBOOLyesLONGE119637863LATN23578882DIR155ALT0SIZE11472THUMB3872ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7690.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o355846">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o148186" siteid="s112170">
+<orientations>
+<orientation modtime="2024-03-21 12:05:45" src="percol-down" system="geographic north">227</orientation>
+</orientations>
+<latitude src="percol-up">23.578883</latitude>
+<longitude src="percol-up">119.637793</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578883" longitude="119.637793" measurement="no" public="yes" time="10:54:26" url="/2020/03/05/DATE20200305TIME105426GEOBOOLyesLONGE119637793LATN23578883DIR48ALT0SIZE11472THUMB4435ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7674.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+</ent>
+<ent id="o355845">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578952</latitude>
+<longitude src="percol-up">119.637715</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578952" longitude="119.637715" measurement="no" public="yes" time="10:54:10" url="/2020/03/05/DATE20200305TIME105410GEOBOOLyesLONGE119637715LATN23578952DIR130ALT0SIZE11472THUMB3555ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7673.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130795">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578907</latitude>
+<longitude src="percol-up">119.63787</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578907" longitude="119.637870" measurement="no" public="yes" time="10:55:23" url="/2020/03/05/DATE20200305TIME105523GEOBOOLyesLONGE119637870LATN23578907DIR135ALT0SIZE11472THUMB4782ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7685.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130788">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578878</latitude>
+<longitude src="percol-up">119.637815</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578878" longitude="119.637815" measurement="no" public="yes" time="10:54:41" url="/2020/03/05/DATE20200305TIME105441GEOBOOLyesLONGE119637815LATN23578878DIR132ALT0SIZE11472THUMB4554ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7677.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130789">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.57888</latitude>
+<longitude src="percol-up">119.63781</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578880" longitude="119.637810" measurement="no" public="yes" time="10:54:44" url="/2020/03/05/DATE20200305TIME105444GEOBOOLyesLONGE119637810LATN23578880DIR295ALT0SIZE11472THUMB4478ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7678.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130787">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578895</latitude>
+<longitude src="percol-up">119.6378</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578895" longitude="119.637800" measurement="no" public="yes" time="10:54:36" url="/2020/03/05/DATE20200305TIME105436GEOBOOLyesLONGE119637800LATN23578895DIR55ALT0SIZE11472THUMB4409ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7676.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130791">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578898</latitude>
+<longitude src="percol-up">119.637863</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578898" longitude="119.637863" measurement="no" public="yes" time="10:54:59" url="/2020/03/05/DATE20200305TIME105459GEOBOOLyesLONGE119637863LATN23578898DIR41ALT0SIZE11472THUMB4766ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7681.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130793">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578898</latitude>
+<longitude src="percol-up">119.637887</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578898" longitude="119.637887" measurement="no" public="yes" time="10:55:13" url="/2020/03/05/DATE20200305TIME105513GEOBOOLyesLONGE119637887LATN23578898DIR62ALT0SIZE11472THUMB4230ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7683.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130786">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578883</latitude>
+<longitude src="percol-up">119.637802</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578883" longitude="119.637802" measurement="no" public="yes" time="10:54:30" url="/2020/03/05/DATE20200305TIME105430GEOBOOLyesLONGE119637802LATN23578883DIR70ALT0SIZE11472THUMB4028ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7675.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130797">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578892</latitude>
+<longitude src="percol-up">119.637883</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578892" longitude="119.637883" measurement="no" public="yes" time="10:55:41" url="/2020/03/05/DATE20200305TIME105541GEOBOOLyesLONGE119637883LATN23578892DIR55ALT0SIZE11472THUMB4241ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7687.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130799">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578885</latitude>
+<longitude src="percol-up">119.637863</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578885" longitude="119.637863" measurement="no" public="yes" time="10:55:57" url="/2020/03/05/DATE20200305TIME105557GEOBOOLyesLONGE119637863LATN23578885DIR138ALT0SIZE11472THUMB4028ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7689.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130794">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578912</latitude>
+<longitude src="percol-up">119.63787</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578912" longitude="119.637870" measurement="no" public="yes" time="10:55:20" url="/2020/03/05/DATE20200305TIME105520GEOBOOLyesLONGE119637870LATN23578912DIR304ALT0SIZE11472THUMB4657ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7684.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130798">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578903</latitude>
+<longitude src="percol-up">119.63787</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578903" longitude="119.637870" measurement="no" public="yes" time="10:55:50" url="/2020/03/05/DATE20200305TIME105550GEOBOOLyesLONGE119637870LATN23578903DIR308ALT0SIZE11472THUMB4362ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7688.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130792">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578897</latitude>
+<longitude src="percol-up">119.637868</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578897" longitude="119.637868" measurement="no" public="yes" time="10:55:09" url="/2020/03/05/DATE20200305TIME105509GEOBOOLyesLONGE119637868LATN23578897DIR55ALT0SIZE11472THUMB4323ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7682.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o147804">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s112170" siteid="s112170">
+<latitude src="percol-up">23.578882</latitude>
+<longitude src="percol-up">119.637833</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578882" longitude="119.637803" measurement="no" public="yes" time="10:54:50" url="/2020/03/05/DATE20200305TIME105450GEOBOOLyesLONGE119637803LATN23578882DIR46ALT0SIZE11472THUMB4105ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7679.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.578882" longitude="119.637863" measurement="no" public="yes" time="10:56:01" url="/2020/03/05/DATE20200305TIME105601GEOBOOLyesLONGE119637863LATN23578882DIR155ALT0SIZE11472THUMB3872ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7690.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o130800">
+<types>
+<type language="English">earthgod</type>
+</types>
+<geography geotop="o147804" siteid="s112170">
+<latitude src="percol-up">23.578882</latitude>
+<longitude src="percol-up">119.637863</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578882" longitude="119.637863" measurement="no" public="yes" time="10:56:01" url="/2020/03/05/DATE20200305TIME105601GEOBOOLyesLONGE119637863LATN23578882DIR155ALT0SIZE11472THUMB3872ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7690.jpg" zoom="no" />
+</media>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+</ent>
+</ent>
+<ent id="s112169">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">太武</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<orientations>
+<orientation system="geographic north">222</orientation>
+</orientations>
+<longitude src="percol-up">119.6364715</longitude>
+<latitude src="percol-up">23.578778999999997</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:44:18" timeto="10:45:12">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o130783">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112169" siteid="s112169">
+<latitude src="percol-up">23.578783</latitude>
+<longitude src="percol-up">119.636468</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578783" longitude="119.636468" measurement="no" public="yes" time="10:44:56" url="/2020/03/05/DATE20200305TIME104456GEOBOOLyesLONGE119636468LATN23578783DIR55ALT0SIZE11472THUMB4824ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7669.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130781">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="s112169" siteid="s112169">
+<latitude src="percol-up">23.578784</latitude>
+<longitude src="percol-up">119.636478</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578780" longitude="119.636478" measurement="no" public="yes" time="10:44:43" url="/2020/03/05/DATE20200305TIME104443GEOBOOLyesLONGE119636478LATN23578780DIR58ALT0SIZE11472THUMB3845ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7666.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.578787" longitude="119.636478" measurement="no" public="yes" time="10:44:46" url="/2020/03/05/DATE20200305TIME104446GEOBOOLyesLONGE119636478LATN23578787DIR60ALT0SIZE11472THUMB3450ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7667.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o130784">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112169" siteid="s112169">
+<latitude src="percol-up">23.578778</latitude>
+<longitude src="percol-up">119.636487</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578778" longitude="119.636487" measurement="no" public="yes" time="10:45:01" url="/2020/03/05/DATE20200305TIME104501GEOBOOLyesLONGE119636487LATN23578778DIR47ALT0SIZE11472THUMB4784ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7670.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o131685">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112169" siteid="s112169">
+<orientations>
+<orientation modtime="2024-03-21 11:55:58" src="percol-down" system="geographic north">222</orientation>
+</orientations>
+<latitude src="percol-up">23.57878</latitude>
+<longitude src="percol-up">119.636475</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578780" longitude="119.636475" measurement="no" public="yes" time="10:45:04" url="/2020/03/05/DATE20200305TIME104504GEOBOOLyesLONGE119636475LATN23578780DIR298ALT0SIZE11472THUMB3980ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7671.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o355841">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112169" siteid="s112169">
+<latitude src="percol-up">23.578682</latitude>
+<longitude src="percol-up">119.636392</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578682" longitude="119.636392" measurement="no" public="yes" time="10:44:18" url="/2020/03/05/DATE20200305TIME104418GEOBOOLyesLONGE119636392LATN23578682DIR64ALT0SIZE11472THUMB3565ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7663.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o131153">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s112169" siteid="s112169">
+<latitude src="percol-up">23.57878</latitude>
+<longitude src="percol-up">119.636474</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578780" longitude="119.636473" measurement="no" public="yes" time="10:44:52" url="/2020/03/05/DATE20200305TIME104452GEOBOOLyesLONGE119636473LATN23578780DIR126ALT0SIZE11472THUMB4517ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7668.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.578780" longitude="119.636475" measurement="no" public="yes" time="10:45:04" url="/2020/03/05/DATE20200305TIME104504GEOBOOLyesLONGE119636475LATN23578780DIR298ALT0SIZE11472THUMB3980ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7671.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o130782">
+<types>
+<type language="English">earthgod</type>
+</types>
+<geography geotop="o131153" siteid="s112169">
+<latitude src="percol-up">23.57878</latitude>
+<longitude src="percol-up">119.636473</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578780" longitude="119.636473" measurement="no" public="yes" time="10:44:52" url="/2020/03/05/DATE20200305TIME104452GEOBOOLyesLONGE119636473LATN23578780DIR126ALT0SIZE11472THUMB4517ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7668.jpg" zoom="no" />
+</media>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o130785">
+<types>
+<type language="English">kimlo</type>
+</types>
+<geography geotop="o131153" siteid="s112169">
+<latitude src="percol-up">23.57878</latitude>
+<longitude src="percol-up">119.636475</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578780" longitude="119.636475" measurement="no" public="yes" time="10:45:04" url="/2020/03/05/DATE20200305TIME104504GEOBOOLyesLONGE119636475LATN23578780DIR298ALT0SIZE11472THUMB3980ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7671.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+<technique language="English">none</technique>
+</event>
+</events>
+</ent>
+</ent>
+<ent id="o355843">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112169" siteid="s112169">
+<latitude src="percol-up">23.578762</latitude>
+<longitude src="percol-up">119.636468</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578762" longitude="119.636468" measurement="no" public="yes" time="10:44:37" url="/2020/03/05/DATE20200305TIME104437GEOBOOLyesLONGE119636468LATN23578762DIR41ALT0SIZE11472THUMB4642ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7665.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o355842">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112169" siteid="s112169">
+<latitude src="percol-up">23.578737</latitude>
+<longitude src="percol-up">119.636452</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578737" longitude="119.636452" measurement="no" public="yes" time="10:44:31" url="/2020/03/05/DATE20200305TIME104431GEOBOOLyesLONGE119636452LATN23578737DIR44ALT0SIZE11472THUMB4381ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7664.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o355844">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112169" siteid="s112169">
+<latitude src="percol-up">23.578802</latitude>
+<longitude src="percol-up">119.636475</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.578802" longitude="119.636475" measurement="no" public="yes" time="10:45:12" url="/2020/03/05/DATE20200305TIME104512GEOBOOLyesLONGE119636475LATN23578802DIR104ALT0SIZE11472THUMB4160ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7672.jpg" zoom="no" />
+</media>
+</ent>
+</ent>
+<ent id="s112166">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">太武</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<orientations>
+<orientation system="geographic north">147</orientation>
+</orientations>
+<longitude src="percol-up">119.636968</longitude>
+<latitude src="percol-up">23.57486</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:26:14" timeto="10:27:45">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o355830">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.574793</latitude>
+<longitude src="percol-up">119.63704</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574793" longitude="119.637040" measurement="no" public="yes" time="10:26:14" url="/2020/03/05/DATE20200305TIME102614GEOBOOLyesLONGE119637040LATN23574793DIR314ALT0SIZE11472THUMB3935ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7624.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o430964">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<orientations>
+<orientation modtime="2024-03-21 11:55:58" src="percol-down" system="geographic north">147</orientation>
+</orientations>
+<latitude src="percol-up">23.574863</latitude>
+<longitude src="percol-up">119.636958</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574863" longitude="119.636958" measurement="no" public="yes" time="10:27:38" url="/2020/03/05/DATE20200305TIME102738GEOBOOLyesLONGE119636958LATN23574863DIR328ALT0SIZE11472THUMB3991ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7631.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o130757">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.57486</latitude>
+<longitude src="percol-up">119.636972</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574860" longitude="119.636972" measurement="no" public="yes" time="10:27:09" url="/2020/03/05/DATE20200305TIME102709GEOBOOLyesLONGE119636972LATN23574860DIR317ALT0SIZE11472THUMB5624ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7628.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o130755">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.574853</latitude>
+<longitude src="percol-up">119.636965</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574853" longitude="119.636965" measurement="no" public="yes" time="10:26:47" url="/2020/03/05/DATE20200305TIME102647GEOBOOLyesLONGE119636965LATN23574853DIR308ALT0SIZE11472THUMB5027ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7626.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o178757">
+<types>
+<type language="English">stone lion-left</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.57486</latitude>
+<longitude src="percol-up">119.636972</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574860" longitude="119.636972" measurement="no" public="yes" time="10:27:09" url="/2020/03/05/DATE20200305TIME102709GEOBOOLyesLONGE119636972LATN23574860DIR317ALT0SIZE11472THUMB5624ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7628.jpg" zoom="no" />
+</media>
+<sem figurative="t" />
+<events>
+<event type="production">
+<material language="English" />
+<technique language="English">carved out</technique>
+</event>
+</events>
+</ent>
+<ent id="o178759">
+<types>
+<type language="English">stone lion-left</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.57486</latitude>
+<longitude src="percol-up">119.636972</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574860" longitude="119.636972" measurement="no" public="yes" time="10:27:09" url="/2020/03/05/DATE20200305TIME102709GEOBOOLyesLONGE119636972LATN23574860DIR317ALT0SIZE11472THUMB5624ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7628.jpg" zoom="no" />
+</media>
+<sem figurative="t" />
+<events>
+<event type="production">
+<material language="English" />
+<technique language="English">carved out</technique>
+</event>
+</events>
+</ent>
+<ent id="o355831">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.574845</latitude>
+<longitude src="percol-up">119.636987</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574845" longitude="119.636987" measurement="no" public="yes" time="10:26:35" url="/2020/03/05/DATE20200305TIME102635GEOBOOLyesLONGE119636987LATN23574845DIR310ALT0SIZE11472THUMB4134ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7625.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o178922">
+<types>
+<type language="English">stone lion</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.574863</latitude>
+<longitude src="percol-up">119.636967</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574863" longitude="119.636967" measurement="no" public="yes" time="10:27:14" url="/2020/03/05/DATE20200305TIME102714GEOBOOLyesLONGE119636967LATN23574863DIR50ALT0SIZE11472THUMB5886ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7629.jpg" zoom="no" />
+</media>
+<sem figurative="t" writing="uninscribed" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+<ent id="o178760">
+<types>
+<type language="English">stone lion-right</type>
+</types>
+<geography geotop="o178922" siteid="s112166">
+<latitude src="percol-up">23.574863</latitude>
+<longitude src="percol-up">119.636967</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574863" longitude="119.636967" measurement="no" public="yes" time="10:27:14" url="/2020/03/05/DATE20200305TIME102714GEOBOOLyesLONGE119636967LATN23574863DIR50ALT0SIZE11472THUMB5886ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7629.jpg" zoom="no" />
+</media>
+<sem figurative="t" />
+<events>
+<event type="production">
+<material language="English" />
+<technique language="English">carved out</technique>
+</event>
+</events>
+</ent>
+</ent>
+<ent id="o178911">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.574863</latitude>
+<longitude src="percol-up">119.636967</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574863" longitude="119.636967" measurement="no" public="yes" time="10:27:14" url="/2020/03/05/DATE20200305TIME102714GEOBOOLyesLONGE119636967LATN23574863DIR50ALT0SIZE11472THUMB5886ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7629.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<ent id="o130758">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o178911" siteid="s112166">
+<latitude src="percol-up">23.574863</latitude>
+<longitude src="percol-up">119.636967</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574863" longitude="119.636967" measurement="no" public="yes" time="10:27:14" url="/2020/03/05/DATE20200305TIME102714GEOBOOLyesLONGE119636967LATN23574863DIR50ALT0SIZE11472THUMB5886ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7629.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o355832">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.574863</latitude>
+<longitude src="percol-up">119.636965</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574863" longitude="119.636965" measurement="no" public="yes" time="10:27:20" url="/2020/03/05/DATE20200305TIME102720GEOBOOLyesLONGE119636965LATN23574863DIR329ALT0SIZE11472THUMB4916ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7630.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o423427">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.574863</latitude>
+<longitude src="percol-up">119.636958</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574863" longitude="119.636958" measurement="no" public="yes" time="10:27:38" url="/2020/03/05/DATE20200305TIME102738GEOBOOLyesLONGE119636958LATN23574863DIR328ALT0SIZE11472THUMB3991ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7631.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o178855">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o423427" siteid="s112166">
+<latitude src="percol-up">23.574863</latitude>
+<longitude src="percol-up">119.636958</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574863" longitude="119.636958" measurement="no" public="yes" time="10:27:38" url="/2020/03/05/DATE20200305TIME102738GEOBOOLyesLONGE119636958LATN23574863DIR328ALT0SIZE11472THUMB3991ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7631.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o130759">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="o178855" siteid="s112166">
+<latitude src="percol-up">23.574858</latitude>
+<longitude src="percol-up">119.636956</longitude>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574863" longitude="119.636958" measurement="no" public="yes" time="10:27:38" url="/2020/03/05/DATE20200305TIME102738GEOBOOLyesLONGE119636958LATN23574863DIR328ALT0SIZE11472THUMB3991ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7631.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.574853" longitude="119.636955" measurement="no" public="yes" time="10:27:45" url="/2020/03/05/DATE20200305TIME102745GEOBOOLyesLONGE119636955LATN23574853DIR298ALT0SIZE11472THUMB3583ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7632.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+</ent>
+</ent>
+<ent id="o178758">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112166" siteid="s112166">
+<latitude src="percol-up">23.574853</latitude>
+<longitude src="percol-up">119.636968</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574853" longitude="119.636968" measurement="no" public="yes" time="10:26:53" url="/2020/03/05/DATE20200305TIME102653GEOBOOLyesLONGE119636968LATN23574853DIR237ALT0SIZE11472THUMB5843ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7627.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<ent id="o130756">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o178758" siteid="s112166">
+<latitude src="percol-up">23.574853</latitude>
+<longitude src="percol-up">119.636968</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.574853" longitude="119.636968" measurement="no" public="yes" time="10:26:53" url="/2020/03/05/DATE20200305TIME102653GEOBOOLyesLONGE119636968LATN23574853DIR237ALT0SIZE11472THUMB5843ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7627.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+</ent>
+<ent id="s112195">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">湖西</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<latitude src="percol-up">23.5751240571752</latitude>
+<orientations>
+<orientation system="geographic north">120</orientation>
+</orientations>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-up">119.635463</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:32:56" timeto="10:34:08">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o356110">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o179268">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<orientations>
+<orientation modtime="2024-03-21 11:55:58" src="percol-down" system="geographic north">120</orientation>
+</orientations>
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o133346">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133345">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133347">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133344">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o356109">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133341">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133343">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o179131">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133348">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o179131" siteid="s112195">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o179276">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751240571752</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133342">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o179276" siteid="s112195">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o179132">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s112195" siteid="s112195">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="uninscribed" />
+<ent id="o133350">
+<types>
+<type language="English">earthgod</type>
+</types>
+<geography geotop="o179132" siteid="s112195">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o133349">
+<types>
+<type language="English">kimlo</type>
+</types>
+<geography geotop="o179132" siteid="s112195">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="uninscribed" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+<technique language="English">none</technique>
+</event>
+</events>
+</ent>
+<ent id="o133339">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o179132" siteid="s112195">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="uninscribed" />
+<ent id="o133340">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="o133339" siteid="s112195" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+</ent>
+</ent>
+</ent>
+<ent id="s112194">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">湖西</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<latitude src="percol-up">23.5751864187601</latitude>
+<orientations>
+<orientation system="geographic north">120</orientation>
+</orientations>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-up">119.635463</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:30:56" timeto="10:32:43">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o133610">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="no" writing="uninscribed" />
+<events>
+<event type="production">
+<material language="English">concrete</material>
+<technique language="English">none</technique>
+</event>
+</events>
+</ent>
+<ent id="o133623">
+<types>
+<type language="English">stone lion-left</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" />
+<events>
+<event type="production">
+<material language="English" />
+<technique language="English">carved out</technique>
+</event>
+</events>
+</ent>
+<ent id="o133735">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133336">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o133735" siteid="s112194">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133335">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o133735" siteid="s112194">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o133618">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133329">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o133618" siteid="s112194">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o133622">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133609">
+<types>
+<type language="English">outer space</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o133617">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133334">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o133617" siteid="s112194">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o133619">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133332">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o133619" siteid="s112194">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o133333">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o356108">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o133620">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133330">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o133620" siteid="s112194">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o133616">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5751864187601</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133331">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o133616" siteid="s112194">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o133611">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s112194" siteid="s112194">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="uninscribed" />
+<events>
+<event type="production">
+<material language="English">concrete</material>
+<technique language="English">none</technique>
+</event>
+</events>
+<ent id="o133337">
+<types>
+<type language="English">earthgod</type>
+</types>
+<geography geotop="o133611" siteid="s112194" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o133612">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o133611" siteid="s112194" />
+<sem writing="uninscribed" />
+<events>
+<event type="production">
+<material language="English">concrete</material>
+<technique language="English">none</technique>
+</event>
+</events>
+<ent id="o133328">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="o133612" siteid="s112194" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<material language="English" origin="Penghu">basalt</material>
+<technique language="English">carved in</technique>
+<agents>
+<agent role="stone carver" />
+</agents>
+</event>
+</events>
+</ent>
+</ent>
+</ent>
+</ent>
+<ent id="s112197">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">湖西</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<latitude src="percol-up">23.5788942932033</latitude>
+<orientations>
+<orientation system="geographic north">225</orientation>
+</orientations>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-up">119.635463</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:54:10" timeto="10:56:01">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o362768">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112197" siteid="s112197">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5788942932033</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o362767">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112197" siteid="s112197">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5788942932033</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o178925">
+<types>
+<type language="English">stone lion</type>
+</types>
+<geography geotop="s112197" siteid="s112197">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5788942932033</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" writing="uninscribed" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+<ent id="o178763">
+<types>
+<type language="English">stone lion-right</type>
+</types>
+<geography geotop="o178925" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" />
+<events>
+<event type="production">
+<material language="English" />
+<technique language="English">carved out</technique>
+</event>
+</events>
+</ent>
+</ent>
+<ent id="o356113">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112197" siteid="s112197">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5788942932033</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+</ent>
+<ent id="o160501">
+<types>
+<type language="English">stone lion-left</type>
+</types>
+<geography geotop="s112197" siteid="s112197">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5788942932033</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+<technique language="English">carved out</technique>
+</event>
+</events>
+<ent id="o160419">
+<types>
+<type language="English">stone lion-right</type>
+</types>
+<geography geotop="o160501" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" />
+<events>
+<event type="production">
+<material language="English" />
+<technique language="English">carved out</technique>
+</event>
+</events>
+</ent>
+<ent id="o160416">
+<types>
+<type language="English">stone lion-left</type>
+</types>
+<geography geotop="o160501" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" />
+<events>
+<event type="production">
+<material language="English" />
+<technique language="English">carved out</technique>
+</event>
+</events>
+</ent>
+</ent>
+<ent id="o178924">
+<types>
+<type language="English">stone lion</type>
+</types>
+<geography geotop="s112197" siteid="s112197">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5788942932033</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" writing="uninscribed" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+<ent id="o178762">
+<types>
+<type language="English">stone lion-right</type>
+</types>
+<geography geotop="o178924" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" />
+<events>
+<event type="production">
+<material language="English" />
+<technique language="English">carved out</technique>
+</event>
+</events>
+</ent>
+</ent>
+<ent id="o178923">
+<types>
+<type language="English">stone lion</type>
+</types>
+<geography geotop="s112197" siteid="s112197">
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5788942932033</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" writing="uninscribed" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+<ent id="o178761">
+<types>
+<type language="English">stone lion-right</type>
+</types>
+<geography geotop="o178923" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="t" />
+<events>
+<event type="production">
+<material language="English" />
+<technique language="English">carved out</technique>
+</event>
+</events>
+</ent>
+</ent>
+<ent id="o133727">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112197" siteid="s112197">
+<orientations>
+<orientation modtime="2024-03-21 11:55:58" src="percol-down" system="geographic north">225</orientation>
+</orientations>
+<longitude src="percol-down">119.635463</longitude>
+<latitude src="percol-down">23.5788942932033</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o160506">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o133727" siteid="s112197">
+<orientations>
+<orientation modtime="2024-03-21 12:05:45" src="percol-down" system="geographic north">225</orientation>
+</orientations>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o160505">
+<types>
+<type language="English">entrance</type>
+</types>
+<geography geotop="o160506" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="uninscribed" />
+<ent id="o160483">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o160505" siteid="s112197" />
+<sem writing="inscribed" />
+<ent id="o133358">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o160483" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133359">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o160483" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
+<ent id="o133362">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s112197" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="uninscribed" />
+<ent id="o160485">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o133362" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133367">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o160485" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133368">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o160485" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o133373">
+<types>
+<type language="English">earthgod</type>
+</types>
+<geography geotop="o133362" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o133364">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o133362" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="uninscribed" />
+<ent id="o160418">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="o133364" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o160477">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o133364" siteid="s112197" />
+<sem writing="inscribed" />
+<ent id="o160423">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o160477" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133363">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o160477" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+</ent>
+<ent id="o160486">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o133362" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133369">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o160486" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133370">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o160486" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133371">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o160486" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o160487">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o133362" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133372">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o160487" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o160420">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o133362" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133361">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o160420" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133360">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o160420" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o160484">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o133362" siteid="s112197">
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<sem writing="inscribed" />
+<ent id="o133366">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o160484" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o133365">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o160484" siteid="s112197" />
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+</ent>
+</ent>
+<ent id="s112167">
+<names>
+<name language="English">tomb of PERSON</name>
+</names>
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">太武</name>
+</community>
+</communities>
+<geography geotop="s112159" siteid="s112159">
+<orientations>
+<orientation system="geographic north">115</orientation>
+</orientations>
+<longitude src="percol-up">119.6367635</longitude>
+<latitude src="percol-up">23.575180500000002</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<events>
+<event type="fieldwork" day="2020-03-05" lunar="2020-02-12" timefrom="10:30:56" timeto="10:32:43">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o355836">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.57516</latitude>
+<longitude src="percol-up">119.636765</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575160" longitude="119.636765" measurement="no" public="yes" time="10:31:38" url="/2020/03/05/DATE20200305TIME103138GEOBOOLyesLONGE119636765LATN23575160DIR302ALT0SIZE11472THUMB4518ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7636.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o355835">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.575147</latitude>
+<longitude src="percol-up">119.63678</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575147" longitude="119.636780" measurement="no" public="yes" time="10:31:34" url="/2020/03/05/DATE20200305TIME103134GEOBOOLyesLONGE119636780LATN23575147DIR297ALT0SIZE11472THUMB4279ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7635.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o132104">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<orientations>
+<orientation modtime="2024-03-21 11:55:58" src="percol-down" system="geographic north">115</orientation>
+</orientations>
+<latitude src="percol-up">23.575188</latitude>
+<longitude src="percol-up">119.636728</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575188" longitude="119.636728" measurement="no" public="yes" time="10:32:36" url="/2020/03/05/DATE20200305TIME103236GEOBOOLyesLONGE119636728LATN23575188DIR63ALT0SIZE11472THUMB4036ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7647.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o178912">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.575205</latitude>
+<longitude src="percol-up">119.636762</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575205" longitude="119.636762" measurement="no" public="yes" time="10:32:18" url="/2020/03/05/DATE20200305TIME103218GEOBOOLyesLONGE119636762LATN23575205DIR315ALT0SIZE11472THUMB4655ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7644.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<ent id="o130766">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o178912" siteid="s112167">
+<latitude src="percol-up">23.575205</latitude>
+<longitude src="percol-up">119.636762</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575205" longitude="119.636762" measurement="no" public="yes" time="10:32:18" url="/2020/03/05/DATE20200305TIME103218GEOBOOLyesLONGE119636762LATN23575205DIR315ALT0SIZE11472THUMB4655ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7644.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+<texts>
+<text id="t1" characters="7" role="epigraph" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
+<transcription completed="yes">愛日猶思存子道</transcription>
+<normalization>
+<div id="1" script="Chinese-traditional">愛日猶思存子道</div>
+</normalization>
+<transliterations>
+<transliteration system="peh-oe-ji">ài ji̍t iáu su tsûn tsú tō</transliteration>
+<transliteration system="cantonese">ngoi3/oi3 jat6 jau4 si1/si3/soi1 cyun4 zi2 dou3/dou6</transliteration>
+<transliteration system="Hanyu pinyin">ài rì yóu sī cún zi dào</transliteration>
+</transliterations>
+<translations>
+<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:43:33">
+<div id="1" language="English">Love the sun and still think about the way to save the child</div>
+</trans>
+</translations>
+</text>
+</texts>
+</sem>
+</ent>
+</ent>
+<ent id="o355833">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.575068</latitude>
+<longitude src="percol-up">119.636925</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575068" longitude="119.636925" measurement="no" public="yes" time="10:30:56" url="/2020/03/05/DATE20200305TIME103056GEOBOOLyesLONGE119636925LATN23575068DIR300ALT0SIZE11472THUMB3828ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7633.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o130761">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.57518</latitude>
+<longitude src="percol-up">119.636728</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575180" longitude="119.636728" measurement="no" public="yes" time="10:31:53" url="/2020/03/05/DATE20200305TIME103153GEOBOOLyesLONGE119636728LATN23575180DIR317ALT0SIZE11472THUMB4968ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7639.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o355837">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.575183</latitude>
+<longitude src="percol-up">119.636768</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575183" longitude="119.636768" measurement="no" public="yes" time="10:32:43" url="/2020/03/05/DATE20200305TIME103243GEOBOOLyesLONGE119636768LATN23575183DIR78ALT0SIZE11472THUMB4715ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7648.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o355834">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.575123</latitude>
+<longitude src="percol-up">119.636812</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575123" longitude="119.636812" measurement="no" public="yes" time="10:31:25" url="/2020/03/05/DATE20200305TIME103125GEOBOOLyesLONGE119636812LATN23575123DIR294ALT0SIZE11472THUMB4292ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7634.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o178910">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.575181</latitude>
+<longitude src="percol-up">119.63675</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575178" longitude="119.636757" measurement="no" public="yes" time="10:31:59" url="/2020/03/05/DATE20200305TIME103159GEOBOOLyesLONGE119636757LATN23575178DIR315ALT0SIZE11472THUMB4957ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7640.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.575185" longitude="119.636743" measurement="no" public="yes" time="10:32:05" url="/2020/03/05/DATE20200305TIME103205GEOBOOLyesLONGE119636743LATN23575185DIR212ALT0SIZE11472THUMB4499ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7641.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<ent id="o130762">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o178910" siteid="s112167">
+<latitude src="percol-up">23.575178</latitude>
+<longitude src="percol-up">119.636757</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575178" longitude="119.636757" measurement="no" public="yes" time="10:31:59" url="/2020/03/05/DATE20200305TIME103159GEOBOOLyesLONGE119636757LATN23575178DIR315ALT0SIZE11472THUMB4957ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7640.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+<texts>
+<text id="t1" characters="7" role="epigraph" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
+<transcription completed="yes">瑞氣翔雲鍾福地</transcription>
+<normalization>
+<div id="1" script="Chinese-traditional">瑞氣翔雲鍾福地</div>
+</normalization>
+<transliterations>
+<transliteration system="peh-oe-ji">Suī khuì siông hûn tsiong hok tī</transliteration>
+<transliteration system="cantonese">seoi6 hei3 coeng4 wan4 zung1 fuk1 dei6/deng6</transliteration>
+<transliteration system="Hanyu pinyin">ruì qì xiáng yún zhōng fú de</transliteration>
+</transliterations>
+<translations>
+<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:43:31">
+<div id="1" language="English">Auspicious Qi Xiangyun Zhong Blessed Land</div>
+</trans>
+</translations>
+</text>
+</texts>
+</sem>
+</ent>
+<ent id="o130763">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o178910" siteid="s112167">
+<latitude src="percol-up">23.575185</latitude>
+<longitude src="percol-up">119.636743</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575185" longitude="119.636743" measurement="no" public="yes" time="10:32:05" url="/2020/03/05/DATE20200305TIME103205GEOBOOLyesLONGE119636743LATN23575185DIR212ALT0SIZE11472THUMB4499ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7641.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+<ent id="o178909">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.575197</latitude>
+<longitude src="percol-up">119.636748</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575195" longitude="119.636745" measurement="no" public="yes" time="10:32:13" url="/2020/03/05/DATE20200305TIME103213GEOBOOLyesLONGE119636745LATN23575195DIR314ALT0SIZE11472THUMB4468ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7643.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.575198" longitude="119.636750" measurement="no" public="yes" time="10:32:09" url="/2020/03/05/DATE20200305TIME103209GEOBOOLyesLONGE119636750LATN23575198DIR54ALT0SIZE11472THUMB4454ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7642.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<ent id="o130765">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o178909" siteid="s112167">
+<latitude src="percol-up">23.575195</latitude>
+<longitude src="percol-up">119.636745</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575195" longitude="119.636745" measurement="no" public="yes" time="10:32:13" url="/2020/03/05/DATE20200305TIME103213GEOBOOLyesLONGE119636745LATN23575195DIR314ALT0SIZE11472THUMB4468ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7643.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o130764">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o178909" siteid="s112167">
+<latitude src="percol-up">23.575198</latitude>
+<longitude src="percol-up">119.63675</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575198" longitude="119.636750" measurement="no" public="yes" time="10:32:09" url="/2020/03/05/DATE20200305TIME103209GEOBOOLyesLONGE119636750LATN23575198DIR54ALT0SIZE11472THUMB4454ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7642.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+<texts>
+<text id="t1" characters="5" role="epigraph" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
+<transcription completed="yes">太岳抱縈境</transcription>
+<normalization>
+<div id="1" script="Chinese-traditional">太岳抱縈境</div>
+</normalization>
+<transliterations>
+<transliteration system="peh-oe-ji">thài Ga̍k 抱 縈 kíng</transliteration>
+<transliteration system="cantonese">taai3 ngok6 bou6/pou5 jing4 ging2</transliteration>
+<transliteration system="Hanyu pinyin">tài yuè bào yíng jìng</transliteration>
+</transliterations>
+<translations>
+<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:43:32">
+<div id="1" language="English">Taiyue Baoying Realm</div>
+</trans>
+</translations>
+</text>
+</texts>
+</sem>
+</ent>
+</ent>
+<ent id="o131572">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s112167" siteid="s112167">
+<latitude src="percol-up">23.57519</latitude>
+<longitude src="percol-up">119.636732</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575192" longitude="119.636737" measurement="no" public="yes" time="10:31:46" url="/2020/03/05/DATE20200305TIME103146GEOBOOLyesLONGE119636737LATN23575192DIR291ALT0SIZE11472THUMB3640ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7638.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.575188" longitude="119.636728" measurement="no" public="yes" time="10:32:36" url="/2020/03/05/DATE20200305TIME103236GEOBOOLyesLONGE119636728LATN23575188DIR63ALT0SIZE11472THUMB4036ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7647.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o178765">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o131572" siteid="s112167">
+<latitude src="percol-up">23.575192</latitude>
+<longitude src="percol-up">119.636737</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575192" longitude="119.636737" measurement="no" public="yes" time="10:31:46" url="/2020/03/05/DATE20200305TIME103146GEOBOOLyesLONGE119636737LATN23575192DIR291ALT0SIZE11472THUMB3640ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7638.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o130760">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="o178765" siteid="s112167">
+<latitude src="percol-up">23.575184</latitude>
+<longitude src="percol-up">119.636743</longitude>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575177" longitude="119.636750" measurement="no" public="yes" time="10:31:42" url="/2020/03/05/DATE20200305TIME103142GEOBOOLyesLONGE119636750LATN23575177DIR303ALT0SIZE11472THUMB4071ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7637.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.575192" longitude="119.636737" measurement="no" public="yes" time="10:31:46" url="/2020/03/05/DATE20200305TIME103146GEOBOOLyesLONGE119636737LATN23575192DIR291ALT0SIZE11472THUMB3640ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7638.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+</ent>
+<ent id="o130769">
+<types>
+<type language="English">earthgod</type>
+</types>
+<geography geotop="o131572" siteid="s112167">
+<latitude src="percol-up">23.575188</latitude>
+<longitude src="percol-up">119.636728</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575188" longitude="119.636728" measurement="no" public="yes" time="10:32:36" url="/2020/03/05/DATE20200305TIME103236GEOBOOLyesLONGE119636728LATN23575188DIR63ALT0SIZE11472THUMB4036ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7647.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+</ent>
+<ent id="o178764">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o131572" siteid="s112167">
+<latitude src="percol-up">23.575206</latitude>
+<longitude src="percol-up">119.636738</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575205" longitude="119.636728" measurement="no" public="yes" time="10:32:26" url="/2020/03/05/DATE20200305TIME103226GEOBOOLyesLONGE119636728LATN23575205DIR54ALT0SIZE11472THUMB4678ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7646.jpg" zoom="no" />
+<img date="2020-03-05" flash="no" latitude="23.575207" longitude="119.636747" measurement="no" public="yes" time="10:32:23" url="/2020/03/05/DATE20200305TIME103223GEOBOOLyesLONGE119636747LATN23575207DIR202ALT0SIZE11472THUMB4588ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7645.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<ent id="o130767">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o178764" siteid="s112167">
+<latitude src="percol-up">23.575207</latitude>
+<longitude src="percol-up">119.636747</longitude>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575207" longitude="119.636747" measurement="no" public="yes" time="10:32:23" url="/2020/03/05/DATE20200305TIME103223GEOBOOLyesLONGE119636747LATN23575207DIR202ALT0SIZE11472THUMB4588ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7645.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o130768">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o178764" siteid="s112167">
+<latitude src="percol-up">23.575205</latitude>
+<longitude src="percol-up">119.636728</longitude>
+</geography>
+<media>
+<img date="2020-03-05" flash="no" latitude="23.575205" longitude="119.636728" measurement="no" public="yes" time="10:32:26" url="/2020/03/05/DATE20200305TIME103226GEOBOOLyesLONGE119636728LATN23575205DIR54ALT0SIZE11472THUMB4678ORIGTaiwanPenghuHuxiTaiwucommunityburialDSCN7646.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
+<ent id="s128506">
+<names>
+<name language="English">Taiwu Chenfu Jiangju Miao</name>
+<name script="Chinese-traditional">太武陳府將軍廟</name>
+</names>
+<types>
+<type language="English">Taoist temple</type>
+<type script="Chinese-traditional">廟</type>
+<type language="English">temple</type>
+</types>
+<communities>
+<community>
+<name language="English">Taiwu</name>
+<name script="Chinese-traditional">桶盤</name>
+</community>
+</communities>
+<geography geotop="s113846" siteid="s113846">
+<orientations>
+<orientation system="geographic north">214</orientation>
+</orientations>
+<longitude src="percol-up">119.633814</longitude>
+<latitude src="percol-up">23.572495</latitude>
+<archipelago>
+<names>
+<name language="English">Pescadores Islands</name>
+<name language="English">Penghu Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">divination</name>
+</names>
+</practice>
+<practice>
+<names>
+<name script="Chinese-traditional">占卜</name>
+</names>
+</practice>
+<practice>
+<names>
+<name language="English">seeking protection</name>
+</names>
+</practice>
+<practice>
+<names>
+<name language="English">offering</name>
+</names>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="fieldwork" day="2021-12-12" lunar="2021-11-09" timefrom="10:35:51" timeto="10:42:35">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+<event type="fieldwork" day="2022-02-07" lunar="2022-01-07" timefrom="11:15:16" timeto="11:17:48">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+<event type="fieldwork" day="2022-11-10" lunar="2022-10-17" timefrom="11:23:49" timeto="11:26:14">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<ent id="o1100666">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572382</latitude>
+<longitude src="percol-up">119.633795</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-02-07" flash="no" latitude="23.572382" longitude="119.633795" measurement="no" public="yes" time="11:16:56" url="/2022/02/07/DATE20220207TIME111656GEOBOOLyesLONGE119633795LATN23572382DIRnoALT0SIZE11472THUMB3889ORIGOliverDSCN5399.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1082512">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:40:18" url="/2021/12/12/DATE20211212TIME104018GEOBOOLyesLONGE119633888LATN23572518DIR41ALT0SIZE11472THUMB4436ORIGOliverDSCN3591.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392015">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<longitude src="percol-down">119.633814</longitude>
+<latitude src="percol-down">23.572495</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" measurement="no" public="yes" time="11:25:20" url="/2022/11/10/DATE20221110TIME112520GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB11251UPLOAD111022UPID292ORIGOliverDSC00496.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1082523">
+<types>
+<type language="English">gable</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572455</latitude>
+<longitude src="percol-up">119.6339</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572455" longitude="119.633900" measurement="no" public="yes" time="10:42:19" url="/2021/12/12/DATE20211212TIME104219GEOBOOLyesLONGE119633900LATN23572455DIR311ALT0SIZE11472THUMB3800ORIGOliverDSCN3602.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1100665">
+<types>
+<type language="English">compass</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572435</latitude>
+<longitude src="percol-up">119.633827</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-02-07" flash="no" latitude="23.572435" longitude="119.633827" measurement="yes" public="no" time="11:16:44" url="/2022/02/07/DATE20220207TIME111644GEOBOOLyesLONGE119633827LATN23572435DIRnoALT0SIZE11472THUMB5578ORIGOliverDSCN5398.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<texts>
+<text id="t1" role="epigraph" side="f" ucd="Nd" writingDirection="t2br2l">
+<transcription completed="yes">214</transcription>
+<normalization>
+<div id="1" ucd="Nd">214</div>
+</normalization>
+<translations>
+<trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:43:05">
+<div />
+</trans>
+</translations>
+</text>
+</texts>
+</sem>
+<events>
+<event type="compass measurement">
+<agents>
+<agent refid="con1" />
+</agents>
+</event>
+</events>
+</ent>
+<ent id="o1392010">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<longitude src="percol-down">119.633814</longitude>
+<latitude src="percol-down">23.572495</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" measurement="no" public="yes" time="11:25:55" url="/2022/11/10/DATE20221110TIME112555GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB6497UPLOAD111022UPID297ORIGOliverDSC00501.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392019">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.57248</latitude>
+<longitude src="percol-up">119.633796</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" latitude="23.572480" longitude="119.633796" measurement="no" public="yes" time="11:23:49" url="/2022/11/10/DATE20221110TIME112349GEOBOOLyesLONGE119633796LATN23572480DIRnoALT52SIZE38972THUMB7613UPLOAD111022UPID288ORIGOliverDSC00492.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392016">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572525</latitude>
+<longitude src="percol-up">119.633764</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" latitude="23.572525" longitude="119.633764" measurement="no" public="yes" time="11:24:41" url="/2022/11/10/DATE20221110TIME112441GEOBOOLyesLONGE119633764LATN23572525DIRnoALTnoSIZE38972THUMB8639UPLOAD111022UPID291ORIGOliverDSC00495.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392014">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<longitude src="percol-down">119.633814</longitude>
+<latitude src="percol-down">23.572495</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" measurement="no" public="yes" time="11:25:32" url="/2022/11/10/DATE20221110TIME112532GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB8797UPLOAD111022UPID293ORIGOliverDSC00497.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392013">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<longitude src="percol-down">119.633814</longitude>
+<latitude src="percol-down">23.572495</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" measurement="no" public="yes" time="11:25:38" url="/2022/11/10/DATE20221110TIME112538GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB9329UPLOAD111022UPID294ORIGOliverDSC00498.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392011">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<longitude src="percol-down">119.633814</longitude>
+<latitude src="percol-down">23.572495</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" measurement="no" public="yes" time="11:25:50" url="/2022/11/10/DATE20221110TIME112550GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB6711UPLOAD111022UPID296ORIGOliverDSC00500.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392012">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<longitude src="percol-down">119.633814</longitude>
+<latitude src="percol-down">23.572495</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" measurement="no" public="yes" time="11:25:45" url="/2022/11/10/DATE20221110TIME112545GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB6603UPLOAD111022UPID295ORIGOliverDSC00499.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392017">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572525</latitude>
+<longitude src="percol-up">119.633764</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" latitude="23.572525" longitude="119.633764" measurement="no" public="yes" time="11:24:27" url="/2022/11/10/DATE20221110TIME112427GEOBOOLyesLONGE119633764LATN23572525DIRnoALTnoSIZE38972THUMB10185UPLOAD111022UPID290ORIGOliverDSC00494.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1101258">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572245</latitude>
+<longitude src="percol-up">119.633815</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-02-07" flash="no" latitude="23.572245" longitude="119.633815" measurement="no" public="yes" time="11:15:16" url="/2022/02/07/DATE20220207TIME111516GEOBOOLyesLONGE119633815LATN23572245DIRnoALT0SIZE11472THUMB4223ORIGOliverDSCN5397.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1100667">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.57251</latitude>
+<longitude src="percol-up">119.634458</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-02-07" flash="no" latitude="23.572510" longitude="119.634458" measurement="no" public="yes" time="11:17:48" url="/2022/02/07/DATE20220207TIME111748GEOBOOLyesLONGE119634458LATN23572510DIRnoALT0SIZE11472THUMB5046ORIGOliverDSCN5400.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392018">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572552</latitude>
+<longitude src="percol-up">119.633782</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" latitude="23.572552" longitude="119.633782" measurement="no" public="yes" time="11:24:08" url="/2022/11/10/DATE20221110TIME112408GEOBOOLyesLONGE119633782LATN23572552DIRnoALT51SIZE38972THUMB9180UPLOAD111022UPID289ORIGOliverDSC00493.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1082510">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:40:11" url="/2021/12/12/DATE20211212TIME104011GEOBOOLyesLONGE119633888LATN23572518DIR45ALT0SIZE11472THUMB4313ORIGOliverDSCN3589.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1392009">
+<types>
+<type language="English">object</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<longitude src="percol-down">119.633814</longitude>
+<latitude src="percol-down">23.572495</latitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2022-11-10" flash="no" measurement="no" public="yes" time="11:26:14" url="/2022/11/10/DATE20221110TIME112614GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE38972THUMB10225UPLOAD111022UPID298ORIGOliverDSC00502.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1082491">
+<types>
+<type language="English">outer space</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572437</latitude>
+<longitude src="percol-up">119.633813</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572437" longitude="119.633813" measurement="no" public="yes" time="10:36:00" url="/2021/12/12/DATE20211212TIME103600GEOBOOLyesLONGE119633813LATN23572437DIR28ALT0SIZE11472THUMB4212ORIGOliverDSCN3570.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1082518">
+<types>
+<type language="English">kimlo</type>
+</types>
+<geography geotop="o1082491" siteid="s128506">
+<latitude src="percol-up">23.572508</latitude>
+<longitude src="percol-up">119.633845</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572508" longitude="119.633845" measurement="no" public="yes" time="10:41:50" url="/2021/12/12/DATE20211212TIME104150GEOBOOLyesLONGE119633845LATN23572508DIR76ALT0SIZE11472THUMB4138ORIGOliverDSCN3597.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1082520">
+<types>
+<type language="English">kimlo</type>
+</types>
+<geography geotop="o1082491" siteid="s128506">
+<latitude src="percol-up">23.572495</latitude>
+<longitude src="percol-up">119.633865</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572495" longitude="119.633865" measurement="no" public="yes" time="10:41:53" url="/2021/12/12/DATE20211212TIME104153GEOBOOLyesLONGE119633865LATN23572495DIR49ALT0SIZE11472THUMB4460ORIGOliverDSCN3599.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o1082519">
+<types>
+<type language="English">kimlo</type>
+</types>
+<geography geotop="o1082491" siteid="s128506">
+<latitude src="percol-up">23.572503</latitude>
+<longitude src="percol-up">119.633858</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572503" longitude="119.633858" measurement="no" public="yes" time="10:41:51" url="/2021/12/12/DATE20211212TIME104151GEOBOOLyesLONGE119633858LATN23572503DIR58ALT0SIZE11472THUMB4088ORIGOliverDSCN3598.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+</ent>
+<ent id="o1097897">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:44" url="/2021/12/12/DATE20211212TIME103944GEOBOOLyesLONGE119633888LATN23572518DIR46ALT0SIZE11472THUMB6146ORIGOliverDSCN3584.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:38" url="/2021/12/12/DATE20211212TIME103938GEOBOOLyesLONGE119633888LATN23572518DIR43ALT0SIZE11472THUMB5277ORIGOliverDSCN3583.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1082517">
+<types>
+<type language="English">collecting box</type>
+</types>
+<geography geotop="o1097897" siteid="s128506">
+<latitude src="percol-up">23.572272</latitude>
+<longitude src="percol-up">119.633855</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572272" longitude="119.633855" measurement="no" public="yes" time="10:41:18" url="/2021/12/12/DATE20211212TIME104118GEOBOOLyesLONGE119633855LATN23572272DIR51ALT0SIZE11472THUMB4745ORIGOliverDSCN3596.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o1097902">
+<types>
+<type language="English">inner wall</type>
+</types>
+<geography geotop="o1097897" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:24" url="/2021/12/12/DATE20211212TIME103924GEOBOOLyesLONGE119633888LATN23572518DIR314ALT0SIZE11472THUMB5479ORIGOliverDSCN3580.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1082501">
+<types>
+<type language="English">donor tablet</type>
+</types>
+<geography geotop="o1097902" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" t="1" time="10:39:24" url="/2021/12/12/DATE20211212TIME103924GEOBOOLyesLONGE119633888LATN23572518DIR314ALT0SIZE11472THUMB5479ORIGOliverDSCN3580.jpg" zoom="no">
+<ocrs>
+<ocr>
+<orig engine="Google Vision API" ocrDate="2026-05-24 09:09:08">525/鄭歐歐鄭歐歐歐歐歐歐鄭季李薛鄭吳黄徐堅林堅/陳/震震&gt;天宏超大蓋超超天順順龍寶克龍/客順丁舞群順沖舉來當田無克春良川/石/五五/千千千千千千千千千千千字午午午/元元元元元元元元元元元元元元元/千千萬廟/翁歐歐歐歐歐林李李顔歐鄭歐歐楊歐鄭李季/春瑞水美 水&gt;順麗王春石樹清水明武/美桃慶陽人蔭武車武珠財得獅林福川訓烈木/六六六六六六六六/太武將軍廟重建寄附&gt;芳名錄/百百百百百百百百千千千千千千千千千千千/元元元元元元元元元元元元元元元元元/兀</orig>
+<mod author="Oliver" completed="no">525/鄭歐歐鄭歐歐歐歐歐歐鄭季李薛鄭吳黄徐堅林堅/陳/震震天宏超大蓋超超天順順龍寶克龍/客順丁舞群順沖舉來當田無克春良川/石/五五/千千千千千千千千千千千字午午午/元元元&gt;元元元元元元元元元元元元/千千萬廟/翁歐歐歐歐歐林李李顔歐鄭歐歐楊歐鄭李季/春瑞水美 水順麗王春石樹清水明武/美桃慶陽人蔭武車武珠財得獅林福川訓烈木/六六六六六六六六/太武將軍廟重建寄附芳名錄/百百百百百百百百千千千千千千千千千千千/元元元元元元元元元元元元元元元元元/兀</mod>
+</ocr>
+</ocrs>
+</img>
+</media>
+<sem writing="inscribed" />
+</ent>
+</ent>
+<ent id="o1097901">
+<types>
+<type language="English">inner wall</type>
+</types>
+<geography geotop="o1097897" siteid="s128506">
+<latitude src="percol-up">23.572487</latitude>
+<longitude src="percol-up">119.633862</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572487" longitude="119.633862" measurement="no" public="yes" time="10:39:05" url="/2021/12/12/DATE20211212TIME103905GEOBOOLyesLONGE119633862LATN23572487DIR136ALT0SIZE11472THUMB4684ORIGOliverDSCN3579.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1082500">
+<types>
+<type language="English">story tablet</type>
+</types>
+<geography geotop="o1097901" siteid="s128506">
+<latitude src="percol-up">23.572487</latitude>
+<longitude src="percol-up">119.633862</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572487" longitude="119.633862" measurement="no" public="yes" t="1" time="10:39:05" url="/2021/12/12/DATE20211212TIME103905GEOBOOLyesLONGE119633862LATN23572487DIR136ALT0SIZE11472THUMB4684ORIGOliverDSCN3579.jpg" zoom="no">
+<ocrs>
+<ocr engine="Google Vision API" ocrDate="2026-05-24 19:49:48">
+<orig>5/落農/太武村陳府將軍廟重建誌/本廟奉祀陳府將軍,始建/里喬老之記應中說,早於玄/靈殿·普創修兩次 開此次/十八年十月十八日(基/F</orig>
+<mod author="Oliver" completed="no" ucd="CJK,LATIN,MIDDLE">5/落農/太武村陳府將軍廟重建誌/本廟奉祀陳府將軍,始建/里喬老之記應中說,早於玄/靈殿·普創修兩次 開此次/十八年十月十八日(基/F</mod>
+</ocr>
+</ocrs>
+</img>
+</media>
+<sem writing="inscribed" />
+</ent>
+</ent>
+<ent id="o1082504">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1097897" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:33" url="/2021/12/12/DATE20211212TIME103933GEOBOOLyesLONGE119633888LATN23572518DIR43ALT0SIZE11472THUMB4453ORIGOliverDSCN3582.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:44" url="/2021/12/12/DATE20211212TIME103944GEOBOOLyesLONGE119633888LATN23572518DIR46ALT0SIZE11472THUMB6146ORIGOliverDSCN3584.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:29" url="/2021/12/12/DATE20211212TIME103929GEOBOOLyesLONGE119633888LATN23572518DIR44ALT0SIZE11472THUMB4375ORIGOliverDSCN3581.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:38" url="/2021/12/12/DATE20211212TIME103938GEOBOOLyesLONGE119633888LATN23572518DIR43ALT0SIZE11472THUMB5277ORIGOliverDSCN3583.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1082511">
+<types>
+<type language="English">altar name tablet</type>
+</types>
+<geography geotop="o1082504" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:40:14" url="/2021/12/12/DATE20211212TIME104014GEOBOOLyesLONGE119633888LATN23572518DIR35ALT0SIZE11472THUMB4038ORIGOliverDSCN3590.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o1082503">
+<types>
+<type language="English">altar table</type>
+</types>
+<geography geotop="o1082504" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:33" url="/2021/12/12/DATE20211212TIME103933GEOBOOLyesLONGE119633888LATN23572518DIR43ALT0SIZE11472THUMB4453ORIGOliverDSCN3582.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:29" url="/2021/12/12/DATE20211212TIME103929GEOBOOLyesLONGE119633888LATN23572518DIR44ALT0SIZE11472THUMB4375ORIGOliverDSCN3581.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name language="English">offering</name>
+</names>
+<epistemics>implied</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<events>
+<event type="production">
+<material language="English">wood</material>
+</event>
+</events>
+</ent>
+<ent id="o1097899">
+<types>
+<type language="English">oracle block</type>
+</types>
+<geography geotop="o1082504" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:44" url="/2021/12/12/DATE20211212TIME103944GEOBOOLyesLONGE119633888LATN23572518DIR46ALT0SIZE11472THUMB6146ORIGOliverDSCN3584.jpg" zoom="no" />
+</media>
+</ent>
+<ent id="o1097900">
+<types>
+<type language="English">deity niche</type>
+</types>
+<geography geotop="o1082504" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:40:07" url="/2021/12/12/DATE20211212TIME104007GEOBOOLyesLONGE119633888LATN23572518DIR47ALT0SIZE11472THUMB5086ORIGOliverDSCN3588.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<ent id="o1082514">
+<types>
+<type language="English">idol</type>
+<type language="English">deity statue</type>
+</types>
+<geography geotop="o1097900" siteid="s128506">
+<latitude src="percol-up">23.572492</latitude>
+<longitude src="percol-up">119.633957</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572492" longitude="119.633957" measurement="no" public="yes" time="10:40:32" url="/2021/12/12/DATE20211212TIME104032GEOBOOLyesLONGE119633957LATN23572492DIR59ALT0SIZE11472THUMB4157ORIGOliverDSCN3593.jpg" zoom="no" />
+</media>
+<sem figurative="yes">
+<arts>
+<art language="English">sculpturing</art>
+<art language="English">wood carving</art>
+</arts>
+<genres>
+<genre language="English">deity carving</genre>
+</genres>
+</sem>
+<ref>
+<person id="p1" />
+<event type="worship">
+<agents>
+<agent role="worshiper" />
+<agent refid="p1" role="worshiped" />
+</agents>
+</event>
+</ref>
+<events>
+<event type="production">
+<material language="English">wood</material>
+<technique language="English">carved out</technique>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o1082513">
+<types>
+<type language="English">idol</type>
+<type language="English">deity statue</type>
+</types>
+<geography geotop="o1097900" siteid="s128506" />
+<media>
+<img date="2021-12-12" flash="no" measurement="no" public="yes" time="10:40:25" url="/2021/12/12/DATE20211212TIME104025GEOBOOLnoLONGE0000000LATN0000000DIR17ALTnoSIZE11472THUMB5022ORIGOliverDSCN3592.jpg" zoom="no" />
+</media>
+<sem figurative="yes">
+<arts>
+<art language="English">sculpturing</art>
+<art language="English">wood carving</art>
+</arts>
+<genres>
+<genre language="English">deity carving</genre>
+</genres>
+</sem>
+<ref>
+<person id="p1" />
+<event type="worship">
+<agents>
+<agent role="worshiper" />
+<agent refid="p1" role="worshiped" />
+</agents>
+</event>
+</ref>
+<events>
+<event type="production">
+<material language="English">wood</material>
+<technique language="English">carved out</technique>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+<ent id="o1082515">
+<types>
+<type language="English">idol</type>
+<type language="English">deity statue</type>
+</types>
+<geography geotop="o1097900" siteid="s128506">
+<latitude src="percol-up">23.572443</latitude>
+<longitude src="percol-up">119.633925</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572443" longitude="119.633925" measurement="no" public="yes" time="10:40:37" url="/2021/12/12/DATE20211212TIME104037GEOBOOLyesLONGE119633925LATN23572443DIR22ALT0SIZE11472THUMB4281ORIGOliverDSCN3594.jpg" zoom="no" />
+</media>
+<sem figurative="yes">
+<arts>
+<art language="English">sculpturing</art>
+<art language="English">wood carving</art>
+</arts>
+<genres>
+<genre language="English">deity carving</genre>
+</genres>
+</sem>
+<ref>
+<person id="p1" />
+<event type="worship">
+<agents>
+<agent role="worshiper" />
+<agent refid="p1" role="worshiped" />
+</agents>
+</event>
+</ref>
+<events>
+<event type="production">
+<material language="English">wood</material>
+<technique language="English">carved out</technique>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+</ent>
+</ent>
+<ent id="o1082516">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="o1082504" siteid="s128506">
+<latitude src="percol-up">23.572332</latitude>
+<longitude src="percol-up">119.633883</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572332" longitude="119.633883" measurement="no" public="yes" time="10:40:43" url="/2021/12/12/DATE20211212TIME104043GEOBOOLyesLONGE119633883LATN23572332DIR40ALT0SIZE11472THUMB4513ORIGOliverDSCN3595.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">calligraphy</art>
+</arts>
+</sem>
+</ent>
+<ent id="o1097898">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o1082504" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:59" url="/2021/12/12/DATE20211212TIME103959GEOBOOLyesLONGE119633888LATN23572518DIR40ALT0SIZE11472THUMB4984ORIGOliverDSCN3586.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:55" url="/2021/12/12/DATE20211212TIME103955GEOBOOLyesLONGE119633888LATN23572518DIR48ALT0SIZE11472THUMB5132ORIGOliverDSCN3585.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:38" url="/2021/12/12/DATE20211212TIME103938GEOBOOLyesLONGE119633888LATN23572518DIR43ALT0SIZE11472THUMB5277ORIGOliverDSCN3583.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<ent id="o1082506">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o1097898" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:55" url="/2021/12/12/DATE20211212TIME103955GEOBOOLyesLONGE119633888LATN23572518DIR48ALT0SIZE11472THUMB5132ORIGOliverDSCN3585.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o1082509">
+<types>
+<type language="English">couplet-top</type>
+</types>
+<geography geotop="o1097898" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:40:07" url="/2021/12/12/DATE20211212TIME104007GEOBOOLyesLONGE119633888LATN23572518DIR47ALT0SIZE11472THUMB5086ORIGOliverDSCN3588.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:40:01" url="/2021/12/12/DATE20211212TIME104001GEOBOOLyesLONGE119633888LATN23572518DIR40ALT0SIZE11472THUMB5304ORIGOliverDSCN3587.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletTop</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o1082507">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o1097898" siteid="s128506">
+<latitude src="percol-up">23.572518</latitude>
+<longitude src="percol-up">119.633888</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572518" longitude="119.633888" measurement="no" public="yes" time="10:39:59" url="/2021/12/12/DATE20211212TIME103959GEOBOOLyesLONGE119633888LATN23572518DIR40ALT0SIZE11472THUMB4984ORIGOliverDSCN3586.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+</ent>
+</ent>
+<ent id="o1097896">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s128506" siteid="s128506">
+<latitude src="percol-up">23.572437</latitude>
+<longitude src="percol-up">119.633813</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572437" longitude="119.633813" measurement="no" public="yes" time="10:36:00" url="/2021/12/12/DATE20211212TIME103600GEOBOOLyesLONGE119633813LATN23572437DIR28ALT0SIZE11472THUMB4212ORIGOliverDSCN3570.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o1082521">
+<types>
+<type language="English">structure right side</type>
+</types>
+<geography geotop="o1097896" siteid="s128506">
+<latitude src="percol-up">23.57246</latitude>
+<longitude src="percol-up">119.633902</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572468" longitude="119.633872" measurement="no" public="yes" time="10:41:56" url="/2021/12/12/DATE20211212TIME104156GEOBOOLyesLONGE119633872LATN23572468DIR7ALT0SIZE11472THUMB4446ORIGOliverDSCN3600.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572453" longitude="119.633932" measurement="no" public="yes" time="10:42:08" url="/2021/12/12/DATE20211212TIME104208GEOBOOLyesLONGE119633932LATN23572453DIR304ALT0SIZE11472THUMB4564ORIGOliverDSCN3601.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o1082524">
+<types>
+<type language="English">structure back side</type>
+</types>
+<geography geotop="o1097896" siteid="s128506">
+<latitude src="percol-up">23.572465</latitude>
+<longitude src="percol-up">119.633923</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572465" longitude="119.633923" measurement="no" public="yes" time="10:42:25" url="/2021/12/12/DATE20211212TIME104225GEOBOOLyesLONGE119633923LATN23572465DIR294ALT0SIZE11472THUMB4089ORIGOliverDSCN3603.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o1082525">
+<types>
+<type language="English">structure left side</type>
+</types>
+<geography geotop="o1097896" siteid="s128506">
+<latitude src="percol-up">23.572515</latitude>
+<longitude src="percol-up">119.633917</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572515" longitude="119.633917" measurement="no" public="yes" time="10:42:35" url="/2021/12/12/DATE20211212TIME104235GEOBOOLyesLONGE119633917LATN23572515DIR223ALT0SIZE11472THUMB3865ORIGOliverDSCN3604.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o1082490">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o1097896" siteid="s128506">
+<latitude src="percol-up">23.572447</latitude>
+<longitude src="percol-up">119.633843</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">澎湖島</name>
+<name language="English">Penghu Island</name>
+</names>
+</island>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572443" longitude="119.633840" measurement="no" public="yes" time="10:35:51" url="/2021/12/12/DATE20211212TIME103551GEOBOOLyesLONGE119633840LATN23572443DIR42ALT0SIZE11472THUMB4312ORIGOliverDSCN3569.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572452" longitude="119.633845" measurement="no" public="yes" time="10:38:26" url="/2021/12/12/DATE20211212TIME103826GEOBOOLyesLONGE119633845LATN23572452DIR34ALT0SIZE11472THUMB5021ORIGOliverDSCN3574.jpg" zoom="no" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o1082496">
+<types>
+<type language="English">Tian Gong censer</type>
+</types>
+<geography geotop="o1082490" siteid="s128506">
+<latitude src="percol-up">23.572485</latitude>
+<longitude src="percol-up">119.633862</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572483" longitude="119.633812" measurement="no" public="yes" time="10:36:10" url="/2021/12/12/DATE20211212TIME103610GEOBOOLyesLONGE119633812LATN23572483DIR40ALT0SIZE11472THUMB4596ORIGOliverDSCN3571.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572492" longitude="119.633867" measurement="no" public="yes" time="10:36:25" url="/2021/12/12/DATE20211212TIME103625GEOBOOLyesLONGE119633867LATN23572492DIR20ALT0SIZE11472THUMB5138ORIGOliverDSCN3572.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572488" longitude="119.633865" measurement="no" public="yes" time="10:36:30" url="/2021/12/12/DATE20211212TIME103630GEOBOOLyesLONGE119633865LATN23572488DIR326ALT0SIZE11472THUMB5502ORIGOliverDSCN3573.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572475" longitude="119.633860" measurement="no" public="yes" time="10:38:35" url="/2021/12/12/DATE20211212TIME103835GEOBOOLyesLONGE119633860LATN23572475DIR228ALT0SIZE11472THUMB5127ORIGOliverDSCN3575.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+</ent>
+<ent id="o1097894">
+<types>
+<type language="English">entrance</type>
+</types>
+<geography geotop="o1082490" siteid="s128506">
+<latitude src="percol-up">23.572477</latitude>
+<longitude src="percol-up">119.633853</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572483" longitude="119.633853" measurement="no" public="yes" time="10:38:43" url="/2021/12/12/DATE20211212TIME103843GEOBOOLyesLONGE119633853LATN23572483DIR26ALT0SIZE11472THUMB4819ORIGOliverDSCN3577.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572452" longitude="119.633845" measurement="no" public="yes" time="10:38:26" url="/2021/12/12/DATE20211212TIME103826GEOBOOLyesLONGE119633845LATN23572452DIR34ALT0SIZE11472THUMB5021ORIGOliverDSCN3574.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572477" longitude="119.633868" measurement="no" public="yes" time="10:38:39" url="/2021/12/12/DATE20211212TIME103839GEOBOOLyesLONGE119633868LATN23572477DIR42ALT0SIZE11472THUMB4926ORIGOliverDSCN3576.jpg" zoom="no" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1097895">
+<types>
+<type language="English">couplet</type>
+</types>
+<geography geotop="o1097894" siteid="s128506">
+<latitude src="percol-up">23.572477</latitude>
+<longitude src="percol-up">119.633853</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572483" longitude="119.633853" measurement="no" public="yes" time="10:38:43" url="/2021/12/12/DATE20211212TIME103843GEOBOOLyesLONGE119633853LATN23572483DIR26ALT0SIZE11472THUMB4819ORIGOliverDSCN3577.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572452" longitude="119.633845" measurement="no" public="yes" time="10:38:26" url="/2021/12/12/DATE20211212TIME103826GEOBOOLyesLONGE119633845LATN23572452DIR34ALT0SIZE11472THUMB5021ORIGOliverDSCN3574.jpg" zoom="no" />
+<img date="2021-12-12" flash="no" latitude="23.572477" longitude="119.633868" measurement="no" public="yes" time="10:38:39" url="/2021/12/12/DATE20211212TIME103839GEOBOOLyesLONGE119633868LATN23572477DIR42ALT0SIZE11472THUMB4926ORIGOliverDSCN3576.jpg" zoom="no" />
+</media>
+<sem writing="inscribed" />
+<ent id="o1082497">
+<types>
+<type language="English">couplet-right</type>
+</types>
+<geography geotop="o1097895" siteid="s128506">
+<latitude src="percol-up">23.572477</latitude>
+<longitude src="percol-up">119.633868</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572477" longitude="119.633868" measurement="no" public="yes" time="10:38:39" url="/2021/12/12/DATE20211212TIME103839GEOBOOLyesLONGE119633868LATN23572477DIR42ALT0SIZE11472THUMB4926ORIGOliverDSCN3576.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletRight</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o1082498">
+<types>
+<type language="English">couplet-left</type>
+</types>
+<geography geotop="o1097895" siteid="s128506">
+<latitude src="percol-up">23.572483</latitude>
+<longitude src="percol-up">119.633853</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572483" longitude="119.633853" measurement="no" public="yes" time="10:38:43" url="/2021/12/12/DATE20211212TIME103843GEOBOOLyesLONGE119633853LATN23572483DIR26ALT0SIZE11472THUMB4819ORIGOliverDSCN3577.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletLeft</genre>
+</genres>
+</sem>
+</ent>
+<ent id="o1082499">
+<types>
+<type language="English">couplet-top</type>
+</types>
+<geography geotop="o1097895" siteid="s128506">
+<latitude src="percol-up">23.572497</latitude>
+<longitude src="percol-up">119.633867</longitude>
+</geography>
+<media>
+<img date="2021-12-12" flash="no" latitude="23.572497" longitude="119.633867" measurement="no" public="yes" time="10:38:48" url="/2021/12/12/DATE20211212TIME103848GEOBOOLyesLONGE119633867LATN23572497DIR42ALT0SIZE11472THUMB5392ORIGOliverDSCN3578.jpg" zoom="no" />
+</media>
+<sem writing="inscribed">
+<arts>
+<art language="English">epigraphy</art>
+</arts>
+<genres>
+<genre language="English">coupletTop</genre>
+</genres>
+</sem>
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
+</ent>
+</document>
