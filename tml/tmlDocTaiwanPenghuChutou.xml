@@ -78,41 +78,6 @@
 </practices>
 </culturaldomain>
 <sem figurative="no" writing="uninscribed" />
-<ent id="s114004">
-<types>
-<type language="English">water body</type>
-</types>
-<communities>
-<community>
-<communityname language="English" script="Latin">Magong</communityname>
-</community>
-</communities>
-<names>
-<name language="English">Chutou Island Coastal Waters</name>
-</names>
-<geography geotop="s113690" siteid="s113690">
-<latitude src="percol-down">23.217523</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
-<longitude src="percol-down">119.5414785</longitude>
-<island>
-<names>
-<name script="Chinese-traditional">鋤頭嶼</name>
-<name language="English">Chutou Island</name>
-</names>
-</island>
-</geography>
-<description>
-<div author="Oliver Streiter" language="English">Chutou Island Coastal Waters</div>
-</description>
-<admins />
-<sem figurative="no" writing="uninscribed" />
-</ent>
 <ent id="s113942">
 <types>
 <type language="English">coastline</type>
@@ -144,6 +109,41 @@
 </geography>
 <description>
 <div author="Oliver Streiter" language="English">Chutou Coastline</div>
+</description>
+<admins />
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="s114004">
+<types>
+<type language="English">water body</type>
+</types>
+<communities>
+<community>
+<communityname language="English" script="Latin">Magong</communityname>
+</community>
+</communities>
+<names>
+<name language="English">Chutou Island Coastal Waters</name>
+</names>
+<geography geotop="s113690" siteid="s113690">
+<latitude src="percol-down">23.217523</latitude>
+<archipelago>
+<names>
+<name script="Latin">Penghu Islands</name>
+<name script="Latin">Pescadores Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-down">119.5414785</longitude>
+<island>
+<names>
+<name script="Chinese-traditional">鋤頭嶼</name>
+<name language="English">Chutou Island</name>
+</names>
+</island>
+</geography>
+<description>
+<div author="Oliver Streiter" language="English">Chutou Island Coastal Waters</div>
 </description>
 <admins />
 <sem figurative="no" writing="uninscribed" />

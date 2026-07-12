@@ -38479,7 +38479,9 @@
 <longitude src="percol-up">119.669593</longitude>
 </geography>
 <media>
-<img date="2020-10-01" flash="no" latitude="23.598720" longitude="119.669593" measurement="no" public="yes" time="13:41:16" url="/2020/10/01/DATE20201001TIME134116GEOBOOLyesLONGE119669593LATN23598720DIR356ALT0SIZE11472THUMB6109ORIGHannaDSCN9997.jpg" zoom="no" />
+<img date="2020-10-01" flash="no" latitude="23.598720" longitude="119.669593" measurement="no" public="yes" time="13:41:16" url="/2020/10/01/DATE20201001TIME134116GEOBOOLyesLONGE119669593LATN23598720DIR356ALT0SIZE11472THUMB6109ORIGHannaDSCN9997.jpg" zoom="no">
+<objects />
+</img>
 </media>
 <sem figurative="yes" writing="uninscribed" />
 </ent>
@@ -44739,17 +44741,13 @@
 <transliteration system="cantonese">hin2 bei2 kan4 ci4 hung4 si6/zi1 mou6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ qín cí hóng shì mù</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:37">
 <div id="1" language="English">Tomb of Xianhe Qincihong</div>
 </trans>
 </translations>
-<marker type="endearment" meaning="emotional intimacy">慈</marker>
+<marker type="symbol" meaning="compassion">慈</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -47355,16 +47353,11 @@
 <transliteration system="cantonese">hin2 zou2 haau2 heoi2 gung1 wai5 gong1 soeng5/soeng6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo xǔ gōng huì jiāng shàng jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:13" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -49041,15 +49034,11 @@
 <transliteration system="cantonese">hin2 zou2 haau2 zi6 wing4 zan1 zau1 gung1 zi1</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo zì róng zhēn zhōu gōng zhī</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div>顕祖考&gt;字榮珍周公之?</div>
 </normalization>
-<marker type="honorific">顕</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -49181,14 +49170,11 @@
 <transliteration system="cantonese">hin2 zou2 haau2 zi6 sung4 zan1</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo zì chóng zhēn</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div>顕祖考&gt;字崇珍?</div>
 </normalization>
-<marker type="honorific">顕</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -49819,8 +49805,6 @@
 <transliteration system="cantonese">man4 gwok3 sei3/si3 saam1/saam3 nin4 gaap3 gwai3 haa6 gat1 daan3</transliteration>
 <transliteration system="Hanyu pinyin">mínguó sì sān nián jiǎ jì xià jí dàn</transliteration>
 </transliterations>
-<marker type="lunar month" meaning="6">季夏</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t4" characters="9" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
@@ -49830,16 +49814,12 @@
 <transliteration system="cantonese">hin2 zou2 bei2 ziu6 mun4 can4/zan6 si6/zi1 deng6/ding6 gaai1</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ zhào mén chén shì dìng jiā</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">趙</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <normalization>
 <div>顕祖妣趙門陳&gt;氏定佳?</div>
 </normalization>
-<marker type="honorific">顕</marker>
-<marker type="virilocal">門</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -50838,7 +50818,7 @@
 <transliteration system="cantonese">man4 gwok3 saam1/saam3 sap6 ng5 nin4 bing2</transliteration>
 <transliteration system="Hanyu pinyin">mínguó sān shí wǔ nián bǐng</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t4" characters="4" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖妣湯?</transcription>
@@ -50851,9 +50831,6 @@
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ tāng</transliteration>
 </transliterations>
 <marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 </text>
 </texts>
 </sem>
@@ -55505,13 +55482,12 @@
 <transliteration system="cantonese">zung1/zung3 faa1/waa4/waa6 man4 gwok3 sei3/si3 sap6 nin4 san1 邜maang6 ceon1 jyut6 ng5 jat6 gat1 daan3</transliteration>
 <transliteration system="Hanyu pinyin">zhōng huá mín guó sì shí nián xīn wan mèng chūn yuè wǔ rì jí dàn</transliteration>
 </transliterations>
-<marker type="lunar month" meaning="1">孟春</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:30">
 <div id="1" language="English">The 40th year of the Republic of China, the 5th day of the Xinwei and Mengchun lunar months.</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">中華民國</marker>
 </text>
 <text id="t4" characters="10" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顕祖妣趙&gt;氏竿一位佳城</transcription>
@@ -55520,19 +55496,15 @@
 <transliteration system="cantonese">hin2 zou2 bei2 ziu6 si6/zi1 gon1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ zhào shì gān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">趙</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <normalization>
 <div id="1">顕祖妣趙&gt;氏竿一位佳城</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:31" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="female">顕</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -55735,21 +55707,16 @@
 <transliteration system="cantonese">hin2 zou2 haau2 ziu6 gung1 zi6 mei5 juk6 jat1 wai2/wai6 fan4 mou6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo zhào gōng zì měi yù yī wèi fén mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">趙</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div id="1">顕祖考趙公&gt;字美玉一位坟墓</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:34">
 <div id="1" language="English">An examination of Zhao Gong by the ancestor of Qiang&gt; The tomb of a person named Meiyu</div>
 </trans>
 </translations>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -57191,8 +57158,6 @@
 <transliteration system="cantonese">man4 gwok3 gwai3 zi6 nin4 zung6 dung1 zi1 jyut6 gat1 daan3</transliteration>
 <transliteration system="Hanyu pinyin">mínguó guǐ sì nián zhòng dōng zhī yuè jí dàn</transliteration>
 </transliterations>
-<marker type="lunar month" meaning="11">仲冬</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:25">
 <div id="1" language="English">The auspicious day of the midwinter month of the Guisi year of the Republic of China</div>
@@ -57223,13 +57188,6 @@
 <transliteration system="cantonese">hin2 zou2 haau2 ziu6 gung1 wai5 haau3 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo zhào gōng huì xiào zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">趙</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div id="1">顯祖考趙公&gt;諱孝之佳城</div>
 </normalization>
@@ -57239,6 +57197,8 @@
 </trans>
 </translations>
 <marker type="symbol" meaning="confucianism">孝</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -57399,13 +57359,9 @@
 <transliteration system="cantonese">hin2 bei2 coi3 mun4 coeng4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ cài mén xiáng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">蔡</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
 <marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="honorific">顕</marker>
-<marker type="virilocal">門</marker>
 </text>
 </texts>
 </sem>
@@ -57543,17 +57499,13 @@
 <transliteration system="cantonese">hin2 zou2 bei2 coi3 mun4 heoi2 si6/zi1 jyu4/jyu6 jan4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ cài mén xǔ shì rú rén</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">蔡</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:41" />
 </translations>
 <marker type="name" meaning="maiden name">許</marker>
-<marker type="virilocal">門</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -60630,20 +60582,15 @@
 <transliteration system="cantonese">doi6 zang6 gu3 haau2 wong4/wong6 gwan1 zi6 jiu6 ting4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">dài zèng gù kǎo wáng jūn zì yào tíng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div id="1">待贈故考王君&gt;字耀廷之佳城</div>
 </normalization>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:16" />
 </translations>
 <marker type="symbol" meaning="confucianism">君</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -61403,8 +61350,6 @@
 <transliteration system="cantonese">man4 gwok3 ng5 gau2 nin4 zung6 ceon1 co1 sei3/si3 jat6 zi3</transliteration>
 <transliteration system="Hanyu pinyin">mínguó wǔ jiǔ nián zhòng chūn chū sì rì zhì</transliteration>
 </transliterations>
-<marker type="lunar month" meaning="2">仲春</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:17">
 <div id="1" language="English">Settled on the 4th day of February in the 59th year of the Republic of China</div>
@@ -61419,20 +61364,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 ziu6 gung1 wai5 gong1 mun5 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo zhào gōng huì jiāng mǎn jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">趙</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div id="1">顕祖考趙公&gt;諱江滿佳城</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:19" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -61956,8 +61896,6 @@
 <transliteration system="cantonese">man4 gwok3 cat1 sei3/si3 nin4 jyut3/jyut6 cau2 gwai3 haa6 gat1 zi3</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī sì nián yǐ chǒu jì xià jí zhì</transliteration>
 </transliterations>
-<marker type="lunar month" meaning="6">季夏</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:42">
 <div id="1" language="English">In the 74th year of the Republic of China, Yi Chou Ji and Xia Jizhi</div>
@@ -61975,18 +61913,13 @@
 <transliteration system="cantonese">gu3 haau2 heoi2 gung1 ceng1/cing1 ci4 mou6</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo xǔ gōng qīng chí mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:43">
 <div id="1" language="English">Therefore, a study of Xu Gong’s tomb in Qingchi</div>
 </trans>
 </translations>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -62723,8 +62656,6 @@
 <transliteration system="cantonese">man4 gwok3 luk6 sap6 ji6 nin4 gwai3 cau2 maang6 haa6 gat1 daan3</transliteration>
 <transliteration system="Hanyu pinyin">mínguó liù shí èr nián guǐ chǒu mèng xià jí dàn</transliteration>
 </transliterations>
-<marker type="lunar month" meaning="4">孟夏</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:20">
 <div id="1" language="English">Guichou Meng Xia Jidan in the 62nd year of the Republic of China</div>
@@ -62755,20 +62686,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 heoi2 gung1 wai5 daam3/sek6 paan1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo xǔ gōng huì shí pān jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div id="1">顕祖考許公&gt;諱石攀佳城</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:22" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -63713,15 +63639,10 @@
 <transliteration system="cantonese">zou2 haau2 ziu6 gung1 wai5 ping4 jat1 wai2/wai6 gaai1</transliteration>
 <transliteration system="Hanyu pinyin">zǔ kǎo zhào gōng huì píng yī wèi jiā</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">趙</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div>祖考趙公&gt;諱枰一位佳?</div>
 </normalization>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -64587,20 +64508,16 @@
 <transliteration system="cantonese">hin2 zou2 bei2 wong4/wong6 mun4 joeng4 si6/zi1 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ wáng mén yáng shì zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:28">
 <div id="1" language="English">The beautiful city of the Yang family, the ancestor of the royal clan</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="maiden name">楊</marker>
-<marker type="virilocal">門</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -67212,8 +67129,6 @@
 <transliteration system="cantonese">man4 gwok3 luk6 sei3/si3 nin4 jyut3/jyut6 maau5 maang6 dung1 gat1 daan3</transliteration>
 <transliteration system="Hanyu pinyin">mínguó liù sì nián yǐ mǎo mèng dōng jí dàn</transliteration>
 </transliterations>
-<marker type="lunar month" meaning="10">孟冬</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:45">
 <div id="1" language="English">Yimao Mengdong Jidan in the 64th year of the Republic of China</div>
@@ -67244,21 +67159,17 @@
 <transliteration system="cantonese">hin2 zou2 bei2 can4/zan6 mun4 heoi2 si6/zi1 ngan2/ngan4 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ chén mén xǔ shì yín jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <normalization>
 <div id="1">顕祖妣陳門許&gt;氏銀佳城</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:46" />
 </translations>
-<marker type="virilocal">門</marker>
 <marker type="symbol" meaning="prosperity">銀</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -69826,14 +69737,10 @@
 <transliteration system="cantonese">hin2 zou2 bei2 heoi2 mun4 coi3 si6/zi1 jat1 wai2/wai6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ xǔ mén cài shì yī wèi</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="honorific">顕</marker>
 <marker type="name" meaning="maiden name">蔡</marker>
-<marker type="virilocal">門</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -69966,14 +69873,10 @@
 <transliteration system="cantonese">hin2 zou2 bei2 heoi2 mun4 coi3 si6/zi1 jat1</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ xǔ mén cài shì yī</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="honorific">顕</marker>
 <marker type="name" meaning="maiden name">蔡</marker>
-<marker type="virilocal">門</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -71493,12 +71396,12 @@
 <transliteration system="cantonese">man4 gwok3 ng5 sap6 jat1 nin4</transliteration>
 <transliteration system="Hanyu pinyin">mínguó wǔ shí yī nián</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:55:55">
 <div id="1" language="English">51 years of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" characters="2" role="generation" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">五代</transcription>
@@ -71526,11 +71429,8 @@
 <transliteration system="cantonese">hin2 zou2 haau2</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo</transliteration>
 </transliterations>
+<marker type="honorific" meaning="male">顕</marker>
 <marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="honorific">顕</marker>
 </text>
 </texts>
 </sem>
@@ -72125,17 +72025,12 @@
 <transliteration system="cantonese">hin2 haau2 ziu6 gung1 zi6 jan4 zi1 gaai1 mou6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo zhào gōng zì rén zhī jiā mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">趙</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div>顕考趙公&gt;字?仁之佳墓</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <marker type="symbol" meaning="compassion">仁</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -73400,16 +73295,12 @@
 <transliteration system="cantonese">hin2 zou2 haau2 lei5 gung1 wai5 muk6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo lǐ gōng huì mù zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">李</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 13:54:40" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">李</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -78256,7 +78147,7 @@
 <transliteration system="cantonese">man4 gwok3 luk6 baat3 nin4</transliteration>
 <transliteration system="Hanyu pinyin">mínguó liù bā nián</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t4" characters="6" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顕妣許門蔣&gt;氏?</transcription>
@@ -78265,16 +78156,12 @@
 <transliteration system="cantonese">hin2 bei2 heoi2 mun4 zoeng2 si6/zi1</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ xǔ mén jiǎng shì</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <normalization>
 <div>顕妣許門蔣&gt;氏?</div>
 </normalization>
-<marker type="honorific">顕</marker>
-<marker type="virilocal">門</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -88498,7 +88385,16 @@
 </island>
 </geography>
 <media>
-<img date="2020-07-07" flash="no" latitude="23.596791" longitude="119.670481" measurement="no" public="yes" time="10:55:53" url="/2020/07/07/DATE20200707TIME105553GEOBOOLyesLONGE119670481LATN23596791DIRnoALT13SIZE30704THUMB16618ORIGOliverDSC05236.jpg" zoom="no" />
+<img date="2020-07-07" flash="no" latitude="23.596791" longitude="119.670481" measurement="no" public="yes" time="10:55:53" url="/2020/07/07/DATE20200707TIME105553GEOBOOLyesLONGE119670481LATN23596791DIRnoALT13SIZE30704THUMB16618ORIGOliverDSC05236.jpg" zoom="no">
+<objects>
+<object engine="Google Vision API" name="Sculpture" score="0.5383122563362122">
+<vertex x="0.09326171875" y="0.0087890625" />
+<vertex x="0.392578125" y="0.0087890625" />
+<vertex x="0.392578125" y="0.328125" />
+<vertex x="0.09326171875" y="0.328125" />
+</object>
+</objects>
+</img>
 </media>
 <sem figurative="yes" writing="uninscribed" />
 <events>
@@ -92397,25 +92293,25 @@
 <latitude>23.566870</latitude>
 </geography>
 <media>
-<audio date="2025-06-17" device="ZOOM H1 essential" duration="2546" latitude="23.566870" longitude="119.579516" public="yes" time="16:10:32" url="soundscape2025/yann/MagongPenhuLivingMuseum/DATE20250617TIME161032DURATION00002546LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE9807872UPLOADDATE081125UPID2SITEMagongPenhuLivingMuseumORIG250617161032.wav">
+<audio date="2025-06-17" device="ZOOM H1 essential" duration="2546" latitude="23.566870" longitude="119.579516" public="yes" time="16:10:32" url="soundscape2025/20250617/MagongPenhuLivingMuseum/yann/DATE20250617TIME161032DURATION00002546LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE9807872UPLOADDATE081125UPID2SITEMagongPenhuLivingMuseumORIG250617161032.mp3">
 <duration hours="0" milliseconds="460" minutes="0" seconds="25" />
 </audio>
-<audio date="2025-06-17" device="ZOOM H1 essential" duration="1328" latitude="23.566870" longitude="119.579516" public="yes" time="16:09:38" url="soundscape2025/yann/MagongPenhuLivingMuseum/DATE20250617TIME160938DURATION00001328LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE5131264UPLOADDATE081125UPID1SITEMagongPenhuLivingMuseumORIG250617160938.wav">
+<audio date="2025-06-17" device="ZOOM H1 essential" duration="1328" latitude="23.566870" longitude="119.579516" public="yes" time="16:09:38" url="soundscape2025/20250617/MagongPenhuLivingMuseum/yann/DATE20250617TIME160938DURATION00001328LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE5131264UPLOADDATE081125UPID1SITEMagongPenhuLivingMuseumORIG250617160938.mp3">
 <duration hours="0" milliseconds="280" minutes="0" seconds="13" />
 </audio>
-<audio date="2025-06-17" device="ZOOM H1 essential" duration="2747" latitude="23.566870" longitude="119.579516" public="yes" time="15:58:59" url="soundscape2025/yann/MagongPenhuLivingMuseum/DATE20250617TIME155859DURATION00002747LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE10581504UPLOADDATE081125UPID7SITEMagongPenhuLivingMuseumORIG250617155859.wav">
+<audio date="2025-06-17" device="ZOOM H1 essential" duration="2747" latitude="23.566870" longitude="119.579516" public="yes" time="15:58:59" url="soundscape2025/20250617/MagongPenhuLivingMuseum/yann/DATE20250617TIME155859DURATION00002747LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE10581504UPLOADDATE081125UPID7SITEMagongPenhuLivingMuseumORIG250617155859.mp3">
 <duration hours="0" milliseconds="470" minutes="0" seconds="27" />
 </audio>
-<audio date="2025-06-17" device="ZOOM H1 essential" duration="120580" latitude="23.566870" longitude="119.579516" public="yes" time="15:46:47" url="soundscape2025/yann/MagongPenhuLivingMuseum/DATE20250617TIME154647DURATION00120580LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE278739456UPLOADDATE081125UPID3SITEMagongPenhuLivingMuseumORIG250617154647.wav">
+<audio date="2025-06-17" device="ZOOM H1 essential" duration="120580" latitude="23.566870" longitude="119.579516" public="yes" time="15:46:47" url="soundscape2025/20250617/MagongPenhuLivingMuseum/yann/DATE20250617TIME154647DURATION00120580LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE278739456UPLOADDATE081125UPID3SITEMagongPenhuLivingMuseumORIG250617154647.mp3">
 <duration hours="0" milliseconds="800" minutes="12" seconds="05" />
 </audio>
-<audio date="2025-06-17" device="ZOOM H1 essential" duration="12927" latitude="23.566870" longitude="119.579516" public="yes" time="15:45:13" url="soundscape2025/yann/MagongPenhuLivingMuseum/DATE20250617TIME154513DURATION00012927LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE34312192UPLOADDATE081125UPID6SITEMagongPenhuLivingMuseumORIG250617154513.wav">
+<audio date="2025-06-17" device="ZOOM H1 essential" duration="12927" latitude="23.566870" longitude="119.579516" public="yes" time="15:45:13" url="soundscape2025/20250617/MagongPenhuLivingMuseum/yann/DATE20250617TIME154513DURATION00012927LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE34312192UPLOADDATE081125UPID6SITEMagongPenhuLivingMuseumORIG250617154513.mp3">
 <duration hours="0" milliseconds="270" minutes="1" seconds="29" />
 </audio>
-<audio date="2025-06-17" device="ZOOM H1 essential" duration="4863" latitude="23.566870" longitude="119.579516" public="yes" time="15:23:00" url="soundscape2025/yann/MagongPenhuLivingMuseum/DATE20250617TIME152300DURATION00004863LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE18705920UPLOADDATE081125UPID4SITEMagongPenhuLivingMuseumORIG250617152300.wav">
+<audio date="2025-06-17" device="ZOOM H1 essential" duration="4863" latitude="23.566870" longitude="119.579516" public="yes" time="15:23:00" url="soundscape2025/20250617/MagongPenhuLivingMuseum/yann/DATE20250617TIME152300DURATION00004863LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE18705920UPLOADDATE081125UPID4SITEMagongPenhuLivingMuseumORIG250617152300.mp3">
 <duration hours="0" milliseconds="630" minutes="0" seconds="48" />
 </audio>
-<audio date="2025-06-17" device="ZOOM H1 essential" duration="4193" latitude="23.566870" longitude="119.579516" public="yes" time="15:22:16" url="soundscape2025/yann/MagongPenhuLivingMuseum/DATE20250617TIME152216DURATION00004193LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE16134656UPLOADDATE081125UPID5SITEMagongPenhuLivingMuseumORIG250617152216.wav">
+<audio date="2025-06-17" device="ZOOM H1 essential" duration="4193" latitude="23.566870" longitude="119.579516" public="yes" time="15:22:16" url="soundscape2025/20250617/MagongPenhuLivingMuseum/yann/DATE20250617TIME152216DURATION00004193LONGE119579516LATN23566870HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE16134656UPLOADDATE081125UPID5SITEMagongPenhuLivingMuseumORIG250617152216.mp3">
 <duration hours="0" milliseconds="930" minutes="0" seconds="41" />
 </audio>
 </media>
@@ -93993,7 +93889,6 @@
 </ent>
 </ent>
 <ent id="sMagongHarbourIceFactory">
-<audio date="2025-06-05" duration="60486" latitude="23.565962" longitude="119.571166" public="yes" time="15:54:02" url="soundscape2025/yann/MagongHarbourIceFactory/DATE20250605TIME155402DURATION00060486LONGE119571166LATN23565962HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE140138496UPLOADDATE081325UPID3SITEMagongHarbourIceFactoryORIG250605155402.wav" />
 <names>
 <name script="Chinese-traditional">馬公港口</name>
 <name language="English">Magong Harbor Ice Factory</name>
@@ -94007,9 +93902,10 @@
 <latitude>23.565962</latitude>
 </geography>
 <media>
-<audio date="2025-06-15" device="ZOOM H1 essential" duration="322151" latitude="23.565962" longitude="119.571166" public="yes" time="14:13:18" url="soundscape2025/orpheus/MagongHarbourIceFactory/DATE20250615TIME141318DURATION00322151LONGE119571166LATN23565962HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE745574400UPLOADDATE062125UPID1SITEMagongHarbourIceFactoryORIG250615141318.wav">
+<audio date="2025-06-15" device="ZOOM H1 essential" duration="322151" latitude="23.565962" longitude="119.571166" public="yes" time="14:13:18" url="soundscape2025/20250615/MagongHarbourIceFactory/orpheus/DATE20250615TIME141318DURATION00322151LONGE119571166LATN23565962HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE745574400UPLOADDATE062125UPID1SITEMagongHarbourIceFactoryORIG250615141318.mp3">
 <duration hours="0" milliseconds="510" minutes="32" seconds="21" />
 </audio>
+<audio date="2025-06-05" duration="60486" latitude="23.565962" longitude="119.571166" public="yes" time="15:54:02" url="soundscape2025/20250605/MagongHarbourIceFactory/yann/DATE20250605TIME155402DURATION00060486LONGE119571166LATN23565962HISTORYApcmF48000W32MstereoTZOOMH1essentialVERSION110SIZE140138496UPLOADDATE081325UPID3SITEMagongHarbourIceFactoryORIG250605155402.mp3" />
 </media>
 <ent id="o1500384">
 <types>
@@ -96085,7 +95981,7 @@
 <type language="English">spiritual protection</type>
 <type language="English">recalled generals</type>
 </types>
-<geography></geography>
+<geography />
 <ent id="o1506516">
 <types>
 <type language="English">object</type>
@@ -107061,6 +106957,18 @@
 <img date="2025-07-30" flash="no" latitude="23.375158" longitude="119.509090" measurement="no" public="yes" time="16:04:18" url="/2025/07/30/DATE20250730TIME160418GEOBOOLyesLONGE119509090LATN23375158DIRnoALT29SIZE30704THUMB7495UPLOAD073125UPID115SITEyamalbisORIGDSC03006.jpg" zoom="no" />
 </media>
 </ent>
+<media>
+<audio public="yes" url="soundscape2025/20250731/WanganBiqigangKiosk/wildlife/DATE20250731TIME234945DURATION00295800LONGELATNHISTORYnoSIZE345217270UPLOADDATE070426UPID733SITEWanganBiqigangKioskORIGMEIL0120250731234945.mp3" />
+<audio public="yes" url="soundscape2025/20250731/WanganBiqigangKiosk/wildlife/DATE20250731TIME234633DURATION00000940LONGELATNHISTORYnoSIZE1805558UPLOADDATE070426UPID986SITEWanganBiqigangKioskORIGMEIL0120250731234633.mp3" />
+<audio public="yes" url="soundscape2025/20250730/WanganBiqigangKiosk/wildlife/DATE20250730TIME210154DURATION00295800LONGELATNHISTORYnoSIZE345217270UPLOADDATE070426UPID743SITEWanganBiqigangKioskORIGMEIL0120250730210154.mp3" />
+<audio public="yes" url="soundscape2025/20250730/WanganBiqigangKiosk/wildlife/DATE20250730TIME201856DURATION00295800LONGELATNHISTORYnoSIZE345217270UPLOADDATE070426UPID741SITEWanganBiqigangKioskORIGMEIL0120250730201856.mp3" />
+<audio public="yes" url="soundscape2025/20250730/WanganBiqigangKiosk/wildlife/DATE20250730TIME194437DURATION00295800LONGELATNHISTORYnoSIZE345217270UPLOADDATE070426UPID739SITEWanganBiqigangKioskORIGMEIL0120250730194437.mp3" />
+<audio public="yes" url="soundscape2025/20250730/WanganBiqigangKiosk/wildlife/DATE20250730TIME191437DURATION00295800LONGELATNHISTORYnoSIZE345217270UPLOADDATE070426UPID738SITEWanganBiqigangKioskORIGMEIL0120250730191437.mp3" />
+<audio public="yes" url="soundscape2025/20250730/WanganBiqigangKiosk/wildlife/DATE20250730TIME184437DURATION00295800LONGELATNHISTORYnoSIZE345217270UPLOADDATE070426UPID737SITEWanganBiqigangKioskORIGMEIL0120250730184437.mp3" />
+<audio public="yes" url="soundscape2025/20250730/WanganBiqigangKiosk/wildlife/DATE20250730TIME181437DURATION00295800LONGELATNHISTORYnoSIZE345217270UPLOADDATE070426UPID736SITEWanganBiqigangKioskORIGMEIL0120250730181437.mp3" />
+<audio public="yes" url="soundscape2025/20250730/WanganBiqigangKiosk/wildlife/DATE20250730TIME174437DURATION00295800LONGELATNHISTORYnoSIZE345217270UPLOADDATE070426UPID735SITEWanganBiqigangKioskORIGMEIL0120250730174437.mp3" />
+<audio public="yes" url="soundscape2025/20250730/WanganBiqigangKiosk/wildlife/DATE20250730TIME171437DURATION00295800LONGELATNHISTORYnoSIZE345217270UPLOADDATE070426UPID734SITEWanganBiqigangKioskORIGMEIL0120250730171437.mp3" />
+</media>
 </ent>
 <ent id="s114423">
 <names>
@@ -107662,6 +107570,51 @@
 <img date="2025-07-31" flash="no" measurement="no" public="yes" time="11:33:21" url="/2025/07/31/DATE20250731TIME113321GEOBOOLnoLONGE0000000LATN0000000DIRnoALTnoSIZE30704THUMB7909UPLOAD080425UPID615SITEyamalbisORIGDSC03139.jpg" zoom="no" />
 </media>
 </ent>
+<media>
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250801TIME053531DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1143SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250801053531.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250801TIME043536DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1142SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250801043536.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250801TIME033541DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1141SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250801033541.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250801TIME023546DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1140SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250801023546.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250801TIME013551DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1139SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250801013551.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250801TIME003556DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1138SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250801003556.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME233601DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1137SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731233601.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME223606DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1136SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731223606.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME213611DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1135SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731213611.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME203616DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1134SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731203616.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME193621DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1133SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731193621.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME183626DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1132SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731183626.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME173631DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1131SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731173631.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME163636DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1130SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731163636.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME153641DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1129SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731153641.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME143646DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1128SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731143646.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME133651DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1127SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731133651.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME123656DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1126SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731123656.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME095801DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1123SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731095801.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME085806DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1122SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731085806.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME075811DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1121SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731075811.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME065816DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1120SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731065816.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME055821DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1119SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731055821.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME045826DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1118SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731045826.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME035831DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1117SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731035831.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME025836DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1116SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731025836.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME015841DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1115SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731015841.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME005846DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1114SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731005846.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME235851DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1113SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730235851.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME225856DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1112SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730225856.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME215901DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1111SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730215901.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME205906DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1110SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730205906.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME195911DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1109SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730195911.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME185916DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1108SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730185916.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME175921DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1107SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730175921.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME165926DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1106SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730165926.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME155931DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1105SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730155931.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME145936DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1104SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730145936.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME135941DURATION00595800LONGELATNHISTORYnoSIZE634687740UPLOADDATE070426UPID1103SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730135941.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250730TIME125947DURATION00595700LONGELATNHISTORYnoSIZE634511612UPLOADDATE070426UPID1102SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250730125947.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME113703DURATION00595600LONGELATNHISTORYnoSIZE634335484UPLOADDATE070426UPID1125SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731113703.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250731TIME105756DURATION00363076LONGELATNHISTORYnoSIZE386451708UPLOADDATE070426UPID1124SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250731105756.mp3" />
+<audio public="yes" url="soundscape2025/00000101/XianVillageYouquanzhaiHostelFront/wildlife2/DATE20250801TIME063526DURATION00194567LONGELATNHISTORYnoSIZE209153276UPLOADDATE070426UPID1144SITEXianVillageYouquanzhaiHostelFrontORIGMEIL0320250801063526.mp3" />
+</media>
 </ent>
 <ent id="s126639">
 <names>

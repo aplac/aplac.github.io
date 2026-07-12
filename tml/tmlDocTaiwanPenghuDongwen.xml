@@ -15,13 +15,6 @@
 <orientations>
 <orientation system="geographic north" />
 </orientations>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 <latitude>23.561136</latitude>
 <longitude>119.584726</longitude>
 </geography>
@@ -53,13 +46,6 @@
 <orientations>
 <orientation system="geographic north" />
 </orientations>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <names>
 <name script="Latin">Dongwen Cai Family Jiyang Tang</name>
@@ -71,18 +57,43 @@
 <type script="Chinese-traditional">宗祠</type>
 <type script="Chinese-traditional">蔡宗祠</type>
 </types>
-<ent id="o1096953">
+<ent id="o1096950">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
 <geography geotop="s128706" siteid="s128706">
-<latitude src="percol-up">23.56103</latitude>
-<longitude src="percol-up">119.583845</longitude>
+<latitude src="percol-up">23.561057</latitude>
+<longitude src="percol-up">119.583822</longitude>
 </geography>
 <media>
-<img date="2021-06-21" latitude="23.561030" longitude="119.583845" time="13:30:20" url="/2021/06/21/DATE20210621TIME133020GEOBOOLyesLONGE119583845LATN23561030DIR117ALT0SIZE11472THUMB3637ORIGOliverDSCN4599.jpg">
+<img date="2021-06-21" latitude="23.561057" longitude="119.583822" time="13:30:07" url="/2021/06/21/DATE20210621TIME133007GEOBOOLyesLONGE119583822LATN23561057DIR127ALT0SIZE11472THUMB4753ORIGOliverDSCN4596.jpg" />
+</media>
+</ent>
+<ent id="o1096949">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s128706" siteid="s128706">
+<latitude src="percol-up">23.561057</latitude>
+<longitude src="percol-up">119.583817</longitude>
+</geography>
+<media>
+<img date="2021-06-21" latitude="23.561057" longitude="119.583817" time="13:30:02" url="/2021/06/21/DATE20210621TIME133002GEOBOOLyesLONGE119583817LATN23561057DIR131ALT0SIZE11472THUMB5103ORIGOliverDSCN4595.jpg" />
+</media>
+</ent>
+<ent id="o1096951">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s128706" siteid="s128706">
+<latitude src="percol-up">23.561057</latitude>
+<longitude src="percol-up">119.583833</longitude>
+</geography>
+<media>
+<img date="2021-06-21" latitude="23.561057" longitude="119.583833" time="13:30:10" url="/2021/06/21/DATE20210621TIME133010GEOBOOLyesLONGE119583833LATN23561057DIR120ALT0SIZE11472THUMB4790ORIGOliverDSCN4597.jpg">
 <labels>
-<label engine="Google Vision API" score="0.60" topical="0.0021">Sign</label>
+<label engine="Google Vision API" score="0.98" topical="0.0043">Wall</label>
+<label engine="Google Vision API" score="0.69" topical="0.0012">Building material</label>
 </labels>
 <objects>
 <object engine="Google Vision API" />
@@ -117,31 +128,18 @@
 </texts>
 </sem>
 </ent>
-<ent id="o1096950">
+<ent id="o1096953">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
 <geography geotop="s128706" siteid="s128706">
-<latitude src="percol-up">23.561057</latitude>
-<longitude src="percol-up">119.583822</longitude>
+<latitude src="percol-up">23.56103</latitude>
+<longitude src="percol-up">119.583845</longitude>
 </geography>
 <media>
-<img date="2021-06-21" latitude="23.561057" longitude="119.583822" time="13:30:07" url="/2021/06/21/DATE20210621TIME133007GEOBOOLyesLONGE119583822LATN23561057DIR127ALT0SIZE11472THUMB4753ORIGOliverDSCN4596.jpg" />
-</media>
-</ent>
-<ent id="o1096951">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s128706" siteid="s128706">
-<latitude src="percol-up">23.561057</latitude>
-<longitude src="percol-up">119.583833</longitude>
-</geography>
-<media>
-<img date="2021-06-21" latitude="23.561057" longitude="119.583833" time="13:30:10" url="/2021/06/21/DATE20210621TIME133010GEOBOOLyesLONGE119583833LATN23561057DIR120ALT0SIZE11472THUMB4790ORIGOliverDSCN4597.jpg">
+<img date="2021-06-21" latitude="23.561030" longitude="119.583845" time="13:30:20" url="/2021/06/21/DATE20210621TIME133020GEOBOOLyesLONGE119583845LATN23561030DIR117ALT0SIZE11472THUMB3637ORIGOliverDSCN4599.jpg">
 <labels>
-<label engine="Google Vision API" score="0.98" topical="0.0043">Wall</label>
-<label engine="Google Vision API" score="0.69" topical="0.0012">Building material</label>
+<label engine="Google Vision API" score="0.60" topical="0.0021">Sign</label>
 </labels>
 <objects>
 <object engine="Google Vision API" />
@@ -159,18 +157,6 @@
 </geography>
 <media>
 <img date="2021-06-21" latitude="23.560955" longitude="119.583763" time="13:29:49" url="/2021/06/21/DATE20210621TIME132949GEOBOOLyesLONGE119583763LATN23560955DIR92ALT0SIZE11472THUMB5180ORIGOliverDSCN4594.jpg" />
-</media>
-</ent>
-<ent id="o1096949">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s128706" siteid="s128706">
-<latitude src="percol-up">23.561057</latitude>
-<longitude src="percol-up">119.583817</longitude>
-</geography>
-<media>
-<img date="2021-06-21" latitude="23.561057" longitude="119.583817" time="13:30:02" url="/2021/06/21/DATE20210621TIME133002GEOBOOLyesLONGE119583817LATN23561057DIR131ALT0SIZE11472THUMB5103ORIGOliverDSCN4595.jpg" />
 </media>
 </ent>
 </ent>
@@ -193,13 +179,6 @@
 <geography geotop="s128833" siteid="s128833">
 <longitude src="percol-up">119.586496</longitude>
 <latitude src="percol-up">23.5580875</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:45:58" timeto="15:58:48">
@@ -223,230 +202,6 @@
 <stat type="tomb" cross="0" direct="7" indirect="0">7</stat>
 <stat type="tombstone" cross="0" direct="0" indirect="6">6</stat>
 </stats>
-<ent id="s119707">
-<types>
-<type language="English">tomb</type>
-</types>
-<communities>
-<community>
-<communityname language="English" script="Latin">Dongwen</communityname>
-<communityname script="Chinese-traditional">東文</communityname>
-</community>
-</communities>
-<geography geotop="s114403" siteid="s114403">
-<longitude src="percol-up">119.586533</longitude>
-<latitude src="percol-up">23.558498</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
-</geography>
-<events>
-<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:45:58" timeto="15:47:13">
-<agents>
-<agent refid="con1" />
-</agents>
-</event>
-</events>
-<names>
-<name language="English" script="Latin" />
-</names>
-<stats>
-<stat type="tombstone" cross="0" direct="1" indirect="0">1</stat>
-</stats>
-<ent id="o707302">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558373</latitude>
-<longitude src="percol-up">119.586718</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558373" longitude="119.586718" time="15:47:07" url="/2021/04/08/DATE20210408TIME154707GEOBOOLyesLONGE119586718LATN23558373DIR119ALT0SIZE11472THUMB4191ORIGOliverDSCN0246.jpg" />
-</media>
-</ent>
-<ent id="o707301">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558375</latitude>
-<longitude src="percol-up">119.586713</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558375" longitude="119.586713" time="15:47:04" url="/2021/04/08/DATE20210408TIME154704GEOBOOLyesLONGE119586713LATN23558375DIR129ALT0SIZE11472THUMB4042ORIGOliverDSCN0245.jpg" />
-</media>
-</ent>
-<ent id="o1337072">
-<types>
-<type language="English">inner space</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558552</latitude>
-<longitude src="percol-up">119.586413</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558552" longitude="119.586413" time="15:45:58" url="/2021/04/08/DATE20210408TIME154558GEOBOOLyesLONGE119586413LATN23558552DIR136ALT0SIZE11472THUMB4059ORIGOliverDSCN0236.jpg" />
-</media>
-<sem writing="uninscribed" />
-</ent>
-<ent id="o707295">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558517</latitude>
-<longitude src="percol-up">119.586542</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558517" longitude="119.586542" time="15:46:10" url="/2021/04/08/DATE20210408TIME154610GEOBOOLyesLONGE119586542LATN23558517DIR105ALT0SIZE11472THUMB4527ORIGOliverDSCN0239.jpg" />
-</media>
-</ent>
-<ent id="o707298">
-<types>
-<type language="English">tombstone</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558458</latitude>
-<longitude src="percol-up">119.586493</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558483" longitude="119.586458" time="15:46:25" url="/2021/04/08/DATE20210408TIME154625GEOBOOLyesLONGE119586458LATN23558483DIR134ALT0SIZE11472THUMB4356ORIGOliverDSCN0242.jpg" />
-<img date="2021-04-08" latitude="23.558432" longitude="119.586635" time="15:46:56" url="/2021/04/08/DATE20210408TIME154656GEOBOOLyesLONGE119586635LATN23558432DIR129ALT0SIZE11472THUMB5497ORIGOliverDSCN0244.jpg" />
-<img date="2021-04-08" latitude="23.558458" longitude="119.586493" time="15:46:34" url="/2021/04/08/DATE20210408TIME154634GEOBOOLyesLONGE119586493LATN23558458DIR139ALT0SIZE11472THUMB4503ORIGOliverDSCN0243.jpg" />
-</media>
-<events>
-<event type="production">
-<agents>
-<agent role="stone carver" />
-</agents>
-<material language="English">stone</material>
-</event>
-</events>
-<sem writing="inscribed">
-<arts>
-<art script="Latin">epigraphy</art>
-</arts>
-<genres>
-<genre script="Latin">tombstone inscription</genre>
-</genres>
-</sem>
-<ref>
-<event type="death">
-<agents>
-<agent refid="p1" role="deceased" />
-</agents>
-</event>
-</ref>
-<culturaldomain>
-<practices>
-<practice REF="RememberDead" />
-</practices>
-</culturaldomain>
-</ent>
-<ent id="o707294">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558512</latitude>
-<longitude src="percol-up">119.586533</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558512" longitude="119.586533" time="15:46:07" url="/2021/04/08/DATE20210408TIME154607GEOBOOLyesLONGE119586533LATN23558512DIR134ALT0SIZE11472THUMB4339ORIGOliverDSCN0238.jpg" />
-</media>
-</ent>
-<ent id="o707296">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558502</latitude>
-<longitude src="percol-up">119.586463</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558502" longitude="119.586463" time="15:46:17" url="/2021/04/08/DATE20210408TIME154617GEOBOOLyesLONGE119586463LATN23558502DIR191ALT0SIZE11472THUMB4004ORIGOliverDSCN0240.jpg" />
-</media>
-</ent>
-<ent id="o707304">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558417</latitude>
-<longitude src="percol-up">119.58663</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558417" longitude="119.586630" time="15:47:13" url="/2021/04/08/DATE20210408TIME154713GEOBOOLyesLONGE119586630LATN23558417DIR272ALT0SIZE11472THUMB3983ORIGOliverDSCN0248.jpg" />
-</media>
-</ent>
-<ent id="o1333449">
-<types>
-<type language="English">structure</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558552</latitude>
-<longitude src="percol-up">119.586413</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558552" longitude="119.586413" time="15:45:58" url="/2021/04/08/DATE20210408TIME154558GEOBOOLyesLONGE119586413LATN23558552DIR136ALT0SIZE11472THUMB4059ORIGOliverDSCN0236.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-<ent id="o707292">
-<types>
-<type language="English">structure front side</type>
-</types>
-<geography geotop="o1333449" siteid="s119707">
-<latitude src="percol-up">23.558552</latitude>
-<longitude src="percol-up">119.586413</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558552" longitude="119.586413" time="15:45:58" url="/2021/04/08/DATE20210408TIME154558GEOBOOLyesLONGE119586413LATN23558552DIR136ALT0SIZE11472THUMB4059ORIGOliverDSCN0236.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-</ent>
-</ent>
-<ent id="o707297">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558498</latitude>
-<longitude src="percol-up">119.586437</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558498" longitude="119.586437" time="15:46:20" url="/2021/04/08/DATE20210408TIME154620GEOBOOLyesLONGE119586437LATN23558498DIR127ALT0SIZE11472THUMB4058ORIGOliverDSCN0241.jpg" />
-</media>
-</ent>
-<ent id="o707303">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558375</latitude>
-<longitude src="percol-up">119.586742</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558375" longitude="119.586742" time="15:47:09" url="/2021/04/08/DATE20210408TIME154709GEOBOOLyesLONGE119586742LATN23558375DIR134ALT0SIZE11472THUMB4415ORIGOliverDSCN0247.jpg" />
-</media>
-</ent>
-<ent id="o707293">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119707" siteid="s119707">
-<latitude src="percol-up">23.558513</latitude>
-<longitude src="percol-up">119.586455</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558513" longitude="119.586455" time="15:46:04" url="/2021/04/08/DATE20210408TIME154604GEOBOOLyesLONGE119586455LATN23558513DIR135ALT0SIZE11472THUMB4603ORIGOliverDSCN0237.jpg" />
-</media>
-</ent>
-</ent>
 <ent id="s131666">
 <types>
 <type language="English">tomb</type>
@@ -460,13 +215,6 @@
 <geography geotop="s114403" siteid="s114403">
 <longitude src="percol-up">119.586496</longitude>
 <latitude src="percol-up">23.557933</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2022-12-04" lunar="2022-11-11" timefrom="13:03:49" timeto="13:03:49">
@@ -492,320 +240,6 @@
 <sem writing="uninscribed" />
 </ent>
 </ent>
-<ent id="s119710">
-<types>
-<type language="English">tomb</type>
-</types>
-<communities>
-<community>
-<communityname language="English" script="Latin">Dongwen</communityname>
-<communityname script="Chinese-traditional">東文</communityname>
-</community>
-</communities>
-<geography geotop="s114403" siteid="s114403">
-<orientations>
-<orientation system="geographic north">240</orientation>
-</orientations>
-<longitude src="percol-up">119.58656099999999</longitude>
-<latitude src="percol-up">23.557935</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
-</geography>
-<events>
-<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:56:35" timeto="15:58:48">
-<agents>
-<agent refid="con1" />
-</agents>
-</event>
-</events>
-<names>
-<name language="English" script="Latin" />
-</names>
-<stats>
-<stat type="tombstone" cross="0" direct="1" indirect="0">1</stat>
-</stats>
-<ent id="o707355">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.558003</latitude>
-<longitude src="percol-up">119.586657</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558003" longitude="119.586657" time="15:58:12" url="/2021/04/08/DATE20210408TIME155812GEOBOOLyesLONGE119586657LATN23558003DIR251ALT0SIZE11472THUMB4479ORIGOliverDSCN0299.jpg" />
-</media>
-</ent>
-<ent id="o707358">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557918</latitude>
-<longitude src="percol-up">119.586578</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557918" longitude="119.586578" time="15:58:45" url="/2021/04/08/DATE20210408TIME155845GEOBOOLyesLONGE119586578LATN23557918DIR294ALT0SIZE11472THUMB3281ORIGOliverDSCN0302.jpg" />
-</media>
-</ent>
-<ent id="o707354">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.558027</latitude>
-<longitude src="percol-up">119.586643</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558027" longitude="119.586643" time="15:58:09" url="/2021/04/08/DATE20210408TIME155809GEOBOOLyesLONGE119586643LATN23558027DIR243ALT0SIZE11472THUMB3913ORIGOliverDSCN0298.jpg" />
-</media>
-</ent>
-<ent id="o1337442">
-<types>
-<type language="English">inner space</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557913</latitude>
-<longitude src="percol-up">119.586467</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557913" longitude="119.586467" time="15:57:06" url="/2021/04/08/DATE20210408TIME155706GEOBOOLyesLONGE119586467LATN23557913DIR60ALT0SIZE11472THUMB3896ORIGOliverDSCN0285.jpg" />
-</media>
-<sem writing="uninscribed" />
-</ent>
-<ent id="o707359">
-<types>
-<type language="English">gable</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557922</latitude>
-<longitude src="percol-up">119.586575</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557922" longitude="119.586575" time="15:58:48" url="/2021/04/08/DATE20210408TIME155848GEOBOOLyesLONGE119586575LATN23557922DIR290ALT0SIZE11472THUMB3124ORIGOliverDSCN0303.jpg" />
-</media>
-</ent>
-<ent id="o707356">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557978</latitude>
-<longitude src="percol-up">119.586618</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557978" longitude="119.586618" time="15:58:15" url="/2021/04/08/DATE20210408TIME155815GEOBOOLyesLONGE119586618LATN23557978DIR144ALT0SIZE11472THUMB3732ORIGOliverDSCN0300.jpg" />
-</media>
-</ent>
-<ent id="o707357">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557938</latitude>
-<longitude src="percol-up">119.58657</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557938" longitude="119.586570" time="15:58:34" url="/2021/04/08/DATE20210408TIME155834GEOBOOLyesLONGE119586570LATN23557938DIR185ALT0SIZE11472THUMB4750ORIGOliverDSCN0301.jpg" />
-</media>
-</ent>
-<ent id="o707342">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557913</latitude>
-<longitude src="percol-up">119.586475</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557913" longitude="119.586475" time="15:57:12" url="/2021/04/08/DATE20210408TIME155712GEOBOOLyesLONGE119586475LATN23557913DIR53ALT0SIZE11472THUMB3656ORIGOliverDSCN0286.jpg" />
-</media>
-</ent>
-<ent id="o707353">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.558022</latitude>
-<longitude src="percol-up">119.586642</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558022" longitude="119.586642" time="15:58:06" url="/2021/04/08/DATE20210408TIME155806GEOBOOLyesLONGE119586642LATN23558022DIR52ALT0SIZE11472THUMB5195ORIGOliverDSCN0297.jpg" />
-</media>
-</ent>
-<ent id="o707343">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557915</latitude>
-<longitude src="percol-up">119.586473</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557915" longitude="119.586473" time="15:57:15" url="/2021/04/08/DATE20210408TIME155715GEOBOOLyesLONGE119586473LATN23557915DIR47ALT0SIZE11472THUMB4087ORIGOliverDSCN0287.jpg" />
-</media>
-</ent>
-<ent id="o707340">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.558015</latitude>
-<longitude src="percol-up">119.586357</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558015" longitude="119.586357" time="15:56:35" url="/2021/04/08/DATE20210408TIME155635GEOBOOLyesLONGE119586357LATN23558015DIR136ALT0SIZE11472THUMB3661ORIGOliverDSCN0284.jpg" />
-</media>
-</ent>
-<ent id="o707352">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557992</latitude>
-<longitude src="percol-up">119.586598</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557992" longitude="119.586598" time="15:58:04" url="/2021/04/08/DATE20210408TIME155804GEOBOOLyesLONGE119586598LATN23557992DIR359ALT0SIZE11472THUMB5529ORIGOliverDSCN0296.jpg" />
-</media>
-</ent>
-<ent id="o707347">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557932</latitude>
-<longitude src="percol-up">119.586507</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557932" longitude="119.586507" time="15:57:33" url="/2021/04/08/DATE20210408TIME155733GEOBOOLyesLONGE119586507LATN23557932DIR52ALT0SIZE11472THUMB5190ORIGOliverDSCN0291.jpg" />
-</media>
-</ent>
-<ent id="o707346">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557928</latitude>
-<longitude src="percol-up">119.5865</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557928" longitude="119.586500" time="15:57:30" url="/2021/04/08/DATE20210408TIME155730GEOBOOLyesLONGE119586500LATN23557928DIR45ALT0SIZE11472THUMB4141ORIGOliverDSCN0290.jpg" />
-</media>
-</ent>
-<ent id="o707348">
-<types>
-<type language="English">tombstone</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557943</latitude>
-<longitude src="percol-up">119.586552</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557933" longitude="119.586515" time="15:57:37" url="/2021/04/08/DATE20210408TIME155737GEOBOOLyesLONGE119586515LATN23557933DIR63ALT0SIZE11472THUMB5998ORIGOliverDSCN0292.jpg" />
-<img date="2021-04-08" latitude="23.557943" longitude="119.586552" time="15:57:46" url="/2021/04/08/DATE20210408TIME155746GEOBOOLyesLONGE119586552LATN23557943DIR42ALT0SIZE11472THUMB4774ORIGOliverDSCN0293.jpg" />
-<img date="2021-04-08" latitude="23.557958" longitude="119.586560" time="15:57:55" url="/2021/04/08/DATE20210408TIME155755GEOBOOLyesLONGE119586560LATN23557958DIR46ALT0SIZE11472THUMB5209ORIGOliverDSCN0294.jpg" />
-</media>
-<events>
-<event type="production">
-<agents>
-<agent role="stone carver" />
-</agents>
-<material language="English">stone</material>
-</event>
-</events>
-<sem writing="inscribed">
-<arts>
-<art script="Latin">epigraphy</art>
-</arts>
-<genres>
-<genre script="Latin">tombstone inscription</genre>
-</genres>
-</sem>
-<ref>
-<event type="death">
-<agents>
-<agent refid="p1" role="deceased" />
-</agents>
-</event>
-</ref>
-<culturaldomain>
-<practices>
-<practice REF="RememberDead" />
-</practices>
-</culturaldomain>
-</ent>
-<ent id="o707344">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557923</latitude>
-<longitude src="percol-up">119.586482</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557923" longitude="119.586482" time="15:57:19" url="/2021/04/08/DATE20210408TIME155719GEOBOOLyesLONGE119586482LATN23557923DIR61ALT0SIZE11472THUMB4123ORIGOliverDSCN0288.jpg" />
-</media>
-</ent>
-<ent id="o707351">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.557967</latitude>
-<longitude src="percol-up">119.586575</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557967" longitude="119.586575" time="15:58:01" url="/2021/04/08/DATE20210408TIME155801GEOBOOLyesLONGE119586575LATN23557967DIR81ALT0SIZE11472THUMB5261ORIGOliverDSCN0295.jpg" />
-</media>
-</ent>
-<ent id="o1333825">
-<types>
-<type language="English">structure</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<orientations>
-<orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">240</orientation>
-</orientations>
-<latitude src="percol-up">23.557913</latitude>
-<longitude src="percol-up">119.586467</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557913" longitude="119.586467" time="15:57:06" url="/2021/04/08/DATE20210408TIME155706GEOBOOLyesLONGE119586467LATN23557913DIR60ALT0SIZE11472THUMB3896ORIGOliverDSCN0285.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-<ent id="o707341">
-<types>
-<type language="English">structure front side</type>
-</types>
-<geography geotop="o1333825" siteid="s119710">
-<latitude src="percol-up">23.557913</latitude>
-<longitude src="percol-up">119.586467</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557913" longitude="119.586467" time="15:57:06" url="/2021/04/08/DATE20210408TIME155706GEOBOOLyesLONGE119586467LATN23557913DIR60ALT0SIZE11472THUMB3896ORIGOliverDSCN0285.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-</ent>
-</ent>
-<ent id="o707345">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119710" siteid="s119710">
-<latitude src="percol-up">23.55793</latitude>
-<longitude src="percol-up">119.58649</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.557930" longitude="119.586490" time="15:57:25" url="/2021/04/08/DATE20210408TIME155725GEOBOOLyesLONGE119586490LATN23557930DIR131ALT0SIZE11472THUMB4020ORIGOliverDSCN0289.jpg" />
-</media>
-</ent>
-</ent>
 <ent id="s131665">
 <types>
 <type language="English">tomb</type>
@@ -819,13 +253,6 @@
 <geography geotop="s114403" siteid="s114403">
 <longitude src="percol-up">119.586478</longitude>
 <latitude src="percol-up">23.55799</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2022-12-04" lunar="2022-11-11" timefrom="13:02:06" timeto="13:03:33">
@@ -841,28 +268,16 @@
 <stat type="earthgod" cross="0" direct="2" indirect="0">2</stat>
 <stat type="tombstone" cross="0" direct="1" indirect="0">1</stat>
 </stats>
-<ent id="o1412930">
+<ent id="o1412934">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
 <geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.558003</latitude>
-<longitude src="percol-up">119.586471</longitude>
+<latitude src="percol-up">23.557967</latitude>
+<longitude src="percol-up">119.586466</longitude>
 </geography>
 <media>
-<img date="2022-12-04" latitude="23.558003" longitude="119.586471" time="13:02:59" url="/2022/12/04/DATE20221204TIME130259GEOBOOLyesLONGE119586471LATN23558003DIRnoALT17SIZE38972THUMB9330UPLOAD120622UPID1908ORIGOliverDSC04173.jpg" />
-</media>
-</ent>
-<ent id="o1412925">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.55802</latitude>
-<longitude src="percol-up">119.586549</longitude>
-</geography>
-<media>
-<img date="2022-12-04" latitude="23.558020" longitude="119.586549" time="13:03:25" url="/2022/12/04/DATE20221204TIME130325GEOBOOLyesLONGE119586549LATN23558020DIRnoALT19SIZE38972THUMB9768UPLOAD120622UPID1913ORIGOliverDSC04178.jpg" />
+<img date="2022-12-04" latitude="23.557967" longitude="119.586466" time="13:02:47" url="/2022/12/04/DATE20221204TIME130247GEOBOOLyesLONGE119586466LATN23557967DIRnoALT16SIZE38972THUMB7782UPLOAD120622UPID1904ORIGOliverDSC04169.jpg" />
 </media>
 </ent>
 <ent id="o1412939">
@@ -877,28 +292,28 @@
 <img date="2022-12-04" latitude="23.557979" longitude="119.586535" time="13:02:18" url="/2022/12/04/DATE20221204TIME130218GEOBOOLyesLONGE119586535LATN23557979DIRnoALT28SIZE38972THUMB6908UPLOAD120622UPID1899ORIGOliverDSC04164.jpg" />
 </media>
 </ent>
-<ent id="o1412931">
+<ent id="o1412940">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
 <geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.557997</latitude>
-<longitude src="percol-up">119.586476</longitude>
+<latitude src="percol-up">23.558097</latitude>
+<longitude src="percol-up">119.586568</longitude>
 </geography>
 <media>
-<img date="2022-12-04" latitude="23.557997" longitude="119.586476" time="13:02:57" url="/2022/12/04/DATE20221204TIME130257GEOBOOLyesLONGE119586476LATN23557997DIRnoALT17SIZE38972THUMB9476UPLOAD120622UPID1907ORIGOliverDSC04172.jpg" />
+<img date="2022-12-04" latitude="23.558097" longitude="119.586568" time="13:02:06" url="/2022/12/04/DATE20221204TIME130206GEOBOOLyesLONGE119586568LATN23558097DIRnoALT14SIZE38972THUMB6936UPLOAD120622UPID1898ORIGOliverDSC04163.jpg" />
 </media>
 </ent>
-<ent id="o1412938">
+<ent id="o1412925">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
 <geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.55799</latitude>
-<longitude src="percol-up">119.586481</longitude>
+<latitude src="percol-up">23.55802</latitude>
+<longitude src="percol-up">119.586549</longitude>
 </geography>
 <media>
-<img date="2022-12-04" latitude="23.557990" longitude="119.586481" time="13:02:27" url="/2022/12/04/DATE20221204TIME130227GEOBOOLyesLONGE119586481LATN23557990DIRnoALT13SIZE38972THUMB8861UPLOAD120622UPID1900ORIGOliverDSC04165.jpg" />
+<img date="2022-12-04" latitude="23.558020" longitude="119.586549" time="13:03:25" url="/2022/12/04/DATE20221204TIME130325GEOBOOLyesLONGE119586549LATN23558020DIRnoALT19SIZE38972THUMB9768UPLOAD120622UPID1913ORIGOliverDSC04178.jpg" />
 </media>
 </ent>
 <ent id="o1412923">
@@ -921,54 +336,6 @@
 </events>
 <sem writing="uninscribed" />
 </ent>
-<ent id="o1412922">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.557938</latitude>
-<longitude src="percol-up">119.586547</longitude>
-</geography>
-<media>
-<img date="2022-12-04" latitude="23.557938" longitude="119.586547" time="13:03:33" url="/2022/12/04/DATE20221204TIME130333GEOBOOLyesLONGE119586547LATN23557938DIRnoALT18SIZE38972THUMB8152UPLOAD120622UPID1916ORIGOliverDSC04181.jpg" />
-</media>
-</ent>
-<ent id="o1412924">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.55799</latitude>
-<longitude src="percol-up">119.586574</longitude>
-</geography>
-<media>
-<img date="2022-12-04" latitude="23.557990" longitude="119.586574" time="13:03:28" url="/2022/12/04/DATE20221204TIME130328GEOBOOLyesLONGE119586574LATN23557990DIRnoALT19SIZE38972THUMB9641UPLOAD120622UPID1914ORIGOliverDSC04179.jpg" />
-</media>
-</ent>
-<ent id="o1412936">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.557971</latitude>
-<longitude src="percol-up">119.586448</longitude>
-</geography>
-<media>
-<img date="2022-12-04" latitude="23.557971" longitude="119.586448" time="13:02:40" url="/2022/12/04/DATE20221204TIME130240GEOBOOLyesLONGE119586448LATN23557971DIRnoALT15SIZE38972THUMB8798UPLOAD120622UPID1902ORIGOliverDSC04167.jpg" />
-</media>
-</ent>
-<ent id="o1412940">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.558097</latitude>
-<longitude src="percol-up">119.586568</longitude>
-</geography>
-<media>
-<img date="2022-12-04" latitude="23.558097" longitude="119.586568" time="13:02:06" url="/2022/12/04/DATE20221204TIME130206GEOBOOLyesLONGE119586568LATN23558097DIRnoALT14SIZE38972THUMB6936UPLOAD120622UPID1898ORIGOliverDSC04163.jpg" />
-</media>
-</ent>
 <ent id="o1412932">
 <types>
 <type language="English">earthgod</type>
@@ -982,65 +349,16 @@
 </media>
 <sem writing="uninscribed" />
 </ent>
-<ent id="o1412926">
+<ent id="o1412922">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
 <geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.558039</latitude>
-<longitude src="percol-up">119.586542</longitude>
+<latitude src="percol-up">23.557938</latitude>
+<longitude src="percol-up">119.586547</longitude>
 </geography>
 <media>
-<img date="2022-12-04" latitude="23.558039" longitude="119.586542" time="13:03:23" url="/2022/12/04/DATE20221204TIME130323GEOBOOLyesLONGE119586542LATN23558039DIRnoALT19SIZE38972THUMB9574UPLOAD120622UPID1912ORIGOliverDSC04177.jpg" />
-</media>
-</ent>
-<ent id="o1412934">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.557967</latitude>
-<longitude src="percol-up">119.586466</longitude>
-</geography>
-<media>
-<img date="2022-12-04" latitude="23.557967" longitude="119.586466" time="13:02:47" url="/2022/12/04/DATE20221204TIME130247GEOBOOLyesLONGE119586466LATN23557967DIRnoALT16SIZE38972THUMB7782UPLOAD120622UPID1904ORIGOliverDSC04169.jpg" />
-</media>
-</ent>
-<ent id="o1412935">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.557966</latitude>
-<longitude src="percol-up">119.586456</longitude>
-</geography>
-<media>
-<img date="2022-12-04" latitude="23.557966" longitude="119.586456" time="13:02:44" url="/2022/12/04/DATE20221204TIME130244GEOBOOLyesLONGE119586456LATN23557966DIRnoALT15SIZE38972THUMB9040UPLOAD120622UPID1903ORIGOliverDSC04168.jpg" />
-</media>
-</ent>
-<ent id="o1412933">
-<types>
-<type language="English">earthgod</type>
-</types>
-<geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.557992</latitude>
-<longitude src="percol-up">119.586471</longitude>
-</geography>
-<media>
-<img date="2022-12-04" latitude="23.557992" longitude="119.586471" time="13:02:53" url="/2022/12/04/DATE20221204TIME130253GEOBOOLyesLONGE119586471LATN23557992DIRnoALT17SIZE38972THUMB9518UPLOAD120622UPID1905ORIGOliverDSC04170.jpg" />
-</media>
-<sem writing="uninscribed" />
-</ent>
-<ent id="o1412937">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131665" siteid="s131665">
-<latitude src="percol-up">23.557966</latitude>
-<longitude src="percol-up">119.586451</longitude>
-</geography>
-<media>
-<img date="2022-12-04" latitude="23.557966" longitude="119.586451" time="13:02:38" url="/2022/12/04/DATE20221204TIME130238GEOBOOLyesLONGE119586451LATN23557966DIRnoALT15SIZE38972THUMB8887UPLOAD120622UPID1901ORIGOliverDSC04166.jpg" />
+<img date="2022-12-04" latitude="23.557938" longitude="119.586547" time="13:03:33" url="/2022/12/04/DATE20221204TIME130333GEOBOOLyesLONGE119586547LATN23557938DIRnoALT18SIZE38972THUMB8152UPLOAD120622UPID1916ORIGOliverDSC04181.jpg" />
 </media>
 </ent>
 <ent id="o1412929">
@@ -1085,281 +403,113 @@
 </practices>
 </culturaldomain>
 </ent>
-</ent>
-<ent id="s119708">
-<types>
-<type language="English">tomb</type>
-</types>
-<communities>
-<community>
-<communityname language="English" script="Latin">Dongwen</communityname>
-<communityname script="Chinese-traditional">東文</communityname>
-</community>
-</communities>
-<geography geotop="s114403" siteid="s114403">
-<orientations>
-<orientation system="geographic north">305</orientation>
-</orientations>
-<longitude src="percol-up">119.586567</longitude>
-<latitude src="percol-up">23.5587785</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
-</geography>
-<events>
-<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:47:34" timeto="15:49:21">
-<agents>
-<agent refid="con1" />
-</agents>
-</event>
-</events>
-<names>
-<name language="English" script="Latin" />
-</names>
-<stats>
-<stat type="tombstone" cross="0" direct="1" indirect="0">1</stat>
-</stats>
-<ent id="o707312">
+<ent id="o1412924">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558785</latitude>
-<longitude src="percol-up">119.586567</longitude>
+<geography geotop="s131665" siteid="s131665">
+<latitude src="percol-up">23.55799</latitude>
+<longitude src="percol-up">119.586574</longitude>
 </geography>
 <media>
-<img date="2021-04-08" latitude="23.558785" longitude="119.586567" time="15:48:26" url="/2021/04/08/DATE20210408TIME154826GEOBOOLyesLONGE119586567LATN23558785DIR131ALT0SIZE11472THUMB4226ORIGOliverDSCN0256.jpg" />
+<img date="2022-12-04" latitude="23.557990" longitude="119.586574" time="13:03:28" url="/2022/12/04/DATE20221204TIME130328GEOBOOLyesLONGE119586574LATN23557990DIRnoALT19SIZE38972THUMB9641UPLOAD120622UPID1914ORIGOliverDSC04179.jpg" />
 </media>
 </ent>
-<ent id="o707320">
+<ent id="o1412935">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558788</latitude>
-<longitude src="percol-up">119.58658</longitude>
+<geography geotop="s131665" siteid="s131665">
+<latitude src="percol-up">23.557966</latitude>
+<longitude src="percol-up">119.586456</longitude>
 </geography>
 <media>
-<img date="2021-04-08" latitude="23.558788" longitude="119.586580" time="15:49:04" url="/2021/04/08/DATE20210408TIME154904GEOBOOLyesLONGE119586580LATN23558788DIR112ALT0SIZE11472THUMB4398ORIGOliverDSCN0264.jpg" />
+<img date="2022-12-04" latitude="23.557966" longitude="119.586456" time="13:02:44" url="/2022/12/04/DATE20221204TIME130244GEOBOOLyesLONGE119586456LATN23557966DIRnoALT15SIZE38972THUMB9040UPLOAD120622UPID1903ORIGOliverDSC04168.jpg" />
 </media>
 </ent>
-<ent id="o707317">
+<ent id="o1412933">
 <types>
-<type language="English" script="Latin">object</type>
+<type language="English">earthgod</type>
 </types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.55877</latitude>
-<longitude src="percol-up">119.586572</longitude>
+<geography geotop="s131665" siteid="s131665">
+<latitude src="percol-up">23.557992</latitude>
+<longitude src="percol-up">119.586471</longitude>
 </geography>
 <media>
-<img date="2021-04-08" latitude="23.558770" longitude="119.586572" time="15:48:45" url="/2021/04/08/DATE20210408TIME154845GEOBOOLyesLONGE119586572LATN23558770DIR189ALT0SIZE11472THUMB4660ORIGOliverDSCN0261.jpg" />
-</media>
-</ent>
-<ent id="o707307">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558773</latitude>
-<longitude src="percol-up">119.586507</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558773" longitude="119.586507" time="15:47:58" url="/2021/04/08/DATE20210408TIME154758GEOBOOLyesLONGE119586507LATN23558773DIR127ALT0SIZE11472THUMB4578ORIGOliverDSCN0251.jpg" />
-</media>
-</ent>
-<ent id="o707316">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.55878</latitude>
-<longitude src="percol-up">119.586577</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558780" longitude="119.586577" time="15:48:39" url="/2021/04/08/DATE20210408TIME154839GEOBOOLyesLONGE119586577LATN23558780DIR25ALT0SIZE11472THUMB4842ORIGOliverDSCN0260.jpg" />
-</media>
-</ent>
-<ent id="o707306">
-<types>
-<type language="English">structure</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<orientations>
-<orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">305</orientation>
-</orientations>
-<latitude src="percol-up">23.558662</latitude>
-<longitude src="percol-up">119.586463</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558662" longitude="119.586463" time="15:47:43" url="/2021/04/08/DATE20210408TIME154743GEOBOOLyesLONGE119586463LATN23558662DIR66ALT0SIZE11472THUMB4220ORIGOliverDSCN0250.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-</ent>
-<ent id="o707319">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558777</latitude>
-<longitude src="percol-up">119.586567</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558777" longitude="119.586567" time="15:48:55" url="/2021/04/08/DATE20210408TIME154855GEOBOOLyesLONGE119586567LATN23558777DIR13ALT0SIZE11472THUMB4821ORIGOliverDSCN0263.jpg" />
-</media>
-</ent>
-<ent id="o707308">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.55878</latitude>
-<longitude src="percol-up">119.58652</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558780" longitude="119.586520" time="15:48:04" url="/2021/04/08/DATE20210408TIME154804GEOBOOLyesLONGE119586520LATN23558780DIR126ALT0SIZE11472THUMB4812ORIGOliverDSCN0252.jpg" />
-</media>
-</ent>
-<ent id="o707309">
-<types>
-<type language="English">tombstone</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558782</latitude>
-<longitude src="percol-up">119.586563</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558782" longitude="119.586565" time="15:48:21" url="/2021/04/08/DATE20210408TIME154821GEOBOOLyesLONGE119586565LATN23558782DIR121ALT0SIZE11472THUMB3933ORIGOliverDSCN0255.jpg" />
-<img date="2021-04-08" latitude="23.558783" longitude="119.586563" time="15:48:15" url="/2021/04/08/DATE20210408TIME154815GEOBOOLyesLONGE119586563LATN23558783DIR129ALT0SIZE11472THUMB4334ORIGOliverDSCN0254.jpg" />
-<img date="2021-04-08" latitude="23.558778" longitude="119.586545" time="15:48:09" url="/2021/04/08/DATE20210408TIME154809GEOBOOLyesLONGE119586545LATN23558778DIR129ALT0SIZE11472THUMB3999ORIGOliverDSCN0253.jpg" />
-</media>
-<events>
-<event type="production">
-<agents>
-<agent role="stone carver" />
-</agents>
-<material language="English">stone</material>
-</event>
-</events>
-<sem writing="inscribed">
-<arts>
-<art script="Latin">epigraphy</art>
-</arts>
-<genres>
-<genre script="Latin">tombstone inscription</genre>
-</genres>
-</sem>
-<ref>
-<event type="death">
-<agents>
-<agent refid="p1" role="deceased" />
-</agents>
-</event>
-</ref>
-<culturaldomain>
-<practices>
-<practice REF="RememberDead" />
-</practices>
-</culturaldomain>
-</ent>
-<ent id="o707318">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558777</latitude>
-<longitude src="percol-up">119.586572</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558777" longitude="119.586572" time="15:48:49" url="/2021/04/08/DATE20210408TIME154849GEOBOOLyesLONGE119586572LATN23558777DIR36ALT0SIZE11472THUMB4747ORIGOliverDSCN0262.jpg" />
-</media>
-</ent>
-<ent id="o707314">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558782</latitude>
-<longitude src="percol-up">119.586582</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558782" longitude="119.586582" time="15:48:33" url="/2021/04/08/DATE20210408TIME154833GEOBOOLyesLONGE119586582LATN23558782DIR178ALT0SIZE11472THUMB4858ORIGOliverDSCN0258.jpg" />
-</media>
-</ent>
-<ent id="o707321">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558783</latitude>
-<longitude src="percol-up">119.586557</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558783" longitude="119.586557" time="15:49:12" url="/2021/04/08/DATE20210408TIME154912GEOBOOLyesLONGE119586557LATN23558783DIR95ALT0SIZE11472THUMB4305ORIGOliverDSCN0265.jpg" />
-</media>
-</ent>
-<ent id="o707315">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558775</latitude>
-<longitude src="percol-up">119.586578</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558775" longitude="119.586578" time="15:48:35" url="/2021/04/08/DATE20210408TIME154835GEOBOOLyesLONGE119586578LATN23558775DIR37ALT0SIZE11472THUMB4673ORIGOliverDSCN0259.jpg" />
-</media>
-</ent>
-<ent id="o1337629">
-<types>
-<type language="English">inner space</type>
-</types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558662</latitude>
-<longitude src="percol-up">119.586463</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558662" longitude="119.586463" time="15:47:43" url="/2021/04/08/DATE20210408TIME154743GEOBOOLyesLONGE119586463LATN23558662DIR66ALT0SIZE11472THUMB4220ORIGOliverDSCN0250.jpg" />
+<img date="2022-12-04" latitude="23.557992" longitude="119.586471" time="13:02:53" url="/2022/12/04/DATE20221204TIME130253GEOBOOLyesLONGE119586471LATN23557992DIRnoALT17SIZE38972THUMB9518UPLOAD120622UPID1905ORIGOliverDSC04170.jpg" />
 </media>
 <sem writing="uninscribed" />
 </ent>
-<ent id="o707305">
+<ent id="o1412937">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558588</latitude>
-<longitude src="percol-up">119.586503</longitude>
+<geography geotop="s131665" siteid="s131665">
+<latitude src="percol-up">23.557966</latitude>
+<longitude src="percol-up">119.586451</longitude>
 </geography>
 <media>
-<img date="2021-04-08" latitude="23.558588" longitude="119.586503" time="15:47:34" url="/2021/04/08/DATE20210408TIME154734GEOBOOLyesLONGE119586503LATN23558588DIR37ALT0SIZE11472THUMB3826ORIGOliverDSCN0249.jpg" />
+<img date="2022-12-04" latitude="23.557966" longitude="119.586451" time="13:02:38" url="/2022/12/04/DATE20221204TIME130238GEOBOOLyesLONGE119586451LATN23557966DIRnoALT15SIZE38972THUMB8887UPLOAD120622UPID1901ORIGOliverDSC04166.jpg" />
 </media>
 </ent>
-<ent id="o707313">
+<ent id="o1412926">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558782</latitude>
-<longitude src="percol-up">119.586575</longitude>
+<geography geotop="s131665" siteid="s131665">
+<latitude src="percol-up">23.558039</latitude>
+<longitude src="percol-up">119.586542</longitude>
 </geography>
 <media>
-<img date="2021-04-08" latitude="23.558782" longitude="119.586575" time="15:48:29" url="/2021/04/08/DATE20210408TIME154829GEOBOOLyesLONGE119586575LATN23558782DIR119ALT0SIZE11472THUMB4152ORIGOliverDSCN0257.jpg" />
+<img date="2022-12-04" latitude="23.558039" longitude="119.586542" time="13:03:23" url="/2022/12/04/DATE20221204TIME130323GEOBOOLyesLONGE119586542LATN23558039DIRnoALT19SIZE38972THUMB9574UPLOAD120622UPID1912ORIGOliverDSC04177.jpg" />
 </media>
 </ent>
-<ent id="o707322">
+<ent id="o1412930">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
-<geography geotop="s119708" siteid="s119708">
-<latitude src="percol-up">23.558757</latitude>
-<longitude src="percol-up">119.586518</longitude>
+<geography geotop="s131665" siteid="s131665">
+<latitude src="percol-up">23.558003</latitude>
+<longitude src="percol-up">119.586471</longitude>
 </geography>
 <media>
-<img date="2021-04-08" latitude="23.558757" longitude="119.586518" time="15:49:21" url="/2021/04/08/DATE20210408TIME154921GEOBOOLyesLONGE119586518LATN23558757DIR37ALT0SIZE11472THUMB4249ORIGOliverDSCN0266.jpg" />
+<img date="2022-12-04" latitude="23.558003" longitude="119.586471" time="13:02:59" url="/2022/12/04/DATE20221204TIME130259GEOBOOLyesLONGE119586471LATN23558003DIRnoALT17SIZE38972THUMB9330UPLOAD120622UPID1908ORIGOliverDSC04173.jpg" />
+</media>
+</ent>
+<ent id="o1412938">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131665" siteid="s131665">
+<latitude src="percol-up">23.55799</latitude>
+<longitude src="percol-up">119.586481</longitude>
+</geography>
+<media>
+<img date="2022-12-04" latitude="23.557990" longitude="119.586481" time="13:02:27" url="/2022/12/04/DATE20221204TIME130227GEOBOOLyesLONGE119586481LATN23557990DIRnoALT13SIZE38972THUMB8861UPLOAD120622UPID1900ORIGOliverDSC04165.jpg" />
+</media>
+</ent>
+<ent id="o1412931">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131665" siteid="s131665">
+<latitude src="percol-up">23.557997</latitude>
+<longitude src="percol-up">119.586476</longitude>
+</geography>
+<media>
+<img date="2022-12-04" latitude="23.557997" longitude="119.586476" time="13:02:57" url="/2022/12/04/DATE20221204TIME130257GEOBOOLyesLONGE119586476LATN23557997DIRnoALT17SIZE38972THUMB9476UPLOAD120622UPID1907ORIGOliverDSC04172.jpg" />
+</media>
+</ent>
+<ent id="o1412936">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131665" siteid="s131665">
+<latitude src="percol-up">23.557971</latitude>
+<longitude src="percol-up">119.586448</longitude>
+</geography>
+<media>
+<img date="2022-12-04" latitude="23.557971" longitude="119.586448" time="13:02:40" url="/2022/12/04/DATE20221204TIME130240GEOBOOLyesLONGE119586448LATN23557971DIRnoALT15SIZE38972THUMB8798UPLOAD120622UPID1902ORIGOliverDSC04167.jpg" />
 </media>
 </ent>
 </ent>
@@ -1376,13 +526,6 @@
 <geography geotop="s114403" siteid="s114403">
 <longitude src="percol-up">119.58618949999999</longitude>
 <latitude src="percol-up">23.5580875</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:51:21" timeto="15:53:22">
@@ -1397,6 +540,18 @@
 <stats>
 <stat type="tombstone" cross="0" direct="1" indirect="0">1</stat>
 </stats>
+<ent id="o707337">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119709" siteid="s119709">
+<latitude src="percol-up">23.55808</latitude>
+<longitude src="percol-up">119.586178</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558080" longitude="119.586178" time="15:53:09" url="/2021/04/08/DATE20210408TIME155309GEOBOOLyesLONGE119586178LATN23558080DIR106ALT0SIZE11472THUMB4978ORIGOliverDSCN0281.jpg" />
+</media>
+</ent>
 <ent id="o707330">
 <types>
 <type language="English" script="Latin">object</type>
@@ -1409,28 +564,16 @@
 <img date="2021-04-08" latitude="23.558093" longitude="119.586180" time="15:52:22" url="/2021/04/08/DATE20210408TIME155222GEOBOOLyesLONGE119586180LATN23558093DIR108ALT0SIZE11472THUMB3735ORIGOliverDSCN0274.jpg" />
 </media>
 </ent>
-<ent id="o707323">
+<ent id="o707339">
 <types>
 <type language="English" script="Latin">object</type>
 </types>
 <geography geotop="s119709" siteid="s119709">
-<latitude src="percol-up">23.558227</latitude>
-<longitude src="percol-up">119.586235</longitude>
+<latitude src="percol-up">23.558072</latitude>
+<longitude src="percol-up">119.586175</longitude>
 </geography>
 <media>
-<img date="2021-04-08" latitude="23.558227" longitude="119.586235" time="15:51:21" url="/2021/04/08/DATE20210408TIME155121GEOBOOLyesLONGE119586235LATN23558227DIR190ALT0SIZE11472THUMB3490ORIGOliverDSCN0267.jpg" />
-</media>
-</ent>
-<ent id="o707333">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119709" siteid="s119709">
-<latitude src="percol-up">23.558085</latitude>
-<longitude src="percol-up">119.586187</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558085" longitude="119.586187" time="15:52:48" url="/2021/04/08/DATE20210408TIME155248GEOBOOLyesLONGE119586187LATN23558085DIR115ALT0SIZE11472THUMB3543ORIGOliverDSCN0277.jpg" />
+<img date="2021-04-08" latitude="23.558072" longitude="119.586175" time="15:53:22" url="/2021/04/08/DATE20210408TIME155322GEOBOOLyesLONGE119586175LATN23558072DIR173ALT0SIZE11472THUMB4652ORIGOliverDSCN0283.jpg" />
 </media>
 </ent>
 <ent id="o707334">
@@ -1457,30 +600,6 @@
 <img date="2021-04-08" latitude="23.558097" longitude="119.586173" time="15:53:16" url="/2021/04/08/DATE20210408TIME155316GEOBOOLyesLONGE119586173LATN23558097DIR89ALT0SIZE11472THUMB4886ORIGOliverDSCN0282.jpg" />
 </media>
 </ent>
-<ent id="o707325">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119709" siteid="s119709">
-<latitude src="percol-up">23.55814</latitude>
-<longitude src="percol-up">119.586213</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558140" longitude="119.586213" time="15:51:49" url="/2021/04/08/DATE20210408TIME155149GEOBOOLyesLONGE119586213LATN23558140DIR109ALT0SIZE11472THUMB4967ORIGOliverDSCN0269.jpg" />
-</media>
-</ent>
-<ent id="o707339">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119709" siteid="s119709">
-<latitude src="percol-up">23.558072</latitude>
-<longitude src="percol-up">119.586175</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558072" longitude="119.586175" time="15:53:22" url="/2021/04/08/DATE20210408TIME155322GEOBOOLyesLONGE119586175LATN23558072DIR173ALT0SIZE11472THUMB4652ORIGOliverDSCN0283.jpg" />
-</media>
-</ent>
 <ent id="o707324">
 <types>
 <type language="English" script="Latin">object</type>
@@ -1493,6 +612,42 @@
 <img date="2021-04-08" latitude="23.558175" longitude="119.586233" time="15:51:38" url="/2021/04/08/DATE20210408TIME155138GEOBOOLyesLONGE119586233LATN23558175DIR170ALT0SIZE11472THUMB4761ORIGOliverDSCN0268.jpg" />
 </media>
 </ent>
+<ent id="o707331">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119709" siteid="s119709">
+<latitude src="percol-up">23.558085</latitude>
+<longitude src="percol-up">119.586197</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558085" longitude="119.586197" time="15:52:37" url="/2021/04/08/DATE20210408TIME155237GEOBOOLyesLONGE119586197LATN23558085DIR114ALT0SIZE11472THUMB4274ORIGOliverDSCN0275.jpg" />
+</media>
+</ent>
+<ent id="o707333">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119709" siteid="s119709">
+<latitude src="percol-up">23.558085</latitude>
+<longitude src="percol-up">119.586187</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558085" longitude="119.586187" time="15:52:48" url="/2021/04/08/DATE20210408TIME155248GEOBOOLyesLONGE119586187LATN23558085DIR115ALT0SIZE11472THUMB3543ORIGOliverDSCN0277.jpg" />
+</media>
+</ent>
+<ent id="o707336">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119709" siteid="s119709">
+<latitude src="percol-up">23.55809</latitude>
+<longitude src="percol-up">119.586172</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558090" longitude="119.586172" time="15:53:03" url="/2021/04/08/DATE20210408TIME155303GEOBOOLyesLONGE119586172LATN23558090DIR300ALT0SIZE11472THUMB4154ORIGOliverDSCN0280.jpg" />
+</media>
+</ent>
 <ent id="o707335">
 <types>
 <type language="English" script="Latin">object</type>
@@ -1503,6 +658,18 @@
 </geography>
 <media>
 <img date="2021-04-08" latitude="23.558085" longitude="119.586178" time="15:52:59" url="/2021/04/08/DATE20210408TIME155259GEOBOOLyesLONGE119586178LATN23558085DIR82ALT0SIZE11472THUMB4484ORIGOliverDSCN0279.jpg" />
+</media>
+</ent>
+<ent id="o707323">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119709" siteid="s119709">
+<latitude src="percol-up">23.558227</latitude>
+<longitude src="percol-up">119.586235</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558227" longitude="119.586235" time="15:51:21" url="/2021/04/08/DATE20210408TIME155121GEOBOOLyesLONGE119586235LATN23558227DIR190ALT0SIZE11472THUMB3490ORIGOliverDSCN0267.jpg" />
 </media>
 </ent>
 <ent id="o707326">
@@ -1548,42 +715,6 @@
 </practices>
 </culturaldomain>
 </ent>
-<ent id="o707337">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119709" siteid="s119709">
-<latitude src="percol-up">23.55808</latitude>
-<longitude src="percol-up">119.586178</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558080" longitude="119.586178" time="15:53:09" url="/2021/04/08/DATE20210408TIME155309GEOBOOLyesLONGE119586178LATN23558080DIR106ALT0SIZE11472THUMB4978ORIGOliverDSCN0281.jpg" />
-</media>
-</ent>
-<ent id="o707336">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119709" siteid="s119709">
-<latitude src="percol-up">23.55809</latitude>
-<longitude src="percol-up">119.586172</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558090" longitude="119.586172" time="15:53:03" url="/2021/04/08/DATE20210408TIME155303GEOBOOLyesLONGE119586172LATN23558090DIR300ALT0SIZE11472THUMB4154ORIGOliverDSCN0280.jpg" />
-</media>
-</ent>
-<ent id="o707331">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s119709" siteid="s119709">
-<latitude src="percol-up">23.558085</latitude>
-<longitude src="percol-up">119.586197</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.558085" longitude="119.586197" time="15:52:37" url="/2021/04/08/DATE20210408TIME155237GEOBOOLyesLONGE119586197LATN23558085DIR114ALT0SIZE11472THUMB4274ORIGOliverDSCN0275.jpg" />
-</media>
-</ent>
 <ent id="o707332">
 <types>
 <type language="English" script="Latin">object</type>
@@ -1595,6 +726,812 @@
 <media>
 <img date="2021-04-08" latitude="23.558085" longitude="119.586192" time="15:52:44" url="/2021/04/08/DATE20210408TIME155244GEOBOOLyesLONGE119586192LATN23558085DIR100ALT0SIZE11472THUMB3792ORIGOliverDSCN0276.jpg" />
 </media>
+</ent>
+<ent id="o707325">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119709" siteid="s119709">
+<latitude src="percol-up">23.55814</latitude>
+<longitude src="percol-up">119.586213</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558140" longitude="119.586213" time="15:51:49" url="/2021/04/08/DATE20210408TIME155149GEOBOOLyesLONGE119586213LATN23558140DIR109ALT0SIZE11472THUMB4967ORIGOliverDSCN0269.jpg" />
+</media>
+</ent>
+</ent>
+<ent id="s119708">
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<communityname language="English" script="Latin">Dongwen</communityname>
+<communityname script="Chinese-traditional">東文</communityname>
+</community>
+</communities>
+<geography geotop="s114403" siteid="s114403">
+<orientations>
+<orientation system="geographic north">305</orientation>
+</orientations>
+<longitude src="percol-up">119.586567</longitude>
+<latitude src="percol-up">23.5587785</latitude>
+</geography>
+<events>
+<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:47:34" timeto="15:49:21">
+<agents>
+<agent refid="con1" />
+</agents>
+</event>
+</events>
+<names>
+<name language="English" script="Latin" />
+</names>
+<stats>
+<stat type="tombstone" cross="0" direct="1" indirect="0">1</stat>
+</stats>
+<ent id="o707321">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558783</latitude>
+<longitude src="percol-up">119.586557</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558783" longitude="119.586557" time="15:49:12" url="/2021/04/08/DATE20210408TIME154912GEOBOOLyesLONGE119586557LATN23558783DIR95ALT0SIZE11472THUMB4305ORIGOliverDSCN0265.jpg" />
+</media>
+</ent>
+<ent id="o707305">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558588</latitude>
+<longitude src="percol-up">119.586503</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558588" longitude="119.586503" time="15:47:34" url="/2021/04/08/DATE20210408TIME154734GEOBOOLyesLONGE119586503LATN23558588DIR37ALT0SIZE11472THUMB3826ORIGOliverDSCN0249.jpg" />
+</media>
+</ent>
+<ent id="o707306">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<orientations>
+<orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">305</orientation>
+</orientations>
+<latitude src="percol-up">23.558662</latitude>
+<longitude src="percol-up">119.586463</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558662" longitude="119.586463" time="15:47:43" url="/2021/04/08/DATE20210408TIME154743GEOBOOLyesLONGE119586463LATN23558662DIR66ALT0SIZE11472THUMB4220ORIGOliverDSCN0250.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="o707312">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558785</latitude>
+<longitude src="percol-up">119.586567</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558785" longitude="119.586567" time="15:48:26" url="/2021/04/08/DATE20210408TIME154826GEOBOOLyesLONGE119586567LATN23558785DIR131ALT0SIZE11472THUMB4226ORIGOliverDSCN0256.jpg" />
+</media>
+</ent>
+<ent id="o707315">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558775</latitude>
+<longitude src="percol-up">119.586578</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558775" longitude="119.586578" time="15:48:35" url="/2021/04/08/DATE20210408TIME154835GEOBOOLyesLONGE119586578LATN23558775DIR37ALT0SIZE11472THUMB4673ORIGOliverDSCN0259.jpg" />
+</media>
+</ent>
+<ent id="o707313">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558782</latitude>
+<longitude src="percol-up">119.586575</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558782" longitude="119.586575" time="15:48:29" url="/2021/04/08/DATE20210408TIME154829GEOBOOLyesLONGE119586575LATN23558782DIR119ALT0SIZE11472THUMB4152ORIGOliverDSCN0257.jpg" />
+</media>
+</ent>
+<ent id="o707316">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.55878</latitude>
+<longitude src="percol-up">119.586577</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558780" longitude="119.586577" time="15:48:39" url="/2021/04/08/DATE20210408TIME154839GEOBOOLyesLONGE119586577LATN23558780DIR25ALT0SIZE11472THUMB4842ORIGOliverDSCN0260.jpg" />
+</media>
+</ent>
+<ent id="o1337629">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558662</latitude>
+<longitude src="percol-up">119.586463</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558662" longitude="119.586463" time="15:47:43" url="/2021/04/08/DATE20210408TIME154743GEOBOOLyesLONGE119586463LATN23558662DIR66ALT0SIZE11472THUMB4220ORIGOliverDSCN0250.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o707320">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558788</latitude>
+<longitude src="percol-up">119.58658</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558788" longitude="119.586580" time="15:49:04" url="/2021/04/08/DATE20210408TIME154904GEOBOOLyesLONGE119586580LATN23558788DIR112ALT0SIZE11472THUMB4398ORIGOliverDSCN0264.jpg" />
+</media>
+</ent>
+<ent id="o707322">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558757</latitude>
+<longitude src="percol-up">119.586518</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558757" longitude="119.586518" time="15:49:21" url="/2021/04/08/DATE20210408TIME154921GEOBOOLyesLONGE119586518LATN23558757DIR37ALT0SIZE11472THUMB4249ORIGOliverDSCN0266.jpg" />
+</media>
+</ent>
+<ent id="o707318">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558777</latitude>
+<longitude src="percol-up">119.586572</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558777" longitude="119.586572" time="15:48:49" url="/2021/04/08/DATE20210408TIME154849GEOBOOLyesLONGE119586572LATN23558777DIR36ALT0SIZE11472THUMB4747ORIGOliverDSCN0262.jpg" />
+</media>
+</ent>
+<ent id="o707307">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558773</latitude>
+<longitude src="percol-up">119.586507</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558773" longitude="119.586507" time="15:47:58" url="/2021/04/08/DATE20210408TIME154758GEOBOOLyesLONGE119586507LATN23558773DIR127ALT0SIZE11472THUMB4578ORIGOliverDSCN0251.jpg" />
+</media>
+</ent>
+<ent id="o707309">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558782</latitude>
+<longitude src="percol-up">119.586563</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558782" longitude="119.586565" time="15:48:21" url="/2021/04/08/DATE20210408TIME154821GEOBOOLyesLONGE119586565LATN23558782DIR121ALT0SIZE11472THUMB3933ORIGOliverDSCN0255.jpg" />
+<img date="2021-04-08" latitude="23.558783" longitude="119.586563" time="15:48:15" url="/2021/04/08/DATE20210408TIME154815GEOBOOLyesLONGE119586563LATN23558783DIR129ALT0SIZE11472THUMB4334ORIGOliverDSCN0254.jpg" />
+<img date="2021-04-08" latitude="23.558778" longitude="119.586545" time="15:48:09" url="/2021/04/08/DATE20210408TIME154809GEOBOOLyesLONGE119586545LATN23558778DIR129ALT0SIZE11472THUMB3999ORIGOliverDSCN0253.jpg" />
+</media>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+<sem writing="inscribed">
+<arts>
+<art script="Latin">epigraphy</art>
+</arts>
+<genres>
+<genre script="Latin">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+</ent>
+<ent id="o707317">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.55877</latitude>
+<longitude src="percol-up">119.586572</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558770" longitude="119.586572" time="15:48:45" url="/2021/04/08/DATE20210408TIME154845GEOBOOLyesLONGE119586572LATN23558770DIR189ALT0SIZE11472THUMB4660ORIGOliverDSCN0261.jpg" />
+</media>
+</ent>
+<ent id="o707308">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.55878</latitude>
+<longitude src="percol-up">119.58652</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558780" longitude="119.586520" time="15:48:04" url="/2021/04/08/DATE20210408TIME154804GEOBOOLyesLONGE119586520LATN23558780DIR126ALT0SIZE11472THUMB4812ORIGOliverDSCN0252.jpg" />
+</media>
+</ent>
+<ent id="o707314">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558782</latitude>
+<longitude src="percol-up">119.586582</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558782" longitude="119.586582" time="15:48:33" url="/2021/04/08/DATE20210408TIME154833GEOBOOLyesLONGE119586582LATN23558782DIR178ALT0SIZE11472THUMB4858ORIGOliverDSCN0258.jpg" />
+</media>
+</ent>
+<ent id="o707319">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119708" siteid="s119708">
+<latitude src="percol-up">23.558777</latitude>
+<longitude src="percol-up">119.586567</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558777" longitude="119.586567" time="15:48:55" url="/2021/04/08/DATE20210408TIME154855GEOBOOLyesLONGE119586567LATN23558777DIR13ALT0SIZE11472THUMB4821ORIGOliverDSCN0263.jpg" />
+</media>
+</ent>
+</ent>
+<ent id="s119707">
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<communityname language="English" script="Latin">Dongwen</communityname>
+<communityname script="Chinese-traditional">東文</communityname>
+</community>
+</communities>
+<geography geotop="s114403" siteid="s114403">
+<longitude src="percol-up">119.586533</longitude>
+<latitude src="percol-up">23.558498</latitude>
+</geography>
+<events>
+<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:45:58" timeto="15:47:13">
+<agents>
+<agent refid="con1" />
+</agents>
+</event>
+</events>
+<names>
+<name language="English" script="Latin" />
+</names>
+<stats>
+<stat type="tombstone" cross="0" direct="1" indirect="0">1</stat>
+</stats>
+<ent id="o707294">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558512</latitude>
+<longitude src="percol-up">119.586533</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558512" longitude="119.586533" time="15:46:07" url="/2021/04/08/DATE20210408TIME154607GEOBOOLyesLONGE119586533LATN23558512DIR134ALT0SIZE11472THUMB4339ORIGOliverDSCN0238.jpg" />
+</media>
+</ent>
+<ent id="o707303">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558375</latitude>
+<longitude src="percol-up">119.586742</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558375" longitude="119.586742" time="15:47:09" url="/2021/04/08/DATE20210408TIME154709GEOBOOLyesLONGE119586742LATN23558375DIR134ALT0SIZE11472THUMB4415ORIGOliverDSCN0247.jpg" />
+</media>
+</ent>
+<ent id="o707297">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558498</latitude>
+<longitude src="percol-up">119.586437</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558498" longitude="119.586437" time="15:46:20" url="/2021/04/08/DATE20210408TIME154620GEOBOOLyesLONGE119586437LATN23558498DIR127ALT0SIZE11472THUMB4058ORIGOliverDSCN0241.jpg" />
+</media>
+</ent>
+<ent id="o707298">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558458</latitude>
+<longitude src="percol-up">119.586493</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558483" longitude="119.586458" time="15:46:25" url="/2021/04/08/DATE20210408TIME154625GEOBOOLyesLONGE119586458LATN23558483DIR134ALT0SIZE11472THUMB4356ORIGOliverDSCN0242.jpg" />
+<img date="2021-04-08" latitude="23.558432" longitude="119.586635" time="15:46:56" url="/2021/04/08/DATE20210408TIME154656GEOBOOLyesLONGE119586635LATN23558432DIR129ALT0SIZE11472THUMB5497ORIGOliverDSCN0244.jpg" />
+<img date="2021-04-08" latitude="23.558458" longitude="119.586493" time="15:46:34" url="/2021/04/08/DATE20210408TIME154634GEOBOOLyesLONGE119586493LATN23558458DIR139ALT0SIZE11472THUMB4503ORIGOliverDSCN0243.jpg" />
+</media>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+<sem writing="inscribed">
+<arts>
+<art script="Latin">epigraphy</art>
+</arts>
+<genres>
+<genre script="Latin">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+</ent>
+<ent id="o707302">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558373</latitude>
+<longitude src="percol-up">119.586718</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558373" longitude="119.586718" time="15:47:07" url="/2021/04/08/DATE20210408TIME154707GEOBOOLyesLONGE119586718LATN23558373DIR119ALT0SIZE11472THUMB4191ORIGOliverDSCN0246.jpg" />
+</media>
+</ent>
+<ent id="o707293">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558513</latitude>
+<longitude src="percol-up">119.586455</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558513" longitude="119.586455" time="15:46:04" url="/2021/04/08/DATE20210408TIME154604GEOBOOLyesLONGE119586455LATN23558513DIR135ALT0SIZE11472THUMB4603ORIGOliverDSCN0237.jpg" />
+</media>
+</ent>
+<ent id="o707296">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558502</latitude>
+<longitude src="percol-up">119.586463</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558502" longitude="119.586463" time="15:46:17" url="/2021/04/08/DATE20210408TIME154617GEOBOOLyesLONGE119586463LATN23558502DIR191ALT0SIZE11472THUMB4004ORIGOliverDSCN0240.jpg" />
+</media>
+</ent>
+<ent id="o707304">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558417</latitude>
+<longitude src="percol-up">119.58663</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558417" longitude="119.586630" time="15:47:13" url="/2021/04/08/DATE20210408TIME154713GEOBOOLyesLONGE119586630LATN23558417DIR272ALT0SIZE11472THUMB3983ORIGOliverDSCN0248.jpg" />
+</media>
+</ent>
+<ent id="o707295">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558517</latitude>
+<longitude src="percol-up">119.586542</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558517" longitude="119.586542" time="15:46:10" url="/2021/04/08/DATE20210408TIME154610GEOBOOLyesLONGE119586542LATN23558517DIR105ALT0SIZE11472THUMB4527ORIGOliverDSCN0239.jpg" />
+</media>
+</ent>
+<ent id="o1337072">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558552</latitude>
+<longitude src="percol-up">119.586413</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558552" longitude="119.586413" time="15:45:58" url="/2021/04/08/DATE20210408TIME154558GEOBOOLyesLONGE119586413LATN23558552DIR136ALT0SIZE11472THUMB4059ORIGOliverDSCN0236.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o707301">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558375</latitude>
+<longitude src="percol-up">119.586713</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558375" longitude="119.586713" time="15:47:04" url="/2021/04/08/DATE20210408TIME154704GEOBOOLyesLONGE119586713LATN23558375DIR129ALT0SIZE11472THUMB4042ORIGOliverDSCN0245.jpg" />
+</media>
+</ent>
+<ent id="o1333449">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s119707" siteid="s119707">
+<latitude src="percol-up">23.558552</latitude>
+<longitude src="percol-up">119.586413</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558552" longitude="119.586413" time="15:45:58" url="/2021/04/08/DATE20210408TIME154558GEOBOOLyesLONGE119586413LATN23558552DIR136ALT0SIZE11472THUMB4059ORIGOliverDSCN0236.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o707292">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o1333449" siteid="s119707">
+<latitude src="percol-up">23.558552</latitude>
+<longitude src="percol-up">119.586413</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558552" longitude="119.586413" time="15:45:58" url="/2021/04/08/DATE20210408TIME154558GEOBOOLyesLONGE119586413LATN23558552DIR136ALT0SIZE11472THUMB4059ORIGOliverDSCN0236.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+</ent>
+</ent>
+<ent id="s119710">
+<types>
+<type language="English">tomb</type>
+</types>
+<communities>
+<community>
+<communityname language="English" script="Latin">Dongwen</communityname>
+<communityname script="Chinese-traditional">東文</communityname>
+</community>
+</communities>
+<geography geotop="s114403" siteid="s114403">
+<orientations>
+<orientation system="geographic north">240</orientation>
+</orientations>
+<longitude src="percol-up">119.58656099999999</longitude>
+<latitude src="percol-up">23.557935</latitude>
+</geography>
+<events>
+<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:56:35" timeto="15:58:48">
+<agents>
+<agent refid="con1" />
+</agents>
+</event>
+</events>
+<names>
+<name language="English" script="Latin" />
+</names>
+<stats>
+<stat type="tombstone" cross="0" direct="1" indirect="0">1</stat>
+</stats>
+<ent id="o707356">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557978</latitude>
+<longitude src="percol-up">119.586618</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557978" longitude="119.586618" time="15:58:15" url="/2021/04/08/DATE20210408TIME155815GEOBOOLyesLONGE119586618LATN23557978DIR144ALT0SIZE11472THUMB3732ORIGOliverDSCN0300.jpg" />
+</media>
+</ent>
+<ent id="o707353">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.558022</latitude>
+<longitude src="percol-up">119.586642</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558022" longitude="119.586642" time="15:58:06" url="/2021/04/08/DATE20210408TIME155806GEOBOOLyesLONGE119586642LATN23558022DIR52ALT0SIZE11472THUMB5195ORIGOliverDSCN0297.jpg" />
+</media>
+</ent>
+<ent id="o707355">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.558003</latitude>
+<longitude src="percol-up">119.586657</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558003" longitude="119.586657" time="15:58:12" url="/2021/04/08/DATE20210408TIME155812GEOBOOLyesLONGE119586657LATN23558003DIR251ALT0SIZE11472THUMB4479ORIGOliverDSCN0299.jpg" />
+</media>
+</ent>
+<ent id="o707342">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557913</latitude>
+<longitude src="percol-up">119.586475</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557913" longitude="119.586475" time="15:57:12" url="/2021/04/08/DATE20210408TIME155712GEOBOOLyesLONGE119586475LATN23557913DIR53ALT0SIZE11472THUMB3656ORIGOliverDSCN0286.jpg" />
+</media>
+</ent>
+<ent id="o707352">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557992</latitude>
+<longitude src="percol-up">119.586598</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557992" longitude="119.586598" time="15:58:04" url="/2021/04/08/DATE20210408TIME155804GEOBOOLyesLONGE119586598LATN23557992DIR359ALT0SIZE11472THUMB5529ORIGOliverDSCN0296.jpg" />
+</media>
+</ent>
+<ent id="o707345">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.55793</latitude>
+<longitude src="percol-up">119.58649</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557930" longitude="119.586490" time="15:57:25" url="/2021/04/08/DATE20210408TIME155725GEOBOOLyesLONGE119586490LATN23557930DIR131ALT0SIZE11472THUMB4020ORIGOliverDSCN0289.jpg" />
+</media>
+</ent>
+<ent id="o707343">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557915</latitude>
+<longitude src="percol-up">119.586473</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557915" longitude="119.586473" time="15:57:15" url="/2021/04/08/DATE20210408TIME155715GEOBOOLyesLONGE119586473LATN23557915DIR47ALT0SIZE11472THUMB4087ORIGOliverDSCN0287.jpg" />
+</media>
+</ent>
+<ent id="o707346">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557928</latitude>
+<longitude src="percol-up">119.5865</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557928" longitude="119.586500" time="15:57:30" url="/2021/04/08/DATE20210408TIME155730GEOBOOLyesLONGE119586500LATN23557928DIR45ALT0SIZE11472THUMB4141ORIGOliverDSCN0290.jpg" />
+</media>
+</ent>
+<ent id="o707357">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557938</latitude>
+<longitude src="percol-up">119.58657</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557938" longitude="119.586570" time="15:58:34" url="/2021/04/08/DATE20210408TIME155834GEOBOOLyesLONGE119586570LATN23557938DIR185ALT0SIZE11472THUMB4750ORIGOliverDSCN0301.jpg" />
+</media>
+</ent>
+<ent id="o1337442">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557913</latitude>
+<longitude src="percol-up">119.586467</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557913" longitude="119.586467" time="15:57:06" url="/2021/04/08/DATE20210408TIME155706GEOBOOLyesLONGE119586467LATN23557913DIR60ALT0SIZE11472THUMB3896ORIGOliverDSCN0285.jpg" />
+</media>
+<sem writing="uninscribed" />
+</ent>
+<ent id="o707359">
+<types>
+<type language="English">gable</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557922</latitude>
+<longitude src="percol-up">119.586575</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557922" longitude="119.586575" time="15:58:48" url="/2021/04/08/DATE20210408TIME155848GEOBOOLyesLONGE119586575LATN23557922DIR290ALT0SIZE11472THUMB3124ORIGOliverDSCN0303.jpg" />
+</media>
+</ent>
+<ent id="o707348">
+<types>
+<type language="English">tombstone</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557943</latitude>
+<longitude src="percol-up">119.586552</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557933" longitude="119.586515" time="15:57:37" url="/2021/04/08/DATE20210408TIME155737GEOBOOLyesLONGE119586515LATN23557933DIR63ALT0SIZE11472THUMB5998ORIGOliverDSCN0292.jpg" />
+<img date="2021-04-08" latitude="23.557943" longitude="119.586552" time="15:57:46" url="/2021/04/08/DATE20210408TIME155746GEOBOOLyesLONGE119586552LATN23557943DIR42ALT0SIZE11472THUMB4774ORIGOliverDSCN0293.jpg" />
+<img date="2021-04-08" latitude="23.557958" longitude="119.586560" time="15:57:55" url="/2021/04/08/DATE20210408TIME155755GEOBOOLyesLONGE119586560LATN23557958DIR46ALT0SIZE11472THUMB5209ORIGOliverDSCN0294.jpg" />
+</media>
+<events>
+<event type="production">
+<agents>
+<agent role="stone carver" />
+</agents>
+<material language="English">stone</material>
+</event>
+</events>
+<sem writing="inscribed">
+<arts>
+<art script="Latin">epigraphy</art>
+</arts>
+<genres>
+<genre script="Latin">tombstone inscription</genre>
+</genres>
+</sem>
+<ref>
+<event type="death">
+<agents>
+<agent refid="p1" role="deceased" />
+</agents>
+</event>
+</ref>
+<culturaldomain>
+<practices>
+<practice REF="RememberDead" />
+</practices>
+</culturaldomain>
+</ent>
+<ent id="o707354">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.558027</latitude>
+<longitude src="percol-up">119.586643</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558027" longitude="119.586643" time="15:58:09" url="/2021/04/08/DATE20210408TIME155809GEOBOOLyesLONGE119586643LATN23558027DIR243ALT0SIZE11472THUMB3913ORIGOliverDSCN0298.jpg" />
+</media>
+</ent>
+<ent id="o707344">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557923</latitude>
+<longitude src="percol-up">119.586482</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557923" longitude="119.586482" time="15:57:19" url="/2021/04/08/DATE20210408TIME155719GEOBOOLyesLONGE119586482LATN23557923DIR61ALT0SIZE11472THUMB4123ORIGOliverDSCN0288.jpg" />
+</media>
+</ent>
+<ent id="o707358">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557918</latitude>
+<longitude src="percol-up">119.586578</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557918" longitude="119.586578" time="15:58:45" url="/2021/04/08/DATE20210408TIME155845GEOBOOLyesLONGE119586578LATN23557918DIR294ALT0SIZE11472THUMB3281ORIGOliverDSCN0302.jpg" />
+</media>
+</ent>
+<ent id="o707351">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557967</latitude>
+<longitude src="percol-up">119.586575</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557967" longitude="119.586575" time="15:58:01" url="/2021/04/08/DATE20210408TIME155801GEOBOOLyesLONGE119586575LATN23557967DIR81ALT0SIZE11472THUMB5261ORIGOliverDSCN0295.jpg" />
+</media>
+</ent>
+<ent id="o707340">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.558015</latitude>
+<longitude src="percol-up">119.586357</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.558015" longitude="119.586357" time="15:56:35" url="/2021/04/08/DATE20210408TIME155635GEOBOOLyesLONGE119586357LATN23558015DIR136ALT0SIZE11472THUMB3661ORIGOliverDSCN0284.jpg" />
+</media>
+</ent>
+<ent id="o707347">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<latitude src="percol-up">23.557932</latitude>
+<longitude src="percol-up">119.586507</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557932" longitude="119.586507" time="15:57:33" url="/2021/04/08/DATE20210408TIME155733GEOBOOLyesLONGE119586507LATN23557932DIR52ALT0SIZE11472THUMB5190ORIGOliverDSCN0291.jpg" />
+</media>
+</ent>
+<ent id="o1333825">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s119710" siteid="s119710">
+<orientations>
+<orientation modtime="2024-03-21 13:02:02" src="percol-down" system="geographic north">240</orientation>
+</orientations>
+<latitude src="percol-up">23.557913</latitude>
+<longitude src="percol-up">119.586467</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557913" longitude="119.586467" time="15:57:06" url="/2021/04/08/DATE20210408TIME155706GEOBOOLyesLONGE119586467LATN23557913DIR60ALT0SIZE11472THUMB3896ORIGOliverDSCN0285.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o707341">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o1333825" siteid="s119710">
+<latitude src="percol-up">23.557913</latitude>
+<longitude src="percol-up">119.586467</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.557913" longitude="119.586467" time="15:57:06" url="/2021/04/08/DATE20210408TIME155706GEOBOOLyesLONGE119586467LATN23557913DIR60ALT0SIZE11472THUMB3896ORIGOliverDSCN0285.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
 </ent>
 </ent>
 <ent id="s128468">
@@ -1610,13 +1547,6 @@
 <geography geotop="s114403" siteid="s114403">
 <longitude src="percol-up">119.583857</longitude>
 <latitude src="percol-up">23.559702</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2021-04-10" lunar="2021-02-29" timefrom="15:34:12" timeto="15:35:03">
@@ -1763,13 +1693,6 @@
 <geography geotop="s128833" siteid="s128833">
 <longitude src="percol-up">119.585625</longitude>
 <latitude src="percol-up">23.561217</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:36:06" timeto="15:39:16">
@@ -1826,328 +1749,6 @@
 </media>
 </ent>
 </ent>
-<ent id="s131650">
-<types>
-<type language="English">general</type>
-<type language="English">五營</type>
-<type language="English">site</type>
-<type script="Latin">north general</type>
-<type script="Chinese-traditional">北營</type>
-<type script="Latin">general Lian</type>
-<type script="Chinese-traditional">連元帥</type>
-</types>
-<communities>
-<community>
-<name language="English">Dongwen</name>
-<name script="Chinese-traditional">東文</name>
-</community>
-</communities>
-<names>
-<name language="English">Dongwen North General Lian</name>
-<name script="Chinese-traditional">東文連元帥北營</name>
-</names>
-<geography geotop="s114402" siteid="s114402">
-<longitude src="percol-up">119.585587</longitude>
-<latitude src="percol-up">23.561247</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
-</geography>
-<events>
-<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:38:10" timeto="15:39:01">
-<agents>
-<agent refid="con1" role="researcher" />
-</agents>
-</event>
-</events>
-<culturaldomain>
-<practices>
-<practice>
-<names>
-<name script="Latin">apotropaic practice</name>
-</names>
-<epistemics>observed</epistemics>
-</practice>
-</practices>
-</culturaldomain>
-<ent id="o707278">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131650" siteid="s131650">
-<latitude src="percol-up">23.561248</latitude>
-<longitude src="percol-up">119.585587</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561248" longitude="119.585587" time="15:38:15" url="/2021/04/08/DATE20210408TIME153815GEOBOOLyesLONGE119585587LATN23561248DIR265ALT0SIZE11472THUMB4881ORIGOliverDSCN0222.jpg" />
-</media>
-</ent>
-<ent id="o707279">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131650" siteid="s131650">
-<latitude src="percol-up">23.561245</latitude>
-<longitude src="percol-up">119.585575</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561245" longitude="119.585575" time="15:38:19" url="/2021/04/08/DATE20210408TIME153819GEOBOOLyesLONGE119585575LATN23561245DIR262ALT0SIZE11472THUMB4860ORIGOliverDSCN0223.jpg" />
-</media>
-</ent>
-<ent id="o707289">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131650" siteid="s131650">
-<latitude src="percol-up">23.561245</latitude>
-<longitude src="percol-up">119.585627</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561245" longitude="119.585627" time="15:39:01" url="/2021/04/08/DATE20210408TIME153901GEOBOOLyesLONGE119585627LATN23561245DIR260ALT0SIZE11472THUMB4509ORIGOliverDSCN0233.jpg" />
-</media>
-</ent>
-<ent id="o707280">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131650" siteid="s131650">
-<latitude src="percol-up">23.561247</latitude>
-<longitude src="percol-up">119.58558</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561247" longitude="119.585580" time="15:38:22" url="/2021/04/08/DATE20210408TIME153822GEOBOOLyesLONGE119585580LATN23561247DIR258ALT0SIZE11472THUMB4793ORIGOliverDSCN0224.jpg" />
-</media>
-</ent>
-<ent id="o1414163">
-<types>
-<type language="English">structure</type>
-</types>
-<geography geotop="s131650" siteid="s131650">
-<latitude src="percol-up">23.561257</latitude>
-<longitude src="percol-up">119.585588</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-<ent id="o1414164">
-<types>
-<type language="English">structure front side</type>
-</types>
-<geography geotop="o1414163" siteid="s131650">
-<latitude src="percol-up">23.561257</latitude>
-<longitude src="percol-up">119.585588</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-</ent>
-</ent>
-<ent id="o1414162">
-<types>
-<type language="English">inner space</type>
-</types>
-<geography geotop="s131650" siteid="s131650">
-<latitude src="percol-up">23.561257</latitude>
-<longitude src="percol-up">119.585588</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
-</media>
-<sem writing="uninscribed" />
-<ent id="o1414161">
-<types>
-<type language="English">altar</type>
-</types>
-<geography geotop="o1414162" siteid="s131650">
-<latitude src="percol-up">23.561257</latitude>
-<longitude src="percol-up">119.585588</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
-</media>
-<sem writing="uninscribed" />
-<ent id="o707277">
-<types>
-<type language="English">stele</type>
-</types>
-<geography geotop="o1414161" siteid="s131650">
-<latitude src="percol-up">23.561257</latitude>
-<longitude src="percol-up">119.585588</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
-</media>
-</ent>
-</ent>
-</ent>
-</ent>
-<ent id="s131648">
-<types>
-<type language="English">general</type>
-<type language="English">五營</type>
-<type language="English">site</type>
-<type script="Latin">south general</type>
-<type script="Chinese-traditional">南營</type>
-<type script="Latin">general Xiao</type>
-<type script="Chinese-traditional">趙元帥</type>
-</types>
-<communities>
-<community>
-<name language="English">Dongwen</name>
-<name script="Chinese-traditional">東文</name>
-</community>
-</communities>
-<names>
-<name language="English">Dongwen South General Xiao-Zhao</name>
-<name script="Chinese-traditional">東文蕭-趙元帥南營</name>
-</names>
-<geography geotop="s114402" siteid="s114402">
-<longitude src="percol-up">119.585645</longitude>
-<latitude src="percol-up">23.561273</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
-</geography>
-<events>
-<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:37:43" timeto="15:38:51">
-<agents>
-<agent refid="con1" role="researcher" />
-</agents>
-</event>
-</events>
-<culturaldomain>
-<practices>
-<practice>
-<names>
-<name script="Latin">apotropaic practice</name>
-</names>
-<epistemics>observed</epistemics>
-</practice>
-</practices>
-</culturaldomain>
-<ent id="o707287">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131648" siteid="s131648">
-<latitude src="percol-up">23.561268</latitude>
-<longitude src="percol-up">119.585645</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561268" longitude="119.585645" time="15:38:51" url="/2021/04/08/DATE20210408TIME153851GEOBOOLyesLONGE119585645LATN23561268DIR303ALT0SIZE11472THUMB4655ORIGOliverDSCN0231.jpg" />
-</media>
-</ent>
-<ent id="o707270">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131648" siteid="s131648">
-<latitude src="percol-up">23.56128</latitude>
-<longitude src="percol-up">119.585643</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561280" longitude="119.585643" time="15:37:46" url="/2021/04/08/DATE20210408TIME153746GEOBOOLyesLONGE119585643LATN23561280DIR326ALT0SIZE11472THUMB5119ORIGOliverDSCN0214.jpg" />
-</media>
-</ent>
-<ent id="o707272">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131648" siteid="s131648">
-<latitude src="percol-up">23.561273</latitude>
-<longitude src="percol-up">119.585653</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561273" longitude="119.585653" time="15:37:56" url="/2021/04/08/DATE20210408TIME153756GEOBOOLyesLONGE119585653LATN23561273DIR280ALT0SIZE11472THUMB5422ORIGOliverDSCN0216.jpg" />
-</media>
-</ent>
-<ent id="o707271">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131648" siteid="s131648">
-<latitude src="percol-up">23.561273</latitude>
-<longitude src="percol-up">119.58565</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561273" longitude="119.585650" time="15:37:55" url="/2021/04/08/DATE20210408TIME153755GEOBOOLyesLONGE119585650LATN23561273DIR324ALT0SIZE11472THUMB5564ORIGOliverDSCN0215.jpg" />
-</media>
-</ent>
-<ent id="o1414155">
-<types>
-<type language="English">structure</type>
-</types>
-<geography geotop="s131648" siteid="s131648">
-<latitude src="percol-up">23.561277</latitude>
-<longitude src="percol-up">119.58563</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-<ent id="o1414156">
-<types>
-<type language="English">structure front side</type>
-</types>
-<geography geotop="o1414155" siteid="s131648">
-<latitude src="percol-up">23.561277</latitude>
-<longitude src="percol-up">119.58563</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-</ent>
-</ent>
-<ent id="o1414154">
-<types>
-<type language="English">inner space</type>
-</types>
-<geography geotop="s131648" siteid="s131648">
-<latitude src="percol-up">23.561277</latitude>
-<longitude src="percol-up">119.58563</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
-</media>
-<sem writing="uninscribed" />
-<ent id="o1414153">
-<types>
-<type language="English">altar</type>
-</types>
-<geography geotop="o1414154" siteid="s131648">
-<latitude src="percol-up">23.561277</latitude>
-<longitude src="percol-up">119.58563</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
-</media>
-<sem writing="uninscribed" />
-<ent id="o707269">
-<types>
-<type language="English">stele</type>
-</types>
-<geography geotop="o1414153" siteid="s131648">
-<latitude src="percol-up">23.561277</latitude>
-<longitude src="percol-up">119.58563</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
-</media>
-</ent>
-</ent>
-</ent>
-</ent>
 <ent id="s131649">
 <types>
 <type language="English">central general</type>
@@ -2171,13 +1772,6 @@
 <geography geotop="s114402" siteid="s114402">
 <longitude src="percol-up">119.585642</longitude>
 <latitude src="percol-up">23.561267</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:37:59" timeto="15:38:57">
@@ -2196,30 +1790,6 @@
 </practice>
 </practices>
 </culturaldomain>
-<ent id="o707275">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131649" siteid="s131649">
-<latitude src="percol-up">23.561273</latitude>
-<longitude src="percol-up">119.5856</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561273" longitude="119.585600" time="15:38:04" url="/2021/04/08/DATE20210408TIME153804GEOBOOLyesLONGE119585600LATN23561273DIR316ALT0SIZE11472THUMB4689ORIGOliverDSCN0219.jpg" />
-</media>
-</ent>
-<ent id="o707274">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131649" siteid="s131649">
-<latitude src="percol-up">23.561267</latitude>
-<longitude src="percol-up">119.585655</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561267" longitude="119.585655" time="15:38:02" url="/2021/04/08/DATE20210408TIME153802GEOBOOLyesLONGE119585655LATN23561267DIR332ALT0SIZE11472THUMB5349ORIGOliverDSCN0218.jpg" />
-</media>
-</ent>
 <ent id="o707276">
 <types>
 <type language="English" script="Latin">object</type>
@@ -2230,6 +1800,18 @@
 </geography>
 <media>
 <img date="2021-04-08" latitude="23.561263" longitude="119.585587" time="15:38:07" url="/2021/04/08/DATE20210408TIME153807GEOBOOLyesLONGE119585587LATN23561263DIR288ALT0SIZE11472THUMB5388ORIGOliverDSCN0220.jpg" />
+</media>
+</ent>
+<ent id="o707275">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131649" siteid="s131649">
+<latitude src="percol-up">23.561273</latitude>
+<longitude src="percol-up">119.5856</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561273" longitude="119.585600" time="15:38:04" url="/2021/04/08/DATE20210408TIME153804GEOBOOLyesLONGE119585600LATN23561273DIR316ALT0SIZE11472THUMB4689ORIGOliverDSCN0219.jpg" />
 </media>
 </ent>
 <ent id="o707288">
@@ -2243,32 +1825,6 @@
 <media>
 <img date="2021-04-08" latitude="23.561253" longitude="119.585642" time="15:38:57" url="/2021/04/08/DATE20210408TIME153857GEOBOOLyesLONGE119585642LATN23561253DIR298ALT0SIZE11472THUMB4067ORIGOliverDSCN0232.jpg" />
 </media>
-</ent>
-<ent id="o1414159">
-<types>
-<type language="English">structure</type>
-</types>
-<geography geotop="s131649" siteid="s131649">
-<latitude src="percol-up">23.561267</latitude>
-<longitude src="percol-up">119.585662</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561267" longitude="119.585662" time="15:37:59" url="/2021/04/08/DATE20210408TIME153759GEOBOOLyesLONGE119585662LATN23561267DIR297ALT0SIZE11472THUMB4399ORIGOliverDSCN0217.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-<ent id="o1414160">
-<types>
-<type language="English">structure front side</type>
-</types>
-<geography geotop="o1414159" siteid="s131649">
-<latitude src="percol-up">23.561267</latitude>
-<longitude src="percol-up">119.585662</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561267" longitude="119.585662" time="15:37:59" url="/2021/04/08/DATE20210408TIME153759GEOBOOLyesLONGE119585662LATN23561267DIR297ALT0SIZE11472THUMB4399ORIGOliverDSCN0217.jpg" />
-</media>
-<sem figurative="no" writing="uninscribed" />
-</ent>
 </ent>
 <ent id="o1414158">
 <types>
@@ -2308,6 +1864,44 @@
 </ent>
 </ent>
 </ent>
+<ent id="o707274">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131649" siteid="s131649">
+<latitude src="percol-up">23.561267</latitude>
+<longitude src="percol-up">119.585655</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561267" longitude="119.585655" time="15:38:02" url="/2021/04/08/DATE20210408TIME153802GEOBOOLyesLONGE119585655LATN23561267DIR332ALT0SIZE11472THUMB5349ORIGOliverDSCN0218.jpg" />
+</media>
+</ent>
+<ent id="o1414159">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s131649" siteid="s131649">
+<latitude src="percol-up">23.561267</latitude>
+<longitude src="percol-up">119.585662</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561267" longitude="119.585662" time="15:37:59" url="/2021/04/08/DATE20210408TIME153759GEOBOOLyesLONGE119585662LATN23561267DIR297ALT0SIZE11472THUMB4399ORIGOliverDSCN0217.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o1414160">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o1414159" siteid="s131649">
+<latitude src="percol-up">23.561267</latitude>
+<longitude src="percol-up">119.585662</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561267" longitude="119.585662" time="15:37:59" url="/2021/04/08/DATE20210408TIME153759GEOBOOLyesLONGE119585662LATN23561267DIR297ALT0SIZE11472THUMB4399ORIGOliverDSCN0217.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+</ent>
 </ent>
 <ent id="s131647">
 <types>
@@ -2332,13 +1926,6 @@
 <geography geotop="s114402" siteid="s114402">
 <longitude src="percol-up">119.58561800000001</longitude>
 <latitude src="percol-up">23.5612585</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:37:33" timeto="15:38:50">
@@ -2419,16 +2006,16 @@
 <img date="2021-04-08" latitude="23.561242" longitude="119.585588" time="15:37:33" url="/2021/04/08/DATE20210408TIME153733GEOBOOLyesLONGE119585588LATN23561242DIR353ALT0SIZE11472THUMB4993ORIGOliverDSCN0209.jpg" />
 </media>
 <sem writing="uninscribed" />
-<ent id="o707268">
+<ent id="o707267">
 <types>
 <type language="English">zhufu</type>
 </types>
 <geography geotop="o1414149" siteid="s131647">
-<latitude src="percol-up">23.561267</latitude>
-<longitude src="percol-up">119.585617</longitude>
+<latitude src="percol-up">23.561268</latitude>
+<longitude src="percol-up">119.585613</longitude>
 </geography>
 <media>
-<img date="2021-04-08" latitude="23.561267" longitude="119.585617" time="15:37:40" url="/2021/04/08/DATE20210408TIME153740GEOBOOLyesLONGE119585617LATN23561267DIR352ALT0SIZE11472THUMB5277ORIGOliverDSCN0212.jpg" />
+<img date="2021-04-08" latitude="23.561268" longitude="119.585613" time="15:37:39" url="/2021/04/08/DATE20210408TIME153739GEOBOOLyesLONGE119585613LATN23561268DIR0ALT0SIZE11472THUMB5583ORIGOliverDSCN0211.jpg" />
 </media>
 <events>
 <event type="production">
@@ -2445,28 +2032,16 @@
 </arts>
 </sem>
 </ent>
-<ent id="o707265">
-<types>
-<type language="English">stele</type>
-</types>
-<geography geotop="o1414149" siteid="s131647">
-<latitude src="percol-up">23.561242</latitude>
-<longitude src="percol-up">119.585588</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561242" longitude="119.585588" time="15:37:33" url="/2021/04/08/DATE20210408TIME153733GEOBOOLyesLONGE119585588LATN23561242DIR353ALT0SIZE11472THUMB4993ORIGOliverDSCN0209.jpg" />
-</media>
-</ent>
-<ent id="o707267">
+<ent id="o707268">
 <types>
 <type language="English">zhufu</type>
 </types>
 <geography geotop="o1414149" siteid="s131647">
-<latitude src="percol-up">23.561268</latitude>
-<longitude src="percol-up">119.585613</longitude>
+<latitude src="percol-up">23.561267</latitude>
+<longitude src="percol-up">119.585617</longitude>
 </geography>
 <media>
-<img date="2021-04-08" latitude="23.561268" longitude="119.585613" time="15:37:39" url="/2021/04/08/DATE20210408TIME153739GEOBOOLyesLONGE119585613LATN23561268DIR0ALT0SIZE11472THUMB5583ORIGOliverDSCN0211.jpg" />
+<img date="2021-04-08" latitude="23.561267" longitude="119.585617" time="15:37:40" url="/2021/04/08/DATE20210408TIME153740GEOBOOLyesLONGE119585617LATN23561267DIR352ALT0SIZE11472THUMB5277ORIGOliverDSCN0212.jpg" />
 </media>
 <events>
 <event type="production">
@@ -2509,6 +2084,326 @@
 </arts>
 </sem>
 </ent>
+<ent id="o707265">
+<types>
+<type language="English">stele</type>
+</types>
+<geography geotop="o1414149" siteid="s131647">
+<latitude src="percol-up">23.561242</latitude>
+<longitude src="percol-up">119.585588</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561242" longitude="119.585588" time="15:37:33" url="/2021/04/08/DATE20210408TIME153733GEOBOOLyesLONGE119585588LATN23561242DIR353ALT0SIZE11472THUMB4993ORIGOliverDSCN0209.jpg" />
+</media>
+</ent>
+</ent>
+</ent>
+</ent>
+<ent id="s131650">
+<types>
+<type language="English">general</type>
+<type language="English">五營</type>
+<type language="English">site</type>
+<type script="Latin">north general</type>
+<type script="Chinese-traditional">北營</type>
+<type script="Latin">general Lian</type>
+<type script="Chinese-traditional">連元帥</type>
+</types>
+<communities>
+<community>
+<name language="English">Dongwen</name>
+<name script="Chinese-traditional">東文</name>
+</community>
+</communities>
+<names>
+<name language="English">Dongwen North General Lian</name>
+<name script="Chinese-traditional">東文連元帥北營</name>
+</names>
+<geography geotop="s114402" siteid="s114402">
+<longitude src="percol-up">119.585587</longitude>
+<latitude src="percol-up">23.561247</latitude>
+</geography>
+<events>
+<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:38:10" timeto="15:39:01">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name script="Latin">apotropaic practice</name>
+</names>
+<epistemics>observed</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<ent id="o1414163">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s131650" siteid="s131650">
+<latitude src="percol-up">23.561257</latitude>
+<longitude src="percol-up">119.585588</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o1414164">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o1414163" siteid="s131650">
+<latitude src="percol-up">23.561257</latitude>
+<longitude src="percol-up">119.585588</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+</ent>
+</ent>
+<ent id="o707280">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131650" siteid="s131650">
+<latitude src="percol-up">23.561247</latitude>
+<longitude src="percol-up">119.58558</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561247" longitude="119.585580" time="15:38:22" url="/2021/04/08/DATE20210408TIME153822GEOBOOLyesLONGE119585580LATN23561247DIR258ALT0SIZE11472THUMB4793ORIGOliverDSCN0224.jpg" />
+</media>
+</ent>
+<ent id="o707278">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131650" siteid="s131650">
+<latitude src="percol-up">23.561248</latitude>
+<longitude src="percol-up">119.585587</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561248" longitude="119.585587" time="15:38:15" url="/2021/04/08/DATE20210408TIME153815GEOBOOLyesLONGE119585587LATN23561248DIR265ALT0SIZE11472THUMB4881ORIGOliverDSCN0222.jpg" />
+</media>
+</ent>
+<ent id="o707289">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131650" siteid="s131650">
+<latitude src="percol-up">23.561245</latitude>
+<longitude src="percol-up">119.585627</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561245" longitude="119.585627" time="15:39:01" url="/2021/04/08/DATE20210408TIME153901GEOBOOLyesLONGE119585627LATN23561245DIR260ALT0SIZE11472THUMB4509ORIGOliverDSCN0233.jpg" />
+</media>
+</ent>
+<ent id="o707279">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131650" siteid="s131650">
+<latitude src="percol-up">23.561245</latitude>
+<longitude src="percol-up">119.585575</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561245" longitude="119.585575" time="15:38:19" url="/2021/04/08/DATE20210408TIME153819GEOBOOLyesLONGE119585575LATN23561245DIR262ALT0SIZE11472THUMB4860ORIGOliverDSCN0223.jpg" />
+</media>
+</ent>
+<ent id="o1414162">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s131650" siteid="s131650">
+<latitude src="percol-up">23.561257</latitude>
+<longitude src="percol-up">119.585588</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1414161">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1414162" siteid="s131650">
+<latitude src="percol-up">23.561257</latitude>
+<longitude src="percol-up">119.585588</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o707277">
+<types>
+<type language="English">stele</type>
+</types>
+<geography geotop="o1414161" siteid="s131650">
+<latitude src="percol-up">23.561257</latitude>
+<longitude src="percol-up">119.585588</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561257" longitude="119.585588" time="15:38:10" url="/2021/04/08/DATE20210408TIME153810GEOBOOLyesLONGE119585588LATN23561257DIR259ALT0SIZE11472THUMB4409ORIGOliverDSCN0221.jpg" />
+</media>
+</ent>
+</ent>
+</ent>
+</ent>
+<ent id="s131648">
+<types>
+<type language="English">general</type>
+<type language="English">五營</type>
+<type language="English">site</type>
+<type script="Latin">south general</type>
+<type script="Chinese-traditional">南營</type>
+<type script="Latin">general Xiao</type>
+<type script="Chinese-traditional">趙元帥</type>
+</types>
+<communities>
+<community>
+<name language="English">Dongwen</name>
+<name script="Chinese-traditional">東文</name>
+</community>
+</communities>
+<names>
+<name language="English">Dongwen South General Xiao-Zhao</name>
+<name script="Chinese-traditional">東文蕭-趙元帥南營</name>
+</names>
+<geography geotop="s114402" siteid="s114402">
+<longitude src="percol-up">119.585645</longitude>
+<latitude src="percol-up">23.561273</latitude>
+</geography>
+<events>
+<event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:37:43" timeto="15:38:51">
+<agents>
+<agent refid="con1" role="researcher" />
+</agents>
+</event>
+</events>
+<culturaldomain>
+<practices>
+<practice>
+<names>
+<name script="Latin">apotropaic practice</name>
+</names>
+<epistemics>observed</epistemics>
+</practice>
+</practices>
+</culturaldomain>
+<ent id="o707272">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131648" siteid="s131648">
+<latitude src="percol-up">23.561273</latitude>
+<longitude src="percol-up">119.585653</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561273" longitude="119.585653" time="15:37:56" url="/2021/04/08/DATE20210408TIME153756GEOBOOLyesLONGE119585653LATN23561273DIR280ALT0SIZE11472THUMB5422ORIGOliverDSCN0216.jpg" />
+</media>
+</ent>
+<ent id="o707287">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131648" siteid="s131648">
+<latitude src="percol-up">23.561268</latitude>
+<longitude src="percol-up">119.585645</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561268" longitude="119.585645" time="15:38:51" url="/2021/04/08/DATE20210408TIME153851GEOBOOLyesLONGE119585645LATN23561268DIR303ALT0SIZE11472THUMB4655ORIGOliverDSCN0231.jpg" />
+</media>
+</ent>
+<ent id="o707271">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131648" siteid="s131648">
+<latitude src="percol-up">23.561273</latitude>
+<longitude src="percol-up">119.58565</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561273" longitude="119.585650" time="15:37:55" url="/2021/04/08/DATE20210408TIME153755GEOBOOLyesLONGE119585650LATN23561273DIR324ALT0SIZE11472THUMB5564ORIGOliverDSCN0215.jpg" />
+</media>
+</ent>
+<ent id="o707270">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131648" siteid="s131648">
+<latitude src="percol-up">23.56128</latitude>
+<longitude src="percol-up">119.585643</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561280" longitude="119.585643" time="15:37:46" url="/2021/04/08/DATE20210408TIME153746GEOBOOLyesLONGE119585643LATN23561280DIR326ALT0SIZE11472THUMB5119ORIGOliverDSCN0214.jpg" />
+</media>
+</ent>
+<ent id="o1414154">
+<types>
+<type language="English">inner space</type>
+</types>
+<geography geotop="s131648" siteid="s131648">
+<latitude src="percol-up">23.561277</latitude>
+<longitude src="percol-up">119.58563</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o1414153">
+<types>
+<type language="English">altar</type>
+</types>
+<geography geotop="o1414154" siteid="s131648">
+<latitude src="percol-up">23.561277</latitude>
+<longitude src="percol-up">119.58563</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
+</media>
+<sem writing="uninscribed" />
+<ent id="o707269">
+<types>
+<type language="English">stele</type>
+</types>
+<geography geotop="o1414153" siteid="s131648">
+<latitude src="percol-up">23.561277</latitude>
+<longitude src="percol-up">119.58563</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
+</media>
+</ent>
+</ent>
+</ent>
+<ent id="o1414155">
+<types>
+<type language="English">structure</type>
+</types>
+<geography geotop="s131648" siteid="s131648">
+<latitude src="percol-up">23.561277</latitude>
+<longitude src="percol-up">119.58563</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
+<ent id="o1414156">
+<types>
+<type language="English">structure front side</type>
+</types>
+<geography geotop="o1414155" siteid="s131648">
+<latitude src="percol-up">23.561277</latitude>
+<longitude src="percol-up">119.58563</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561277" longitude="119.585630" time="15:37:43" url="/2021/04/08/DATE20210408TIME153743GEOBOOLyesLONGE119585630LATN23561277DIR306ALT0SIZE11472THUMB4667ORIGOliverDSCN0213.jpg" />
+</media>
+<sem figurative="no" writing="uninscribed" />
 </ent>
 </ent>
 </ent>
@@ -2535,13 +2430,6 @@
 <geography geotop="s114402" siteid="s114402">
 <longitude src="percol-up">119.585605</longitude>
 <latitude src="percol-up">23.561222</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:36:36" timeto="15:38:47">
@@ -2560,18 +2448,6 @@
 </practice>
 </practices>
 </culturaldomain>
-<ent id="o707262">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s130804" siteid="s130804">
-<latitude src="percol-up">23.561207</latitude>
-<longitude src="percol-up">119.5856</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561207" longitude="119.585600" time="15:37:11" url="/2021/04/08/DATE20210408TIME153711GEOBOOLyesLONGE119585600LATN23561207DIR28ALT0SIZE11472THUMB4669ORIGOliverDSCN0206.jpg" />
-</media>
-</ent>
 <ent id="o707285">
 <types>
 <type language="English" script="Latin">object</type>
@@ -2582,18 +2458,6 @@
 </geography>
 <media>
 <img date="2021-04-08" latitude="23.561260" longitude="119.585592" time="15:38:47" url="/2021/04/08/DATE20210408TIME153847GEOBOOLyesLONGE119585592LATN23561260DIR14ALT0SIZE11472THUMB4611ORIGOliverDSCN0229.jpg" />
-</media>
-</ent>
-<ent id="o707261">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s130804" siteid="s130804">
-<latitude src="percol-up">23.561222</latitude>
-<longitude src="percol-up">119.585617</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561222" longitude="119.585617" time="15:37:03" url="/2021/04/08/DATE20210408TIME153703GEOBOOLyesLONGE119585617LATN23561222DIR21ALT0SIZE11472THUMB4718ORIGOliverDSCN0205.jpg" />
 </media>
 </ent>
 <ent id="o707264">
@@ -2620,6 +2484,18 @@
 <img date="2021-04-08" latitude="23.561202" longitude="119.585652" time="15:36:56" url="/2021/04/08/DATE20210408TIME153656GEOBOOLyesLONGE119585652LATN23561202DIR9ALT0SIZE11472THUMB4804ORIGOliverDSCN0204.jpg" />
 </media>
 </ent>
+<ent id="o707261">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s130804" siteid="s130804">
+<latitude src="percol-up">23.561222</latitude>
+<longitude src="percol-up">119.585617</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561222" longitude="119.585617" time="15:37:03" url="/2021/04/08/DATE20210408TIME153703GEOBOOLyesLONGE119585617LATN23561222DIR21ALT0SIZE11472THUMB4718ORIGOliverDSCN0205.jpg" />
+</media>
+</ent>
 <ent id="o707263">
 <types>
 <type language="English" script="Latin">object</type>
@@ -2630,6 +2506,18 @@
 </geography>
 <media>
 <img date="2021-04-08" latitude="23.561223" longitude="119.585605" time="15:37:24" url="/2021/04/08/DATE20210408TIME153724GEOBOOLyesLONGE119585605LATN23561223DIR345ALT0SIZE11472THUMB5244ORIGOliverDSCN0207.jpg" />
+</media>
+</ent>
+<ent id="o707262">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s130804" siteid="s130804">
+<latitude src="percol-up">23.561207</latitude>
+<longitude src="percol-up">119.5856</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561207" longitude="119.585600" time="15:37:11" url="/2021/04/08/DATE20210408TIME153711GEOBOOLyesLONGE119585600LATN23561207DIR28ALT0SIZE11472THUMB4669ORIGOliverDSCN0206.jpg" />
 </media>
 </ent>
 <ent id="o1414147">
@@ -2720,13 +2608,6 @@
 <geography geotop="s114402" siteid="s114402">
 <longitude src="percol-up">119.585572</longitude>
 <latitude src="percol-up">23.561242</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
 </geography>
 <events>
 <event type="fieldwork" day="2021-04-08" lunar="2021-02-27" timefrom="15:38:27" timeto="15:39:04">
@@ -2745,32 +2626,6 @@
 </practice>
 </practices>
 </culturaldomain>
-<ent id="o707284">
-<types>
-<type language="English">zhufu</type>
-</types>
-<geography geotop="s131651" siteid="s131651">
-<latitude src="percol-up">23.561238</latitude>
-<longitude src="percol-up">119.585553</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561238" longitude="119.585553" time="15:38:41" url="/2021/04/08/DATE20210408TIME153841GEOBOOLyesLONGE119585553LATN23561238DIR243ALT0SIZE11472THUMB4549ORIGOliverDSCN0228.jpg" />
-</media>
-<events>
-<event type="production">
-<material language="English">bamboo</material>
-</event>
-<event type="production">
-<material language="English">paint</material>
-<technique language="English" tool="brush">painted</technique>
-</event>
-</events>
-<sem writing="inscribed">
-<arts>
-<art script="Latin">calligraphy</art>
-</arts>
-</sem>
-</ent>
 <ent id="o707283">
 <types>
 <type language="English">zhufu</type>
@@ -2797,6 +2652,18 @@
 </arts>
 </sem>
 </ent>
+<ent id="o707290">
+<types>
+<type language="English" script="Latin">object</type>
+</types>
+<geography geotop="s131651" siteid="s131651">
+<latitude src="percol-up">23.561242</latitude>
+<longitude src="percol-up">119.585623</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561242" longitude="119.585623" time="15:39:04" url="/2021/04/08/DATE20210408TIME153904GEOBOOLyesLONGE119585623LATN23561242DIR247ALT0SIZE11472THUMB4159ORIGOliverDSCN0234.jpg" />
+</media>
+</ent>
 <ent id="o707282">
 <types>
 <type language="English">zhufu</type>
@@ -2807,6 +2674,32 @@
 </geography>
 <media>
 <img date="2021-04-08" latitude="23.561247" longitude="119.585572" time="15:38:30" url="/2021/04/08/DATE20210408TIME153830GEOBOOLyesLONGE119585572LATN23561247DIR256ALT0SIZE11472THUMB4992ORIGOliverDSCN0226.jpg" />
+</media>
+<events>
+<event type="production">
+<material language="English">bamboo</material>
+</event>
+<event type="production">
+<material language="English">paint</material>
+<technique language="English" tool="brush">painted</technique>
+</event>
+</events>
+<sem writing="inscribed">
+<arts>
+<art script="Latin">calligraphy</art>
+</arts>
+</sem>
+</ent>
+<ent id="o707284">
+<types>
+<type language="English">zhufu</type>
+</types>
+<geography geotop="s131651" siteid="s131651">
+<latitude src="percol-up">23.561238</latitude>
+<longitude src="percol-up">119.585553</longitude>
+</geography>
+<media>
+<img date="2021-04-08" latitude="23.561238" longitude="119.585553" time="15:38:41" url="/2021/04/08/DATE20210408TIME153841GEOBOOLyesLONGE119585553LATN23561238DIR243ALT0SIZE11472THUMB4549ORIGOliverDSCN0228.jpg" />
 </media>
 <events>
 <event type="production">
@@ -2848,18 +2741,6 @@
 </media>
 <sem figurative="no" writing="uninscribed" />
 </ent>
-</ent>
-<ent id="o707290">
-<types>
-<type language="English" script="Latin">object</type>
-</types>
-<geography geotop="s131651" siteid="s131651">
-<latitude src="percol-up">23.561242</latitude>
-<longitude src="percol-up">119.585623</longitude>
-</geography>
-<media>
-<img date="2021-04-08" latitude="23.561242" longitude="119.585623" time="15:39:04" url="/2021/04/08/DATE20210408TIME153904GEOBOOLyesLONGE119585623LATN23561242DIR247ALT0SIZE11472THUMB4159ORIGOliverDSCN0234.jpg" />
-</media>
 </ent>
 <ent id="o1414167">
 <types>

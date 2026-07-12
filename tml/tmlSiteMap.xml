@@ -73,6 +73,7 @@
 <description><include href="tmlDocTaiwanPenghuAnzhai.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuBaikeng.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuBaisha.xml" parse="xml"/></description>
+<description><include href="tmlDocTaiwanPenghuBaishaXiaochi.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuCaiyuan.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuChaoyang.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuChenggong.xml" parse="xml"/></description>
@@ -87,6 +88,7 @@
 <description><include href="tmlDocTaiwanPenghuDachijiao.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDingwan.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDongan.xml" parse="xml"/></description>
+<description><include href="tmlDocTaiwanPenghuDonghu.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDongji.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDongshi.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuDongwei.xml" parse="xml"/></description>
@@ -133,6 +135,7 @@
 <description><include href="tmlDocTaiwanPenghuTongpan.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuWaian.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuWangan.xml" parse="xml"/></description>
+<description><include href="tmlDocTaiwanPenghuWude.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuWukan.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuXian.xml" parse="xml"/></description>
 <description><include href="tmlDocTaiwanPenghuXiaochijiao.xml" parse="xml"/></description>

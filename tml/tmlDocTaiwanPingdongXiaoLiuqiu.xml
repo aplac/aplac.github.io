@@ -123,15 +123,12 @@
 <transliteration system="cantonese">man4 gwok3 baat3 baat3 nin4 ji6 jyut6 co1 luk6 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó bā bā nián èr yuè chū liù rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="2">二月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:50:50">
 <div id="1" language="English">Revised on February 6, 1988</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)林家列位組宗佳茔</transcription>
@@ -144,14 +141,11 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 lam4 gaa1/gu1 laat6/lit6 wai2/wai6 zou2 zung1 gaai1 jing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ lín jiā liè wèi zǔ zōng jiā yíng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:50:50" />
 </translations>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription role="donor" simplified="no">陽上子孫立石</transcription>
@@ -312,12 +306,6 @@
 <transliteration system="cantonese">hin2 haau2 lam4 gung1 wai5 juk6 cyu5 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo lín gōng huì yù zhù guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考林公&gt;諱玉柱官一位佳城</div>
 </normalization>
@@ -326,6 +314,9 @@
 <div id="1" language="English">Xian Kao Lin Gong&gt;Taboo Yuzhu Official a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">林</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" role="donor" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">陽世子孫立石</transcription>
@@ -458,15 +449,12 @@
 <transliteration system="cantonese">man4 gwok3 cat1 jat1 nin4 gau2 jyut6 co1 jat1 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī yī nián jiǔ yuè chū yī rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="9">九月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:50:53">
 <div id="1" language="English">Revised on September 1, 1971</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖妣李門黃&gt;氏蓮對娘佳城</transcription>
@@ -475,11 +463,6 @@
 <transliteration system="cantonese">hin2 zou2 bei2 lei5 mun4 wong4 si6/zi1 lin4 deoi3 noeng4 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ lǐ mén huáng shì lián duì niáng jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">李</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖妣李門黃氏蓮對娘佳城</div>
 </normalization>
@@ -488,8 +471,10 @@
 <div id="1" language="English">Xianzu Li Men Huang Shilian Dui Niangjiacheng</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="maiden name">黃</marker>
-<marker type="virilocal">門</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription role="donor" script="Chinese-traditional" simplified="no">世代子孫立石</transcription>
@@ -638,12 +623,6 @@
 <transliteration system="cantonese">hin2 haau2 can4/zan6 gung1 wai5 gam1 fuk1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo chén gōng huì jīn fú guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考陳公&gt;諱金福官一位佳城</div>
 </normalization>
@@ -653,6 +632,9 @@
 </trans>
 </translations>
 <marker type="symbol" meaning="prosperity">金</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">陳</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <loc locId="104" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">頴川</loc>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
@@ -800,12 +782,6 @@
 <transliteration system="cantonese">hin2 haau2 can4/zan6 gung1 wai5 kwan1 saan1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo chén gōng huì kūn shān guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考陳公&gt;諱坤山官一位佳城</div>
 </normalization>
@@ -814,6 +790,9 @@
 <div id="1" language="English">Xian Kao Chen Gong&gt;Takun Shanguan is a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">陳</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <loc locId="104" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">穎川</loc>
 <text id="t1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">
@@ -974,12 +953,6 @@
 <transliteration system="cantonese">hin2 haau2 can4/zan6 gung1 wai5 cin2/cin4/zin2 fu3 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo chén gōng huì qián fù guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考陳公&gt;諱錢富官一位佳城</div>
 </normalization>
@@ -988,6 +961,9 @@
 <div id="1" language="English">Xian Kao Chen Gong&gt;Taboo about money, rich officials, a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">陳</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <loc locId="104" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">頴川</loc>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
@@ -1134,18 +1110,15 @@
 <transliteration system="cantonese">hin2 zou2 bei2 sou1 mun4 lei5 si6/zi1 wu1 joeng4 noeng4 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ sū mén lǐ shì wū yáng niáng jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">蘇</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖妣蘇門李&gt;氏烏羊娘佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:02" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <loc script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">廬山</loc>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
@@ -1300,19 +1273,15 @@
 <transliteration system="cantonese">hin2 haau2 zyu1 gung1 wai5 aa2/aa3/aak3/o1 jyu6 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo zhū gōng huì ā yù guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">朱</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顕考朱公諱阿裕官一位佳城</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:09" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription calendar="minguo" dateMeaning="death" dateReference="1982" era="minguo" personId="1" role="date" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">民國壬戍年五月十九日逝</transcription>
@@ -1582,19 +1551,16 @@
 <transliteration system="cantonese">gu3 haau2 hung4 gwan1 jan4 ci4 mou6</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo hóng jūn rén cí mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:13">
 <div id="1" language="English">Therefore, the study of Hongjun Renren’s tomb</div>
 </trans>
 </translations>
-<marker type="endearment" meaning="emotional intimacy">慈</marker>
 <marker type="symbol" meaning="compassion">仁</marker>
 <marker type="symbol" meaning="confucianism">君</marker>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
+<marker type="endearment" meaning="emotional intimacy">慈</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription calendar="minguo" dateMeaning="death" dateReference="1986" era="minguo" personId="1" role="date" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">民國七五年三月廿七日逝</transcription>
@@ -1739,15 +1705,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 jat1 nin4 ji6 jyut6 co1 sei3/si3 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ yī nián èr yuè chū sì rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="2">二月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:08">
 <div id="1" language="English">Revised on February 4, 1991</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖妣許門陳&gt;氏玉葉娘佳城</transcription>
@@ -1756,17 +1719,15 @@
 <transliteration system="cantonese">hin2 zou2 bei2 heoi2 mun4 can4/zan6 si6/zi1 juk6 jip6/sip3 noeng4 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ xǔ mén chén shì yù yè niáng jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖妣許門陳&gt;氏玉葉娘佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:09" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t2" calendar="republican" characters="5" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">附葬孫福森</transcription>
@@ -1925,14 +1886,12 @@
 <transliteration system="cantonese">man4 gwok3 mou6 ng5 nin4 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó wù wǔ nián xiū</transliteration>
 </transliterations>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:42">
 <div id="1" language="English">Revised in the Wuwu Year of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t4" calendar="chineseLunar" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯太祖考許家明心秀才坆墓</transcription>
@@ -1944,17 +1903,13 @@
 <transliteration system="cantonese">hin2 taai3 zou2 haau2 heoi2 gaa1/gu1 ming4 sam1 sau3 coi4 fan4 mou6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn tài zǔ kǎo xǔ jiā míng xīn xiù cái méi mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">莊</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:42">
 <div id="1" language="English">Xian Taizu examines Xu Jiaming’s tomb of a talented scholar</div>
 </trans>
 </translations>
 <marker type="symbol" meaning="buddhism">明</marker>
-<marker type="symbol" meaning="buddhism">心</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person chineseFamilyName="許" gender="male" personId="1" script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="t2br2l">顯太祖考許家明心秀才坆墓</person>
 <loc script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="t2br2l">晉江</loc>
@@ -2107,16 +2062,13 @@
 <transliteration system="cantonese">hin2 bei2 heoi2 mun4 lam4 si6/zi1 bai3 noeng4 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ xǔ mén lín shì bì niáng yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:22" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="maiden name">林</marker>
-<marker type="virilocal">門</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -2221,15 +2173,12 @@
 <transliteration system="cantonese">man4 gwok3 ding1/zaang1/zang1 maau5 nin4 sei3/si3 jyut6 sap6 ji6 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó dīng mǎo nián sì yuè shí èr rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="4">四月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:52">
 <div id="1" language="English">Revised on April 12, Dingmao Year of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="chineseLunar" characters="5" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">附葬(加毛/鬍)</transcription>
@@ -2259,15 +2208,11 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 heoi2 gung1 wai5 抙gun1 mun4 coi3 si6/zi1 noeng4 sei3/si3 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ xǔ gōng huì póu guān mén cài shì niáng sì wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="maiden name">蔡</marker>
-<marker type="virilocal">門</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person chineseFamilyName="許" chineseGirlsFamilyName="蔡" gender="(male/female)" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">附葬(加毛/鬍)</person>
 <person chineseFamilyName="許" chineseGirlsFamilyName="蔡" gender="(male/female)" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯祖(考/妣)許(公諱抙官/門蔡氏娘)四位佳城</person>
@@ -2417,14 +2362,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 sap6 ji6 nin4 saam1/saam3 jyut6 jaa6/je6/nim6 luk6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ shí èr nián sān yuè niàn liù xiū</transliteration>
 </transliterations>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:38">
 <div id="1" language="English">Revised on March 206, 1992 of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯妣許門陳&gt;氏金鳳娘之佳城</transcription>
@@ -2433,18 +2376,16 @@
 <transliteration system="cantonese">hin2 bei2 heoi2 mun4 can4/zan6 si6/zi1 gam1 fung6 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ xǔ mén chén shì jīn fèng niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="female">氏</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣許門陳&gt;氏金鳳娘之佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:39" />
 </translations>
-<marker type="virilocal">門</marker>
 <marker type="symbol" meaning="prosperity">金</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t2" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯妣許門陳氏金鳳娘之佳城</transcription>
@@ -2456,19 +2397,16 @@
 <transliteration system="cantonese">hin2 bei2 heoi2 mun4 can4/zan6 si6/zi1 gam1 fung6 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ xǔ mén chén shì jīn fèng niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:40">
 <div id="1" language="English">The beautiful city of Xumen Chen’s Golden Phoenix</div>
 </trans>
 </translations>
-<marker type="name" meaning="maiden name">陳</marker>
-<marker type="virilocal">門</marker>
 <marker type="symbol" meaning="prosperity">金</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="maiden name">陳</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <person chineseFamilyName="許" gender="female" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯妣許門陳&gt;氏金鳳娘之佳城</person>
 <loc script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">晉江</loc>
@@ -2591,15 +2529,12 @@
 <transliteration system="cantonese">man4 gwok3 baat3 baat3 nin4 ng5 jyut6 sap6 baat3 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó bā bā nián wǔ yuè shí bā rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="5">五月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:23">
 <div id="1" language="English">Revised on May 18, 1988</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯考李公&gt;諱燈球官一位佳城</transcription>
@@ -2608,9 +2543,6 @@
 <transliteration system="cantonese">hin2 haau2 lei5 gung1 wai5 dang1 kau4 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo lǐ gōng huì dēng qiú guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考李公&gt;諱燈球官一位佳城</div>
 </normalization>
@@ -2619,7 +2551,9 @@
 <div id="1" language="English">Xian Kao Li Gong&gt;Tabu Dengqiu Guan Jiacheng</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="surname">李</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t2" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顕考李公諱燈球官一位佳城</transcription>
@@ -2631,18 +2565,15 @@
 <transliteration system="cantonese">hin2 haau2 lei5 gung1 wai5 dang1 kau4 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo lǐ gōng huì dēng qiú guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">李</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:26">
 <div id="1" language="English">Li Gongtao won the first place in the lighting and ball game.</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">李</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person added="no" chineseFamilyName="李" gender="male" givenName="燈球" personId="1" simplified="no">顯考李公&gt;諱燈球官一位佳城</person>
 <loc locId="42" script="Chinese-traditional" simplified="no" textColor="">隴西</loc>
@@ -2791,22 +2722,19 @@
 <transliteration system="cantonese">hin2 haau2 hung4 gung1 wai5 ming4 ngon1/on1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo hóng gōng huì míng ān guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顕考洪公&gt;諱明安官一位佳城</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:05">
 <div id="1" language="English">Qian Kao Hong Gong&gt; Ming An Guan is a good city</div>
 </trans>
 </translations>
 <marker type="symbol" meaning="buddhism">明</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">洪</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person gender="male" personId="1" script="Chinese-traditional" simplified="no">顯考洪公&gt;諱明安官一位佳城</person>
 <loc script="Chinese-traditional" simplified="no" textColor="gold">燉煌</loc>
@@ -2955,12 +2883,6 @@
 <transliteration system="cantonese">hin2 haau2 heoi2 gung1 wai5 gam1 cyun1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo xǔ gōng huì jīn chuān guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考許公&gt;諱金川官一位佳城</div>
 </normalization>
@@ -2970,6 +2892,8 @@
 </trans>
 </translations>
 <marker type="symbol" meaning="prosperity">金</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person added="no" gender="male" personId="1" script="Chinese-traditional" simplified="no">顯考許公&gt;諱金川官一位佳城</person>
 <loc locId="88" script="Chinese-traditional" simplified="no" textColor="gold">晉江</loc>
@@ -3113,18 +3037,15 @@
 <transliteration system="cantonese">hin2 zou2 bei2 heoi2 mun4 can4/zan6 si6/zi1 sai1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ xǔ mén chén shì xī yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖妣許門陳&gt;氏西一位佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:01" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <person added="no" gender="female" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯祖妣許門陳&gt;氏西一位佳城</person>
 <loc script="Chinese-traditional" simplified="no" textColor="gold">高陽</loc>
@@ -3258,15 +3179,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 ji6 nin4 baat3 jyut6 co1 ng5 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ èr nián bā yuè chū wǔ rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="8">八月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:57">
 <div id="1" language="English">Revised on August 5, 1992</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="7" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖考許天數墓</transcription>
@@ -3278,15 +3196,12 @@
 <transliteration system="cantonese">hin2 zou2 haau2 heoi2 tin1 sok3/sou2/sou3 mou6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo xǔ tiān shù mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:58">
 <div id="1" language="English">Examination of Xu Tianshu’s Tomb of Xianzu</div>
 </trans>
 </translations>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person added="no" chineseFamilyName="許" gender="male" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯祖考許天數墓</person>
 <loc locId="423" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">高陽</loc>
@@ -3440,12 +3355,6 @@
 <transliteration system="cantonese">hin2 zou2 haau2 heoi2 gung1 wai5 zeon3 coi4 gun1 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo xǔ gōng huì jìn cái guān zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖考許公&gt;諱進財官之佳城</div>
 </normalization>
@@ -3454,6 +3363,8 @@
 <div id="1" language="English">Ancestor Examination of Xu Gong&gt;Taboo to Enter the Good City of Financial Officials</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person chineseFamilyName="許" gender="male" givenName="進財" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯祖考許公&gt;諱進財官之佳城</person>
 <loc script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">高陽</loc>
@@ -3604,21 +3515,18 @@
 <transliteration system="cantonese">gu3 haau2 heoi2 gwan1 wai5 zeon3 cyun4 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo xǔ jūn huì jìn quán guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">故考許君&gt;諱進泉官一位佳城</div>
 </normalization>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:49">
 <div id="1" language="English">Therefore, test Xu Jun&gt; taboo into Quanguan, a good city</div>
 </trans>
 </translations>
 <marker type="symbol" meaning="confucianism">君</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person added="no" gender="male" personId="1" script="Chinese-traditional" simplified="no">故考許君&gt;諱進泉官一位佳城</person>
 <loc script="Chinese-traditional" simplified="no" textColor="gold">高陽</loc>
@@ -4009,13 +3917,10 @@
 <transliteration system="cantonese">gu3 haau2 heoi2 gwan1 gam1 coi4 gun1 jat1 wai2/wai6</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo xǔ jūn jīn cái guān yī wèi</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="honorific">故</marker>
 <marker type="symbol" meaning="prosperity">金</marker>
 <marker type="symbol" meaning="confucianism">君</marker>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person added="no" chineseFamilyName="許" gender="male" personId="1" script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="t2br2l">故考許君金財官一位?+</person>
 <loc locId="14096" script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="t2br2l">晋江</loc>
@@ -4143,15 +4048,12 @@
 <transliteration system="cantonese">man4 gwok3 baat3 baat3 nin4 luk6 jyut6 jaa6/je6/nim6 cat1 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó bā bā nián liù yuè niàn qī rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="6">六月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:32">
 <div id="1" language="English">Revised on June 27, 1988</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯考許公&gt;諱萬得宮一位佳城</transcription>
@@ -4160,12 +4062,6 @@
 <transliteration system="cantonese">hin2 haau2 heoi2 gung1 wai5 maan6 dak1 gung1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo xǔ gōng huì wàn dé gōng yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考許公&gt;諱萬得宮一位佳城</div>
 </normalization>
@@ -4174,6 +4070,8 @@
 <div id="1" language="English">Xian Kao Xu Gong&gt;Taboo Wande Palace is a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person gender="male" personId="1" script="Chinese-traditional" simplified="no">顯考許公&gt;諱萬得宮一位佳城</person>
 <loc script="Chinese-traditional" simplified="no" textColor="gold">晉江</loc>
@@ -4316,18 +4214,15 @@
 <transliteration system="cantonese">hin2 bei2 heoi2 mun4 can4/zan6 si6/zi1 gwaa1 noeng4 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ xǔ mén chén shì guā niáng yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣許門陳&gt;氏瓜娘一位佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:29" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <person added="no" chineseFamilyName="許" chineseGirlsFamilyName="陳" gender="female" givenName="瓜" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯妣許門陳&gt;氏瓜娘一位佳城</person>
 <loc locId="88" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">晉江</loc>
@@ -4461,12 +4356,6 @@
 <transliteration system="cantonese">hin2 haau2 heoi2 gung1 wai5 lau6 cing4/seng4/sing4 jat1 wai2/wai6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo xǔ gōng huì lòu chéng yī wèi zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考許公&gt;諱漏成一位之佳城</div>
 </normalization>
@@ -4475,6 +4364,8 @@
 <div id="1" language="English">Xian Kao Xu Gong&gt;Tabu leaked into a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person chineseFamilyName="許" gender="male" givenName="漏成" personId="1" script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="t2br2l">顯考許公&gt;諱漏成一位之佳城</person>
 <loc script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="t2br2l">晉江</loc>
@@ -4615,18 +4506,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 heoi2 gaa1/gu1 laat6/lit6 wai2/wai6 zou2 zung1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ xǔ jiā liè wèi zǔ zōng jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:53:14">
 <div id="1" language="English">Showing Ancestors and Examining the Great Cities of the Xu Family’s Ancestors</div>
 <div id="2" language="English">Showing the ancestors of the Xu family, Jiacheng</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person chineseFamilyName="" gender="(male/female)" personId="(1/2)" script="Chinese-traditional" simplified="no">顯祖(考/妣)許家列位祖宗佳城</person>
 <text id="t1" role="date" script="Chinese-traditional" simplified="no">
@@ -4764,15 +4652,12 @@
 <transliteration system="cantonese">man4 gwok3 baat3 sap6 nin4 luk6 jyut6 jaa6/je6/nim6 baat3 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó bā shí nián liù yuè niàn bā rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="6">六月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:05">
 <div id="1" language="English">Revised on June 208, 1980</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顕祖妣許門田氏玉娘之佳城</transcription>
@@ -4784,19 +4669,16 @@
 <transliteration system="cantonese">hin2 zou2 bei2 heoi2 mun4 tin4 si6/zi1 juk6 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ xǔ mén tián shì yù niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:07">
 <div id="1" language="English">The beautiful city of Jade Lady of the Xu Mentian clan, the ancestor of Qiang</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="maiden name">田</marker>
-<marker type="virilocal">門</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <loc locId="88" script="Chinese-traditional" simplified="no">晉江</loc>
 </texts>
@@ -4930,9 +4812,6 @@
 <transliteration system="cantonese">hin2 haau2 coi3 gung1 wai5 fuk1 geoi1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo cài gōng huì fú jū guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考蔡公&gt;諱福居官一位佳城</div>
 </normalization>
@@ -4941,7 +4820,9 @@
 <div id="1" language="English">Xian Kao Cai Gong&gt;Tafu Fujuan Guan Jiacheng</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="surname">蔡</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t2" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯考蔡公諱福居官一位佳城</transcription>
@@ -4953,17 +4834,14 @@
 <transliteration system="cantonese">hin2 haau2 coi3 gung1 wai5 fuk1 geoi1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo cài gōng huì fú jū guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">蔡</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:46">
 <div id="1" language="English">Xian Kao Cai Gongtao Fuju Guan 1 Jiacheng</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">蔡</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person added="no" chineseFamilyName="蔡" gender="male" givenName="福居" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯考蔡公&gt;諱福居官一位佳城</person>
 <loc locId="5874" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">濟陽</loc>
@@ -5189,15 +5067,12 @@
 <transliteration system="cantonese">man4 gwok3 gaap3 san1 nin4 luk6 jyut6 jaa6/je6/nim6 luk6 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǎ shēn nián liù yuè niàn liù rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="6">六月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:41">
 <div id="1" language="English">Revised on June 26, Jiashen Year of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="chineseLunar" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)蔡家歷代祖先佳城</transcription>
@@ -5210,18 +5085,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 coi3 gaa1/gu1 lik6 doi6 zou2 sin1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ cài jiā lì dài zǔ xiān jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">蔡</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:42">
 <div id="1" language="English">Examining the Ancestors of the Cai Family in Jiacheng</div>
 <div id="2" language="English">Showing the ancestors of the Cai family, Jiacheng</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -5333,9 +5205,6 @@
 <transliteration system="cantonese">hin2 haau2 coi3 gung1 wai5 jyu5 gun1 jat1 wai2/wai6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo cài gōng huì rǔ guān yī wèi zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考蔡公&gt;諱乳官一位之佳城</div>
 </normalization>
@@ -5344,7 +5213,9 @@
 <div id="1" language="English">Xian Kao Cai Gong&gt; A good city with a taboo breast official</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="surname">蔡</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t2" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯考蔡公諱乳官一位之佳城</transcription>
@@ -5356,17 +5227,14 @@
 <transliteration system="cantonese">hin2 haau2 coi3 gung1 wai5 jyu5 gun1 jat1 wai2/wai6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo cài gōng huì rǔ guān yī wèi zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">蔡</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:40">
 <div id="1" language="English">The best city to be ranked first in the imperial examination of Cai Gongtao</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">蔡</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <person added="no" chineseFamilyName="蔡" gender="male" givenName="乳" personId="1" script="Chinese-traditional" simplified="no">顯考蔡公&gt;諱乳官一位之佳城</person>
 <loc locId="5874" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">濟陽</loc>
@@ -5517,11 +5385,6 @@
 <transliteration system="cantonese">hin2 bei2 coi3 mun4 hung4 si6/zi1 ceng1/cing1 hoeng1 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ cài mén hóng shì qīng xiāng niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">蔡</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣蔡門洪&gt;氏清香娘之佳城</div>
 </normalization>
@@ -5530,7 +5393,9 @@
 <div id="1" language="English">Cai Menhong, the heir apparent, is the beautiful city of Qingxiang Niang</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <person added="no" chineseFamilyName="蔡" chineseGirlsFamilyName="洪" gender="female" givenName="清香" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯妣蔡門洪&gt;氏清香娘之佳城</person>
 <loc script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">濟陽</loc>
@@ -5677,15 +5542,12 @@
 <transliteration system="cantonese">man4 gwok3 cat1 gau2 nin4 sap6 jat1 jyut6 jaa6/je6/nim6 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī jiǔ nián shí yī yuè niàn rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="11">十一月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:03">
 <div id="1" language="English">Revised on November 20, 1979</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="26" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)林(公/門)(諱監官/陳掽娘/諱歪官/陳硯娘/諱哧官)五位佳城</transcription>
@@ -5697,14 +5559,10 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 lam4 gung1 mun4 wai5 gaam1/gaam3 gun1 can4/zan6 pung3 noeng4 wai5 me2/waai1 gun1 can4/zan6 jin6 noeng4 wai5 ci1 gun1 ng5 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ lín gōng mén huì jiān guān chén pèng niáng huì wāi guān chén yàn niáng huì chī guān wǔ wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">林</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
 <marker type="gender" meaning="female">妣</marker>
 <marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="virilocal">門</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription role="donor" script="Chinese-traditional" simplified="no">世代子孫立石</transcription>
@@ -5845,18 +5703,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 lam4 gaa1/gu1 zou2 zung1 laat6/lit6 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ lín jiā zǔ zōng liè wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:50:57">
 <div id="1" language="English">The ancestors of the Kaolin family are listed in the best cities</div>
 <div id="2" language="English">The ancestors of the Lin family are listed in the best cities</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <loc locId="68" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">西河</loc>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
@@ -6001,18 +5856,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 lei5 gaa1/gu1 zou2 zung1 laat6/lit6 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ lǐ jiā zǔ zōng liè wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">李</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:01">
 <div id="1" language="English">The ancestors of the Li family are listed in the best city</div>
 <div id="2" language="English">Examination of the ancestors of the Li family and their ranking in the best cities</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription calendar="minguo" dateMeaning="erected" dateReference="2004" era="minguo" role="date" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">民國九三年二月十八日置</transcription>
@@ -6159,18 +6011,15 @@
 <transliteration system="cantonese">hin2 zou2 bei2 lam4 mun4 can4/zan6 si6/zi1 tou4 faa1 noeng4 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ lín mén chén shì táo huā niáng jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖妣林門陳&gt;氏桃花娘佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:15" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <person added="no" chineseFamilyName="林" chineseGirlsFamilyName="陳" gender="female" givenName="桃花" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯祖妣林門陳&gt;氏桃花娘佳城</person>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
@@ -6433,10 +6282,6 @@
 <transliteration system="cantonese">hin2 bei2 hung4 mun4 lam4 si6/zi1 je6 noeng4 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ hóng mén lín shì yè niáng yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="female">氏</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣洪門林&gt;氏夜娘一位佳城</div>
 </normalization>
@@ -6445,7 +6290,9 @@
 <div id="1" language="English">Xianhe Hongmenlin&gt;Shi Ye Niang is a good city</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t2" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯妣洪門林氏夜娘一位佳城</transcription>
@@ -6457,18 +6304,15 @@
 <transliteration system="cantonese">hin2 bei2 hung4 mun4 lam4 si6/zi1 je6 noeng4 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ hóng mén lín shì yè niáng yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:07">
 <div id="1" language="English">Xianhe Hongmen Lin family Ye Niang 1 Jiacheng</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="maiden name">林</marker>
-<marker type="virilocal">門</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription dateMeaning="death" dateReference="1999" era="minguo" personId="1" role="date" script="Chinese-traditional" simplified="no">民國八十八年二月初七逝</transcription>
@@ -6624,11 +6468,6 @@
 <transliteration system="cantonese">hin2 bei2 hung4 mun4 can4/zan6 si6/zi1 mui4 laan4 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ hóng mén chén shì méi lán niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣洪門陳氏梅蘭娘之佳城</div>
 </normalization>
@@ -6637,8 +6476,10 @@
 <div id="1" language="English">The beautiful city of Xianhe Hongmen Chen family Mei Laniang</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="name" meaning="maiden name">陳</marker>
-<marker type="virilocal">門</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription role="donor" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">孝男 德龍 德賀 等一仝立石</transcription>
@@ -6949,15 +6790,12 @@
 <transliteration system="cantonese">man4 gwok3 cat1 ng5 nin4 sei3/si3 jyut6 jaa6/je6/nim6 ng5 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī wǔ nián sì yuè niàn wǔ rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="4">四月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:48">
 <div id="1" language="English">Revised on April 25, 1975</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯考洪公&gt;諱吉仁官一位佳城</transcription>
@@ -6966,12 +6804,6 @@
 <transliteration system="cantonese">hin2 haau2 hung4 gung1 wai5 gat1 jan4 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo hóng gōng huì jí rén guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考洪公諱吉仁官一位佳城</div>
 </normalization>
@@ -6981,6 +6813,9 @@
 </trans>
 </translations>
 <marker type="symbol" meaning="compassion">仁</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">洪</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">
 <transcription calendar="minguo" dateMeaning="repaired" dateReference="1986" era="minguo" role="date" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">民國七五年四月廿五日修</transcription>
@@ -7200,15 +7035,12 @@
 <transliteration system="cantonese">man4 gwok3 cat1 ng5 nin4 sap6 ji6 jyut6 co1 ng5 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī wǔ nián shí èr yuè chū wǔ xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="12">十二月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:39">
 <div id="1" language="English">Revised on the 5th day of December in the Republic of China 1975</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="17" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)黃(明官/公太/市娘)祖三位之佳城</transcription>
@@ -7222,13 +7054,6 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 wong4 ming4 gun1 gung1 taai3 si5 noeng4 zou2 saam1/saam3 wai2/wai6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ huáng míng guān gōng tài shì niáng zǔ sān wèi zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">黃</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:40">
 <div id="1" language="English">Ancestor examination of the three great cities of Huang and Ming dynasties</div>
@@ -7237,6 +7062,10 @@
 </trans>
 </translations>
 <marker type="symbol" meaning="buddhism">明</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">黃</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">
 <transcription dateMeaning="repaired" dateReference="1986" era="minguo" role="date" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">民國七五年十二月初五修</transcription>
@@ -7370,15 +7199,12 @@
 <transliteration system="cantonese">man4 gwok3 cat1 ng5 nin4 ng5 jyut6 co1 ji6 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī wǔ nián wǔ yuè chū èr rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="5">五月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:00">
 <div id="1" language="English">Revised on May 2nd, 1975</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="17" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)洪(公諱從官/門陳澤娘)二位佳城</transcription>
@@ -7391,17 +7217,14 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 hung4 gung1 wai5 cung4 gun1 mun4 can4/zan6 zaak6 noeng4 ji6 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ hóng gōng huì cóng guān mén chén zé niáng èr wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:01" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">洪</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription calendar="minguo" dateMeaning="repaired" dateReference="1986" era="minguo" role="date" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">民國七五年五月初二日修</transcription>
@@ -7529,15 +7352,12 @@
 <transliteration system="cantonese">man4 gwok3 baat3 ng5 nin4 ji6 jyut6 co1 ng5 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó bā wǔ nián èr yuè chū wǔ rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="2">二月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:44">
 <div id="1" language="English">Revised on February 5, 1985</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="17" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)洪(公?花官/媽陳桂枝)二位佳城</transcription>
@@ -7550,16 +7370,13 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 hung4 gung1 faa1 gun1 maa1/maa2/maa5 can4/zan6 gwai3 kei4/zi1 ji6 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ hóng gōng huā guān mā chén guì zhī èr wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:45" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">洪</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">
 <transcription role="donor" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">三大房子孫立</transcription>
@@ -7708,15 +7525,12 @@
 <transliteration system="cantonese">man4 gwok3 cat1 sap6 luk6 nin4 sap6 jyut6 gau2 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī shí liù nián shí yuè jiǔ rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="10">十月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:30">
 <div id="1" language="English">Revised on October 9, 1976</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顕考陳公諱恩官一位之佳城</transcription>
@@ -7728,17 +7542,14 @@
 <transliteration system="cantonese">hin2 haau2 can4/zan6 gung1 wai5 jan1 gun1 jat1 wai2/wai6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo chén gōng huì ēn guān yī wèi zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:31" />
 </translations>
 <marker type="symbol" meaning="compassion">恩</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">陳</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -7953,21 +7764,18 @@
 <transliteration system="cantonese">hin2 haau2 wong4 gung1 wai5 hoeng2 loeng4 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo huáng gōng huì xiǎng liáng guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">黃</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顕考黃公&gt;諱响凉官一位佳城</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:25">
 <div id="1" language="English">Qian Kao Huang Gong&gt;Taboo Xiang Liang Guan a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">黃</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -8072,15 +7880,12 @@
 <transliteration system="cantonese">man4 gwok3 cat1 sap6 ng5 nin4 sei3/si3 jyut6 gat1 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī shí wǔ nián sì yuè jí rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="4">四月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:32">
 <div id="1" language="English">Revised on an auspicious day in April 1975 of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="17" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顕祖(考/妣)許(公諱呈官/門王出娘)二位佳城</transcription>
@@ -8093,18 +7898,14 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 heoi2 gung1 wai5 cing4 gun1 mun4 wong4/wong6 ceot1 noeng4 ji6 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ xǔ gōng huì chéng guān mén wáng chū niáng èr wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">許</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:33" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -8215,15 +8016,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 sap6 nin4 luk6 jyut6 sap6 gau2 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ shí nián liù yuè shí jiǔ rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="6">六月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:19">
 <div id="1" language="English">Revised on June 19, 1990</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故考陳君&gt;諱定國官一位佳城</transcription>
@@ -8232,15 +8030,9 @@
 <transliteration system="cantonese">gu3 haau2 can4/zan6 gwan1 wai5 deng6/ding6 gwok3 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo chén jūn huì dìng guó guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">故考陳君&gt;諱定國官一位佳城</div>
 </normalization>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:21">
 <div id="1" language="English">Therefore, the examination of Chen Jun&gt; Taboo determines a good city for the official</div>
@@ -8248,6 +8040,9 @@
 </translations>
 <marker type="symbol" meaning="nationalism">國</marker>
 <marker type="symbol" meaning="confucianism">君</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -8373,21 +8168,18 @@
 <transliteration system="cantonese">gu3 haau2 can4/zan6 gwan1 wai5 fai1 wong4 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo chén jūn huì huī huáng guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">故考陳君&gt;諱輝煌官一位佳城</div>
 </normalization>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:28">
 <div id="1" language="English">Therefore, the test of Chen Jun&gt; taboo brilliant official a good city</div>
 </trans>
 </translations>
 <marker type="symbol" meaning="confucianism">君</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription role="donor" script="Chinese-traditional" simplified="no">世代子孫立石</transcription>
@@ -8501,15 +8293,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 sap6 nin4 baat3 jyut6 jaa6/je6/nim6 sei3/si3 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ shí nián bā yuè niàn sì rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="8">八月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:46">
 <div id="1" language="English">Revised on August 24, 1990</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顕考陳公&gt;諱寶珠官一位佳城</transcription>
@@ -8518,21 +8307,18 @@
 <transliteration system="cantonese">hin2 haau2 can4/zan6 gung1 wai5 bou2 zyu1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo chén gōng huì bǎo zhū guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顕考陳公&gt;諱寶珠官一位佳城</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:48">
 <div id="1" language="English">Qian Kao Chen Gong&gt;Taobao Baozhu Guan Jiacheng</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">陳</marker>
+<marker type="honorific" meaning="male">顕</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription role="donor" script="Chinese-traditional" simplified="no">世代子孫立石</transcription>
@@ -8658,10 +8444,6 @@
 <transliteration system="cantonese">hin2 bei2 can4/zan6 mun4 lam4 si6/zi1 jyut6 noeng4 jat1 wai2/wai6 gaai1 jing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ chén mén lín shì yuè niáng yī wèi jiā yíng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣陳門林&gt;氏月娘一位佳塋</div>
 </normalization>
@@ -8670,7 +8452,8 @@
 <div id="1" language="English">Chen Menlin, the heir apparent, is a good tomb of Yueniang.</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription role="donor" script="Chinese-traditional" simplified="no">孝男 正雄 正得 春貴 春福 孫 永源 永祥 永勝 永輝 永漢 明財 明隆 志宏 曾孫 世慶 等一仝立石</transcription>
@@ -8802,11 +8585,6 @@
 <transliteration system="cantonese">hin2 zou2 bei2 can4/zan6 mun4 tin4 si6/zi1 jip6/sip3 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ chén mén tián shì yè niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖妣陳門田&gt;氏葉娘之佳城</div>
 </normalization>
@@ -8815,7 +8593,9 @@
 <div id="1" language="English">Chen Mentian, the descendant of Xianzu&gt;Ye Niang’s beautiful city</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription role="donor" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">陽世子孫立石</transcription>
@@ -8953,12 +8733,6 @@
 <transliteration system="cantonese">hin2 haau2 coi3 gung1 wai5 tin1 sung3 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo cài gōng huì tiān sòng guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">蔡</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考蔡公&gt;諱天送官一位佳城</div>
 </normalization>
@@ -8967,6 +8741,9 @@
 <div id="1" language="English">Xian Kao Cai Gong&gt;Taobao sent officials to a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">蔡</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription role="donor" script="Chinese-traditional" simplified="no">男 一鋒 金財 孫 明其 明昌 任誌 一仝立石</transcription>
@@ -9094,12 +8871,6 @@
 <transliteration system="cantonese">hin2 zou2 haau2 can4/zan6 gung1 wai5 lou5 luk6 gun1 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo chén gōng huì lǎo liù guān zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖考陳公&gt;諱老六官之佳城</div>
 </normalization>
@@ -9108,6 +8879,9 @@
 <div id="1" language="English">Examining the ancestors of Chen Gong&gt;The best city for tabooing the old and six officials</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">陳</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription role="donor" script="Chinese-traditional" simplified="no">孝男 寶珠 孫 一良 勝風 文註 曾孫 足國 瑛傑 璋華 璋輝 等一仝立石</transcription>
@@ -9256,11 +9030,6 @@
 <transliteration system="cantonese">hin2 bei2 joeng4 mun4 coi3 si6/zi1 deoi3 noeng4 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ yáng mén cài shì duì niáng yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">楊</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣楊門蔡&gt;氏對娘一位佳城</div>
 </normalization>
@@ -9269,7 +9038,9 @@
 <div id="1" language="English">The descendant of the Cai family of Yangmen is a good city to his mother.</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription role="donor" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">男 晉 忠雄 宗寶 寶德 國重 孫 豐裕 坤璋 木發 正仁 正賢 哲維 仝立石</transcription>
@@ -9391,16 +9162,12 @@
 <transliteration system="cantonese">man4 gwok3 gaap3 zi2 nin4 gwai3 dung1 zi1 jyut6 cung4/cung5/zung6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǎ zi nián jì dōng zhī yuè zhòng xiū</transliteration>
 </transliterations>
-<marker type="lunar month" meaning="12">季冬</marker>
-<marker type="event" meaning="重修">重修</marker>
-<marker type="event" meaning="second burial">重修</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:36">
 <div id="1" language="English">Reconstruction of the winter moon in the Jiazi year of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="chineseLunar" characters="42" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)陳(公諱&gt;勝官/洪氏&gt;肝娘)七位佳城/(附男屋人官/附孫萬法官)附(男/媳)林&gt;(老英官/魚連娘)曾孫女春英</transcription>
@@ -9412,15 +9179,11 @@
 <normalization>
 <div script="Chinese-traditional">顯祖(考/妣)陳(公諱&gt;勝官/洪氏&gt;肝娘)七位佳城/(附男屋人官/附孫萬法官)附(男/媳)林&gt;(老英官/魚連娘)曾孫女春英</div>
 </normalization>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <marker type="symbol" meaning="fertility">春</marker>
 <marker type="symbol" meaning="buddhism">法</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -9668,12 +9431,6 @@
 <transliteration system="cantonese">hin2 haau2 wong4/wong6 gung1 wai5 wai4/wai6 gun1 jat1 wai2/wai6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo wáng gōng huì wèi guān yī wèi zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考王公&gt;諱為官一位之佳城</div>
 </normalization>
@@ -9682,6 +9439,8 @@
 <div id="1" language="English">Xiankaowanggong&gt;Taboo as a good city for an official</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription role="donor" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">世代子孫立石</transcription>
@@ -9825,18 +9584,15 @@
 <transliteration system="cantonese">wong4/wong6 gaa1/gu1 lik6 doi6 hin2 zou2 haau2 bei2 laat6/lit6 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">wáng jiā lì dài xiǎn zǔ kǎo bǐ liè wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:06">
 <div id="1" language="English">The distinguished ancestors and descendants of the Wang family in the past dynasties are ranked in the best city</div>
 <div id="2" language="English">Ancestors of the Wang family examine the best cities in the past dynasties</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription role="donor" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">世代子孫立石</transcription>
@@ -9950,12 +9706,8 @@
 <transliteration system="cantonese">hin2 zou2 haau2 wong4/wong6 gung1 jyu6 gun1 jat1 wai2/wai6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo wáng gōng yù guān yī wèi</transliteration>
 </transliterations>
+<marker type="honorific" meaning="male">顕</marker>
 <marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="honorific">顕</marker>
 </text>
 </texts>
 </sem>
@@ -10071,12 +9823,6 @@
 <transliteration system="cantonese">hin2 zou2 haau2 wong4/wong6 gung1 wai5 syu6 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo wáng gōng huì shù guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖考王公&gt;諱樹官一位佳城</div>
 </normalization>
@@ -10085,6 +9831,8 @@
 <div id="1" language="English">Examine the princes by showing their ancestors&gt;Tab Shuguan, a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -10210,21 +9958,18 @@
 <transliteration system="cantonese">gu3 haau2 wong4/wong6 gwan1 wai5 sai3 ban1 jat1 wai2/wai6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo wáng jūn huì shì bīn yī wèi zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">故考王君&gt;諱世濱一位之佳城</div>
 </normalization>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:18">
 <div id="1" language="English">Therefore, I will test the king&gt; The best city in the world</div>
 </trans>
 </translations>
 <marker type="symbol" meaning="confucianism">君</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <loc locId="130" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">太原</loc>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
@@ -10368,12 +10113,6 @@
 <transliteration system="cantonese">hin2 haau2 wong4/wong6 gung1 wai5 tin1 saang1/sang1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo wáng gōng huì tiān shēng guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考王公&gt;諱天生官一位佳城</div>
 </normalization>
@@ -10382,6 +10121,8 @@
 <div id="1" language="English">Xian Kao Prince&gt;Taboo Born Official and a Good City</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -10508,14 +10249,11 @@
 <transliteration system="cantonese">bei2 wong4/wong6 mun4 can4/zan6 si6/zi1 him2 noeng4 zi1 gaai1</transliteration>
 <transliteration system="Hanyu pinyin">bǐ wáng mén chén shì xiǎn niáng zhī jiā</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <normalization>
 <div script="Chinese-traditional">??妣王門陳&gt;氏險娘之佳?</div>
 </normalization>
-<marker type="virilocal">門</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
 <transcription role="donor" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">男 清法 文章 文川 ?? ?? 孫 榮輝 明通 天賀 慶童 慶忠 慶吉 明義 慶文 天福 明春 志祥 衫福 福隆 曾孫 國文 勝文 永聰 永達 勝賢 立</transcription>
@@ -10642,12 +10380,6 @@
 <transliteration system="cantonese">hin2 haau2 wong4/wong6 gung1 wai5 man4/man6 cyun1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo wáng gōng huì wén chuān guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考王公&gt;諱文川官一位佳城</div>
 </normalization>
@@ -10656,6 +10388,8 @@
 <div id="1" language="English">Xiankao Wanggong&gt;Wen Sichuan Official A Good City</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>
@@ -10773,12 +10507,6 @@
 <transliteration system="cantonese">hin2 haau2 wong4/wong6 gung1 wai5 fui1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo wáng gōng huì kuí guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考王公&gt;諱魁官一位佳城</div>
 </normalization>
@@ -10787,6 +10515,8 @@
 <div id="1" language="English">Xiankaowanggong&gt;Taobaoguan a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="t2br2l">
 <transcription role="donor" script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="t2br2l">孝男 天生 登? 孫 祈源 大寶 祈祐 等立石</transcription>
@@ -10921,11 +10651,6 @@
 <transliteration system="cantonese">hin2 bei2 wong4/wong6 mun4 lei5 si6/zi1 cin1 zeoi6 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ wáng mén lǐ shì qiān zhuì niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣王門李&gt;氏千墜娘之佳城</div>
 </normalization>
@@ -10934,7 +10659,9 @@
 <div id="1" language="English">The beautiful city of the Li family of the descendant of the royal family</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <loc script="Chinese-traditional" simplified="no" textColor="gold">太原</loc>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold">
@@ -11066,15 +10793,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 luk6 nin4 ji6 jyut6 co1 baat3 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ liù nián èr yuè chū bā rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="2">二月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:20">
 <div id="1" language="English">Revised on February 8, 1996</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="22" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)王府祖先蔡&gt;氏正娘(王評/陳&gt;氏箱)三位之佳城</transcription>
@@ -11083,15 +10807,12 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 wong4/wong6 fu2 zou2 sin1 coi3 si6/zi1 zeng3/zing1/zing3 noeng4 wong4/wong6 ping4 can4/zan6 si6/zi1 soeng1 saam1/saam3 wai2/wai6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ wáng fǔ zǔ xiān cài shì zhèng niáng wáng píng chén shì xiāng sān wèi zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div script="Chinese-traditional">顯祖(考/妣)王府祖先蔡&gt;氏正娘(王評/陳&gt;氏箱)三位之佳城</div>
 </normalization>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <loc script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">太原</loc>
 <text id="t1" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">
@@ -11234,18 +10955,15 @@
 <transliteration system="cantonese">hin2 bei2 wong4/wong6 mun4 can4/zan6 si6/zi1 guk1 noeng4 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ wáng mén chén shì jú niáng yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">王</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣王門陳&gt;氏菊娘一位佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:52:16" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription role="donor" script="Chinese-traditional" simplified="no">陽世子孫立石</transcription>
@@ -11379,15 +11097,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 saam1/saam3 nin4 gau2 jyut6 co1 ji6 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ sān nián jiǔ yuè chū èr rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="9">九月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:20">
 <div id="1" language="English">Revised on September 2nd, 1993</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)陳家列位祖先佳城</transcription>
@@ -11400,18 +11115,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 can4/zan6 gaa1/gu1 laat6/lit6 wai2/wai6 zou2 sin1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ chén jiā liè wèi zǔ xiān jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:21">
 <div id="1" language="English">Examination of the Ancestors of the Chen Family and the Good City</div>
 <div id="2" language="English">Showing the ancestors of the Chen family, the good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" role="donor" script="Chinese-traditional">
 <transcription>陽上子孫立石</transcription>
@@ -11533,15 +11245,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 ji6 nin4 sap6 jat1 jyut6 sap6 ji6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ èr nián shí yī yuè shí èr xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="11">十一月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:16">
 <div id="1" language="English">Revised on November 12, 1992</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)高府歷代祖先宗祠</transcription>
@@ -11554,17 +11263,14 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 gou1 fu2 lik6 doi6 zou2 sin1 zung1 ci4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ gāo fǔ lì dài zǔ xiān zōng cí</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">高</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:17">
 <div id="1" language="English">Showing ancestors and visiting the ancestral halls of past dynasties in Gaofu</div>
 <div id="2" language="English">Ancestral hall of ancestors of all dynasties in Gaofu, Xianzu</div>
 </trans>
 </translations>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no">
 <transcription calendar="minguo" dateMeaning="repaired" dateReference="2003" era="minguo" role="date" simplified="no">民國九二年十一月十二修</transcription>
@@ -11701,15 +11407,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 sap6 nin4 sap6 jyut6 jaa6/je6/nim6 cat1 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ shí nián shí yuè niàn qī rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="10">十月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:02">
 <div id="1" language="English">Revised on October 27, 1990</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯妣林門李&gt;氏?娘一位佳城</transcription>
@@ -11718,15 +11421,12 @@
 <transliteration system="cantonese">hin2 bei2 lam4 mun4 lei5 si6/zi1 noeng4 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ lín mén lǐ shì niáng yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div script="Chinese-traditional">顯妣林門李&gt;氏?娘一位佳城</div>
 </normalization>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68" numberOfFemale="1">
 <person chineseFamilyName="林" gender="female" personId="1" script="Chinese-traditional" simplified="no">顯妣林門李&gt;氏?娘一位佳城</person>
@@ -11836,15 +11536,12 @@
 <transliteration system="cantonese">man4 gwok3 cat1 sap6 sei3/si3 nin4 ng5 jyut6 ji6 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī shí sì nián wǔ yuè èr rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="5">五月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:05">
 <div id="1" language="English">Revised on May 2, 1974</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖考林公再福官一位??</transcription>
@@ -11856,11 +11553,8 @@
 <transliteration system="cantonese">hin2 zou2 haau2 lam4 gung1 zoi3 fuk1 gun1 jat1 wai2/wai6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo lín gōng zài fú guān yī wèi</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
 <marker type="name" meaning="surname">林</marker>
 <marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68">
 <loc script="mixed" simplified="no">西河</loc>
@@ -11984,12 +11678,6 @@
 <transliteration system="cantonese">hin2 haau2 can4/zan6 gung1 wai5 wo4/wo6 naam4 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo chén gōng huì hé nán guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">陳</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考陳公&gt;諱和南官一位佳城</div>
 </normalization>
@@ -11999,6 +11687,9 @@
 </trans>
 </translations>
 <marker type="symbol" meaning="confucianism">和</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">陳</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc104">
 <person added="no" chineseFamilyName="陳" gender="male" givenName="和南" personId="1" script="Chinese-traditional" simplified="no">顯考陳公&gt;諱和南官一位佳城</person>
@@ -12133,11 +11824,6 @@
 <transliteration system="cantonese">hin2 zou2 bei2 lam4 mun4 can4/zan6 si6/zi1 soeng1 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ lín mén chén shì shuāng niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖妣林門陳&gt;氏双娘之佳城</div>
 </normalization>
@@ -12146,7 +11832,9 @@
 <div id="1" language="English">A beautiful city for the two mothers of Chen&gt;, the descendant of Xianzu Linmen</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68" numberOfFemale="1">
 <person chineseFamilyName="林" gender="female" givenName="双" personId="1" script="Chinese-traditional" simplified="no">顯祖妣林門陳&gt;氏双娘之佳城</person>
@@ -12276,11 +11964,6 @@
 <transliteration system="cantonese">hin2 haau2 lam4 wai5 seoi6 dak1 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo lín huì ruì dé guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考林&gt;諱瑞德官一位佳城</div>
 </normalization>
@@ -12289,6 +11972,8 @@
 <div id="1" language="English">Xian Kaolin&gt;Taruideguan is a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional">
 <transcription role="donor" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">陽世子孫立石</transcription>
@@ -12407,15 +12092,12 @@
 <transliteration system="cantonese">man4 gwok3 baat3 ji6 nin4 ji6 jyut6 jaa6/je6/nim6 saam1/saam3 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó bā èr nián èr yuè niàn sān rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="2">二月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:20">
 <div id="1" language="English">Revised on February 20, 1982</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="7" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故考林漏綿君墓</transcription>
@@ -12427,17 +12109,14 @@
 <transliteration system="cantonese">gu3 haau2 lam4 lau6 min4 gwan1 mou6</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo lín lòu mián jūn mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:20">
 <div id="1" language="English">Therefore, the tomb of Mianjun in Linluo</div>
 </trans>
 </translations>
 <marker type="symbol" meaning="confucianism">君</marker>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68">
 <person added="no" chineseFamilyName="林" gender="male" givenName="漏綿" personId="1" script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="t2br2l">故考林漏綿君墓</person>
@@ -12549,14 +12228,12 @@
 <transliteration system="cantonese">man4 gwok3 baat3 sap6 ji6 nin4 saam1/saam3 jyut6 sap6 sei3/si3 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó bā shí èr nián sān yuè shí sì xiū</transliteration>
 </transliterations>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:13">
 <div id="1" language="English">Revised on March 14, 1982</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯考林公&gt;諱法官一位之佳城</transcription>
@@ -12565,12 +12242,6 @@
 <transliteration system="cantonese">hin2 haau2 lam4 gung1 wai5 faat3 gun1 jat1 wai2/wai6 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo lín gōng huì fǎ guān yī wèi zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考林公&gt;諱法官一位之佳城</div>
 </normalization>
@@ -12580,6 +12251,9 @@
 </trans>
 </translations>
 <marker type="symbol" meaning="buddhism">法</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">林</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68">
 <person chineseFamilyName="林" gender="male" givenName="法" personId="1" script="Chinese-traditional" simplified="no">顯考林公&gt;諱法官一位之佳城</person>
@@ -12800,19 +12474,16 @@
 <transliteration system="cantonese">hin2 zou2 bei2 lam4 mun4 can4/zan6 si6/zi1 kim4 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ lín mén chén shì qián niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顕祖妣林門陳&gt;氏鉗娘之佳城</div>
 </normalization>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:22" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68" numberOfFemale="1">
 <loc script="Chinese-traditional" simplified="no" textColor="stone" writingDirection="stone">西河</loc>
@@ -13063,15 +12734,12 @@
 <transliteration system="cantonese">man4 gwok3 cat1 luk6 nin4 ng5 jyut6 jaa6/je6/nim6 jat1 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī liù nián wǔ yuè niàn yī rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="5">五月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:15">
 <div id="1" language="English">Revised on May 21, 1976</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖考林公&gt;諱漏欎官之佳城</transcription>
@@ -13080,12 +12748,6 @@
 <transliteration system="cantonese">hin2 zou2 haau2 lam4 gung1 wai5 lau6 欎gun1 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo lín gōng huì lòu yù guān zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖考林公&gt;諱漏欎官之佳城</div>
 </normalization>
@@ -13094,6 +12756,9 @@
 <div id="1" language="English">Xianzu Kaolin Gong&gt;Tabu leaked the good city of the official</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">林</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68">
 <person added="no" chineseFamilyName="林" gender="male" givenName="漏欎" personId="1" script="Chinese-traditional" simplified="no">顯祖考林公&gt;諱漏欎官之佳城</person>
@@ -13311,18 +12976,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 lam4 gung1 wai5 tin1 zan3 gun1 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo lín gōng huì tiān zhèn guān zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖考林公&gt;諱天鎮官之佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:07" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">林</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68">
 <loc locId="68" script="Chinese-traditional" simplified="no">西河</loc>
@@ -13424,14 +13086,12 @@
 <transliteration system="cantonese">man4 gwok3 san1 hoi6 nin4 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó xīn hài nián xiū</transliteration>
 </transliterations>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:01">
 <div id="1" language="English">Revised in the year of 1911 of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="chineseLunar" characters="7" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">林家祖先二位墓</transcription>
@@ -13569,15 +13229,12 @@
 <transliteration system="cantonese">man4 gwok3 gei2 zi6 nin4 jeoi6 jyut6 gat1 jat6 cung4/cung5/zung6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jǐ sì nián ruì yuè jí rì zhòng xiū</transliteration>
 </transliterations>
-<marker type="event" meaning="重修">重修</marker>
-<marker type="event" meaning="second burial">重修</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:14">
 <div id="1" language="English">Rebuilt on the auspicious day of the lunar month in the 16th year of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="chineseLunar" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顕祖妣林門?氏?涼娘佳?</transcription>
@@ -13589,13 +13246,10 @@
 <transliteration system="cantonese">hin2 zou2 bei2 lam4 mun4 si6/zi1 loeng4 noeng4 gaai1</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ lín mén shì liáng niáng jiā</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="honorific">顕</marker>
 <marker type="name" meaning="maiden name">?</marker>
-<marker type="virilocal">門</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -13715,12 +13369,6 @@
 <transliteration system="cantonese">hin2 haau2 lam4 gung1 wai5 zaan3 cing4/seng4/sing4 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo lín gōng huì zàn chéng guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯考林公&gt;諱贊成官一位佳城</div>
 </normalization>
@@ -13729,6 +13377,9 @@
 <div id="1" language="English">Xian Kao Lin Gong&gt;Taboo approves of a good city</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="name" meaning="surname">林</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68">
 <person chineseFamilyName="林" gender="male" givenName="贊成" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯考林公&gt;諱贊成官一位佳城</person>
@@ -13858,16 +13509,13 @@
 <transliteration system="cantonese">hin2 zou2 bei2 lam4 mun4 can4/zan6 mui4 noeng4 jat1 wai2/wai6 fan4 jing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ lín mén chén méi niáng yī wèi fén yíng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:54:57">
 <div id="1" language="English">The tomb of Chen Meiniang, the descendant of Xianzu’s descendant Linmen</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -13981,14 +13629,11 @@
 <transliteration system="cantonese">hin2 zou2 bei2 lam4 lei5 si6/zi1 gyun1/san1 noeng4 zi1</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ lín lǐ shì shēn niáng zhī</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <normalization>
 <div script="Chinese-traditional">顕祖妣林李&gt;氏身娘之?</div>
 </normalization>
-<marker type="honorific">顕</marker>
+<marker type="honorific" meaning="female">顕</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -14102,18 +13747,15 @@
 <transliteration system="cantonese">hin2 zou2 bei2 lam4 mun4 hung4 si6/zi1 jin1/jyun1 joeng1 noeng4 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ lín mén hóng shì yuān yāng niáng jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖妣林門洪&gt;氏鴛鴦娘佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:19" />
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68" numberOfFemale="1">
 <person added="no" chineseFamilyName="林" gender="female" givenName="鴛鴦" personId="1" script="Chinese-traditional" simplified="no">顯祖妣林門洪&gt;氏鴛鴦娘佳城</person>
@@ -14220,15 +13862,12 @@
 <transliteration system="cantonese">man4 gwok3 baat3 sap6 luk6 nin4 luk6 jyut6 jaa6/je6/nim6 gau2 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó bā shí liù nián liù yuè niàn jiǔ xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="6">六月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:23">
 <div id="1" language="English">Revised on June 209, 1986</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)洪家祖先五位佳城</transcription>
@@ -14241,18 +13880,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 hung4 gaa1/gu1 zou2 sin1 ng5 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ hóng jiā zǔ xiān wǔ wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:25">
 <div id="1" language="English">The five great cities of Xianzu and Hong family ancestors</div>
 <div id="2" language="English">Xianzu examines the five great cities of Hong family ancestors</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc7479">
 <person gender="(male/female)" personId="(1/2)" script="Chinese-traditional" simplified="no">顯祖(考/妣)洪家祖先五位佳城</person>
@@ -14368,14 +14004,12 @@
 <transliteration system="cantonese">man4 gwok3 jam4 zi2 nin4 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó rén zi nián xiū</transliteration>
 </transliterations>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:04">
 <div id="1" language="English">Revised in the Year of Renzi in the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="chineseLunar" characters="11" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顕祖妣林門洪圓一位坆茔</transcription>
@@ -14387,18 +14021,15 @@
 <transliteration system="cantonese">hin2 zou2 bei2 lam4 mun4 hung4 jyun4 jat1 wai2/wai6 fan4 jing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ lín mén hóng yuán yī wèi méi yíng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="honorific">顕</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:55:04">
 <div id="1" language="English">The 1st descendant of Linmen Hongyuan</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
 <marker type="symbol" meaning="buddhism">圓</marker>
+<marker type="honorific" meaning="virilocal">顕</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 </texts>
 </sem>
@@ -14510,11 +14141,6 @@
 <transliteration system="cantonese">hin2 bei2 lam4 mun4 wong4 si6/zi1 lou5 maan6 noeng4 zi1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ lín mén huáng shì lǎo wàn niáng zhī jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">林</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣林門黃&gt;氏老萬娘之佳城</div>
 </normalization>
@@ -14523,7 +14149,9 @@
 <div id="1" language="English">Xianhe Linmenhuang&gt;The beautiful city of Wanniang</div>
 </trans>
 </translations>
-<marker type="virilocal">門</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <texts locReferenceLength="2" locReferentId="loc68" numberOfFemale="1">
 <person chineseFamilyName="林" gender="female" givenName="老萬" personId="1" script="Chinese-traditional" simplified="no">顯妣林門黃&gt;氏老萬娘之佳城</person>
@@ -14824,19 +14452,16 @@
 <transliteration system="cantonese">hin2 zou2 bei2 hung4 mun4 coi3 si6/zi1 gam1 wing4 noeng4 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ hóng mén cài shì jīn róng niáng jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯祖妣洪門蔡&gt;氏金榮娘佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:29" />
 </translations>
-<marker type="virilocal">門</marker>
 <marker type="symbol" meaning="prosperity">金</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <person chineseFamilyName="洪" chineseGirlsFamilyName="蔡" gender="female" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯妣洪門蔡&gt;氏金榮娘佳城</person>
 <loc script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">燉煌</loc>
@@ -14982,19 +14607,16 @@
 <transliteration system="cantonese">hin2 bei2 lei5 mun4 hung4 si6/zi1 ngan2/ngan4 noeng4 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn bǐ lǐ mén hóng shì yín niáng yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">李</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">顯妣李門洪&gt;氏銀娘一位佳城</div>
 </normalization>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:24" />
 </translations>
-<marker type="virilocal">門</marker>
 <marker type="symbol" meaning="prosperity">銀</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <person chineseFamilyName="李" gender="female" givenName="銀" personId="1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">顯妣李門洪&gt;氏銀娘一位佳城</person>
 <loc locId="42" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">隴西</loc>
@@ -15135,14 +14757,11 @@
 <transliteration system="cantonese">hin2 zou2 bei2 hung4 mun4 lei5 si6/zi1 sau3</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ bǐ hóng mén lǐ shì xiù</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
 <normalization>
 <div script="Chinese-traditional">顯祖妣洪門李&gt;氏秀?+</div>
 </normalization>
-<marker type="virilocal">門</marker>
+<marker type="marriage" meaning="virilocal">門</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">
 <transcription role="donor" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">男 春金 孫 居財 石(城/川) 曾孫?+</transcription>
@@ -15260,21 +14879,18 @@
 <transliteration system="cantonese">gu3 haau2 hung4 gwan1 wai5 geoi1 hing1/hing3 gun1 jat1 wai2/wai6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo hóng jūn huì jū xìng guān yī wèi jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">洪</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <normalization>
 <div id="1" script="Chinese-traditional">故考洪君&gt;諱居興官一位佳城</div>
 </normalization>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:36">
 <div id="1" language="English">Therefore, Kao Hongjun&gt;Taboo resides in Xingguan, a good city</div>
 </trans>
 </translations>
 <marker type="symbol" meaning="confucianism">君</marker>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">
 <transcription dateMeaning="death" dateReference="1993" era="minguo" personId="1" role="date" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">民國八二年十月廿四日逝</transcription>
@@ -15408,15 +15024,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 gau2 nin4 sei3/si3 jyut6 co1 sap6 jat6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ jiǔ nián sì yuè chū shí rì xiū</transliteration>
 </transliterations>
-<marker type="solar month" meaning="4">四月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:31">
 <div id="1" language="English">Revised on April 10, 1999</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)洪家等位祖先佳城</transcription>
@@ -15429,16 +15042,15 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 hung4 gaa1/gu1 dang2 wai2/wai6 zou2 sin1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ hóng jiā děng wèi zǔ xiān jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-05 04:51:32">
 <div id="1" language="English">The great city of the descendants of the Hong family and other ancestors</div>
 <div id="2" language="English">Xianzu Kao Hong family and other ancestors Jiacheng</div>
 </trans>
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <text id="t2" calendar="republican" characters="12" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖(考/妣)洪家等位祖先佳城</transcription>
@@ -15450,12 +15062,9 @@
 <transliteration system="cantonese">hin2 zou2 haau2 bei2 hung4 gaa1/gu1 dang2 wai2/wai6 zou2 sin1 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo bǐ hóng jiā děng wèi zǔ xiān jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">洪</marker>
+<marker type="name" meaning="object name">佳城</marker>
 <marker type="gender" meaning="female">妣</marker>
 <marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 </text>
 <loc locId="7479" script="Chinese-traditional" simplified="no" textColor="gold" writingDirection="t2br2l">燉煌</loc>
 <text id="t1" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">

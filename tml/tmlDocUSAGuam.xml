@@ -6340,7 +6340,7 @@
 <address language="English">9QPF+GGH, Windward Hills, Guam</address>
 <latitude src="percol-up">13.386412</latitude>
 <longitude src="percol-up">120.099230</longitude>
-<island REF="GuamUSA"></island>
+<island REF="GuamUSA" />
 </geography>
 <events>
 <event type="fieldwork" day="2012-11-01" lunar="2012-09-18" timefrom="16:50:25" timeto="22:38:15" />
@@ -104182,7 +104182,9 @@
 <latitude src="percol-up">13.386556</latitude>
 </geography>
 <media>
-<img date="2013-02-27" latitude="13.386556" time="18-41-25" url="/2013/02/27/DATE20130227TIME184125GEOBOOLyesLONGE144773381LATN13386556DIR296ALT3SIZE12392THUMB8350ORIGDSC05644.jpg" />
+<img date="2013-02-27" latitude="13.386556" time="18-41-25" url="/2013/02/27/DATE20130227TIME184125GEOBOOLyesLONGE144773381LATN13386556DIR296ALT3SIZE12392THUMB8350ORIGDSC05644.jpg">
+<objects />
+</img>
 </media>
 <sem figurative="yes" writing="inscribed">
 <fig />

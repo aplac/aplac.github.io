@@ -2543,8 +2543,26 @@
 </island>
 </geography>
 <media>
-<img date="2020-07-02" flash="no" latitude="23.592898" longitude="119.617493" measurement="no" public="yes" time="09:41:14" url="/2020/07/02/DATE20200702TIME094114GEOBOOLyesLONGE119617493LATN23592898DIRnoALTnoSIZE30704THUMB16685ORIGOliverDSC04187.jpg" zoom="no" />
-<img date="2020-07-02" flash="no" latitude="23.592898" longitude="119.617493" measurement="no" public="yes" time="09:41:09" url="/2020/07/02/DATE20200702TIME094109GEOBOOLyesLONGE119617493LATN23592898DIRnoALTnoSIZE30704THUMB18037ORIGOliverDSC04186.jpg" zoom="no" />
+<img date="2020-07-02" flash="no" latitude="23.592898" longitude="119.617493" measurement="no" public="yes" time="09:41:14" url="/2020/07/02/DATE20200702TIME094114GEOBOOLyesLONGE119617493LATN23592898DIRnoALTnoSIZE30704THUMB16685ORIGOliverDSC04187.jpg" zoom="no">
+<objects>
+<object engine="Google Vision API" name="Painting" score="0.7240009903907776">
+<vertex x="0.044677734375" y="0.158203125" />
+<vertex x="0.96875" y="0.158203125" />
+<vertex x="0.96875" y="0.796875" />
+<vertex x="0.044677734375" y="0.796875" />
+</object>
+</objects>
+</img>
+<img date="2020-07-02" flash="no" latitude="23.592898" longitude="119.617493" measurement="no" public="yes" time="09:41:09" url="/2020/07/02/DATE20200702TIME094109GEOBOOLyesLONGE119617493LATN23592898DIRnoALTnoSIZE30704THUMB18037ORIGOliverDSC04186.jpg" zoom="no">
+<objects>
+<object engine="Google Vision API" name="Painting" score="0.6600913405418396">
+<vertex x="0.053466796875" y="0.20703125" />
+<vertex x="0.94921875" y="0.20703125" />
+<vertex x="0.94921875" y="0.828125" />
+<vertex x="0.053466796875" y="0.828125" />
+</object>
+</objects>
+</img>
 </media>
 <sem figurative="yes" writing="uninscribed" />
 </ent>

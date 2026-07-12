@@ -1653,9 +1653,6 @@
 <transliteration system="cantonese">jam4 san1 nin4 gaa1 jyut6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">rén shēn nián jiā yuè xiū</transliteration>
 </transliterations>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="lunar month" meaning="11">葭月</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 15:03:06">
 <div id="1" language="English">Jiayue Xiu, Renshen Year</div>
@@ -1672,14 +1669,11 @@
 <transliteration system="cantonese">hin2 haau2 lau4 cung4 hung4 gaai1 jing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo liú sōng xióng jiā yíng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">劉</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 15:03:07" />
 </translations>
 <marker type="symbol" meaning="longevity">松</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2">
 <person chineseFamilyName="劉" gender="male" givenName="松雄" personId="1" simplified="no" writingDirection="t2br2l">顯考劉松雄佳塋</person>
@@ -2444,10 +2438,6 @@
 <transliteration system="cantonese">man4 gwok3 cat1 ji6 jam4 seot1 nin4 nat6/neot6 jyut6 cung4/cung5/zung6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó qī èr rén xū nián nà yuè zhòng xiū</transliteration>
 </transliterations>
-<marker type="event" meaning="重修">重修</marker>
-<marker type="event" meaning="second burial">重修</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 15:02:58">
 <div id="1" language="English">It was rebuilt in the month of Renxu in the 72nd year of the Republic of China.</div>
@@ -2466,18 +2456,14 @@
 <transliteration system="cantonese">zou2 haau2 bei2 lau4 gung1 cyun3/gwaan3 gun1 can4/zan6 bat1/fau2 cin4/zin6 gaai1 jing4</transliteration>
 <transliteration system="Hanyu pinyin">zǔ kǎo bǐ liú gōng chuàn guān chén bù chán jiā yíng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">劉</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 15:02:59">
 <div id="1" language="English">Ancestral descendant Liu Chen Bu Tang Jia Tomb</div>
 <div id="2" language="English">Ancestor’s Examination of Liu Gong’s Official Tomb</div>
 </trans>
 </translations>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2">
 <person added="no" chineseFamilyName="劉" chineseGirlsFamilyName="劉" gender="(male/female)" personId="(1/2)" simplified="no" textColor="stone" writingDirection="t2br2l">祖(考/妣)劉(公串官/陳不纏)佳塋</person>
@@ -3372,10 +3358,6 @@
 <transliteration system="cantonese">man4 gwok3 baat3 sap6 ng5 nin4 bing2 zi2 tung4 jyut6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó bā shí wǔ nián bǐng zi tóng yuè xiū</transliteration>
 </transliterations>
-<marker type="lunar month" meaning="3">桐月</marker>
-<marker type="event" meaning="修">修</marker>
-<marker type="event" meaning="second burial">修</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 15:03:09">
 <div id="1" language="English">Bingzi Tongyue Xiu, 1985</div>
@@ -3390,15 +3372,11 @@
 <transliteration system="cantonese">zou2 haau2 lau4 gung1 wai5 ceoi4 bei2 lau4 san1 si6/zi1 cau1 jing4</transliteration>
 <transliteration system="Hanyu pinyin">zǔ kǎo liú gōng huì chuí bǐ liú xīn shì qiū yíng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">劉</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <normalization>
 <div ucd="CJK">祖(考劉公諱槌/妣劉辛氏秋)塋</div>
 </normalization>
+<marker type="gender" meaning="female">妣</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2">
 <person gender="(male/female)" personId="1" simplified="no" textColor="stone" writingDirection="t2br2l">祖(考劉公&gt;諱槌/妣劉辛&gt;氏秋)塋</person>
@@ -4006,9 +3984,6 @@
 <transliteration system="cantonese">gwai3 hoi6 lai6 jyut6 cung4/cung5/zung6 sau1</transliteration>
 <transliteration system="Hanyu pinyin">guǐ hài lì yuè zhòng xiū</transliteration>
 </transliterations>
-<marker type="event" meaning="重修">重修</marker>
-<marker type="event" meaning="second burial">重修</marker>
-<marker type="event" meaning="修">修</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 15:03:02">
 <div id="1" language="English">Guihai Liyue Reconstruction</div>
@@ -4025,14 +4000,11 @@
 <transliteration system="cantonese">haau2 lau4 ming4 fo3 gun1 gaai1 jing4</transliteration>
 <transliteration system="Hanyu pinyin">kǎo liú míng kè guān jiā yíng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">劉</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 15:03:04" />
 </translations>
 <marker type="symbol" meaning="buddhism">明</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="2">
 <person chineseFamilyName="劉" gender="male" personId="1" simplified="no" textColor="stone" writingDirection="t2br2l">考劉明課官佳塋</person>
@@ -4405,12 +4377,12 @@
 <transliteration system="cantonese">man4 gwok3 gau2 sap6 baat3 nin4 seoi3 ci3 gei2 cau2 laap6/lap6</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ shí bā nián suì cì jǐ chǒu lì</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 15:03:11">
 <div id="1" language="English">In the 1998 year of the Republic of China, Ji Chou was established.</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" characters="11" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯祖考廖公虎那一脉佳城</transcription>
@@ -4422,15 +4394,11 @@
 <transliteration system="cantonese">hin2 zou2 haau2 liu6 gung1 fu2 aa6/naa5/naa6/no1/no4/no5 jat1 mak6 gaai1 seng4/sing4</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn zǔ kǎo liào gōng hǔ nà yī mài jiā chéng</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">廖</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="name" meaning="object name">佳城</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 15:03:13" />
 </translations>
+<marker type="name" meaning="object name">佳城</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 </texts>
 </sem>

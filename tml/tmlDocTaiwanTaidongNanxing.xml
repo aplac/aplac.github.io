@@ -163,13 +163,13 @@
 <transliteration system="cantonese">man4 gwok3 sap6 jat1 cat1 sap6 jat1 nin4 baat3 gau2 jyut6 gau2 jaa6/je6/nim6 saam1/saam3 jat6 saang1/sang1 mut6</transliteration>
 <transliteration system="Hanyu pinyin">mínguó shí yī qī shí yī nián bā jiǔ yuè jiǔ niàn sān rì shēng mò</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:49">
 <div id="1" language="English">Born on August 9, 11th year of the Republic of China</div>
 <div id="2" language="English">Died on September 20, 1971.</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" characters="7" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故考麥啓民之墓</transcription>
@@ -181,18 +181,13 @@
 <transliteration system="cantonese">gu3 haau2 maak6/mak6 kai2 man4 zi1 mou6</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo mài qǐ mín zhī mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">麥</marker>
-<marker type="name" meaning="object name">墓</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:52">
 <div id="1" language="English">The Tomb of Kaomai Qimin</div>
 </trans>
 </translations>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="4" photo="yes">
 <persons>
@@ -1704,13 +1699,13 @@
 <transliteration system="cantonese">man4 gwok3 ng5 sei3/si3 cat1 cat1 nin4 sap6 cat1 jyut6 sap6 gau2 ji6 cat1 jat6 saang1/sang1 cyut3/zeot1</transliteration>
 <transliteration system="Hanyu pinyin">mínguó wǔ sì qī qī nián shí qī yuè shí jiǔ èr qī rì shēng zú</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:21">
 <div id="1" language="English">Born on October 19, 1954</div>
 <div id="2" language="English">Died on July 27, 1977</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t2" characters="6" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故杜金玉之墓</transcription>
@@ -3233,13 +3228,13 @@
 <transliteration system="cantonese">man4 gwok3 ji6 sap6 baat3 sap6 jat1 nin4 gau2 sei3/si3 jyut6 sei3/si3 jat6 saang1/sang1 mong4/mou4</transliteration>
 <transliteration system="Hanyu pinyin">mínguó èr shí bā shí yī nián jiǔ sì yuè sì rì shēng wáng</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:08">
 <div id="1" language="English">Born on September 20th, 20th year of the Republic of China</div>
 <div id="2" language="English">Died on April 4, 1981</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t2" role="religion" script="Latin" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">✝</transcription>
@@ -3525,13 +3520,13 @@
 <transliteration system="cantonese">saang1/sang1 cyut3/zeot1 jyu1/wu1 man4 gwok3 sap6 ji6 baat3 sap6 nin4 cat1 ng5 jyut6 baat3 saam1/saam3 jat6</transliteration>
 <transliteration system="Hanyu pinyin">shēng zú yú mín guó shí èr bā shí nián qī wǔ yuè bā sān rì</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:53">
 <div id="1" language="English">Born on July 8, 12th year of the Republic of China</div>
 <div id="2" language="English">Died on May 3, 1980</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" characters="8" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故榮民雷兆從之墓</transcription>
@@ -3719,7 +3714,7 @@
 <transliteration system="cantonese">mong4/mou4 jyu1/wu1 man4 gwok3 60nin4 saang1/sang1 jyu1/wu1 man4 gwok3 56nin4</transliteration>
 <transliteration system="Hanyu pinyin">wáng yú mín guó 60nián shēng yú mín guó 56nián</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t2" characters="6" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故駱建男之墓</transcription>
@@ -6013,13 +6008,13 @@
 <transliteration system="cantonese">man4 gwok3 gau2 cat1 baat3 nin4 sap6 ji6 sap6 jat1 jyut6 luk6 jat1 jat6 saang1/sang1 sai6</transliteration>
 <transliteration system="Hanyu pinyin">mínguó jiǔ qī bā nián shí èr shí yī yuè liù yī rì shēng shì</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:16">
 <div id="1" language="English">Born on December 6, 9th year of the Republic of China</div>
 <div id="2" language="English">Died on November 1, 1978</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" characters="11" role="person" script="Chinese-traditional" side="f" textColor="gold" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故信徒張英妹女士安息處</transcription>
@@ -10024,12 +10019,12 @@
 <transliteration system="cantonese">man4 gwok3 jaa6/je6/nim6 gau2 cat1 ng5 nin4 saam1/saam3 sap6 ji6 jyut6 jat1 jaa6/je6/nim6 sei3/si3 jat6 saang1/sang1 sai6</transliteration>
 <transliteration system="Hanyu pinyin" />
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:40">
 <div id="1" language="English">Born on March 1, 29th year of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" characters="7" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">顯考周進生之墓</transcription>
@@ -10041,17 +10036,12 @@
 <transliteration system="cantonese">hin2 haau2 zau1 zeon3 saang1/sang1 zi1 mou6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo zhōu jìn shēng zhī mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">周</marker>
-<marker type="name" meaning="object name">墓</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:42">
 <div id="1" language="English">The tomb of Xian Kao Zhou Jinsheng</div>
 </trans>
 </translations>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts photo="yes">
 <text id="t1" role="religion" script="Chinese-traditional" simplified="no" writingDirection="t2br2l">
@@ -10826,13 +10816,13 @@
 <transliteration system="cantonese">man4 gwok3 saam1/saam3 jaa6/je6/nim6 ji6 nin4 sap6 baat3 jyut6 ng5 gau2 jat6 saang1/sang1 mong4/mou4 laap6/lap6</transliteration>
 <transliteration system="Hanyu pinyin">mínguó sān niàn èr nián shí bā yuè wǔ jiǔ rì shēng wáng lì</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:12">
 <div id="1" language="English">Founded on August 9, 22nd year of the Republic of China</div>
 <div id="2" language="English">Born on October 5, the third year of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t2" characters="7" role="person" script="Chinese-traditional" side="f" textColor="red" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故妣鄭玉音之墓</transcription>
@@ -10844,18 +10834,13 @@
 <transliteration system="cantonese">gu3 bei2 zeng6/zing6 juk6 jam1 zi1 mou6</transliteration>
 <transliteration system="Hanyu pinyin">gù bǐ zhèng yù yīn zhī mù</transliteration>
 </transliterations>
-<marker type="name" meaning="surname">鄭</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="name" meaning="object name">墓</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="gender" meaning="female">妣</marker>
-<marker type="role" meaning="deceased">妣</marker>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:15">
 <div id="1" language="English">The tomb of the late concubine Zheng Yuyin</div>
 </trans>
 </translations>
+<marker type="honorific" meaning="female">故</marker>
+<marker type="gender" meaning="female">妣</marker>
 </text>
 <texts numberOfFemale="1">
 <persons>
@@ -11966,13 +11951,13 @@
 <transliteration system="cantonese">man4 gwok3 sap6 luk6 baat3 sap6 jat1 nin4 luk6 sei3/si3 jyut6 jat1 sap6 cat1 jat6 saang1/sang1 mut6</transliteration>
 <transliteration system="Hanyu pinyin">mínguó shí liù bā shí yī nián liù sì yuè yī shí qī rì shēng mò</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:34">
 <div id="1" language="English">Died on April 17, 1981</div>
 <div id="2" language="English">Born on June 1, 16th year of the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" characters="6" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故戴甫賢之墓</transcription>
@@ -13085,12 +13070,12 @@
 <transliteration system="cantonese">man4 gwok3 sap6 saam1/saam3 cat1 sap6 sei3/si3 nin4 luk6 ng5 jyut6 sap6 saam1/saam3 ji6 sap6 sei3/si3 jat6 ceot1 saang1/sang1 cyut3/zeot1 mong4/mou4</transliteration>
 <transliteration system="Hanyu pinyin">mínguó shí sān qī shí sì nián liù wǔ yuè shí sān èr shí sì rì chū shēng zú wáng</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:31">
 <div id="1" language="English">Died on May 214, 1974</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" characters="7" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故考王雲程之墓</transcription>
@@ -13102,18 +13087,13 @@
 <transliteration system="cantonese">gu3 haau2 wong4/wong6 wan4 cing4 zi1 mou6</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo wáng yún chéng zhī mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">王</marker>
-<marker type="name" meaning="object name">墓</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:32">
 <div id="1" language="English">Therefore, the tomb of King Yuncheng was examined</div>
 </trans>
 </translations>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="4" photo="yes">
 <persons>
@@ -13951,13 +13931,13 @@
 <transliteration system="cantonese">man4 gwok3 jaa6/je6/nim6 baat3 baat3 luk6 nin4 sei3/si3 sap6 jat1 jyut6 gau2 sap6 gau2 jat6 saang1/sang1 mong4/mou4</transliteration>
 <transliteration system="Hanyu pinyin">mínguó niàn bā bā liù nián sì shí yī yuè jiǔ shí jiǔ rì shēng wáng</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:37">
 <div id="1" language="English">Died on November 19, 1986</div>
 <div id="2" language="English">Born on April 9, 208, the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t2" role="religion" script="Latin" side="f" textColor="red" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">✝</transcription>
@@ -17406,8 +17386,6 @@
 <transliteration system="cantonese">man4 gwok3 ng5 cat1 nin4 luk6 jyut6 beng6/bing6 gu3</transliteration>
 <transliteration system="Hanyu pinyin">mínguó wǔ qī nián liù yuè bìng gù</transliteration>
 </transliterations>
-<marker type="solar month" meaning="6">六月</marker>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:26">
 <div id="1" language="English">Died of illness in June of the 57th year of the Republic of China</div>
@@ -17425,17 +17403,12 @@
 <transliteration system="cantonese">hin2 haau2 jau1 juk6 ceng1/cing1 zi1 mou6</transliteration>
 <transliteration system="Hanyu pinyin">xiǎn kǎo qiū yù qīng zhī mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="name" meaning="surname">邱</marker>
-<marker type="name" meaning="object name">墓</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:27">
 <div id="1" language="English">Xian Kao Qiu Yuqing’s Tomb</div>
 </trans>
 </translations>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="4" photo="yes">
 <persons>
@@ -18590,13 +18563,13 @@
 <transliteration system="cantonese">man4 gwok3 jaa6/je6/nim6 luk6 gau2 sei3/si3 nin4 sap6 sei3/si3 jyut6 saa1 jat1 sap6 ng5 jat6 saang1/sang1 mong4/mou4</transliteration>
 <transliteration system="Hanyu pinyin">mínguó niàn liù jiǔ sì nián shí sì yuè sà yī shí wǔ rì shēng wáng</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:47">
 <div id="1" language="English">Born on October 301, 26th year of the Republic of China</div>
 <div id="2" language="English">Died on April 15, 1994</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t2" role="religion" script="Latin" side="f" textColor="red" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">✝</transcription>
@@ -18747,13 +18720,13 @@
 <transliteration system="cantonese">man4 gwok3 sap6 sei3/si3 cat1 jat1 nin4 jat1 baat3 jyut6 jaa6/je6/nim6 ng5 cat1 jat6 saang1/sang1 mong4/mou4</transliteration>
 <transliteration system="Hanyu pinyin">mínguó shí sì qī yī nián yī bā yuè niàn wǔ qī rì shēng wáng</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:44">
 <div id="1" language="English">Born on January 25, 14th year of the Republic of China</div>
 <div id="2" language="English">Died on August 7, 1971, the Republic of China</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" role="religion" script="Latin" side="f" textColor="red" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">✝</transcription>
@@ -18775,19 +18748,14 @@
 <transliteration system="cantonese">gu3 haau2 zoeng1/zoeng3 gung1 ting4 coeng4/zoeng2 mou6</transliteration>
 <transliteration system="Hanyu pinyin">gù kǎo zhāng gōng tíng zhǎng mù</transliteration>
 </transliterations>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">公</marker>
-<marker type="name" meaning="surname">張</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="gender" meaning="male">考</marker>
-<marker type="role" meaning="deceased">考</marker>
-<marker type="honorific">故</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:46">
 <div id="1" language="English">Therefore, an examination of Zhang Gongting’s tomb</div>
 </trans>
 </translations>
 <marker type="symbol" meaning="longevity">長</marker>
+<marker type="honorific" meaning="male">故</marker>
+<marker type="gender" meaning="male">考</marker>
 </text>
 <texts locReferenceLength="4" photo="yes">
 <persons>
@@ -19676,13 +19644,13 @@
 <transliteration system="cantonese">man4 gwok3 sap6 ng5 baat3 sap6 ji6 nin4 luk6 baat3 jyut6 sap6 ng5 gau2 jat6 saang1/sang1 mong4/mou4 jyu1/wu1 daam3/sek6</transliteration>
 <transliteration system="Hanyu pinyin">mínguó shí wǔ bā shí èr nián liù bā yuè shí wǔ jiǔ rì shēng wáng yú shí</transliteration>
 </transliterations>
-<marker type="era" meaning="Republican">中華民國</marker>
 <translations>
 <trans api="deep_translator" engine="GoogleTranslate" transDate="2026-06-04 10:50:00">
 <div id="1" language="English">Born in Shi on June 15, 15th year of the Republic of China</div>
 <div id="2" language="English">Died in stone on August 9, 1982</div>
 </trans>
 </translations>
+<marker type="era" meaning="Republican">民國</marker>
 </text>
 <text id="t3" characters="7" role="person" script="Chinese-traditional" side="f" topicFocus="focus" writingDirection="t2br2l">
 <transcription completed="yes">故劉公正江之墓</transcription>

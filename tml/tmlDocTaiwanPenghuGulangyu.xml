@@ -44,40 +44,6 @@
 </practices>
 </culturaldomain>
 <sem figurative="no" writing="uninscribed" />
-<ent id="s113892">
-<types>
-<type language="English">coastline</type>
-</types>
-<communities>
-<community>
-<name language="English">Magong</name>
-</community>
-</communities>
-<names>
-<name language="English">Gulangyu Coastline</name>
-</names>
-<geography geotop="s113807" siteid="s113807">
-<latitude src="percol-down">23.217523</latitude>
-<archipelago>
-<names>
-<name script="Latin">Penghu Islands</name>
-<name script="Latin">Pescadores Islands</name>
-<name script="Chinese-traditional">澎湖群島</name>
-</names>
-</archipelago>
-<longitude src="percol-down">119.5414785</longitude>
-<island>
-<names>
-<name language="English">Gulangyu</name>
-</names>
-</island>
-</geography>
-<description>
-<div author="Oliver Streiter" language="English">Gulangyu Coastline</div>
-</description>
-<admins />
-<sem figurative="no" writing="uninscribed" />
-</ent>
 <ent id="s113954">
 <types>
 <type language="English">water body</type>
@@ -108,6 +74,40 @@
 </geography>
 <description>
 <div author="Oliver Streiter" language="English">Gulangyu Coastal Waters</div>
+</description>
+<admins />
+<sem figurative="no" writing="uninscribed" />
+</ent>
+<ent id="s113892">
+<types>
+<type language="English">coastline</type>
+</types>
+<communities>
+<community>
+<name language="English">Magong</name>
+</community>
+</communities>
+<names>
+<name language="English">Gulangyu Coastline</name>
+</names>
+<geography geotop="s113807" siteid="s113807">
+<latitude src="percol-down">23.217523</latitude>
+<archipelago>
+<names>
+<name script="Latin">Penghu Islands</name>
+<name script="Latin">Pescadores Islands</name>
+<name script="Chinese-traditional">澎湖群島</name>
+</names>
+</archipelago>
+<longitude src="percol-down">119.5414785</longitude>
+<island>
+<names>
+<name language="English">Gulangyu</name>
+</names>
+</island>
+</geography>
+<description>
+<div author="Oliver Streiter" language="English">Gulangyu Coastline</div>
 </description>
 <admins />
 <sem figurative="no" writing="uninscribed" />
